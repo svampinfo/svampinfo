@@ -1,0 +1,65 @@
+{{ $path := .Get "path" }}
+{{ $page := site.GetPage $path }}
+
+{{ if $page }}
+<div class="species-card-wrapper">
+  <article class="species-card">
+    <a href="{{ $page.Permalink }}" class="link color-inherit">
+      {{ if $page.Params.image }}
+      <img
+        src="{{ $page.Params.image }}"
+        alt="{{ $page.Title }}"
+        class="species-card-image"
+      />
+      {{ else }}
+      <div
+        class="species-card-image bg-light-gray flex items-center justify-center"
+      >
+        <span class="f3 gray">🍄</span>
+      </div>
+      {{ end }}
+
+      <div class="species-card-body">
+        <h2 class="species-card-title">{{ $page.Title }}</h2>
+        <p class="species-card-scientific">{{ $page.Params.scientificName }}</p>
+
+        {{ if $page.Params.rating }}
+        <div class="star-rating" style="margin-bottom: 0.5rem">
+          {{ range seq $page.Params.rating }}
+          <span class="star filled">★</span>
+          {{ end }} 
+          {{ $emptyStars := sub 5 $page.Params.rating }} 
+          {{ range seq $emptyStars }}
+          <span class="star empty">☆</span>
+          {{ end }}
+          <span class="rating-text">({{ $page.Params.rating }}/5)</span>
+        </div>
+        {{ end }}
+
+        {{ if $page.Params.summary }}
+        <p class="species-card-summary">
+          {{ $page.Params.summary | truncate 150 }}
+        </p>
+        {{ end }}
+
+        <div class="species-badges">
+          {{ if eq $page.Params.edible true }}
+          <span class="badge badge-edible">
+            <img src="/icons/food-mushroom.svg" alt="" />
+            Matsvamp
+          </span>
+          {{ end }} 
+          {{ if eq $page.Params.poisonous true }}
+          <span class="badge badge-poisonous">
+            <img src="/icons/skull-and-crossbones.svg" alt="" />
+            Giftig
+          </span>
+          {{ end }}
+        </div>
+      </div>
+    </a>
+  </article>
+</div>
+{{ else }}
+  <p style="color: red;">Error: Page not found at path: {{ $path }}</p>
+{{ end }}

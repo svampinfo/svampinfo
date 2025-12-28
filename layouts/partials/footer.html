@@ -1,0 +1,215 @@
+<style>
+  .footer {
+    padding: 20px 10px;
+    background-color: var(--footer-bg, transparent);
+  }
+
+  .footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    text-align: center;
+  }
+
+  .copyright-text {
+    font-weight: bold;
+    font-size: 1.1em;
+  }
+
+  .footer-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    font-size: 0.9em;
+    line-height: 1.5;
+  }
+
+  /* Länkar i footern */
+  .footer-link {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+    opacity: 0.8;
+    transition: opacity 0.2s;
+  }
+  .footer-link:hover {
+    opacity: 1;
+  }
+
+  /* Ikon-hantering */
+  .footer-icon-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none !important;
+    border: none !important;
+    opacity: 0.8;
+    transition:
+      transform 0.2s,
+      opacity 0.2s;
+  }
+  .footer-icon-link:hover {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+
+  /* Badge-raden (licens-bilderna) */
+  .license-badges {
+    display: flex;
+    gap: 15px;
+    margin-top: 5px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Tvinga storlek på SVG:erna så de inte blir enorma */
+  .license-img {
+    height: 32px; /* Lagom höjd för badges */
+    width: auto;
+    display: block;
+  }
+
+  .github-icon {
+    width: 20px;
+    height: 20px;
+  }
+
+  /* Separatorn "|" */
+  .footer-separator {
+    display: inline-block;
+    opacity: 0.5;
+  }
+
+  /* MOBIL: Stapla länkar, dölj separator */
+  @media screen and (max-width: 768px) {
+    .footer-links {
+      flex-direction: column;
+      gap: 8px;
+    }
+    .footer-separator {
+      display: none;
+    }
+  }
+</style>
+
+<footer class="footer">
+  <div class="footer-container">
+    <div class="copyright-text">
+      &copy; {{ now.Format "2006" }} {{ .Site.Title }}
+    </div>
+
+    <div class="footer-links">
+      <a
+        href="https://github.com/svampinfo/svampinfo"
+        target="_blank"
+        rel="noopener noreferrer"
+        title="Se källkoden på GitHub"
+        class="footer-icon-link"
+      >
+        <img src="/icons/github.svg" alt="GitHub" class="github-icon" />
+        <span style="margin-left: 8px; font-weight: 600">GitHub</span>
+      </a>
+
+      <span class="footer-separator">|</span>
+
+      <span>
+        Innehåll:
+        <a
+          class="footer-link"
+          href="https://creativecommons.org/licenses/by-sa/4.0/deed.sv"
+          target="_blank"
+          rel="noopener"
+          >CC BY-SA 4.0</a
+        >
+      </span>
+
+      <span class="footer-separator">|</span>
+
+      <span>
+        Kod:
+        <a
+          class="footer-link"
+          href="https://www.gnu.org/licenses/agpl-3.0.html"
+          target="_blank"
+          rel="noopener"
+          >AGPLv3</a
+        >
+      </span>
+    </div>
+
+    <div class="license-badges">
+      <a
+        href="https://creativecommons.org/licenses/by-sa/4.0/deed.sv"
+        target="_blank"
+        rel="noopener"
+        class="footer-icon-link"
+        title="Licens för text & bild"
+      >
+        <img src="/icons/cc-by-sa.svg" alt="CC BY-SA 4.0" class="license-img" />
+      </a>
+
+      <a
+        href="https://www.gnu.org/licenses/agpl-3.0.html"
+        target="_blank"
+        rel="noopener"
+        class="footer-icon-link"
+        title="Licens för källkod"
+      >
+        <img src="/icons/agplv3-logo.svg" alt="AGPL v3" class="license-img" />
+      </a>
+    </div>
+  </div>
+</footer>
+
+{{- partial "extend_footer.html" . }}
+
+<script>
+  let menu = document.getElementById("menu");
+  if (menu) {
+    menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+    menu.onscroll = function () {
+      localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+    };
+  }
+
+  document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
+    anchor.addEventListener("click", function (e) {
+      e.preventDefault();
+      var id = this.getAttribute("href").substr(1);
+      if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+        document
+          .querySelector(`[id='${decodeURIComponent(id)}']`)
+          .scrollIntoView({
+            behavior: "smooth",
+          });
+      } else {
+        document
+          .querySelector(`[id='${decodeURIComponent(id)}']`)
+          .scrollIntoView();
+      }
+      if (id === "top") {
+        history.replaceState(null, null, " ");
+      } else {
+        history.pushState(null, null, `#${id}`);
+      }
+    });
+  });
+</script>
+
+{{- if (not site.Params.disableThemeToggle) }}
+<script>
+  document.getElementById("theme-toggle").addEventListener("click", () => {
+    if (document.body.className.includes("dark")) {
+      document.body.classList.remove("dark");
+      localStorage.setItem("pref-theme", "light");
+    } else {
+      document.body.classList.add("dark");
+      localStorage.setItem("pref-theme", "dark");
+    }
+  });
+</script>
+{{- end }}

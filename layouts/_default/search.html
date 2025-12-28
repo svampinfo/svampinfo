@@ -1,0 +1,123 @@
+{{ define "header" }} {{ partial "page-header.html" . }} {{ end }} {{ define
+"main" }}
+<article class="pa3 pa4-ns">
+  <section class="cf ph3 ph5-l pv3 pv4-l tc center">
+    <h1 class="species-main-title athelas mt0 mb3">{{ .Title }}</h1>
+    <p class="f4 lh-copy mid-gray measure-wide center mb4">
+      Hitta information om över 150 svenska svamparter. Sök på namn,
+      vetenskapligt namn eller egenskaper.
+    </p>
+
+    <div class="search-container">
+      <input
+        type="text"
+        id="search-input"
+        placeholder="Sök efter svamp (t.ex. kantarell, Karljohan)..."
+        class="search-input"
+      />
+      <svg
+        class="search-icon"
+        xmlns="http://www.w3.org/2000/svg"
+        width="20"
+        height="20"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      >
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+    </div>
+
+    <div id="search-results" class="species-grid" style="text-align: left">
+      <!-- Results will be injected here -->
+    </div>
+
+    <div id="no-results" class="tc f4 gray mt4" style="display: none">
+      Inga svampar hittades. Försök med ett annat sökord.
+    </div>
+  </section>
+</article>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", async function () {
+    const searchInput = document.getElementById("search-input");
+    const searchResults = document.getElementById("search-results");
+    const noResults = document.getElementById("no-results");
+
+    let fuse;
+
+    try {
+      const response = await fetch("/index.json");
+      const data = await response.json();
+
+      const options = {
+        keys: ["title", "summary", "content", "scientificName"],
+        threshold: 0.3, // 0.0 is perfect match, 1.0 is anything matches
+        minMatchCharLength: 2,
+        ignoreLocation: true,
+      };
+
+      fuse = new Fuse(data, options);
+
+      // Check for URL query param
+      const urlParams = new URLSearchParams(window.location.search);
+      const query = urlParams.get("q");
+      if (query) {
+        searchInput.value = query;
+        performSearch(query);
+      }
+    } catch (error) {
+      console.error("Error loading search index:", error);
+    }
+
+    searchInput.addEventListener("input", (e) => {
+      performSearch(e.target.value);
+    });
+
+    function performSearch(query) {
+      if (!query || query.trim().length === 0) {
+        searchResults.innerHTML = "";
+        noResults.style.display = "none";
+        return;
+      }
+
+      const results = fuse.search(query);
+
+      if (results.length === 0) {
+        searchResults.innerHTML = "";
+        noResults.style.display = "block";
+      } else {
+        noResults.style.display = "none";
+        searchResults.innerHTML = results
+          .map((result) => {
+            const item = result.item;
+            const imageHtml = item.image
+              ? `<img src="${item.image}" alt="${item.title}" class="species-card-image">`
+              : `<div class="species-card-image bg-light-gray flex items-center justify-center"><span class="f3 gray">🍄</span></div>`;
+
+            return `
+                <article class="species-card">
+                    <a href="${item.permalink}" class="link color-inherit">
+                        ${imageHtml}
+                        <div class="species-card-body">
+                            <h2 class="species-card-title">${item.title}</h2>
+                            ${item.scientificName ? `<p class="species-card-scientific">${item.scientificName}</p>` : ""}
+                            ${item.summary ? `<p class="species-card-summary">${item.summary.substring(0, 150)}${item.summary.length > 150 ? "..." : ""}</p>` : ""}
+                        </div>
+                    </a>
+                </article>
+                `;
+          })
+          .join("");
+      }
+    }
+  });
+</script>
+{{ end }}

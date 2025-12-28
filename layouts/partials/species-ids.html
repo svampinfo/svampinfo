@@ -1,0 +1,80 @@
+<div
+  class="external-ids-container"
+  style="
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+  "
+>
+  {{/* Artfakta Link */}} {{ if .Params.artfakta }}
+  <a
+    href="https://artfakta.se/taxa/{{ .Params.artfakta }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="external-id-link"
+    title="Artfakta: {{ .Params.artfakta }}"
+    style="display: inline-flex; align-items: center; text-decoration: none"
+  >
+    <img
+      src="/icons/artfakta.svg"
+      alt="Artfakta"
+      class="external-id-icon"
+      style="height: 1.3em; width: 1.3em; margin-right: 0.1em"
+    />
+    <span>Artfakta</span>
+  </a>
+  {{ end }} {{/* Wikidata / Wikipedia Links */}} {{ if .Params.wikidata }}
+
+  <a
+    href="https://www.wikidata.org/wiki/{{ .Params.wikidata }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="external-id-link"
+    title="Wikidata: {{ .Params.wikidata }}"
+    style="display: inline-flex; align-items: center; text-decoration: none"
+  >
+    <img
+      src="/icons/wikidata.svg"
+      alt="Wikidata"
+      class="external-id-icon"
+      style="height: 1.3em; width: 1.3em; margin-right: 0.1em"
+    />
+    <span>Wikidata</span>
+  </a>
+  <a
+    href="https://www.wikidata.org/wiki/Special:GoToLinkedPage/svwiki/{{ .Params.wikidata }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="external-id-link"
+    title="Wikipedia: {{ .Params.wikidata }}"
+    style="display: inline-flex; align-items: center; text-decoration: none"
+  >
+    <img
+      src="/icons/wikipedia.svg"
+      alt="Wikidata"
+      class="external-id-icon"
+      style="height: 1.3em; width: 1.3em; margin-right: 0.1em"
+    />
+    <span>Wikipedia</span>
+  </a>
+
+  <a
+    href="https://www.wikidata.org/wiki/Special:GoToLinkedPage/enwiki/{{ .Params.wikidata }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="external-id-link"
+    title="Wikipedia (Engelska): {{ .Params.wikidata }}"
+    style="display: inline-flex; align-items: center; text-decoration: none"
+  >
+    <img
+      src="/icons/wikipedia.svg"
+      alt="Wikidata"
+      class="external-id-icon"
+      style="height: 1.3em; width: 1.3em; margin-right: 0.1em"
+    />
+    <span>Wikipedia (Eng)</span>
+  </a>
+  {{ end }}
+</div>

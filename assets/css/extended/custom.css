@@ -1,0 +1,766 @@
+/* Custom styling for Svampinfo */
+
+:root {
+  --green-dark: #587570;
+  --green-light: #bed9a1;
+  --red: #eb7a64;
+  --yellow: #ffa473;
+  --blue: #89b5be;
+
+  /* Light mode defaults */
+  --card-bg: #fff;
+  --text-main: #333;
+  --text-muted: #666;
+  --text-light: #555;
+  --border-color: #ddd;
+  --bg-secondary: #f9f9f9;
+  --bg-tertiary: #f5f5f5; /* carousel bg, etc */
+  --filter-btn-bg: #fff;
+  --filter-btn-text: var(--green-dark);
+  --input-bg: #fff;
+  --input-border: #e0e0e0;
+  --shadow-color: rgba(0, 0, 0, 0.15);
+  --link-color: var(--green-dark);
+  --blockquote-bg: #f9f9f9;
+}
+
+body.dark {
+  --green-dark: #8ba8a3; /* Lighter for dark mode contrast */
+
+  --card-bg: var(--entry);
+  --text-main: var(--primary);
+  --text-muted: var(--secondary);
+  --text-light: var(--content);
+  --border-color: var(--border);
+  --bg-secondary: rgba(255, 255, 255, 0.05);
+  --bg-tertiary: var(--entry);
+  --filter-btn-bg: var(--entry);
+  --filter-btn-text: var(--green-dark);
+  --input-bg: var(--entry);
+  --input-border: var(--border);
+  --shadow-color: rgba(0, 0, 0, 0.5);
+  --link-color: var(--green-dark);
+  --blockquote-bg: rgba(255, 255, 255, 0.05);
+}
+
+/* Ensure the logo link doesn't cover the switch */
+.logo a {
+  z-index: 10;
+  position: relative;
+}
+
+/* Fix theme toggle clickability */
+#theme-toggle {
+  cursor: pointer;
+  pointer-events: auto;
+  position: relative;
+  z-index: 20; /* Higher than logo */
+}
+
+/* Species cards */
+.species-card {
+  transition:
+    transform 0.2s ease-in-out,
+    box-shadow 0.2s ease-in-out;
+  border-radius: 0;
+  overflow: hidden;
+  border: 1px solid var(--border-color) !important;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--card-bg);
+}
+
+.species-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px var(--shadow-color);
+}
+
+.species-card a {
+  text-decoration: none !important;
+  color: inherit !important;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.species-grid-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+@media (min-width: 600px) {
+  .species-grid-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.species-card-wrapper {
+  max-width: 100%; /* Allow it to fill the grid cell */
+  margin: 0; /* Remove margin as grid handles gap */
+}
+
+.species-card img.species-card-image {
+  width: 100% !important;
+  height: 200px !important;
+  object-fit: cover !important;
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+}
+
+.species-card-body {
+  padding: 0.75rem 1rem 1rem 1rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  border: none !important;
+}
+
+.species-card .species-card-title {
+  font-size: 1.25rem !important;
+  font-weight: 600 !important;
+  margin: 0 0 0.25rem 0 !important;
+  padding: 0 !important;
+  color: var(--text-main) !important;
+  line-height: 1.2 !important;
+  border: none !important;
+}
+
+.species-card .species-card-scientific {
+  font-style: italic !important;
+  color: var(--text-muted) !important;
+  font-size: 0.95rem !important;
+  margin: 0 0 0.75rem 0 !important;
+  padding: 0 !important;
+  line-height: 1.2 !important;
+}
+
+.species-card .species-card-summary {
+  font-size: 0.9rem !important;
+  line-height: 1.5 !important;
+  color: var(--text-light) !important;
+  flex: 1;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.species-badges {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.badge {
+  padding: 0 0.5rem;
+  border-radius: 0;
+  font-size: 0.85rem;
+  font-weight: 500;
+  display: inline-flex !important;
+  align-items: center;
+  line-height: 1.5; /* Give some air to text but controlled */
+  height: 1.6rem; /* Explicit height to keep it tight */
+}
+
+.badge img {
+  height: 1rem !important;
+  width: 1rem !important;
+  margin-right: 0.4rem !important;
+  padding: 0 !important;
+  display: block !important;
+}
+
+.badge-edible {
+  background-color: #5cb85c;
+  color: white;
+}
+
+.badge-poisonous {
+  background-color: #d9534f;
+  color: white;
+}
+
+/* Filter buttons */
+.filter-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.filter-btn {
+  padding: 0.75rem 1.5rem;
+  border: 2px solid var(--green-dark);
+  background-color: var(--filter-btn-bg);
+  color: var(--filter-btn-text);
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.filter-btn:hover {
+  background-color: var(--green-light);
+  border-color: var(--green-light);
+  color: #333; /* Always dark text on light green hover */
+}
+
+.filter-btn.active {
+  background-color: var(--green-dark);
+  color: white;
+}
+
+.control-label {
+  margin-right: 0.5rem;
+  color: var(--text-main);
+  font-weight: 700;
+  width: 100%;
+  margin-bottom: 0.4rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: 1;
+}
+
+@media (min-width: 600px) {
+  .control-label {
+    width: auto;
+    margin-bottom: 0;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .filter-buttons {
+    gap: 0.5rem;
+  }
+  .filter-btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    flex: 1 1 auto;
+    min-width: 120px;
+    text-align: center;
+  }
+}
+
+/* Single species page */
+.species-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.species-main-title,
+.page-header h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem 0;
+  color: var(--green-dark);
+  text-align: center;
+}
+
+.post-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem 0;
+  color: var(--green-dark);
+}
+
+.species-scientific-name,
+.post-description {
+  font-size: 1.5rem;
+  font-style: italic;
+  color: var(--text-muted);
+  margin: 0 0 1.5rem 0;
+  text-align: center;
+}
+
+.species-images {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.species-images img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border: 1px solid var(--border-color);
+}
+
+/* Content sections */
+.content-section,
+.post-content {
+  margin: 2rem auto;
+}
+
+.content-section h1 {
+  color: var(--green-dark);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.post-content h1 {
+  color: var(--green-dark);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.content-section h2 {
+  color: var(--green-dark);
+  border-bottom: 2px solid var(--green-light);
+  padding-bottom: 0.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.post-content h2 {
+  color: var(--green-dark);
+  border-bottom: 2px solid var(--green-light);
+  padding-bottom: 0.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.content-section h3 {
+  color: var(--green-dark);
+  border-bottom: 2px solid var(--green-light);
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.post-content h3 {
+  color: var(--green-dark);
+  border-bottom: 2px solid var(--green-light);
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.content-section blockquote,
+.post-content blockquote {
+  border-left: 4px solid var(--green-light);
+  padding-left: 1.5rem;
+  margin: 1.5rem auto;
+  font-style: italic;
+  color: var(--text-light);
+  background-color: var(--blockquote-bg);
+  padding: 1rem 1.5rem;
+}
+
+.content-section ul,
+.post-content ul {
+  margin-left: 1rem;
+  list-style-position: inside;
+  color: var(--text-main);
+}
+.content-section p,
+.post-content p {
+  color: var(--text-main);
+}
+
+/* List layout */
+.species-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .species-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .species-main-title {
+    font-size: 2rem;
+  }
+
+  .species-scientific-name {
+    font-size: 1.25rem;
+  }
+}
+
+/* Override colors */
+.bg-green {
+  background-color: var(--green-dark);
+}
+
+.green {
+  color: var(--green-dark);
+}
+
+a {
+  color: var(--link-color);
+}
+
+a:hover {
+  color: var(--green-light);
+}
+
+.entry-header h2 {
+  color: var(--green-dark);
+}
+
+.entry-header h2:hover {
+  color: var(--green-light);
+}
+
+/* Star rating styles */
+.star-rating {
+  display: flex;
+  align-items: center;
+  gap: 0.15rem;
+}
+
+.star-rating-large {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+}
+
+.star {
+  font-size: 1.1rem;
+}
+
+.star-rating-large .star {
+  font-size: 1.8rem;
+}
+
+.star.filled {
+  color: #ffc107;
+}
+
+.star.empty {
+  color: var(--border-color);
+}
+
+.rating-text {
+  margin-left: 0.5rem;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.star-rating-large .rating-text {
+  font-size: 1.1rem;
+}
+
+figure {
+  margin: 0;
+}
+
+.image-credit {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  text-align: center;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+.image-credit a {
+  color: var(--text-muted);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.image-credit a:hover {
+  color: var(--text-main);
+  border-bottom-color: var(--text-main);
+}
+
+.gap2 {
+  gap: 0.5rem;
+}
+
+/* External IDs styling */
+.external-ids-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.external-id-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.external-id-link:hover {
+  color: var(--text-main);
+  background-color: var(--bg-tertiary);
+  border-color: var(--border-color);
+}
+
+.external-id-icon {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  display: block; /* Ensure it behaves well in flex */
+}
+
+/* Main species image centering */
+.species-figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem auto;
+  width: 100%;
+}
+
+.species-main-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Search Box Styling */
+.search-container {
+  position: relative;
+  max-width: 600px;
+  margin: 3rem auto 2rem;
+}
+
+.search-input {
+  width: 100%;
+  padding: 1rem 1rem 1rem 3rem; /* Left padding for icon */
+  font-size: 1.1rem;
+  border: 2px solid var(--input-border);
+  border-radius: 50px;
+  background-color: var(--input-bg);
+  color: var(--text-main);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  box-shadow: 0 2px 5px var(--shadow-color);
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--green-dark);
+  box-shadow: 0 4px 12px rgba(88, 117, 112, 0.15);
+}
+
+.search-icon {
+  position: absolute;
+  left: 1.2rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #999;
+  pointer-events: none;
+  transition: color 0.3s ease;
+}
+
+.search-input:focus + .search-icon {
+  color: var(--green-dark);
+}
+
+.search-input::placeholder {
+  color: #aaa;
+}
+
+/* Filtering logic */
+html[data-svamp-filter="edible"] .species-card[data-edible="false"] {
+  display: none;
+}
+
+html[data-svamp-filter="poisonous"] .species-card[data-poisonous="false"] {
+  display: none;
+}
+
+/* Carousel Styling */
+.carousel-container {
+  position: relative;
+  max-width: 100%;
+  margin: 2rem auto;
+  overflow: hidden;
+  border-radius: 8px;
+  background: var(--bg-tertiary);
+  box-shadow: 0 2px 10px var(--shadow-color);
+}
+
+.carousel-slides {
+  display: flex;
+  transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  height: 500px; /* Fixed height for consistency */
+}
+
+.carousel-slide {
+  min-width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background: var(--bg-tertiary);
+}
+
+.carousel-slide img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.8);
+  color: #333;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  z-index: 10;
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  font-size: 1.2rem;
+  line-height: 1;
+}
+
+.carousel-btn:hover {
+  background: white;
+  transform: translateY(-50%) scale(1.1);
+}
+
+.carousel-btn:active {
+  transform: translateY(-50%) scale(0.95);
+}
+
+.carousel-prev {
+  left: 15px;
+}
+
+.carousel-next {
+  right: 15px;
+}
+
+.carousel-dots {
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 8px;
+  z-index: 10;
+  padding: 6px 10px;
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.carousel-dot {
+  width: 8px;
+  height: 8px;
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: none;
+  padding: 0;
+}
+
+.carousel-dot.active {
+  background: white;
+  transform: scale(1.2);
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));
+  color: white;
+  padding: 1rem 1rem 2.5rem;
+  font-size: 0.9rem;
+  text-align: center;
+  pointer-events: none; /* Let clicks pass through */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+@media (hover: hover) {
+  .carousel-container:hover .carousel-caption {
+    opacity: 1;
+  }
+}
+
+.carousel-container.show-caption .carousel-caption {
+  opacity: 1;
+}
+
+.carousel-caption a {
+  color: #bed9a1;
+  text-decoration: none;
+  pointer-events: auto;
+  border-bottom: 1px dotted #bed9a1;
+}
+
+/* Hide caption on small screens if needed, or adjust padding */
+@media (max-width: 600px) {
+  .carousel-slides {
+    height: 350px;
+  }
+  .carousel-btn {
+    width: 36px;
+    height: 36px;
+  }
+}
+
+/* Legacy/Utility class mappings for dark mode support */
+.mid-gray {
+  color: var(--text-light) !important;
+}
+.gray {
+  color: var(--text-muted) !important;
+}
+.bg-light-gray {
+  background-color: var(--bg-tertiary) !important;
+}
+.near-black {
+  color: var(--text-main) !important;
+}
+.bg-near-black {
+  background-color: var(--card-bg) !important;
+}
+
+/* Invert icons in dark mode */
+body.dark .github-icon,
+body.dark .logo a img,
+body.dark img[src*="wikipedia.svg"] {
+  filter: invert(1) brightness(0.8);
+}

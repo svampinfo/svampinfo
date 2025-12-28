@@ -1,0 +1,180 @@
+{{ define "header" }} {{ partial "page-header.html" . }} {{ end }} {{ define
+"main" }}
+<article class="cf ph3 ph5-l pv3 pv4-l">
+  <header class="species-header">
+    <h1 class="species-main-title athelas">{{ .Title }}</h1>
+    <h2 class="species-scientific-name">{{ .Params.scientificName }}</h2>
+
+    {{ if .Params.rating }}
+    <div class="star-rating-large" style="margin: 1rem 0">
+      {{ range seq .Params.rating }}
+      <span class="star filled">★</span>
+      {{ end }} {{ $emptyStars := sub 5 .Params.rating }} {{ range seq
+      $emptyStars }}
+      <span class="star empty">☆</span>
+      {{ end }}
+      <span class="rating-text">({{ .Params.rating }}/5)</span>
+    </div>
+    {{ end }}
+
+    <div
+      class="species-badges"
+      style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap"
+    >
+      {{ if eq .Params.edible true }}
+      <span class="badge badge-edible">
+        <img src="/icons/food-mushroom.svg" alt="" />
+        Matsvamp
+      </span>
+      {{ end }} {{ if eq .Params.poisonous true }}
+      <span class="badge badge-poisonous">
+        <img src="/icons/skull-and-crossbones.svg" alt="" />
+        Giftig
+      </span>
+      {{ end }}
+    </div>
+
+    {{/* External IDs */}} {{ partial "species-ids.html" . }}
+  </header>
+
+  {{/* Construct Image List */}} {{ $slides := slice }} {{ if .Params.gallery }}
+  {{ range .Params.gallery }} {{ $slides = $slides | append (dict "url" .url
+  "credit" .credit) }} {{ end }} {{ else if .Params.images }} {{ range
+  .Params.images }} {{ $slides = $slides | append (dict "url" . "credit" "") }}
+  {{ end }} {{ else if .Params.image }} {{ $slides = $slides | append (dict
+  "url" .Params.image "credit" "") }} {{ end }} {{/* Carousel Implementation
+  */}} {{ if gt (len $slides) 0 }}
+  <div class="carousel-container" id="speciesCarousel">
+    <div class="carousel-slides">
+      {{ range $index, $slide := $slides }}
+      <div class="carousel-slide">
+        <img
+          src="{{ $slide.url }}"
+          alt="{{ $.Title }}"
+          loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}"
+        />
+        {{ if $slide.credit }}
+        <div class="carousel-caption">
+          Foto: {{ $slide.credit | markdownify }}
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+
+    {{ if gt (len $slides) 1 }}
+    <button class="carousel-btn carousel-prev" aria-label="Previous Slide">
+      ❮
+    </button>
+    <button class="carousel-btn carousel-next" aria-label="Next Slide">
+      ❯
+    </button>
+
+    <div class="carousel-dots">
+      {{ range $index, $slide := $slides }}
+      <button
+        class="carousel-dot {{ if eq $index 0 }}active{{ end }}"
+        data-index="{{ $index }}"
+        aria-label="Go to slide {{ add $index 1 }}"
+      ></button>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  <div
+    class="nested-copy-line-height lh-copy f4 mid-gray measure-wide center content-section"
+  >
+    {{ .Content }}
+  </div>
+</article>
+
+
+
+{{ if gt (len $slides) 1 }}
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const carousel = document.getElementById("speciesCarousel");
+    if (!carousel) return;
+
+    const slidesContainer = carousel.querySelector(".carousel-slides");
+    const slides = carousel.querySelectorAll(".carousel-slide");
+    const prevBtn = carousel.querySelector(".carousel-prev");
+    const nextBtn = carousel.querySelector(".carousel-next");
+    const dots = carousel.querySelectorAll(".carousel-dot");
+
+    let currentIndex = 0;
+    const totalSlides = slides.length;
+
+    function updateCarousel() {
+      slidesContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
+
+      // Update dots
+      dots.forEach((dot, index) => {
+        if (index === currentIndex) {
+          dot.classList.add("active");
+        } else {
+          dot.classList.remove("active");
+        }
+      });
+    }
+
+    function nextSlide() {
+      currentIndex = (currentIndex + 1) % totalSlides;
+      updateCarousel();
+    }
+
+    function prevSlide() {
+      currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+      updateCarousel();
+    }
+
+    nextBtn.addEventListener("click", nextSlide);
+    prevBtn.addEventListener("click", prevSlide);
+
+    dots.forEach((dot) => {
+      dot.addEventListener("click", () => {
+        currentIndex = parseInt(dot.getAttribute("data-index"));
+        updateCarousel();
+      });
+    });
+
+    // Optional: Swipe support for touch devices
+    let touchStartX = 0;
+    let touchEndX = 0;
+
+    carousel.addEventListener("touchstart", (e) => {
+      touchStartX = e.changedTouches[0].screenX;
+    });
+
+    carousel.addEventListener("touchend", (e) => {
+      touchEndX = e.changedTouches[0].screenX;
+      handleSwipe();
+    });
+
+    function handleSwipe() {
+      if (touchEndX < touchStartX - 50) {
+        nextSlide();
+      }
+      if (touchEndX > touchStartX + 50) {
+        prevSlide();
+      }
+    }
+
+    // Toggle caption on click/tap
+    carousel.addEventListener("click", function (e) {
+      // Ignore clicks on controls
+      if (
+        e.target.closest(".carousel-btn") ||
+        e.target.closest(".carousel-dot")
+      )
+        return;
+      // Ignore clicks on links within caption
+      if (e.target.closest("a")) return;
+
+      carousel.classList.toggle("show-caption");
+    });
+  });
+</script>
+{{ end }} {{ end }}

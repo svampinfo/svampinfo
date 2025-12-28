@@ -1,0 +1,46 @@
+baseURL = 'https://svampinfo.se/'
+languageCode = 'sv-se'
+title = 'Svampinfo'
+theme = 'PaperMod'
+
+[params]
+  description = 'Din guide till Sveriges svampar - mer än 150 arter med bilder och beskrivningar'
+  author = 'Svampinfo'
+  [params.assets]
+    favicon = '/icons/favico.svg'
+  
+  [params.label]
+    text = "Svampinfo"
+    icon = "/icons/favico.svg"
+    iconHeight = 30
+
+  background_color_class = 'bg-near-black'
+  featured_image = ''
+  custom_css = ['css/custom.css']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[menu]
+  [[menu.main]]
+    name = 'Hem'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'Alla Svampar'
+    url = '/svampar/'
+    weight = 2
+  [[menu.main]]
+    name = 'ADBVO'
+    url = '/allt-du-behöver-veta-om/'
+    weight = 3
+  [[menu.main]]
+    name = 'Sök'
+    url = '/search/'
+    weight = 4

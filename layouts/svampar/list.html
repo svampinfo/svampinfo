@@ -1,0 +1,198 @@
+{{ define "header" }} {{ partial "page-header.html" . }} {{ end }} {{ define
+"main" }}
+<script>
+  // Instant filter application to prevent blinking
+  (function () {
+    try {
+      var savedFilter = sessionStorage.getItem("svampar_filter");
+      if (savedFilter && savedFilter !== "all") {
+        document.documentElement.setAttribute("data-svamp-filter", savedFilter);
+      }
+    } catch (e) {}
+  })();
+</script>
+
+<article class="pa3 pa4-ns">
+  <section class="cf ph3 ph5-l pv3 pv4-l tc center">
+    <h1 class="f1 fw1 athelas mt0 mb3">{{ .Title }}</h1>
+    <div class="f4 lh-copy mid-gray measure-wide center">{{ .Content }}</div>
+  </section>
+
+  <section class="ph3 ph5-l">
+    {{ $edibleCount := 0 }} {{ $poisonousCount := 0 }} {{ range .Pages }} {{ if
+    eq .Params.edible true }} {{ $edibleCount = add $edibleCount 1 }} {{ end }}
+    {{ if eq .Params.poisonous true }} {{ $poisonousCount = add $poisonousCount
+    1 }} {{ end }} {{ end }}
+
+    <div
+      class="filter-buttons"
+      style="text-align: center; margin-top: 3rem; margin-bottom: 2rem; align-items: center;"
+    >
+      <span class="control-label">Filtrera:</span>
+      <button class="filter-btn active" data-filter="all">
+        Alla ({{ len .Pages }})
+      </button>
+      <button class="filter-btn" data-filter="edible">
+        Matsvampar ({{ $edibleCount }})
+      </button>
+      <button class="filter-btn" data-filter="poisonous">
+        Giftsvampar ({{ $poisonousCount }})
+      </button>
+    </div>
+
+    <div
+      class="filter-buttons"
+      style="text-align: center; margin-bottom: 2rem; align-items: center;"
+    >
+      <span class="control-label">Sortera:</span>
+      <button class="filter-btn active" data-sort="name">
+        Svenskt namn
+      </button>
+      <button class="filter-btn" data-sort="scientific">
+        Vetenskapligt namn
+      </button>
+    </div>
+
+    <div class="species-grid">
+      {{ range .Pages.ByTitle }}
+      <article
+        class="species-card"
+        data-edible="{{ .Params.edible }}"
+        data-poisonous="{{ .Params.poisonous }}"
+        data-name="{{ .Title }}"
+        data-scientific="{{ .Params.scientificName }}"
+      >
+        <a href="{{ .Permalink }}" class="link color-inherit">
+          {{ if .Params.image }}
+          <img
+            src="{{ .Params.image }}"
+            alt="{{ .Title }}"
+            class="species-card-image"
+          />
+          {{ else }}
+          <div
+            class="species-card-image bg-light-gray flex items-center justify-center"
+          >
+            <span class="f3 gray">🍄</span>
+          </div>
+          {{ end }}
+
+          <div class="species-card-body">
+            <h2 class="species-card-title">{{ .Title }}</h2>
+            <p class="species-card-scientific">{{ .Params.scientificName }}</p>
+
+            {{ if .Params.rating }}
+            <div class="star-rating" style="margin-bottom: 0.5rem">
+              {{ range seq .Params.rating }}
+              <span class="star filled">★</span>
+              {{ end }} {{ $emptyStars := sub 5 .Params.rating }} {{ range seq
+              $emptyStars }}
+              <span class="star empty">☆</span>
+              {{ end }}
+              <span class="rating-text">({{ .Params.rating }}/5)</span>
+            </div>
+            {{ end }} {{ if .Params.summary }}
+            <p class="species-card-summary">
+              {{ .Params.summary | truncate 150 }}
+            </p>
+            {{ end }}
+
+            <div class="species-badges">
+              {{ if eq .Params.edible true }}
+              <span class="badge badge-edible">
+                <img src="/icons/food-mushroom.svg" alt="" />
+                Matsvamp
+              </span>
+              {{ end }} {{ if eq .Params.poisonous true }}
+              <span class="badge badge-poisonous">
+                <img src="/icons/skull-and-crossbones.svg" alt="" />
+                Giftig
+              </span>
+              {{ end }}
+            </div>
+          </div>
+        </a>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+</article>
+
+
+
+<script>
+  (function () {
+    // Filter Logic
+    const filterButtons = document.querySelectorAll(".filter-btn[data-filter]");
+    const STORAGE_KEY_FILTER = "svampar_filter";
+
+    function applyFilter(filter) {
+      if (filter === "all") {
+        document.documentElement.removeAttribute("data-svamp-filter");
+      } else {
+        document.documentElement.setAttribute("data-svamp-filter", filter);
+      }
+
+      filterButtons.forEach((btn) => {
+        if (btn.dataset.filter === filter) {
+          btn.classList.add("active");
+        } else {
+          btn.classList.remove("active");
+        }
+      });
+    }
+
+    const savedFilter = sessionStorage.getItem(STORAGE_KEY_FILTER) || "all";
+    applyFilter(savedFilter);
+
+    filterButtons.forEach((button) => {
+      button.addEventListener("click", function () {
+        const filter = this.dataset.filter;
+        sessionStorage.setItem(STORAGE_KEY_FILTER, filter);
+        applyFilter(filter);
+      });
+    });
+
+    // Sort Logic
+    const sortButtons = document.querySelectorAll(".filter-btn[data-sort]");
+    const grid = document.querySelector(".species-grid");
+    const STORAGE_KEY_SORT = "svampar_sort";
+
+    function applySort(sortType) {
+      const cards = Array.from(grid.children);
+
+      cards.sort((a, b) => {
+        const valA = (a.dataset[sortType] || "").toLowerCase();
+        const valB = (b.dataset[sortType] || "").toLowerCase();
+        return valA.localeCompare(valB, "sv");
+      });
+
+      // Append back in new order
+      cards.forEach((card) => grid.appendChild(card));
+
+      // Update buttons
+      sortButtons.forEach((btn) => {
+        if (btn.dataset.sort === sortType) {
+          btn.classList.add("active");
+        } else {
+          btn.classList.remove("active");
+        }
+      });
+    }
+
+    const savedSort = localStorage.getItem(STORAGE_KEY_SORT) || "name";
+    // If not default "name", apply the sort. 
+    // "name" is default order from Hugo, but we apply anyway to set active button state correct
+    applySort(savedSort);
+
+    sortButtons.forEach((button) => {
+      button.addEventListener("click", function () {
+        const sortType = this.dataset.sort;
+        localStorage.setItem(STORAGE_KEY_SORT, sortType);
+        applySort(sortType);
+      });
+    });
+  })();
+</script>
+{{ end }}
+
