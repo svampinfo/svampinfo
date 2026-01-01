@@ -98,9 +98,50 @@
         searchResults.innerHTML = results
           .map((result) => {
             const item = result.item;
-            const imageHtml = item.image
-              ? `<img src="${item.image}" alt="${item.title}" class="species-card-image">`
+            let imageUrl = "";
+            if (item.image) {
+                if (item.image.imageset && item.image.imageset.length > 0) {
+                    imageUrl = item.image.imageset[0].url;
+                } else if (typeof item.image === "string") {
+                    imageUrl = item.image;
+                }
+            }
+
+            const imageHtml = imageUrl
+              ? `<img src="${imageUrl}" alt="${item.title}" class="species-card-image">`
               : `<div class="species-card-image bg-light-gray flex items-center justify-center"><span class="f3 gray">🍄</span></div>`;
+
+            // Stars
+            let starsHtml = "";
+            if (item.rating) {
+                starsHtml += '<div class="star-rating" style="margin-bottom: 0.5rem">';
+                for (let i = 0; i < item.rating; i++) {
+                    starsHtml += '<span class="star filled">★</span>';
+                }
+                for (let i = 0; i < (5 - item.rating); i++) {
+                    starsHtml += '<span class="star empty">☆</span>';
+                }
+                starsHtml += `<span class="rating-text">(${item.rating}/5)</span>`;
+                starsHtml += '</div>';
+            }
+
+            // Badges
+            let badgesHtml = '<div class="species-badges">';
+            if (item.edible) {
+                badgesHtml += `
+              <span class="badge badge-edible">
+                <img src="/icons/food-mushroom.svg" alt="" />
+                Matsvamp
+              </span>`;
+            }
+            if (item.poisonous) {
+                badgesHtml += `
+              <span class="badge badge-poisonous">
+                <img src="/icons/skull-and-crossbones.svg" alt="" />
+                Giftig
+              </span>`;
+            }
+            badgesHtml += '</div>';
 
             return `
                 <article class="species-card">
@@ -109,7 +150,9 @@
                         <div class="species-card-body">
                             <h2 class="species-card-title">${item.title}</h2>
                             ${item.scientificName ? `<p class="species-card-scientific">${item.scientificName}</p>` : ""}
+                            ${starsHtml}
                             ${item.summary ? `<p class="species-card-summary">${item.summary.substring(0, 150)}${item.summary.length > 150 ? "..." : ""}</p>` : ""}
+                            ${badgesHtml}
                         </div>
                     </a>
                 </article>

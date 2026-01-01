@@ -1,15 +1,51 @@
 {{- $.Scratch.Set "index" slice -}}
 {{- range .Site.RegularPages -}}
     {{- if and (ne .Type "search") (ne .Params.hidden true) -}}
-        {{- $img := .Params.image -}}
-        {{- if $img -}}
-            {{- $res := resources.Get (strings.TrimPrefix "/" $img) -}}
-            {{- if $res -}}
-                {{- $resized := $res.Resize "400x webp Lanczos" -}}
-                {{- $img = $resized.RelPermalink -}}
+        {{- $srcImage := .Params.image -}}
+        {{- $imgCredit := "" -}}
+        {{- $galleryOut := slice -}}
+        
+        {{- /* 1. Process Gallery */ -}}
+        {{- if .Params.gallery -}}
+            {{- range .Params.gallery -}}
+                {{- $galleryImgSet := slice -}}
+                {{- $res := resources.Get (strings.TrimPrefix "/" .url) -}}
+                {{- $origUrl := .url -}}
+                {{- if $res -}}
+                    {{- $origUrl = $res.RelPermalink -}}
+                    {{- range slice "400" "800" "1200" "1600" -}}
+                         {{- $resized := $res.Resize (printf "%sx webp Lanczos" .) -}}
+                         {{- $galleryImgSet = $galleryImgSet | append (dict "resolution" (printf "%dx%d" $resized.Width $resized.Height) "url" $resized.RelPermalink) -}}
+                    {{- end -}}
+                {{- end -}}
+                {{- $galleryImgSet = $galleryImgSet | append (dict "resolution" "original" "url" $origUrl) -}}
+                {{- $galleryOut = $galleryOut | append (dict "credit" .credit "imageset" $galleryImgSet) -}}
+                
+                {{- /* Check for main image credit match */ -}}
+                {{- if eq .url $srcImage -}}
+                    {{- $imgCredit = .credit -}}
+                {{- end -}}
             {{- end -}}
         {{- end -}}
-    {{- $.Scratch.Add "index" (dict "title" .Title "permalink" .Permalink "summary" .Summary "content" .Plain "image" $img "scientificName" .Params.scientificName) -}}
+
+        {{- /* 2. Process Main Image */ -}}
+        {{- $mainImgSet := slice -}}
+        {{- if $srcImage -}}
+            {{- $res := resources.Get (strings.TrimPrefix "/" $srcImage) -}}
+            {{- $origUrl := $srcImage -}}
+            {{- if $res -}}
+                {{- $origUrl = $res.RelPermalink -}}
+                {{- range slice "400" "800" "1200" "1600" -}}
+                     {{- $resized := $res.Resize (printf "%sx webp Lanczos" .) -}}
+                     {{- $mainImgSet = $mainImgSet | append (dict "resolution" (printf "%dx%d" $resized.Width $resized.Height) "url" $resized.RelPermalink) -}}
+                {{- end -}}
+            {{- end -}}
+            {{- $mainImgSet = $mainImgSet | append (dict "resolution" "original" "url" $origUrl) -}}
+        {{- end -}}
+        
+        {{- $imageObj := dict "credit" $imgCredit "imageset" $mainImgSet -}}
+
+        {{- $.Scratch.Add "index" (dict "title" .Title "permalink" .Permalink "summary" .Summary "content" .Plain "image" $imageObj "gallery" $galleryOut "scientificName" .Params.scientificName "rating" .Params.rating "edible" .Params.edible "poisonous" .Params.poisonous) -}}
     {{- end -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
