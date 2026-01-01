@@ -11,7 +11,7 @@ summary: "En stor, ståtlig och röd matsvamp som är vanlig i våra barrskogar.
 image: "/images/russula_paludosa_01.jpg"
 gallery:
   - url: "/images/russula_paludosa_01.jpg"
-    credit: '<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161101052126/http://www.panoramio.com/user/1100550?with_photo_id=111290464">Henk Monster</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
+    credit: "Henk Monster, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons"
 ---
 
 > En stor, ståtlig och röd matsvamp som är vanlig i våra barrskogar.

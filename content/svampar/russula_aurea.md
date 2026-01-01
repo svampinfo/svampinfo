@@ -11,7 +11,7 @@ summary: "Skogens guldjuvel. En ovanlig men fantastisk matsvamp med gyllengula f
 image: "/images/russula_aurea_01.jpg"
 gallery:
   - url: "/images/russula_aurea_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Archenzo" title="User:Archenzo">archenzo</a>, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
+    credit: "[archenzo](https://commons.wikimedia.org/wiki/User:Archenzo), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
 ---
 
 > Skogens guldjuvel. En ovanlig men fantastisk matsvamp med gyllengula färger.

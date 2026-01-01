@@ -11,7 +11,7 @@ summary: "En liten, toppig svamp som växer i gräsmarker. Innehåller psilocybi
 image: "/images/psilocybe_semilanceata_01.jpg"
 gallery:
   - url: "/images/psilocybe_semilanceata_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Alan_Rockefeller" title="User:Alan Rockefeller">Alan Rockefeller</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Alan Rockefeller](https://commons.wikimedia.org/wiki/User:Alan_Rockefeller), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
   - url: "https://www.artportalen.se/MediaLibrary/2022/11/d073298f-f902-4ae7-afa4-7f03853cf75e_image.jpg"
     credit: "© Stefan Phalagorn Bergström, Helsingborg Artportalen"
   - url: "https://www.artportalen.se/MediaLibrary/2025/9/554df6e6-4c1b-4030-9753-7d44a147f8de_image.jpg"

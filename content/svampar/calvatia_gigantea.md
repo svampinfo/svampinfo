@@ -11,7 +11,7 @@ summary: "En av skogens verkliga giganter som kan bli stor som en fotboll. Ätli
 image: "/images/langermannia_gigantea_01.jpg"
 gallery:
   - url: "/images/langermannia_gigantea_01.jpg"
-    credit: 'The original uploader was <a href="https://en.wikipedia.org/wiki/User:Sulfur" class="extiw" title="wikipedia:User:Sulfur">Sulfur</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>., [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
+    credit: "The original uploader was [Sulfur](https://en.wikipedia.org/wiki/User:Sulfur) at [English Wikipedia](https://en.wikipedia.org/wiki/)., [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
 ---
 
 > En av skogens verkliga giganter som kan bli stor som en fotboll. Ätlig så länge köttet är kritvitt.

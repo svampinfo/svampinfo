@@ -10,7 +10,7 @@ summary: "En blek, giftig fingersvamp som växer i lövskog. Orsakar kraftiga ma
 image: "/images/ramaria_pallida_01.jpg"
 gallery:
   - url: "/images/ramaria_pallida_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Wilder_Kaiser" class="mw-redirect" title="User:Wilder Kaiser">Bernie</a>, Public domain, via Wikimedia Commons'
+    credit: "[Bernie](https://commons.wikimedia.org/wiki/User:Wilder_Kaiser), Public domain, via Wikimedia Commons"
 ---
 
 > En blek, giftig fingersvamp som växer i lövskog. Orsakar kraftiga magbesvär.

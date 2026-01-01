@@ -11,7 +11,7 @@ summary: "En utmärkt matsvamp som blöder orange saft. Växer i granskog och ä
 image: "/images/lactarius_deterrimus_01.jpg"
 gallery:
   - url: "/images/lactarius_deterrimus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Holleday" title="User:Holleday">Holger Krisp</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
+    credit: "[Holger Krisp](https://commons.wikimedia.org/wiki/User:Holleday), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons"
 ---
 
 > En utmärkt matsvamp som blöder orange saft. Växer i granskog och är ofta lite grönfläckig.

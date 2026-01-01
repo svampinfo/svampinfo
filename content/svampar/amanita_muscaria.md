@@ -11,7 +11,7 @@ summary: "Skogens mest ikoniska svamp. Vacker men giftig och hallucinogen."
 image: "/images/amanita_muscaria_01.jpg"
 gallery:
   - url: "/images/amanita_muscaria_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Onderwijsgek" title="User:Onderwijsgek">Onderwijsgek</a>, [CC BY-SA 3.0 nl](https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en), via Wikimedia Commons'
+    credit: "[Onderwijsgek](https://commons.wikimedia.org/wiki/User:Onderwijsgek), [CC BY-SA 3.0 nl](https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en), via Wikimedia Commons"
 ---
 
 > Skogens mest ikoniska svamp. Vacker men giftig och hallucinogen.

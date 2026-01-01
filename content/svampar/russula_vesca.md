@@ -11,7 +11,7 @@ summary: "En fast och hård kremla som ser ut som den har krympt i tvätten – 
 image: "/images/russula_vesca_01.jpg"
 gallery:
   - url: "/images/russula_vesca_01.jpg"
-    credit: '<a href="https://en.wikipedia.org/wiki/User:Luridiformis" class="extiw" title="wikipedia:User:Luridiformis">Luridiformis</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
+    credit: "[Luridiformis](https://en.wikipedia.org/wiki/User:Luridiformis) at [English Wikipedia](https://en.wikipedia.org/wiki/), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons"
 ---
 
 > En fast och hård kremla som ser ut som den har krympt i tvätten – hatthuden når inte ända ut till kanten.

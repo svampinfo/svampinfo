@@ -11,7 +11,7 @@ summary: "Den vilda ursprungsformen till den välkända butikschampinjonen. Kän
 image: "/images/agaricus_bisporus_01.jpg"
 gallery:
   - url: "/images/agaricus_bisporus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Chris_73" title="User:Chris 73">chris_73</a>, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
+    credit: "[chris_73](https://commons.wikimedia.org/wiki/User:Chris_73), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
 ---
 
 Detta är arten som de flesta känner igen från grönsaksdisken. Den odlade varianten är oftast vit (eller brun som "skogschampinjon" i butik), men den vilda formen ser lite annorlunda ut.

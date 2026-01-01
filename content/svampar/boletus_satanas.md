@@ -10,7 +10,7 @@ summary: "En stor, vacker men giftig sopp med vitgrå hatt och röd fot. Mycket 
 image: "/images/rubroboletus_satanas_01.jpg"
 gallery:
   - url: "/images/rubroboletus_satanas_01.jpg"
-    credit: 'Photo by <a href="//commons.wikimedia.org/wiki/User:Archenzo" title="User:Archenzo">Archenzo</a>. Northern <a href="//commons.wikimedia.org/wiki/Apennine_Mountains" title="Apennine Mountains">Apennine Mountains</a> (Appennino piacentino)., [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
+    credit: "Photo by [Archenzo](https://commons.wikimedia.org/wiki/User:Archenzo). Northern [Apennine Mountains](https://commons.wikimedia.org/wiki/Apennine_Mountains) (Appennino piacentino)., [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
 ---
 
 > En stor, vacker men giftig sopp med vitgrå hatt och röd fot. Mycket sällsynt och fridlyst.

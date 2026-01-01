@@ -11,7 +11,7 @@ summary: "En av de mest eftertraktade matsvamparna. Känns igen på sin toppiga,
 image: "/images/morchella_conica_01.jpg"
 gallery:
   - url: "/images/morchella_conica_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Beentree" title="User:Beentree">Beentree</a>, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons'
+    credit: "[Beentree](https://commons.wikimedia.org/wiki/User:Beentree), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 ---
 
 > En av de mest eftertraktade matsvamparna. Känns igen på sin toppiga, bikakemönstrade hatt och ihåliga inre.

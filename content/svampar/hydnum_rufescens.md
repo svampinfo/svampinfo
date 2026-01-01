@@ -11,7 +11,7 @@ summary: "Den bleka taggsvampens mindre och färgstarkare släkting. God matsvam
 image: "/images/hydnum_rufescens_s_lat_01.jpg"
 gallery:
   - url: "/images/hydnum_rufescens_s_lat_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Strobilomyces" title="User:Strobilomyces">User:Strobilomyces</a>, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
+    credit: "[User:Strobilomyces](https://commons.wikimedia.org/wiki/User:Strobilomyces), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
 ---
 
 > Den bleka taggsvampens mindre och färgstarkare släkting. God matsvamp.

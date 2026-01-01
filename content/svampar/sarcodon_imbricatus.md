@@ -11,7 +11,7 @@ summary: "En stor och pampig svamp med grova bruna fjäll på hatten. God som un
 image: "/images/sarcodon_imbricatus_01.jpg"
 gallery:
   - url: "/images/sarcodon_imbricatus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Holleday" title="User:Holleday">Holger Krisp</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
+    credit: "[Holger Krisp](https://commons.wikimedia.org/wiki/User:Holleday), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons"
 ---
 
 > En stor och pampig svamp med grova bruna fjäll på hatten. God som ung men blir besk med åldern.

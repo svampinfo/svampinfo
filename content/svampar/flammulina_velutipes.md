@@ -11,7 +11,7 @@ summary: "En tålig svamp som trotsar kylan och växer på stubbar under vintern
 image: "/images/flammulina_velutipes_01.jpg"
 gallery:
   - url: "/images/flammulina_velutipes_01.jpg"
-    credit: '<ul><li><a href="//commons.wikimedia.org/wiki/File:2009-11-19_Flammulina_sp_biolib.cz.jpg" title="File:2009-11-19 Flammulina sp biolib.cz.jpg">2009-11-19_Flammulina_sp_biolib.cz.jpg</a>: František ŠARŽÍK</li> <li>derivative work: <a href="//commons.wikimedia.org/w/index.php?title=User:Ak_ccm&amp;action=edit&amp;redlink=1" class="new" title="User:Ak ccm (page does not exist)">Ak ccm</a></li></ul>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[2009-11-19_Flammulina_sp_biolib.cz.jpg](https://commons.wikimedia.org/wiki/File:2009-11-19_Flammulina_sp_biolib.cz.jpg): František ŠARŽÍK derivative work: [Ak ccm](https://commons.wikimedia.org/w/index.php?title=User:Ak_ccm&amp;action=edit&amp;redlink=1), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En tålig svamp som trotsar kylan och växer på stubbar under vintern. Känns igen på sin sammetsludna fot.

@@ -11,7 +11,7 @@ summary: "En mycket slemmig spindlinglik vaxskivling med olivbrun hatt och vattr
 image: "/images/hygrophorus_olivaceoalbus_01.jpg"
 gallery:
   - url: "/images/hygrophorus_olivaceoalbus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/w/index.php?title=User:Ak_ccm&amp;action=edit&amp;redlink=1" class="new" title="User:Ak ccm (page does not exist)">Andreas Kunze</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Andreas Kunze](https://commons.wikimedia.org/w/index.php?title=User:Ak_ccm&amp;action=edit&amp;redlink=1), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En mycket slemmig spindlinglik vaxskivling med olivbrun hatt och vattrad fot. God matsvamp efter att slemmet tagits bort.

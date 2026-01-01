@@ -11,7 +11,7 @@ summary: "Sveriges svar på tryffel? En stor, kraftig och mycket eftertraktad sv
 image: "/images/tricholoma_matsutake_01.jpg"
 gallery:
   - url: "/images/tricholoma_matsutake_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Tomomarusan" title="User:Tomomarusan">Tomomarusan</a>, [CC BY 2.5](https://creativecommons.org/licenses/by/2.5), via Wikimedia Commons'
+    credit: "[Tomomarusan](https://commons.wikimedia.org/wiki/User:Tomomarusan), [CC BY 2.5](https://creativecommons.org/licenses/by/2.5), via Wikimedia Commons"
 ---
 
 > Sveriges svar på tryffel? En stor, kraftig och mycket eftertraktad svamp med en unik kryddig doft.

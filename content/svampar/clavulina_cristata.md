@@ -11,7 +11,7 @@ summary: "En liten och tunnköttig fingersvamp som kan förekomma i stora mängd
 image: "/images/clavulina_cristata_01.jpg"
 gallery:
   - url: "/images/clavulina_cristata_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/w/index.php?title=User:Sasata&amp;action=edit&amp;redlink=1" class="new" title="User:Sasata (page does not exist)">Sasata</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Sasata](https://commons.wikimedia.org/w/index.php?title=User:Sasata&amp;action=edit&amp;redlink=1), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En liten och tunnköttig fingersvamp som kan förekomma i stora mängder.

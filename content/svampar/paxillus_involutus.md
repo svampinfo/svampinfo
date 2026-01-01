@@ -10,7 +10,7 @@ summary: "En vanlig svamp som förr åts men nu är känd för att kunna orsaka 
 image: "/images/paxillus_involutus_01.jpg"
 gallery:
   - url: "/images/paxillus_involutus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Karelj" title="User:Karelj">Karelj</a>, Public domain, via Wikimedia Commons'
+    credit: "[Karelj](https://commons.wikimedia.org/wiki/User:Karelj), Public domain, via Wikimedia Commons"
 ---
 
 > En vanlig svamp som förr åts men nu är känd för att kunna orsaka plötslig, livshotande förgiftning.

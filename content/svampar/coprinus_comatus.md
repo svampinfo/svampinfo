@@ -11,7 +11,7 @@ summary: "En ståtlig och läcker matsvamp som måste ätas direkt efter plockni
 image: "/images/coprinus_comatus_01.jpg"
 gallery:
   - url: "/images/coprinus_comatus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Bigredwine1" title="User:Bigredwine1">Bigredwine1</a>, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons'
+    credit: "[Bigredwine1](https://commons.wikimedia.org/wiki/User:Bigredwine1), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 ---
 
 > En ståtlig och läcker matsvamp som måste ätas direkt efter plockning. Känns igen på sin höga, vita och fjälliga hatt.

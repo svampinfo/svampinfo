@@ -11,7 +11,7 @@ summary: "En läcker matsvamp som liknar smörsoppen men saknar ring. Växer gä
 image: "/images/suillus_granulatus_01.jpg"
 gallery:
   - url: "/images/suillus_granulatus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Holleday" class="mw-userlink" title="User:Holleday">Holger Krisp</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
+    credit: "[Holger Krisp](https://commons.wikimedia.org/wiki/User:Holleday), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons"
 ---
 
 > En läcker matsvamp som liknar smörsoppen men saknar ring. Växer gärna på kalkrik mark med tall.

@@ -11,7 +11,7 @@ summary: "Liknar röd flugsvamp men har en nötbrun hatt. Växer ofta i barrskog
 image: "/images/amanita_regalis_01.jpg"
 gallery:
   - url: "/images/amanita_regalis_01.jpg"
-    credit: '<a href="https://commons.wikimedia.org/wiki/File:A_regalis.jpg">Deutsche Gesellschaft für Mykologie</a>, [CC BY-SA 3.0 DE](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en), via Wikimedia Commons'
+    credit: "[Deutsche Gesellschaft für Mykologie](https://commons.wikimedia.org/wiki/File:A_regalis.jpg), [CC BY-SA 3.0 DE](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en), via Wikimedia Commons"
 ---
 
 > Liknar röd flugsvamp men har en nötbrun hatt. Växer ofta i barrskog och är giftig.

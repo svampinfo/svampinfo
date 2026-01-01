@@ -10,7 +10,7 @@ summary: "En giftig buksvamp som ser ut som en potatis. Svart inuti."
 image: "/images/scleroderma_bovista_01.jpg"
 gallery:
   - url: "/images/scleroderma_bovista_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Selso" title="User:Selso">Jerzy Opioła</a>, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons'
+    credit: "[Jerzy Opioła](https://commons.wikimedia.org/wiki/User:Selso), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 ---
 
 > En giftig buksvamp som ser ut som en potatis. Svart inuti.

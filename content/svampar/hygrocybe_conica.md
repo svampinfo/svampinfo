@@ -10,7 +10,7 @@ summary: "En färgstark svamp som svartnar helt vid beröring eller när den bli
 image: "/images/hygrocybe_conica_01.jpg"
 gallery:
   - url: "/images/hygrocybe_conica_01.jpg"
-    credit: 'No machine-readable author provided. <a href="//commons.wikimedia.org/wiki/User:Taka" title="User:Taka">Taka</a> assumed (based on copyright claims)., [CC BY 2.5](https://creativecommons.org/licenses/by/2.5), via Wikimedia Commons'
+    credit: "No machine-readable author provided. [Taka](https://commons.wikimedia.org/wiki/User:Taka) assumed (based on copyright claims)., [CC BY 2.5](https://creativecommons.org/licenses/by/2.5), via Wikimedia Commons"
 ---
 
 > En färgstark svamp som svartnar helt vid beröring eller när den blir gammal. Giftig.

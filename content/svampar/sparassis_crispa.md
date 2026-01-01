@@ -11,7 +11,7 @@ summary: "Ser ut som ett stort, krusigt blomkålshuvud vid foten av gamla tallar
 image: "/images/sparassis_crispa_01.jpg"
 gallery:
   - url: "/images/sparassis_crispa_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Famberhorst" title="User:Famberhorst">Dominicus Johannes Bergsma</a>, [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en), via Wikimedia Commons'
+    credit: "[Dominicus Johannes Bergsma](https://commons.wikimedia.org/wiki/User:Famberhorst), [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en), via Wikimedia Commons"
 ---
 
 > Ser ut som ett stort, krusigt blomkålshuvud vid foten av gamla tallar. En delikatess med mild och nötig smak.

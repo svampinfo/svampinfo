@@ -11,7 +11,7 @@ summary: "En ståtlig sopp med orangeröd hatt och vita tofsar på foten som mö
 image: "/images/leccinum_aurantiacum_slat_01.jpg"
 gallery:
   - url: "/images/leccinum_aurantiacum_slat_01.jpg"
-    credit: '<div class="fn value"> Hans Hillewaert</div>, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons'
+    credit: "Hans Hillewaert, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 ---
 
 > En ståtlig sopp med orangeröd hatt och vita tofsar på foten som mörknar. Växer med asp.

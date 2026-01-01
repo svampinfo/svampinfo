@@ -11,7 +11,7 @@ summary: "En färgstark sopp som lyser guldgul under lärkträd."
 image: "/images/suillus_grevillei_01.jpg"
 gallery:
   - url: "/images/suillus_grevillei_01.jpg"
-    credit: '<a href="https://en.wikipedia.org/wiki/User:Luridiformis" class="extiw" title="en:User:Luridiformis">User:Luridiformis</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
+    credit: "[User:Luridiformis](https://en.wikipedia.org/wiki/User:Luridiformis), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons"
 ---
 
 > En färgstark sopp som lyser guldgul under lärkträd.

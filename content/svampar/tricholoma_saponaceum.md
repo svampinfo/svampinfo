@@ -10,7 +10,7 @@ summary: "En kameleont i svampskogen som avslöjas av sin doft av oparfymerad tv
 image: "/images/tricholoma_saponaceum_01.jpg"
 gallery:
   - url: "/images/tricholoma_saponaceum_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Archenzo" title="User:Archenzo">Archenzo</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Archenzo](https://commons.wikimedia.org/wiki/User:Archenzo), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En kameleont i svampskogen som avslöjas av sin doft av oparfymerad tvål.

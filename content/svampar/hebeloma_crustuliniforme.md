@@ -10,7 +10,7 @@ summary: "En oätlig skivling som 'gråter' små tårar från skivorna och dofta
 image: "/images/hebeloma_crustuliniforme_01.jpg"
 gallery:
   - url: "/images/hebeloma_crustuliniforme_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Strobilomyces" title="User:Strobilomyces">User:Strobilomyces</a>, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
+    credit: "[User:Strobilomyces](https://commons.wikimedia.org/wiki/User:Strobilomyces), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
 ---
 
 > En oätlig skivling som 'gråter' små tårar från skivorna och doftar rättika.

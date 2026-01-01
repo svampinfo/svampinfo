@@ -11,7 +11,7 @@ summary: "En liten, smakrik svamp som bildar häxringar i gräsmattor. Doftar un
 image: "/images/marasmius_oreades_01.jpg"
 gallery:
   - url: "/images/marasmius_oreades_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Alan_Rockefeller" title="User:Alan Rockefeller">Alan Rockefeller</a>, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons'
+    credit: "[Alan Rockefeller](https://commons.wikimedia.org/wiki/User:Alan_Rockefeller), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons"
 ---
 
 > En liten, smakrik svamp som bildar häxringar i gräsmattor. Doftar underbart av nejlika och bittermandel.

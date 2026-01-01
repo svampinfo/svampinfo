@@ -11,7 +11,7 @@ summary: "En stor, fast och nötig kremla som växer under granar. En av de bäs
 image: "/images/russula_integra_01.jpg"
 gallery:
   - url: "/images/russula_integra_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/w/index.php?title=User:Puchatech_K.&amp;action=edit&amp;redlink=1" class="new" title="User:Puchatech K. (page does not exist)">Puchatech K.</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Puchatech K.](https://commons.wikimedia.org/w/index.php?title=User:Puchatech_K.&amp;action=edit&amp;redlink=1), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En stor, fast och nötig kremla som växer under granar. En av de bästa matsvamparna.

@@ -11,7 +11,7 @@ summary: "En vit eller grönvit strävsopp som växer i fuktiga björkkärr. Må
 image: "/images/leccinum_niveum_01.jpg"
 gallery:
   - url: "/images/leccinum_niveum_01.jpg"
-    credit: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/85775642@N05">natureluvr01</a>, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons'
+    credit: "natureluvr01, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons"
 ---
 
 > En vit eller grönvit strävsopp som växer i fuktiga björkkärr. Måste tillagas väl.

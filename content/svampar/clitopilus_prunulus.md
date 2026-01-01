@@ -11,7 +11,7 @@ summary: "En vit, köttig svamp som doftar starkt av färskt mjöl. En utmärkt 
 image: "/images/clitopilus_prunulus_01.jpg"
 gallery:
   - url: "/images/clitopilus_prunulus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/w/index.php?title=User:Shmarshall&amp;action=edit&amp;redlink=1" class="new" title="User:Shmarshall (page does not exist)">Shmarshall</a>, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons'
+    credit: "[Shmarshall](https://commons.wikimedia.org/w/index.php?title=User:Shmarshall&amp;action=edit&amp;redlink=1), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 ---
 
 > En vit, köttig svamp som doftar starkt av färskt mjöl. En utmärkt matsvamp för den som kan skilja den från giftiga trattskivlingar.

@@ -11,7 +11,7 @@ summary: "En läcker och pålitlig matsvamp som känns igen på sin rynkiga hatt
 image: "/images/cortinarius_caperatus_01.jpg"
 gallery:
   - url: "/images/cortinarius_caperatus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Strobilomyces" class="mw-userlink" title="User:Strobilomyces">Strobilomyces</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Strobilomyces](https://commons.wikimedia.org/wiki/User:Strobilomyces), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En läcker och pålitlig matsvamp som känns igen på sin rynkiga hatt med silvergrått 'rimfrost' och dubbla ring.

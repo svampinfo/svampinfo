@@ -10,7 +10,7 @@ summary: "En giftig champinjon med mörka, pärlhöns-liknande fjäll på hatten
 image: "/images/agaricus_moelleri_01.jpg"
 gallery:
   - url: "/images/agaricus_moelleri_01.jpg"
-    credit: '<a href="https://en.wikipedia.org/wiki/User:Luridiformis" class="extiw" title="en:User:Luridiformis">Zonda Grattus</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
+    credit: "[Zonda Grattus](https://en.wikipedia.org/wiki/User:Luridiformis), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons"
 ---
 
 Pärlchampinjonen är en vacker men lömsk svamp. Den har tidigare kallats pärlhönschampinjon på grund av hattens mönster.

@@ -10,7 +10,7 @@ summary: "En liten, giftig svamp med silkesglänsande hatt. Finns i en vit och e
 image: "/images/inocybe_geophylla_01.jpg"
 gallery:
   - url: "/images/inocybe_geophylla_01.jpg"
-    credit: '<a href="https://en.wikipedia.org/wiki/User:Luridiformis" class="extiw" title="en:User:Luridiformis">Luridiformis</a> at <a class="external text" href="https://en.wikipedia.org">en.wikipedia</a>, [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Luridiformis](https://en.wikipedia.org/wiki/User:Luridiformis) at en.wikipedia, [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En liten, giftig svamp med silkesglänsande hatt. Finns i en vit och en lila variant.

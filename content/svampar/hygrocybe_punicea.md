@@ -11,7 +11,7 @@ summary: "Vår största och ståtligaste röda hagvaxing. En vacker matsvamp som
 image: "/images/hygrocybe_punicea_01.jpg"
 gallery:
   - url: "/images/hygrocybe_punicea_01.jpg"
-    credit: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/43272765@N04">gailhampshire</a> from Cradley, Malvern, U.K, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons'
+    credit: "gailhampshire from Cradley, Malvern, U.K, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons"
 ---
 
 > Vår största och ståtligaste röda hagvaxing. En vacker matsvamp som lyser som ett smycke i gräset.

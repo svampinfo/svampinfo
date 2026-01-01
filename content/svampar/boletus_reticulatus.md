@@ -11,7 +11,7 @@ summary: "En sommarvariant av Karljohan som trivs i lövskog. Hatten är matt oc
 image: "/images/boletus_reticulatus_01.jpg"
 gallery:
   - url: "/images/boletus_reticulatus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Rude" title="User:Rude">Rude</a>, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
+    credit: "[Rude](https://commons.wikimedia.org/wiki/User:Rude), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
 ---
 
 > En sommarvariant av Karljohan som trivs i lövskog. Hatten är matt och finluden som skalet på en persika.

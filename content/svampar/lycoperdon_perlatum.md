@@ -11,7 +11,7 @@ summary: "En päronformad liten svamp täckt av små vårtor. God matsvamp så l
 image: "/images/lycoperdon_perlatum_01.jpg"
 gallery:
   - url: "/images/lycoperdon_perlatum_01.jpg"
-    credit: 'Daniel Ullrich, <a href="//commons.wikimedia.org/wiki/User:Threedots" title="User:Threedots">Threedots</a>, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
+    credit: "Daniel Ullrich, [Threedots](https://commons.wikimedia.org/wiki/User:Threedots), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
 ---
 
 > En päronformad liten svamp täckt av små vårtor. God matsvamp så länge den är vit inuti.

@@ -11,7 +11,7 @@ summary: "Påminner om sammetsopp, men har mer rött på foten och en hatt som o
 image: "/images/xerocomellus_chrysenteron_01.jpg"
 gallery:
   - url: "/images/xerocomellus_chrysenteron_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/w/index.php?title=User:DavidCiurea28&amp;action=edit&amp;redlink=1" class="new" title="User:DavidCiurea28 (page does not exist)">DavidCiurea28</a>, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons'
+    credit: "[DavidCiurea28](https://commons.wikimedia.org/w/index.php?title=User:DavidCiurea28&amp;action=edit&amp;redlink=1), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 ---
 
 > Påminner om sammetsopp, men har mer rött på foten och en hatt som ofta är uppsprucken och blottar hattköttet i sina rödaste färger.

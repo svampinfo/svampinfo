@@ -10,7 +10,7 @@ summary: "En vacker men giftig fingersvamp med tre tydliga färger: rosa grenar,
 image: "/images/ramaria_formosa_01.jpg"
 gallery:
   - url: "/images/ramaria_formosa_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Agnes_Monkelbaan" title="User:Agnes Monkelbaan">Agnes Monkelbaan</a>, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons'
+    credit: "[Agnes Monkelbaan](https://commons.wikimedia.org/wiki/User:Agnes_Monkelbaan), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 ---
 
 > En vacker men giftig fingersvamp med tre tydliga färger: rosa grenar, gula toppar och vit fot.

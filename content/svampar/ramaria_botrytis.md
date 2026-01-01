@@ -11,7 +11,7 @@ summary: "En vacker, koralliknande svamp med rosa grentoppar. En god matsvamp so
 image: "/images/ramaria_botrytis_01.jpg"
 gallery:
   - url: "/images/ramaria_botrytis_01.jpg"
-    credit: '<ul><li><a href="//commons.wikimedia.org/wiki/File:2010-09-17_Ramaria_botrytis.jpg" title="File:2010-09-17 Ramaria botrytis.jpg">2010-09-17_Ramaria_botrytis.jpg</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/7147684@N03">Jason Hollinger</a></li> <li>derivative work: <a href="//commons.wikimedia.org/w/index.php?title=User:Ak_ccm&amp;action=edit&amp;redlink=1" class="new" title="User:Ak ccm (page does not exist)">Ak ccm</a></li></ul>, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons'
+    credit: "[2010-09-17_Ramaria_botrytis.jpg](https://commons.wikimedia.org/wiki/File:2010-09-17_Ramaria_botrytis.jpg): Jason Hollinger derivative work: [Ak ccm](https://commons.wikimedia.org/w/index.php?title=User:Ak_ccm&amp;action=edit&amp;redlink=1), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons"
 ---
 
 > En vacker, koralliknande svamp med rosa grentoppar. En god matsvamp som ung.

@@ -11,7 +11,7 @@ summary: "En av de godaste musseronerna. Mörkgrå hatt med svarta, radiära str
 image: "/images/tricholoma_portentosum_01.jpg"
 gallery:
   - url: "/images/tricholoma_portentosum_01.jpg"
-    credit: '<a rel="nofollow" class="external text" href="https://mushroomobserver.org/observer/show_user/439">Dan Molter (shroomydan)</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "Dan Molter (shroomydan), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En av de godaste musseronerna. Mörkgrå hatt med svarta, radiära streck.

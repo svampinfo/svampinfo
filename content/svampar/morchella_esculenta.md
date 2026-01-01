@@ -11,7 +11,7 @@ summary: "En sällsynt och läcker vårsvamp med rundad hatt och bikakemönster.
 image: "/images/morchella_esculenta_01.jpg"
 gallery:
   - url: "/images/morchella_esculenta_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:TOMMES-WIKI" title="User:TOMMES-WIKI">TOMMES-WIKI</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[TOMMES-WIKI](https://commons.wikimedia.org/wiki/User:TOMMES-WIKI), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En sällsynt och läcker vårsvamp med rundad hatt och bikakemönster. En delikatess för den som har turen att finna den.

@@ -10,7 +10,7 @@ summary: "Den svarta fåret i familjen. Känns igen på den otrevliga doften av 
 image: "/images/agaricus_xanthoderma_01.jpg"
 gallery:
   - url: "/images/agaricus_xanthoderma_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Velella" class="mw-userlink" title="User:Velella">Velella</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Velella](https://commons.wikimedia.org/wiki/User:Velella), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 Giftchampinjonen är den art som förstör ryktet för champinjonerna. Den orsakar många förgiftningsfall varje år eftersom den är så lik de ätliga arterna.

@@ -10,7 +10,7 @@ summary: "En vacker men mycket bitter och giftig stubbsvamp som känns igen på 
 image: "/images/hypholoma_fasciculare_01.jpg"
 gallery:
   - url: "/images/hypholoma_fasciculare_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:LC-de" title="User:LC-de">Jörg Hempel</a>, [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en), via Wikimedia Commons'
+    credit: "[Jörg Hempel](https://commons.wikimedia.org/wiki/User:LC-de), [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en), via Wikimedia Commons"
 ---
 
 > En vacker men mycket bitter och giftig stubbsvamp som känns igen på sina gulgröna skivor.

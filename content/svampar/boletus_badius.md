@@ -11,7 +11,7 @@ summary: "En mycket god matsvamp som känns igen på sin mörkbruna hatt och att
 image: "/images/imleria_badia_01.jpg"
 gallery:
   - url: "/images/imleria_badia_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT" title="User:Jean-Pol GRANDMONT">Jean-Pol GRANDMONT</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
+    credit: "[Jean-Pol GRANDMONT](https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons"
 ---
 
 > En mycket god matsvamp som känns igen på sin mörkbruna hatt och att porerna blånar vid tryck.

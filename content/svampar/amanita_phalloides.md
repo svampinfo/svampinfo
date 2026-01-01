@@ -10,7 +10,7 @@ summary: "En av världens giftigaste svampar. Känns igen på sin grönaktiga ha
 image: "/images/amanita_phalloides_01.jpg"
 gallery:
   - url: "/images/amanita_phalloides_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Archenzo" title="User:Archenzo">Archenzo</a>, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
+    credit: "[Archenzo](https://commons.wikimedia.org/wiki/User:Archenzo), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
 ---
 
 > En av världens giftigaste svampar. Känns igen på sin grönaktiga hatt och den säcklika strumpan vid fotbasen.

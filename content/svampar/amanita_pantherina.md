@@ -11,7 +11,7 @@ summary: "En mycket giftig flugsvamp med brun hatt och vita prickar. Kan förvä
 image: "/images/amanita_pantherina_01.jpg"
 gallery:
   - url: "/images/amanita_pantherina_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:George_Chernilevsky" title="User:George Chernilevsky">George Chernilevsky</a>, [Public domain](), via Wikimedia Commons'
+    credit: "[George Chernilevsky](https://commons.wikimedia.org/wiki/User:George_Chernilevsky), [Public domain](), via Wikimedia Commons"
 ---
 
 > En mycket giftig flugsvamp med brun hatt och vita prickar. Kan förväxlas med stolt fjällskivling.

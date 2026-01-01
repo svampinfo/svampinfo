@@ -11,7 +11,7 @@ summary: "En av de vackraste och fastaste strävsopparna. Tegelröd hatt och sva
 image: "/images/leccinum_versipelle_01.jpg"
 gallery:
   - url: "/images/leccinum_versipelle_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:LC-de" title="User:LC-de">Jörg Hempel</a>, [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en), via Wikimedia Commons'
+    credit: "[Jörg Hempel](https://commons.wikimedia.org/wiki/User:LC-de), [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en), via Wikimedia Commons"
 ---
 
 > En av de vackraste och fastaste strävsopparna. Tegelröd hatt och svarta tofsar på foten. Måste tillagas väl!

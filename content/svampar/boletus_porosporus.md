@@ -11,7 +11,7 @@ summary: "Ser ut som en liten och dystert färgad sammetsopp med uppsprucken hat
 image: "/images/xerocomellus_porosporus_01.jpg"
 gallery:
   - url: "/images/xerocomellus_porosporus_01.jpg"
-    credit: '<p>This image is the work of photographer Zonda Grattus, aka User:luridiformis. </p> The original uploader was <a href="https://en.wikipedia.org/wiki/User:Luridiformis" class="extiw" title="wikipedia:User:Luridiformis">Luridiformis</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>., [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
+    credit: "This image is the work of photographer Zonda Grattus, aka User:luridiformis.  The original uploader was [Luridiformis](https://en.wikipedia.org/wiki/User:Luridiformis) at [English Wikipedia](https://en.wikipedia.org/wiki/)., [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons"
 ---
 
 > Ser ut som en liten och dystert färgad sammetsopp med uppsprucken hatthud.

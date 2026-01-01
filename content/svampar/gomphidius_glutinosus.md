@@ -11,7 +11,7 @@ summary: "En slemmig men mycket god matsvamp som växer med gran. Avslöjas av s
 image: "/images/gomphidius_glutinosus_01.jpg"
 gallery:
   - url: "/images/gomphidius_glutinosus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:BerndH" title="User:BerndH">Bernd Haynold</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Bernd Haynold](https://commons.wikimedia.org/wiki/User:BerndH), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En slemmig men mycket god matsvamp som växer med gran. Avslöjas av sitt knallgula kött i fotbasen.

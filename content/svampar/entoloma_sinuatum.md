@@ -10,7 +10,7 @@ summary: "En stor och ståtlig skivling som lurar många genom att likna vårmus
 image: "/images/entoloma_sinuatum_01.jpg"
 gallery:
   - url: "/images/entoloma_sinuatum_01.jpg"
-    credit: '<a rel="nofollow" class="external text" href="https://www.inaturalist.org/users/913789">Eugene Popov</a>, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons'
+    credit: "Eugene Popov, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons"
 ---
 
 > En stor och ståtlig skivling som lurar många genom att likna vårmusseron eller mjölskivling. Mycket giftig.

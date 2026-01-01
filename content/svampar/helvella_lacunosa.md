@@ -11,7 +11,7 @@ summary: "En säregen murkla med en djupt fårad fot och gråsvart hatt. Ätlig 
 image: "/images/helvella_lacunosa_01.jpg"
 gallery:
   - url: "/images/helvella_lacunosa_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/w/index.php?title=User:Kineticcrusher&amp;action=edit&amp;redlink=1" class="new" title="User:Kineticcrusher (page does not exist)">Kineticcrusher</a>, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons'
+    credit: "[Kineticcrusher](https://commons.wikimedia.org/w/index.php?title=User:Kineticcrusher&amp;action=edit&amp;redlink=1), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 ---
 
 > En säregen murkla med en djupt fårad fot och gråsvart hatt. Ätlig men kräver tillagning.

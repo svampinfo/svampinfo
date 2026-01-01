@@ -11,7 +11,7 @@ summary: "En klassisk matsvamp i barrskogen. Känns igen på sitt vita porlager 
 image: "/images/albatrellus_ovinus_01.jpg"
 gallery:
   - url: "/images/albatrellus_ovinus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/w/index.php?title=User:Bernypisa&amp;action=edit&amp;redlink=1" class="new" title="User:Bernypisa (page does not exist)">Bernypisa</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Bernypisa](https://commons.wikimedia.org/w/index.php?title=User:Bernypisa&amp;action=edit&amp;redlink=1), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En klassisk matsvamp i barrskogen. Känns igen på sitt vita porlager och att den blir gulgrön vid tillagning.

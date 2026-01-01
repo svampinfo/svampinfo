@@ -10,7 +10,7 @@ summary: "En lysande gul spindling som är lika giftig som den toppiga giftspind
 image: "/images/cortinarius_splendens_01.jpg"
 gallery:
   - url: "/images/cortinarius_splendens_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/w/index.php?title=User:Thomasstjerne&amp;action=edit&amp;redlink=1" class="new" title="User:Thomasstjerne (page does not exist)">Thomas Stjernegaard Jeppesen</a>, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons'
+    credit: "[Thomas Stjernegaard Jeppesen](https://commons.wikimedia.org/w/index.php?title=User:Thomasstjerne&amp;action=edit&amp;redlink=1), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons"
 ---
 
 > En lysande gul spindling som är lika giftig som den toppiga giftspindlingen. Växer i lövskog.

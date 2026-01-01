@@ -11,7 +11,7 @@ summary: "En av barrskogens vanligaste matsvampar. Orangeröd hatt och kött som
 image: "/images/russula_decolorans_01.jpg"
 gallery:
   - url: "/images/russula_decolorans_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Tocekas" title="User:Tocekas">Tocekas</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Tocekas](https://commons.wikimedia.org/wiki/User:Tocekas), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En av barrskogens vanligaste matsvampar. Orangeröd hatt och kött som grånar/svartnar.

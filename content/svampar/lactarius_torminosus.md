@@ -11,7 +11,7 @@ summary: "En vacker, rosaröd riska med luden 'skäggig' kant. Klassisk inläggn
 image: "/images/lactarius_torminosus_01.jpg"
 gallery:
   - url: "/images/lactarius_torminosus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Tocekas" title="User:Tocekas">Tocekas</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Tocekas](https://commons.wikimedia.org/wiki/User:Tocekas), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En vacker, rosaröd riska med luden "skäggig" kant. Klassisk inläggningssvamp som kräver avkokning.

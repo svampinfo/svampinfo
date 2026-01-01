@@ -10,7 +10,7 @@ summary: "En helvit form av vitgul flugsvamp. Mycket lik den dödliga vita flugs
 image: "/images/amanita_citrina_f_alba_01.jpg"
 gallery:
   - url: "/images/amanita_citrina_f_alba_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:The_High_Fin_Sperm_Whale" title="User:The High Fin Sperm Whale">The High Fin Sperm Whale</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[The High Fin Sperm Whale](https://commons.wikimedia.org/wiki/User:The_High_Fin_Sperm_Whale), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
   - url: "https://www.artportalen.se/MediaLibrary/2023/7/3aa7f79a-dbad-4db7-b117-030eda62b20b_image.jpg"
     credit: "© Suvi Sivula, Helsingborg Artportalen"
   - url: "https://www.artportalen.se/MediaLibrary/2023/7/f4515d95-85b3-48b4-bb11-83ad3fb190d2_image.jpg"

@@ -11,7 +11,7 @@ summary: "En av skogens vanligaste svampar. Rödbrun med extremt stark smak som 
 image: "/images/lactarius_rufus_01.jpg"
 gallery:
   - url: "/images/lactarius_rufus_01.jpg"
-    credit: 'Zonda Grattus, aka <a href="https://en.wikipedia.org/wiki/User:Luridiformis" class="extiw" title="en:User:Luridiformis">Luridiformis</a> at <a class="external text" href="https://en.wikipedia.org">en.wikipedia</a> (the sole owner and copyright holder of this image), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
+    credit: "Zonda Grattus, aka [Luridiformis](https://en.wikipedia.org/wiki/User:Luridiformis) at en.wikipedia (the sole owner and copyright holder of this image), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons"
 ---
 
 > En av skogens vanligaste svampar. Rödbrun med extremt stark smak som kräver avkokning.

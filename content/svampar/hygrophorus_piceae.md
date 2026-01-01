@@ -11,7 +11,7 @@ summary: "En helt snövit vaxskivling som växer med gran. Mild och god matsvamp
 image: "/images/hygrophorus_piceae_01.jpg"
 gallery:
   - url: "/images/hygrophorus_piceae_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Svencapoeira" title="User:Svencapoeira">Svencapoeira</a>, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons'
+    credit: "[Svencapoeira](https://commons.wikimedia.org/wiki/User:Svencapoeira), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 ---
 
 > En helt snövit vaxskivling som växer med gran. Mild och god matsvamp.

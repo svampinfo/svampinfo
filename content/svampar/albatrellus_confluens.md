@@ -11,7 +11,7 @@ summary: "En stor, köttig ticka som ofta växer ihop i klungor. Färgen påminn
 image: "/images/albatrellus_confluens_01.jpg"
 gallery:
   - url: "/images/albatrellus_confluens_01.jpg"
-    credit: '<a rel="nofollow" class="external text" href="https://www.inaturalist.org/users/3522968">Matej Frančeškin</a>, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons'
+    credit: "Matej Frančeškin, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons"
 ---
 
 > En stor, köttig ticka som ofta växer ihop i klungor. Färgen påminner om gräddat bröd.

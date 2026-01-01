@@ -11,7 +11,7 @@ summary: "En av de läckraste matsvamparna. Kallas ofta 'fattigmans tryffel' fö
 image: "/images/craterellus_cornucopioides_01.jpg"
 gallery:
   - url: "/images/craterellus_cornucopioides_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT" title="User:Jean-Pol GRANDMONT">Jean-Pol GRANDMONT</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
+    credit: "[Jean-Pol GRANDMONT](https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons"
 ---
 
 > En av de läckraste matsvamparna. Kallas ofta "fattigmans tryffel" för sin djupa smak.

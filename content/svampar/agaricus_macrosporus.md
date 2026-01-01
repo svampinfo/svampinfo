@@ -11,7 +11,7 @@ summary: "En stor, vit champinjon som påminner om snöbollschampinjonen men är
 image: "/images/agaricus_urinascens_01.jpg"
 gallery:
   - url: "/images/agaricus_urinascens_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Traumrune" title="User:Traumrune">Traumrune</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Traumrune](https://commons.wikimedia.org/wiki/User:Traumrune), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 Vit kungschampinjon är en imponerande svamp som kan bli mycket stor. Den är nära släkt med snöbollschampinjonen och delar många av dess egenskaper.

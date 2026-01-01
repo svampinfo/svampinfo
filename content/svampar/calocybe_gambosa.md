@@ -11,7 +11,7 @@ summary: 'En vacker vår-försommarsvamp som bildar "häxringar" i feta gräsmat
 image: "/images/calocybe_gambosa_01.jpg"
 gallery:
   - url: "/images/calocybe_gambosa_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Strobilomyces" title="User:Strobilomyces">User:Strobilomyces</a>, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons'
+    credit: "[User:Strobilomyces](https://commons.wikimedia.org/wiki/User:Strobilomyces), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 ---
 
 > En vacker vår-försommarsvamp som bildar "häxringar" i feta gräsmattor, gärna på lite kalkrikare mark.

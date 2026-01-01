@@ -11,7 +11,7 @@ summary: "En av världens mest odlade matsvampar. Känd för sin fylliga umami-s
 image: "/images/lentinula_edodes_01.jpg"
 gallery:
   - url: "/images/lentinula_edodes_01.jpg"
-    credit: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/48016763@N00">frankenstoen</a> from Portland, Oregon, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons'
+    credit: "frankenstoen from Portland, Oregon, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons"
 ---
 
 > En av världens mest odlade matsvampar. Känd för sin fylliga umami-smak och fasta konsistens.

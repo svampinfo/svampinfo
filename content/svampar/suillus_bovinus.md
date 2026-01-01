@@ -11,7 +11,7 @@ summary: "En vanlig sopp som växer i klungor med tall. Känns igen på sina sto
 image: "/images/suillus_bovinus_01.jpg"
 gallery:
   - url: "/images/suillus_bovinus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/w/index.php?title=User:J%C3%BCrgen_Endres&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Jürgen Endres (page does not exist)">Jürgen Endres</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Jürgen Endres](https://commons.wikimedia.org/w/index.php?title=User:J%C3%BCrgen_Endres&amp;action=edit&amp;redlink=1), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En vanlig sopp som växer i klungor med tall. Känns igen på sina stora porer och sega konsistens.

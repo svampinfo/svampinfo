@@ -11,7 +11,7 @@ summary: "En ståtlig stensopp med mörkt rödbrun hatt som växer med tall. Lik
 image: "/images/boletus_pinophilus_01.jpg"
 gallery:
   - url: "/images/boletus_pinophilus_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/wiki/User:Paffka" title="User:Paffka">Paffka</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Paffka](https://commons.wikimedia.org/wiki/User:Paffka), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En ståtlig stensopp med mörkt rödbrun hatt som växer med tall. Lika god som vanlig Karljohan.

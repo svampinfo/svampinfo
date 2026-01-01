@@ -10,7 +10,7 @@ summary: "En dödligt giftig svamp som rodnar vid beröring. Växer ofta i parke
 image: "/images/inocybe_erubescens_01.jpg"
 gallery:
   - url: "/images/inocybe_erubescens_01.jpg"
-    credit: '<a href="//commons.wikimedia.org/w/index.php?title=User:Ak_ccm&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Ak ccm (page does not exist)">Andreas Kunze</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "[Andreas Kunze](https://commons.wikimedia.org/w/index.php?title=User:Ak_ccm&amp;action=edit&amp;redlink=1), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
 > En dödligt giftig svamp som rodnar vid beröring. Växer ofta i parker och lövskog.

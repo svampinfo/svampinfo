@@ -10,7 +10,7 @@ summary: "Dödligt giftig. Helvit svamp med ring och strumpa som ofta förväxla
 image: "/images/amanita_virosa_01.jpg"
 gallery:
   - url: "/images/amanita_virosa_01.jpg"
-    credit: '<a href="https://en.wikipedia.org/wiki/User:Ben_DeRoy" class="extiw" title="en:User:Ben DeRoy">en:User:Ben DeRoy</a>, [Public domain](), via Wikimedia Commons'
+    credit: "[en:User:Ben DeRoy](https://en.wikipedia.org/wiki/User:Ben_DeRoy), [Public domain](), via Wikimedia Commons"
   - url: "https://www.artportalen.se/MediaLibrary/2025/10/671c4a3c-2712-4258-9b83-039297de1781_image.jpg"
     credit: "© Klas Magnusson, Vendelsö Artportalen"
   - url: "https://www.artportalen.se/MediaLibrary/2025/10/daf71d15-fcf6-4c14-8cbf-c548657dafd8_image.jpg"
