@@ -362,9 +362,12 @@ body.dark {
 }
 
 .content-section ul,
-.post-content ul {
-  margin-left: 1rem;
-  list-style-position: inside;
+.post-content ul,
+.content-section ol,
+.post-content ol {
+  margin-left: 0;
+  padding-left: 1.5rem;
+  list-style-position: outside;
   color: var(--text-main);
 }
 .content-section p,
