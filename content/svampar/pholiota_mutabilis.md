@@ -7,26 +7,40 @@ slug: "pholiota_mutabilis"
 edible: true
 poisonous: 0
 rating: 3
-summary: "God matsvamp men se upp för den snarlika gifthättingen!"
+summary: "En läcker matsvamp som växer i täta klasar på stubbar. Kräver stor vaksamhet på grund av den dödligt giftiga gifthättingen."
 image: "/images/kuehneromyces_mutabilis_01.jpg"
 gallery:
   - url: "/images/kuehneromyces_mutabilis_01.jpg"
-    credit: 'Unknown, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
+    credit: "Unknown, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
 ---
 
-> God matsvamp men se upp för den snarlika gifthättingen!
+> En läcker matsvamp som växer i täta klasar på stubbar. Kräver stor vaksamhet på grund av den dödligt giftiga gifthättingen.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd till utbredd, slät, ofta med svag puckel, hygrofan, i fuktig väderlek brun, annars brungul, bleknande från mitten, hattkant strimmig.
-- Skivor vidväxta till nedlöpande, ljusbruna till kanelbruna.
-- Fot ovanför ringen slät, blek, nedanför ringen brunfjällig, mörknande i brunt mot fotbasen.
-- Ring först blek, senare brunfärgad av nedfallande sporer.
+Den föränderliga tofsskivlingen har fått sitt namn för att hattens färg ändras kraftigt när den torkar.
 
-Växer oftast i täta klungor på stubbar av lövträd, men kan ibland påträffas på barrträdsstubbar och på stambaser av levande lövträd. Endast hattarna används i matlagningen då foten lätt blir seg och träig.
+- **Hatt:** Brun till brungul och tydligt **hygrofan**. Det betyder att den torkar inifrån och ut, vilket gör att hatten ofta är tvåfärgad: ljus i mitten och mörkare brun i kanten.
+- **Fot:** Det absolut viktigaste kännetecknet – foten är täckt av små **mörka utstående fjäll** (tofsar) nedanför ringen. Ovanför ringen är foten slät och ljus.
+- **Ring:** Har en tydlig ring (eller ringzon).
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
+Växer i stora, täta klungor på stubbar av lövträd (speciellt björk), men kan ibland även hittas på barrved. Mycket vanlig i hela landet.
 
-- Gifthätting - saknar fjäll på foten, giftig.
-- Honungsskivling - med fjällig hatt.
+## Matvärde
+
+En utmärkt matsvamp med fin smak. Man använder endast hattarna, då fötterna är sega och träiga.
+
+## Förväxlingsrisker - Livsviktigt!
+
+Denna svamp får **endast plockas av experter** på grund av likheten med en av våra giftigaste svampar.
+
+- **[Gifthätting](/svampar/galerina_marginata/):** **DÖDLIGT GIFTIG.** Växer också i klungor på stubbar.
+  - **Skillnad:** Gifthättingen har en **silkesfibrig fot** (ser ut som den har silvervita trådar på längden) men den saknar de utstående fjällen som den föränderliga tofsskivlingen har.
+- **[Honungsskivling](/svampar/armillaria/):** Har fjäll på **hatten** (tofsskivlingen har slät hatt men fjällig fot).
+
+**Regel:** Kontrollera foten på varenda svamp i klungan! Om du inte ser tydliga utstående fjäll på foten – kasta den.
+
+- **[Ringbitterskivling](/svampar/gymnopilus_junonius/):** Mycket större, har brunt sporpulver och smakar bittert.
+- **[Rökslöjskivling](/svampar/hypholoma_capnoides/):** Har grå skivor och växer på barrved. Ätlig.

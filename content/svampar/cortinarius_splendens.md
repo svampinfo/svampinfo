@@ -6,19 +6,30 @@ artfakta: "3729"
 slug: "cortinarius_splendens"
 edible: false
 poisonous: 2
-summary: "En vackert gul spindling som är mycket giftig (orellanin)."
+summary: "En lysande gul spindling som är lika giftig som den toppiga giftspindlingen. Växer i lövskog."
 image: "/images/cortinarius_splendens_01.jpg"
 gallery:
   - url: "/images/cortinarius_splendens_01.jpg"
     credit: '<a href="//commons.wikimedia.org/w/index.php?title=User:Thomasstjerne&amp;action=edit&amp;redlink=1" class="new" title="User:Thomasstjerne (page does not exist)">Thomas Stjernegaard Jeppesen</a>, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons'
 ---
 
-> En vackert gul spindling som är mycket giftig (orellanin).
+> En lysande gul spindling som är lika giftig som den toppiga giftspindlingen. Växer i lövskog.
 
-## Beskrivning
+## Kännetecken
 
-Hatten är svavelgul, ofta med rostbruna fläckar i mitten. Skivorna är gula. Köttet är gult. Växer med bok och ek.
+- **Färg:** Hela svampen är svavelgul eller kromgul. Hatten kan ha rödbruna inslag eller fjäll i mitten.
+- **Kött:** Gult.
+- **Skivor:** Gula.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-Kan förväxlas med andra gula svampar, men spindlingar har spindelvävsliknande rester (cortina) mellan hatt och fot som unga.
+Sällsynt art som växer i bokskogar i södra Sverige.
+
+## Giftighet
+
+Innehåller **orellanin** och orsakar dödliga njurskador.
+
+## Förväxlingsrisker
+
+- **Riddarmusseron:** Gulgrön, men har urnupna skivor (inte spindelvävshylle) och växer i barrskog.
+- **Andra gula spindlingar:** Det finns många, undvik alla.

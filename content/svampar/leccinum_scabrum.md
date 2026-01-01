@@ -7,25 +7,34 @@ slug: "leccinum_scabrum"
 edible: true
 poisonous: 0
 rating: 3
-summary: "Vanligt förekommande över hela landet och är därför ofta en av de första arterna matsvampplockare brukar lära sig."
+summary: "Den vanligaste strävsoppen. Brun hatt och oföränderligt vitt kött. Måste tillagas väl."
 image: "/images/leccinum_scabrum_01.jpg"
 gallery:
   - url: "/images/leccinum_scabrum_01.jpg"
     credit: ""
 ---
 
-> Vanligt förekommande över hela landet och är därför ofta en av de första arterna matsvampplockare brukar lära sig.
+> Den vanligaste strävsoppen. Brun hatt och oföränderligt vitt kött. Måste tillagas väl.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd, brun, slät, klibbig i fuktigt väder.
-- Rör vita, ofta med brunfläckade mynningar.
-- Fot vit, med mörkbruna till svarta fjäll.
-- Svampköttet är oförändrat vitt i snittytor.
+- **Hatt:** Gråbrun till mellanbrun, ofta slät och lite klibbig i väta.
+- **Fot:** Vit med tydliga **svarta/mörkbruna fjäll** (sträv).
+- **Kött:** Vitt och **ändrar inte färg** vid snitt (till skillnad från många andra strävsoppar som rodnar/svartnar). Det blir dock ofta väldigt mjukt och svampigt hos äldre exemplar.
 
-Hos äldre exemplar blir hattköttet ofta “svampigt” i konsistensen, och foten kan bli något träig. Ett tips är att du bara använder de yngre, mer fasta exemplaren till matlagning.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Växer med **björk** över hela landet.
 
-Strävsoppar är ett komplex med flera närstående arter som kan likna varandra mycket. Som matsvampplockare behöver du inte kunna skilja dem alla åt eftersom alla är ätliga.
-- [Tegelsopp](/svampar/leccinum_versipelle/) - har tegelröd hattfärg, kraftigare fot och fastare kött.
+## Matvärde
+
+God som ung och fast. Äldre exemplar blir ofta vattniga och sladdriga. **Kräver minst 15-20 minuters tillagning** för att undvika magbesvär.
+
+## Förväxlingsrisker
+
+- **[Tegelsopp](/svampar/leccinum_versipelle/):** Rödorange hatt, köttet svartnar.
+- **[Fläcksopp](/svampar/leccinum_variicolor/):** Fläckig hatt, köttet rodnar i fotbasen.
+
+* **[Kärrsopp](/svampar/leccinum_niveum/):** Ljusare/vitare hatt och växer fuktigare.
+
+* **[Hasselsopp](/svampar/leccinum_pseudoscabrum/):** Köttet svartnar vid snitt och den växer med hassel.

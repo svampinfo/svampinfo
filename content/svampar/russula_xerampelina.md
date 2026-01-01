@@ -7,25 +7,34 @@ slug: "russula_xerampelina"
 edible: true
 poisonous: 0
 rating: 5
-summary: "Sillkremlorna utgör ett komplex med flera olika arter. Alla är läckra matsvampar och här beskrivs av praktiska skäl deras gemensamma karaktärer."
+summary: "En grupp av kremlor som känns igen på sin doft av skaldjur och att de brunfläckas vid beröring. Delikatesser!"
 image: "/images/russula_xerampelina_01.jpg"
 gallery:
   - url: "/images/russula_xerampelina_01.jpg"
     credit: "[Ron Pastorino (Ronpast)](https://mushroomobserver.org/observer/show_user/9) at [Mushroom Observer](https://mushroomobserver.org), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
-> Sillkremlorna utgör ett komplex med flera olika arter. Alla är läckra matsvampar och här beskrivs av praktiska skäl deras gemensamma karaktärer.
+> En grupp av kremlor som känns igen på sin doft av skaldjur och att de brunfläckas vid beröring. Delikatesser!
 
-## Beskrivning
+## Kännetecken
 
-- Hatt som ung halvklotformad, med åldern välvd till utbredd och slutligen med nedsänkt mitt, klibbig i fuktig väderlek, med mycket varierande hattfärg beroende på art, en del är röda i olika mörka nyanser, andra går i olivgrönt till smutsbrunt.
-- Skivor urnupna, vita till gräddgula, vid tumning brunfläckiga.
-- Fot vit, ofta med inslag av rött.
-- Kött vitt, vid tumning och med åldern gulbrunt.
-- Lukt karaktäristisk, påminnande om skaldjur. Smak mild.
+Sillkremlor är egentligen flera olika arter som ser lite olika ut men delar samma unika egenskaper.
 
-Lukten kan vara svag hos unga ex. eller om fruktkropparna är kalla. Om du tar en bit av svampen och värmer i handen en stund så brukar lukten framträda. Sillkremlorna hör till de allra läckraste matsvamparna. Goda att dillstuva, de får en mjuk smak av skaldjur och passar utmärkt att blanda med andra kremlor.
+- **Doft:** Luktar tydligt av **silllake, krabba eller kokta skaldjur**. Doften blir starkare om svampen får ligga en stund.
+- **Färgförändring:** Om man skrapar på foten eller skivorna blir de **bruna** (gulbruna) efter en stund. Foten ser ofta lite smutsig ut pga detta.
+- **Hatt:** I barrskog är den ofta mörkröd med svart mitt (R. xerampelina). Det finns också gröna varianter.
+- **Smak:** Mild.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-- [Eksillkremla](/svampar/russula_graveolens/) - Växer med ek, hattfärgen går ofta mer åt violett och har vanligen något mattare hattyta.
+Vanlig sillkremla växer i barrskog (gran/tall). Den närstående **[Eksillkremlan](/svampar/russula_graveolens/)** växer med ek.
+
+## Matvärde
+
+En av de absolut godaste kremlorna. Skaldjursdoften försvinner vid tillagning och lämnar en mild, fyllig smak. Passar perfekt att steka eller stuva.
+
+## Förväxlingsrisker
+
+Inga farliga förväxlingar. Kombinationen av skaldjursdoft och brunfläckighet är unik.
+
+- **[Eksillkremla](/svampar/russula_graveolens/):** Växer med ek, har ofta en mer violett/brunlila hatt.

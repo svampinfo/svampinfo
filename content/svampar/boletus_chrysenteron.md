@@ -29,3 +29,5 @@ Växer med bok och ek i södra och mellersta Sverige. Ätlig men kan få något 
 
 - [Falsk rutsopp](/svampar/boletus_porosporus/) - dystrare färger, sällan röd i hattsprickor, ätlig.
 - Rödsopp - med röd hattfärg, sällsynt.
+
+* **[Sammetssopp](/svampar/boletus_subtomentosus/):** Saknar den röda färgen under hatthuden.

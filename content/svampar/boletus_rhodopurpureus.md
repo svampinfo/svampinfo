@@ -19,4 +19,3 @@ gallery:
 
 - [Falsk djävulssopp](/svampar/boletus_splendidus/) - blånar inte kraftigt på hattöversida efter beröring, giftig.
 - [Djävulssopp](/svampar/boletus_satanas/) - blånar inte kraftigt på hattöversida efter beröring, giftig.
-

@@ -7,7 +7,7 @@ slug: "agaricus_campestris"
 edible: true
 poisonous: 0
 rating: 3
-summary: "En av våra bästa matsvampar, god och vacker och växer i lättframkomlig terräng."
+summary: "Den klassiska champinjonen som växer i häxringar på gräsmattor och i hagar. En mycket uppskattad matsvamp."
 image: "/images/agaricus_campestris_01.jpg"
 gallery:
   - url: "/images/agaricus_campestris_01.jpg"
@@ -26,22 +26,27 @@ gallery:
     credit: "Emil Dörstling, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agaricus-campestris-gramberg-1913-pilzederheimatei00gram_0119.jpg)"
 ---
 
-> En av våra bästa matsvampar, god och vacker och växer i lättframkomlig terräng.
+Ängschampinjonen är arketypen för en vild champinjon. Den dyker ofta upp i stora mängder efter regn på eftersommaren och hösten.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt halvklotformad till utbredd, slät eller finfjällig, vit, som äldre ofta med grårosa ton mot kanten.
-- Skivor först rosa, med åldern brunsvarta.
-- Fot vit, ofta kortare än hattbredden hos utvuxna ex.
-- Ring tunn, faller lätt sönder och saknas ofta på äldre ex.
-- Svampkött vitt, ibland svagt rodnande.
+- **Hatt:** Vit och silkeslen, ibland med små fjäll. Som äldre kan den dra åt det grårosa hållet.
+- **Skivor:** Hos unga exemplar är skivorna vackert rosa. Med åldern mörknar de och blir chokladbruna till svarta (av sporerna).
+- **Ring:** Ringen är tunn och skör. Den försvinner ofta helt på äldre exemplar, eller lämnar bara en rest kvar på foten.
+- **Fot:** Vit och avsmalnande nedåt (till skillnad från många andra som är tjockare nedtill).
 
-Förekommer allmänt på gräsmattor och ängar – helst på hästbetade marker – över hela skandinavien. Kan i likhet med en del andra svamparter växa i stora ringar, dessa syns ofta på avstånd genom att gräset där svampen växer är mörkare grönt (s k älvringar el. häxringar).
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Som namnet antyder växer ängschampinjonen på ängar, i hagar (gärna hästhagar) och på gräsmattor. Den bildar ofta så kallade häxringar, där gräset växer kraftigare och blir mörkare grönt i en cirkel där svampmycelet frigör näring.
 
-- Ängschampinjonen är ganska typisk i sitt utseende och man lär sig ganska snart att känna igen den. Trots att svampköttet ibland inte rodnar i snitt så hör den till den grupp champinjoner som rodnar i köttet, här nedan är några andra ur samma grupp:
-- Strandängschampinjon - kraftigare och större, doftar annorlunda.
-- [Vägchampinjon](/svampar/agaricus_bitorquis/) - kraftigare och större, med dubbel ring, ätlig.
-- [Giftchampinjon](/svampar/agaricus_xanthoderma/) - gulnar omedelbart vid skrapning, giftig. Likheterna är inte speciellt slående men ändå förekommer varje år att folk plockar den livsfarliga vita flugsvampen i tron att det är en champinjon.
+## Matvärde
 
+En mycket god matsvamp som är mild och fin i smaken. Den passar utmärkt i såser, stuvningar eller bara smörstekt på en macka.
+
+## Förväxlingsrisker
+
+- **[Vit flugsvamp](/svampar/amanita_virosa/):** Den absolut viktigaste förväxlingsrisken. Vit flugsvamp är dödligt giftig. Kom ihåg: Flugsvampen har **alltid vita skivor** och en strumpa vid fotbasen. Ängschampinjonen har rosa/bruna skivor och ingen strumpa.
+- **[Giftchampinjon](/svampar/agaricus_xanthoderma/):** Gulnar kraftigt vid basen och luktar illa.
+- **[Snöbollschampinjon](/svampar/agaricus_arvensis/):** Större, gulnar vid tryck och doftar mandel. Ätlig.
+
+* **[Vägchampinjon](/svampar/agaricus_bitorquis/):** Har dubbel ring och växer ofta på hårdare mark.

@@ -6,22 +6,31 @@ artfakta: "239063"
 slug: "agaricus_praeclaresquamosus"
 edible: false
 poisonous: 1
-summary: "Kännetecknas av de gråsvarta små fjällen, att den snabbt gulnar vid skrapning, samt den obehagliga doften"
+summary: "En giftig champinjon med mörka, pärlhöns-liknande fjäll på hatten och en obehaglig doft av bläck."
 image: "/images/agaricus_moelleri_01.jpg"
 gallery:
   - url: "/images/agaricus_moelleri_01.jpg"
     credit: '<a href="https://en.wikipedia.org/wiki/User:Luridiformis" class="extiw" title="en:User:Luridiformis">Zonda Grattus</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
 ---
 
-> Kännetecknas av de gråsvarta små fjällen, att den snabbt gulnar vid skrapning, samt den obehagliga doften
+Pärlchampinjonen är en vacker men lömsk svamp. Den har tidigare kallats pärlhönschampinjon på grund av hattens mönster.
 
-## Beskrivning
+## Kännetecken
 
-- Hatten är välvd, i mitten gråsvart till brunsvart, mot kanten med blyertsgrå till brunsvarta små fjäll på vitgrå botten.
-- Hatt och fot får kromgula fläckar vid skrapning, fläckarna blir efterhand smutsbruna.
-- Skivorna är först gråvita, med åldern grårosa till brunsvarta.
-- Foten är vit, cylindrisk med uppsvälld bas.
-- Ringen är vit, ofta förtjockad i ytterkanten.
-- Lukten är obehaglig, beskriven såsom bläck, svett eller rutten halm.
+- **Hatt:** Täckt av små, mörkgrå till svarta fjäll mot en ljusare botten. Mittpartiet är ofta helt mörkt.
+- **Färgförändring:** Precis som sin släkting giftchampinjonen, gulnar den **kraftigt och omedelbart** (kromgult) om man skrapar på den, särskilt vid fotbasen eller på hattkanten.
+- **Lukt:** Luktar obehagligt, "kemiskt", som bläck, karbol eller fenol.
+- **Skivor:** Fria, först ljusa sedan mörka.
 
-Pärlchampinjon förekommer sällsynt främst i södra och mellersta Sveriges löv- och blandskogar. Svampen hette tidigare pärlhönschampinjon (A. meleagris), troligen för att översidan av hatten liknar fjäderdräkten hos en pärlhöna (Numididae- en afrikansk familj inom ordningen hönsfåglar).
+## Utbredning och Ekologi
+
+Förekommer i parker, lundar och lövskogar på näringsrik mark. Den är sällsynt och hittas främst i södra Sverige.
+
+## Giftighet
+
+Pärlchampinjonen innehåller samma gifter (fenolföreningar) som giftchampinjonen och orsakar illamående, kräkningar och magsmärtor. Den ska **inte** ätas.
+
+## Förväxlingsrisker
+
+- **[Kungschampinjon](/svampar/agaricus_augustus/):** Har guldbruna fjäll (inte gråsvarta), doftar mandel och är en god matsvamp.
+- **[Blodchampinjon](/svampar/agaricus_langei/):** Har bruna fjäll men rodnar (blir röd) vid snitt och doftar svamp/mandel.

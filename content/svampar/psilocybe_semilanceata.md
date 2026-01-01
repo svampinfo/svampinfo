@@ -7,7 +7,7 @@ slug: "psilocybe_semilanceata"
 edible: false
 poisonous: 1
 psychoactive: true
-summary: "En liten, toppig svamp som växer i gräsmattor. Narkotikaklassad."
+summary: "En liten, toppig svamp som växer i gräsmarker. Innehåller psilocybin och är narkotikaklassad i Sverige."
 image: "/images/psilocybe_semilanceata_01.jpg"
 gallery:
   - url: "/images/psilocybe_semilanceata_01.jpg"
@@ -26,12 +26,27 @@ gallery:
     credit: "© Gabriella Fjordmark Lerne, Sunhultsbrunn Artportalen"
 ---
 
-> En liten, toppig svamp som växer i gräsmattor. Narkotikaklassad.
+> En liten, toppig svamp som växer i gräsmarker. Innehåller psilocybin och är narkotikaklassad i Sverige.
 
-## Beskrivning
+## Kännetecken
 
-Hatten är liten, klockformad med en tydlig 'nippel' på toppen. Färgen är olivbrun till blekgul. Skivorna är mörka. Foten är smal och böjlig.
+- **Hatt:** Liten (0,5–2 cm), utpräglat konisk eller klockformad med en tydlig liten spetsig **vårta (nippel)** på toppen. Färgen är olivbrun till beige, och ytan blir klibbig i väta.
+- **Hattkant:** Ofta lite mörkare och svagt strimmig.
+- **Fot:** Mycket smal, seg och ofta krokig. Vid basen kan den ibland få en **blåaktig** ton vid skada.
+- **Skivor:** Mörkt bruna till nästan svarta hos vuxna exemplar.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-Förväxlas ofta med diverse hättingar, glansskivlingar och slåtterbroksskivling som växer i samma miljö.
+Växer på ogödslad gräsmark, naturbetesmarker, hagar och golfbanor under hösten (september-november). Den växer aldrig direkt på spillning, men gärna där djur har betat.
+
+## Giftighet och Laglig status
+
+Toppslätskivlingen innehåller den hallucinogena substansen **psilocybin**. Förtäring orsakar kraftiga perceptionstörningar och hallucinationer. Svampen är klassad som narkotika i Sverige, vilket innebär att det är olagligt att plocka, inneha eller sälja den.
+
+## Förväxlingsrisker
+
+Det finns många små bruna svampar i gräsmarker som kan vara svåra att skilja åt.
+
+- **Slåtterbroksskivling:** Har en mer rundad hatt utan spets och en rakare fot. Oätlig.
+- **Hättingar:** Ofta runda eller klockformade utan den typiska "nippeln" på toppen.
+- **[Gifttrattskivling](/svampar/clitocybe_dealbata/):** Vitaktig och har nedlöpande skivor. Mycket giftig.

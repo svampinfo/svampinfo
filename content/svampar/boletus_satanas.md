@@ -6,27 +6,38 @@ artfakta: "161"
 slug: "boletus_satanas"
 edible: false
 poisonous: 1
-summary: "Djävulssopp är en av de fyra giftiga sopparna vi har i landet. Den är sällsynt och endast känd från ett fåtal växtplatser på Öland och Gotland, samt på senare tid funnen i en lindallé i Uppsala."
+summary: "En stor, vacker men giftig sopp med vitgrå hatt och röd fot. Mycket sällsynt och fridlyst."
 image: "/images/rubroboletus_satanas_01.jpg"
 gallery:
   - url: "/images/rubroboletus_satanas_01.jpg"
     credit: 'Photo by <a href="//commons.wikimedia.org/wiki/User:Archenzo" title="User:Archenzo">Archenzo</a>. Northern <a href="//commons.wikimedia.org/wiki/Apennine_Mountains" title="Apennine Mountains">Apennine Mountains</a> (Appennino piacentino)., [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
 ---
 
-> Djävulssopp är en av de fyra giftiga sopparna vi har i landet. Den är sällsynt och endast känd från ett fåtal växtplatser på Öland och Gotland, samt på senare tid funnen i en lindallé i Uppsala.
+> En stor, vacker men giftig sopp med vitgrå hatt och röd fot. Mycket sällsynt och fridlyst.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd till utbredd, matt, silvergrå till nästan vit.
-- Rör gula, med blodröda rörmynningar (hos unga ex. citrongula).
-- Fot gul till röd, ofta vidgad mot basen, täckt av ett rött ådernät.
-- Kött vitt, i snittytor svagt blånande, med mild smak.
-- Lukt hos äldre ex. obehaglig.
+Djävulssoppen är en imponerande uppenbarelse men ska absolut inte ätas.
 
-Växer i lövskog på kalkrik mark. En värmekrävande art som i Sverige är beroende av bevarande av de få kända växtplatserna.
+- **Hatt:** Stor, massiv och **vitgrå** till silvergrå (som gammal kalksten).
+- **Rör:** Gula först, men porerna (mynningarna) blir snabbt **blodröda** till orangeröda. Blånar vid tryck.
+- **Fot:** Klumpig och tjock. Gul överst, men nedtill kraftigt karminröd med ett rött ådernät.
+- **Lukt:** Gammal svamp luktar obehagligt, som as eller ruttna lök.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
+Mycket sällsynt i Sverige. Den finns endast på Öland och Gotland (samt enstaka fynd i Mälardalen) och växer i varma lövängar med ek och lind på kalkgrund.
 
-- [Falsk djävulssopp](/svampar/boletus_splendidus/) - med rosa färgton och fläckar på hatten som äldre, doftar cikoria/buljong vid intorkning, giftig.
-- [Purpursopp](/svampar/boletus_rhodopurpureus/) - med gropig och ojämn hattöversida som blånar kraftigt vid beröring, giftig.
+## Giftighet
+
+Orsakar kraftiga mag- och tarmbesvär med kräkningar och diarré.
+
+## Förväxlingsrisker
+
+- **[Falsk djävulssopp](/svampar/boletus_splendidus/):** Också giftig och sällsynt. Har ofta rosa fläckar på hatten.
+- **[Blodsopp](/svampar/boletus_luridiformis/):** Ätlig. Har mörkbrun hatt (inte vitgrå) och saknar ådernät (har rödprickig fot).
+- **[Eldsopp](/svampar/boletus_luridus/):** Ätlig. Har också röd fot och röda rör, men hatten är brun/olivtonad, inte vitgrå.
+
+**Obs:** Djävulssopp är fridlyst (rödlistad) och ska inte plockas.
+
+- **[Purpursopp](/svampar/boletus_rhodopurpureus/):** Hatten blånar kraftigt vid beröring och är inte lika vitgrå.

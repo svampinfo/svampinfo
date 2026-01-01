@@ -1,12 +1,12 @@
 ---
 title: "Svavelmusseron"
-scientificName: "Tricholoma sulphureum/bryogenum"
+scientificName: "Tricholoma sulphureum"
 wikidata: "Q583388"
 artfakta: "245047"
 slug: "tricholoma_sulphureum"
 edible: false
 poisonous: 1
-summary: "En helt svavelgul musseron med stark, obehaglig doft."
+summary: "En helt svavelgul svamp som luktar starkt av lysgas eller bränd gummi."
 image: "/images/tricholoma_sulphureum_01.jpg"
 images: []
 gallery:
@@ -18,12 +18,25 @@ gallery:
     credit: "© Johan Lilja, Uppsala Artportalen"
 ---
 
-> En helt svavelgul musseron med stark, obehaglig doft.
+> En helt svavelgul svamp som luktar starkt av lysgas eller bränd gummi.
 
-## Beskrivning
+## Kännetecken
 
-Hela svampen är svavelgul. Luktar starkt av lysgas eller bränd gummi. Växer i lövskog.
+Det går knappt att ta miste på denna svamp om man använder näsan.
 
-## Förväxlingssvampar
+- **Färg:** Hela svampen (hatt, skivor, fot, kött) är **svavelgul**.
+- **Doft:** Mycket stark, stickande och obehaglig. Luktar som lysgas, tjära, bränd gummi eller aceton.
+- **Skivor:** Glesa och tjocka.
 
-Kan förväxlas med [riddarmusseron](/svampar/tricholoma_flavovirens/) (som har mild doft och inte är helt svavelgul).
+## Utbredning och Ekologi
+
+Växer främst i lövskog med ek och bok, men även i barrskog.
+
+## Giftighet
+
+Giftig och oätlig på grund av den vidriga smaken och lukten.
+
+## Förväxlingsrisker
+
+- **[Riddarmusseron](/svampar/tricholoma_flavovirens/):** Är också gul/grön, men har mild mjöldoft, tätare skivor och är vitare i köttet.
+- **[Bitter riddarmusseron](/svampar/tricholoma_aestuans/):** Gulgrön och lik, men saknar den starka gaslukten (luktar mer mjöl/unket) och smakar bittert.

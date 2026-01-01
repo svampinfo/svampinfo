@@ -7,26 +7,27 @@ slug: "suillus_grevillei"
 edible: true
 poisonous: 0
 rating: 2
-summary: "En vackert guldgul till rödbrun sopp som är vanlig vid lärkträd i skogar och parker."
+summary: "En färgstark sopp som lyser guldgul under lärkträd."
 image: "/images/suillus_grevillei_01.jpg"
 gallery:
   - url: "/images/suillus_grevillei_01.jpg"
     credit: '<a href="https://en.wikipedia.org/wiki/User:Luridiformis" class="extiw" title="en:User:Luridiformis">User:Luridiformis</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
 ---
 
-> En vackert guldgul till rödbrun sopp som är vanlig vid lärkträd i skogar och parker.
+> En färgstark sopp som lyser guldgul under lärkträd.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd, guldgul till rödbrun, slemmig i fuktig väderlek.
-- Rör gula, brunaktiga vid tumning, som unga täckta av ett gulaktigt hylle.
-- Fot gul till rödbrun, ofta något mörkare än hatten.
-- Ring vit till gulaktig.
-- Kött ljusgult, med mild doft och smak.
+- **Hatt:** Guldgul till orangeröd, mycket slemmig i fuktigt väder.
+- **Fot:** Gul ovanför ringen, rödbrun under.
+- **Ring:** Har en gulvit ring.
+- **Växtplats:** Denna svamp är en trogen följeslagare till **lärkträd** och hittas uteslutande under dessa (i parker, trädgårdar eller skogsplanteringar).
 
-Växer tillsammans med lärk och kan påträffas i hela Norden. Flå av hatthuden och skär bort den mörka delen av foten innan anrättning.
+## Matvärde
 
-## Förväxlingssvampar
+Ätlig, men den slemmiga hatten gör den lite kladdig att hantera. Hatthuden bör flås av. Smaken är mild men inte lika fin som hos smörsoppen.
 
-- [Smörsopp](/svampar/suillus_luteus/) - har smörgula rör och annan färg på hatt och fot, ätlig.
-- Rödbrun lärksopp - har en mörkare rödbrun hatt, troligen ätlig.
+## Förväxlingsrisker
+
+- **Grå lärksopp:** Gråvit hatt, växer också med lärk. Ätlig.
+- **[Smörsopp](/svampar/suillus_luteus/):** Växer med tall, brun hatt.

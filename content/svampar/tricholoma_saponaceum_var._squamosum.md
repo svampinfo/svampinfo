@@ -1,12 +1,12 @@
 ---
-title: "Tricholoma saponaceum var. squamosum"
+title: "Fjällig såpmusseron"
 scientificName: "Tricholoma saponaceum var. squamosum"
 wikidata: ""
 artfakta: "245039"
 slug: "tricholoma_saponaceum_var._squamosum"
 edible: false
 poisonous: 1
-summary: "En varietet av såpmusseron med fjällig hatt och fot. Oätlig."
+summary: "En variant av såpmusseron med mörkfjällig hatt och fot. Oätlig."
 image: "https://www.artportalen.se/MediaLibrary/2025/12/6a84fa21-5cab-43c3-9ccf-8c149df5a21b_image.jpg"
 images: []
 gallery:
@@ -24,12 +24,17 @@ gallery:
 
 > En varietet av såpmusseron med fjällig hatt och fot. Oätlig.
 
-## Beskrivning
+## Kännetecken
 
-Liknar den vanliga såpmusseronen men har tydligt mörkfjällig hatt och fot. Doftar såpa eller tvättstuga. Köttet rodnar ofta långsamt vid snitt.
+Detta är en form av [såpmusseron](/svampar/tricholoma_saponaceum/) som ser lite annorlunda ut.
 
-## Förväxlingssvampar
+- **Utseende:** Hatten är mörkgrå till svartgrå och tydligt **fjällig**. Även foten är ofta täckt av mörka fjäll eller tofsar.
+- **Gemensamt med huvudarten:** Den har samma typiska såpdoft och köttet rodnar vid snitt.
 
-Kan förväxlas med andra musseroner, men såpdoften är karaktäristisk.
+## Utbredning
 
-- [Såpmusseron](/svampar/tricholoma_saponaceum)
+Förekommer i liknande miljöer som huvudarten, ofta i barrskog.
+
+## Giftighet
+
+Lika oätlig/giftig som vanlig såpmusseron.

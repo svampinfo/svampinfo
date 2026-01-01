@@ -6,20 +6,30 @@ artfakta: "256756"
 slug: "ramaria_pallida"
 edible: false
 poisonous: 1
-summary: "En blek fingersvamp som kan orsaka magbesvär."
+summary: "En blek, giftig fingersvamp som växer i lövskog. Orsakar kraftiga magbesvär."
 image: "/images/ramaria_pallida_01.jpg"
 gallery:
   - url: "/images/ramaria_pallida_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:Wilder_Kaiser" class="mw-redirect" title="User:Wilder Kaiser">Bernie</a>, Public domain, via Wikimedia Commons'
 ---
 
+> En blek, giftig fingersvamp som växer i lövskog. Orsakar kraftiga magbesvär.
 
-> En blek fingersvamp som kan orsaka magbesvär.
+## Kännetecken
 
-## Beskrivning
+- **Färg:** Hela svampen är smutsvit, ljust beige eller blekt grågul. Den saknar de klara färgerna hos många andra fingersvampar.
+- **Form:** Grenad som en korall med en köttig fot.
+- **Smak:** Mild till svagt bitter.
 
-Fruktkroppen är förgrenad som en korall, blekt gräddfärgad eller ljust lilatonad. Grenspetsarna är ofta trubbiga. Köttet är vitt och smaken är mild till något besk.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Trivs i kalkrik mark, främst i lövskog med bok och ek. Sällsynt.
 
-Mycket lik ätliga fingersvampar, men den bleka färgen och växtplatsen (ofta bokskog eller ädellövskog) kan ge ledtrådar. Svår att artbestämma utan mikroskop.
+## Giftighet
+
+Giftig. Orsakar allvarliga mag- och tarmbesvär.
+
+## Förväxlingsrisker
+
+- **[Druvfingersvamp](/svampar/ramaria_botrytis/):** Har rosa toppar.
+- **[Blomkålssvamp](/svampar/sparassis_crispa/):** Har platta, krusiga blad, inte runda grenar.

@@ -7,24 +7,30 @@ slug: "lepista_personata"
 edible: true
 poisonous: 0
 rating: 3
-summary: "En stor och kraftig svamp med en vackert rödviolett fot."
+summary: "En ståtlig höstsvamp med en vackert violett fot som kontrasterar mot den ljusa hatten."
 image: "/images/lepista_personata_01.jpg"
 gallery:
   - url: "/images/lepista_personata_01.jpg"
-    credit: ''
+    credit: ""
 ---
 
-> En stor och kraftig svamp med en vackert rödviolett fot.
+> En ståtlig höstsvamp med en vackert violett fot som kontrasterar mot den ljusa hatten.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd till utbredd, beige till blekt brungrå.
-- Skivor urnupna, med samma färg som hatten.
-- Fot kraftig, ofta kortare än hattdiametern, vackert rödviolett.
+- **Fot:** Svampens mest slående drag – foten är kraftig och tydligt **violett eller rödviolett**.
+- **Hatt:** Beige, ljust brungrå eller läderfärgad. Den är torr och slät.
+- **Skivor:** Samma färg som hatten, blekt beigebruna.
 
-Växer i gräs på betesmarker, trädgårdar och glesa lövskogar i södra och mellersta Sverige. Ätlig men kan i likhet med blåmusseronen orsaka illamående om den inte kokas av innan anrättning. Bildar häxringar.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Växer främst i gräsmark, som betesmarker, hagar, parker och trädgårdar. Den bildar ofta stora häxringar. Vanlig i södra och mellersta Sverige.
 
+## Matvärde
 
-- [Blåmusseron](/svampar/lepista_nuda/) - har ej rödviolett fot, matsvamp.
+En mycket bra matsvamp med fast kött. Precis som blåmusseronen bör den tillagas väl.
+
+## Förväxlingsrisker
+
+- **[Blåmusseron](/svampar/lepista_nuda/):** Är lila överallt (även på hatten).
+- **Violetta spindlingar:** Har brunt sporpulver och en cortina (spindelnät) under hatten som ung.

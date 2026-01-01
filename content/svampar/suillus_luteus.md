@@ -7,27 +7,38 @@ slug: "suillus_luteus"
 edible: true
 poisonous: 0
 rating: 4
-summary: "Populär matsvamp vanlig över hela Norden. De vackert smörgula rören i kombination med den tunna hudartade ringen gör den lätt att känna igen. Den slemmiga hatthuden bör tas bort innan anrättning."
+summary: "En av våra mest populära matsvampar. Chokladbrun hatt, smörgula rör och en tydlig ring."
 image: "/images/suillus_luteus_01.jpg"
 gallery:
   - url: "/images/suillus_luteus_01.jpg"
     credit: "walt sturgeon (Mycowalt), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
-> Populär matsvamp vanlig över hela Norden. De vackert smörgula rören i kombination med den tunna hudartade ringen gör den lätt att känna igen. Den slemmiga hatthuden bör tas bort innan anrättning.
+> En av våra mest populära matsvampar. Chokladbrun hatt, smörgula rör och en tydlig ring.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd, slemmig i fuktig väderlek, brun, ofta med grålila ton.
-- Rör som unga gulvita och täckta av ett hudartat hylle, som äldre gula.
-- Fot vit till gulvit, ovanför ringen grynig.
-- Ring kraftig, som ung vit, med åldern mörknande och försvinner ibland helt.
-- Kött gulvitt, med mild smak och doft.
+Smörsoppen är lätt att känna igen och en säker nybörjarsvamp.
 
-Växer med tall och trivs längs sandiga skogsvägar och på tallhedar i hela Norden. Bör plockas vid torr väderlek när den inte är så slemmig. Ta endast små och fasta ex. då den som äldre ofta blir lös och oaptitlig i konsistensen. Flå av hatthuden innan tillredning, gärna redan i skogen. Ta också bort rören om de känns mjuka och svampiga.
+- **Hatt:** Mörkt chokladbrun (ibland med violett ton). Klibbig till mycket slemmig.
+- **Rör:** Ljusgula till smörgula, täckta av ett vitt hylle (hinna) hos helt unga exemplar.
+- **Ring:** Har en tydlig, hängande ring på foten som är vit som ung men mörknar till violettbrun/svart av sporer.
+- **Fot:** Vitaktig ovanför ringen, brunaktig under.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-- [Grynsopp](/svampar/suillus_granulatus/) - saknar ring, god matsvamp.
-- Slemsopp - har en slemring kring den tunna foten, rörmynnigarna är större och kantigare och ej smörgula.
-- [Lärksopp](/svampar/suillus_grevillei/) - har guldgul till rödbrun hattfärg, ej smörgula rör, matsvamp.
+Mycket vanlig i hela landet. Växer med **tall**, ofta i gräs, längs stigar och i skogsbryn.
+
+## Matvärde
+
+En utmärkt matsvamp. Det är viktigt att **flå av den slemmiga hatthuden** innan tillagning (gärna redan i skogen), annars blir svampstuvningen slemmig och kan hos känsliga personer verka laxerande. Utan skinnet är den fast och fin.
+
+## Förväxlingsrisker
+
+- **[Grynsopp](/svampar/suillus_granulatus/):** Ljusare hatt, saknar ring. Lika god.
+- **[Örsopp](/svampar/suillus_bovinus/):** Saknar ring, har stora kantiga porer och segt kött.
+- **Pepparsopp:** Liten, saknar ring, har rödaktiga porer och smakar peppar.
+
+* **[Citronslemskivling](/svampar/gomphidius_glutinosus/):** Har skivor (inte rör) och knallgul fotbas.
+
+* **[Lärksopp](/svampar/suillus_grevillei/):** Mer guldgul/orange och växer under lärk.

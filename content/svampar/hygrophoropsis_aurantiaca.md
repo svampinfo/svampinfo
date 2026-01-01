@@ -7,7 +7,7 @@ slug: "hygrophoropsis_aurantiaca"
 edible: false
 poisonous: 0
 rating: 0
-summary: "Kantarellens tråkiga kusin. Ser ut som en kantarell vid första anblick, men saknar smak och matvärde."
+summary: "En vanlig svamp som ofta luras genom att likna kantarellen. Saknar matvärde men är inte giftig."
 image: "/images/hygrophoropsis_aurantiaca_01.jpg"
 gallery:
   - url: "/images/hygrophoropsis_aurantiaca_01.jpg"
@@ -20,28 +20,25 @@ gallery:
     credit: "[Jason Hollinger](https://www.flickr.com/people/7147684@N03), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2007-08-05_Omphalotus_illudens_(Schwein.)_Bresinsky_%26_Besl_1018098506.jpg)"
 ---
 
-> Kantarellens tråkiga kusin. Ser ut som en kantarell vid första anblick, men saknar smak och matvärde.
+> En vanlig svamp som ofta luras genom att likna kantarellen. Saknar matvärde men är inte giftig.
 
-## Beskrivning
+## Kännetecken
 
-Narrkantarellen är svampvärldens största besvikelse.
-Många nybörjare får hjärtat i halsgropen när de ser den orangea färgen i mossan,
-men glädjen blir kortvarig.
+Narrkantarellen har fått sitt namn för att den "narrar" (lurar) plockare att tro att de hittat riktiga kantareller.
 
-- **Hatt:** Orange till rödgul, ofta mörkare i mitten. Trattformad med inrullad kant som ung.
-- **Undersida:** Har tunna, gaffelgrenade **skivor** (inte tjocka åsar som kantarellen). Skivorna är intensivt orangea.
-- **Fot:** Tunn och mjuk.
-- **Kött:** Mjukt, svampigt och sladdrigt – som gummi.
+- **Hatt:** Orange till rödgul, ofta mörkare i mitten. Trattformad.
+- **Undersida:** Har tunna, tättsittande och gaffelgrenade **skivor**. Detta är den största skillnaden mot den äkta kantarellen som har tjocka, fastvuxna åsar. Skivorna är oftast starkare orangea än resten av svampen.
+- **Kött:** Mjukt, svampigt och lite segt (som gummi). Den äkta kantarellen är mycket fastare.
 
-**Växtplats:** Växer ofta på murken ved (stubbar, rötter) eller i barrförna.
+## Utbredning och Ekologi
+
+Växer ofta på murken ved, stubbar eller i barrförna. Den är mycket vanlig i hela landet.
 
 ## Matvärde
 
-Även om den inte är giftig, räknas den inte som matsvamp.
+Svampen är inte giftig men betraktas som oätlig eller saknar matvärde. Den smakar nästan ingenting och har en otrevlig, seg konsistens.
 
-- **Smak:** Smakar ingenting eller svagt av jord.
-- **Konsistens:** Seg och svampig.
+## Förväxlingsrisker
 
-## Förväxlingssvampar
-
-- **[Kantarell](/svampar/cantharellus_cibarius/):** Äkta kantarell är fastare, äggul (inte rödorange) och har **åsar** (rynkor) under hatten, samt doftar aprikos.
+- **[Kantarell](/svampar/cantharellus_cibarius/):** Äkta kantarell är äggul (inte rödorange), har **åsar** (rynkor) istället för skivor, är fastare i köttet och doftar gott av aprikos.
+- **Lysmaskgång:** En liten orange svamp som växer på barr.

@@ -7,38 +7,38 @@ slug: "boletus_edulis"
 edible: true
 poisonous: 0
 rating: 5
-summary: "Kungen av soppar. En matig delikatess som är lätt att känna igen och älska."
+summary: "En av Sveriges populäraste matsvamp. En stor, fast sopp med nötaktig smak och vitt ådernät på foten."
 image: "/images/boletus_edulis_01.jpg"
 gallery:
   - url: "/images/boletus_edulis_01.jpg"
     credit: "Ak ccm, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
-> Kungen av soppar. En matig delikatess som är lätt att känna igen och älska.
+> En av Sveriges populäraste matsvamp. En stor, fast sopp med nötaktig smak och vitt ådernät på foten.
 
-## Beskrivning
+## Kännetecken
 
-Karljohan (eller Stensopp) är mångas favorit i skogen. Den är stor, fast och matig med en fantastisk nötaktig smak.
+Karljohan, eller stensopp som den egentligen heter, är kungen av matsvampar.
 
-*   **Hatt:** Bullig och "bakat" brun (som en vägräddad småkaka). Kanten har ofta en tunn vit rand. Ytan blir lite klibbig i regn.
-*   **Rör:** På undersidan finns rör (som en tvättsvamp). De är först vita (på unga fasta ex), sedan gula och slutligen gulgröna på gamla svampar.
-*   **Fot:** Kraftig och ofta bukmageformad. Det viktigaste kännetecknet är det **ljusa, finmaskiga ådernätet** högst upp på foten (ser ut som ett vitt nylonnät mot den ljusbruna foten).
-*   **Kött:** Vitt och fast. Luktar milt och gott (nöt/hasselnöt).
+- **Hatt:** Välvd, ofta liknande en bakad bulle. Färgen varierar från ljusbrun till mörkbrun. Kanten har ofta en tunn vit rand längst ut. Ytan är något klibbig i fuktigt väder.
+- **Rör:** Först vita och fasta (proppade), sedan gula och slutligen gulgröna och mjuka. De blånar **inte** vid tryck.
+- **Fot:** Kraftig, ofta bukig eller klubbformad. Färgen är ljusbrun till vit. Överst på foten finns ett **fint, vitt ådernät** (ser ut som ett nätstrumpa).
+- **Kött:** Vitt och fast, "stenhårt" hos unga exemplar. Mild, nötaktig doft och smak.
 
-**Växtplats:** Trivs i både barr- och lövskog över hela landet. Vissa år ("Karljohan-år") fullkomligt exploderar skogen av dem.
+## Utbredning och Ekologi
+
+Förekommer i nästan hela landet i både barr- och lövskog. Den lever i symbios med många trädslag, främst gran, men även björk, bok och ek.
 
 ## Matvärde
 
-En absolut toppsvamp!
-*   **Tillagning:** Passar till allt – stekning, stuvning, soppor, pasta och risotto.
-*   **Torkning:** Karljohan är den ultimata torksvampen. Smaken koncentreras och blir ännu mustigare. Skiva tunt och torka.
-*   **Obs:** Köttet kan ibland bli svagt grönaktigt vid upphettning. Det är helt normalt och ofarligt.
+En femstjärnig matsvamp. Den går att använda till allt: stuvning, soppa, sås, pasta eller risotto. Den är också en av de absolut bästa svamparna att torka, då smaken koncentreras.
 
-## Förväxlingssvampar
+## Förväxlingsrisker
 
-Den enda "faran" är att få med en **Gallsopp**. Den är inte giftig, men smakar så beskt att den förstör maten.
-*   **Gallsopp:** Har ett **mörkt** ådernät på foten (Karljohan har ljust). Rören blir **rosa** med åldern (Karljohans blir gula/gröna). Smaka en liten bit på tungan om du är osäker – gallsopp smakar genast illa.
+- **Gallsopp:** Den viktigaste förväxlingen. Gallsoppen har **rosa** porer (som äldre), ett **mörkt** ådernät på foten och smakar vidrigt beskt. Smaka en liten bit på tungan och spotta ut – gallsopp smakar galla direkt.
+- **[Finluden stensopp](/svampar/boletus_reticulatus/):** Lika god. Har finluden hatt och växer med ek/bok.
+- **[Brunsopp](/svampar/boletus_badius/):** Blånar vid tryck, saknar ådernät. Mycket god.
 
-Andra soppar:
-*   **[Finluden stensopp](/svampar/boletus_reticulatus/):** Lika god.
-*   **[Brunsopp](/svampar/boletus_badius/):** Saknar ådernät, blånar svagt vid tryck. Mycket god matsvamp.
+* **[Gallsopp](/svampar/tylopilus_felleus/):** Smakar beskt, har rosa porer och mörkt ådernät.
+
+* **[Rödbrun stensopp](/svampar/boletus_pinophilus/):** Mörkare rödbrun hatt, växer med tall. Lika god.

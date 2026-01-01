@@ -7,7 +7,7 @@ slug: "hygrophorus_karstenii"
 edible: true
 poisonous: 0
 rating: 3
-summary: "Ätlig men ej omtyckt av alla."
+summary: "En vacker vaxskivling med vit hatt och äggula skivor. God matsvamp."
 image: "/images/hygrophorus_karstenii_01.jpg"
 gallery:
   - url: "/images/hygrophorus_karstenii_01.jpg"
@@ -20,4 +20,24 @@ gallery:
     credit: "© Michael Krikorev, Artportalen"
 ---
 
-> Ätlig men ej omtyckt av alla.
+> En vacker vaxskivling med vit hatt och äggula skivor. God matsvamp.
+
+## Kännetecken
+
+- **Hatt:** Vit till gräddvit, slät och torr.
+- **Skivor:** Mycket vackra, **äggula till ljust orange**. De är glesa, tjocka och nedlöpande.
+- **Fot:** Vit, ofta med en gul ton mot basen.
+
+## Utbredning och Ekologi
+
+Växer i mossig barrskog (gran och tall). Den är vanligast i mellersta och norra Sverige.
+
+## Matvärde
+
+En god matsvamp som ger en fin färg i svampblandningen.
+
+## Förväxlingsrisker
+
+Inga direkta dubbelgångare. Kombinationen vit hatt och gula vaxartade skivor är unik.
+
+- **[Blek kantarell](/svampar/cantharellus_pallens/):** Har åsar istället för skivor.

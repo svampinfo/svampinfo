@@ -7,17 +7,32 @@ slug: "lactarius_sanguifluus"
 edible: true
 poisonous: 0
 rating: 5
-summary: "Påminner om tallblodriska, men skiljer sig tydligast från denna genom sin vinröda saft. Växer i Sverige främst på Gotland."
+summary: "En sällsynt delikatessriska med mörkröd, vinliknande saft."
 image: "/images/lactarius_sanguifluus_01.jpg"
 gallery:
   - url: "/images/lactarius_sanguifluus_01.jpg"
     credit: ""
 ---
 
-> Påminner om tallblodriska, men skiljer sig tydligast från denna genom sin vinröda saft. Växer i Sverige främst på Gotland.
+> En sällsynt delikatessriska med mörkröd, vinliknande saft.
 
-## Förväxlingssvampar
+## Kännetecken
 
-- Blodriska - blöder en morotsfärgad saft vid färska skador, god matsvamp.
-- [Tallblodriska](/svampar/lactarius_deliciosus/) - blöder en morotsfärgad saft vid färska skador, god matsvamp.
-- [Grönfläckig vinriska](/svampar/lactarius_semisanguifluus/) - med en morotsfärgad saft som blir vinröd först efter 5-10 minuter, sällsynt.
+Vinriskan är en nära släkting till tallblodriskan men skiljer sig genom saftens färg.
+
+- **Saft:** Blöder en **mörkt vinröd** saft direkt vid brytning (till skillnad från tallblodriskan som blöder orange).
+- **Hatt:** Ofta blekare orange eller grårosa, ibland med grönaktiga fläckar.
+- **Smak:** Mild.
+
+## Utbredning och Ekologi
+
+Mycket sällsynt på fastlandet men förekommer på **Gotland** i kalkrika tallskogar.
+
+## Matvärde
+
+En förstklassig matsvamp som kan stekas direkt.
+
+## Förväxlingsrisker
+
+- **[Tallblodriska](/svampar/lactarius_deliciosus/):** Blöder orange saft.
+- **[Granblodriska](/svampar/lactarius_deterrimus/):** Blöder orange saft och växer med gran.

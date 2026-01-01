@@ -7,27 +7,33 @@ slug: "agaricus_bitorquis"
 edible: true
 poisonous: 0
 rating: 1
-summary: "Ätlig men rekommenderas ej som matsvamp, främst beroende på att växtplatsen ofta är trafikförorenade vägkanter."
+summary: "En tuff champinjon som kan bryta sig igenom asfalt. Känns igen på sin dubbla ring och hårda växtplats."
 image: "/images/agaricus_bitorquis_01.jpg"
 gallery:
   - url: "/images/agaricus_bitorquis_01.jpg"
-    credit: 'Nathan Wilson, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
+    credit: "Nathan Wilson, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
-> Ätlig men rekommenderas ej som matsvamp, främst beroende på att växtplatsen ofta är trafikförorenade vägkanter.
+Vägchampinjonen är en stadsbo. Den är känd för sin otroliga kraft att kunna växa upp genom hårt packad jord och till och med asfalt.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt halvklotformad, smutsvit, ofta med tillplattad eller nedsänkt mitt, som äldre ofta gulfläckig vid beröring.
-- Hattkant inrullad, ofta även som äldre.
-- Skivor mycket täta, först ljust köttröda, med åldern brunsvarta.
-- Fot kompakt, av samma färg som hatten.
-- Ring dubbel, den övre kraftigast och strimmig på ovansidan.
-- Svampkött vitt, ibland svagt rodnande, lukten är som färsk något syrlig, som intorkad med dragning åt buljongtärning.
+- **Hatt:** Smutsvit och ofta platt eller lite nedsänkt i mitten. Kanten är ofta inrullad länge.
+- **Ring:** Har en tydlig **dubbel ring** (därav namnet _bitorquis_), vilket ser ut som två ringar eller en tjock ring med en skåra i.
+- **Fot:** Kort och mycket kompakt.
+- **Kött:** Fast och hårt. Rodnar något vid snitt.
 
-Växer främst på naken jord eller i gräs vid vägkanter, trädgårdar och parker i södra och mellersta Sverige. Ibland kan man se vägchampinjon längs våra vägar spränga upp genom asfalten.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Denna art hittas uteslutande på näringsrik, hård mark. Vägkanter, parker, vid gatusträd och genom asfaltsprickor i städer.
 
+## Matvärde
 
-- Strandängschampinjon - har enkel ring och en annorlunda doft.
+Även om vägchampinjonen tekniskt sett är en god matsvamp (betyg 3 rent smakmässigt), dras betyget ner (betyg 1) på grund av växtplatsen. Eftersom den nästan alltid växer vid trafikerade vägar eller i stadsmiljö, tar den upp avgaser, tungmetaller och hundkiss. Den rekommenderas därför sällan som matsvamp om den inte hittas på en garanterat ren plats.
+
+## Förväxlingsrisker
+
+- **[Ängschampinjon](/svampar/agaricus_campestris/):** Har enkel ring och växer i gräs, inte på hårdgjord mark.
+- **Strandängschampinjon:** Växer nära havet och har en annorlunda doft.
+
+* **[Trädgårdschampinjon](/svampar/agaricus_bisporus/):** Har enkel ring och växer ofta på fetare jord (komposter/trädgårdar).

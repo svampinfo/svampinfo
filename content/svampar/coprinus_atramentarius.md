@@ -6,24 +6,30 @@ artfakta: "3436"
 slug: "coprinus_atramentarius"
 edible: false
 poisonous: 1
-summary: "Klassisk förväxlingssvamp till fjällig bläcksvamp. Kan orsaka förgiftning tillsammans med alkohol."
+summary: "En vanlig bläcksvamp som växer i täta tuvor. Mycket speciell då den blir giftig i kombination med alkohol."
 image: "/images/coprinopsis_atramentaria_01.jpg"
 gallery:
   - url: "/images/coprinopsis_atramentaria_01.jpg"
     credit: "James Lindsey, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
-> Klassisk förväxlingssvamp till fjällig bläcksvamp. Kan orsaka förgiftning tillsammans med alkohol.
+> En vanlig bläcksvamp som växer i täta tuvor. Mycket speciell då den blir giftig i kombination med alkohol.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt som ung utdraget äggformad, som äldre klockformad, silvergrå till brungrå med små brunaktiga fjäll mot mitten, ofta med sprucken hattkant.
-- Skivor som unga gråvita, med åldern övergående i svart och upplösta i en bläckliknande vätska.
-- Fot ihålig, vit, ofta med en ringliknande zon ovanför den tillspetsade fotbasen.
+- **Hatt:** Äggformad som ung, senare klockformad. Färgen är blygrå till brungrå, ofta med små fjäll i mitten. Kanten spricker ofta upp när svampen mognar.
+- **Skivor:** Sitter mycket tätt. Först gråvita, men förvandlas snabbt till en svart, flytande "bläckmassa" när sporerna mognar (autolys).
+- **Fot:** Vit och ihålig.
 
-Växer ofta i tuvor eller mindre grupper vid murkna stubbar och på gräsmattor. Förekommer i hela Norden.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Växer i täta klungor på gräsmattor, i parker, vägkanter och vid gamla lövträdsstubbar. Mycket vanlig i hela landet.
 
-- [Fjällig bläcksvamp](/svampar/coprinus_comatus/) - vit, med fransiga fjäll, god matsvamp.
-- Puckelbläcksvamp - med tydlig puckel, oätlig. Ibland urskiljs en brun form som en egen art Coprinus fuscescens (Schaeff.).
+## Giftighet - Koprineffekten
+
+Den grå bläcksvampen innehåller ämnet **koprin**. Detta ämne blockerar kroppens förmåga att bryta ner alkohol. Om man dricker alkohol i samband med att man ätit svampen (eller upp till flera dagar efteråt) drabbas man av en s.k. antabuseffekt: ansiktsrodnad, hjärtklappning, huvudvärk och illamående. Utan alkohol är svampen ätlig, men på grund av denna risk avråds den numera som matsvamp.
+
+## Förväxlingsrisker
+
+- **[Fjällig bläcksvamp](/svampar/coprinus_comatus/):** Vitare, större och täckt av tydliga, fransiga fjäll. En utmärkt matsvamp som inte innehåller koprin.
+- **Gyttrad bläcksvamp:** Mycket mindre och växer i ännu tätare klungor på stubbar.

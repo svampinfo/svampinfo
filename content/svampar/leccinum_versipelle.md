@@ -6,24 +6,33 @@ artfakta: "245485"
 slug: "leccinum_versipelle"
 edible: true
 poisonous: 0
-rating: 3
-summary: "Vacker och god matsvamp som ofta är mer fast i konsistensen än många andra strävsoppar."
+rating: 4
+summary: "En av de vackraste och fastaste strävsopparna. Tegelröd hatt och svarta tofsar på foten. Måste tillagas väl!"
 image: "/images/leccinum_versipelle_01.jpg"
 gallery:
   - url: "/images/leccinum_versipelle_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:LC-de" title="User:LC-de">Jörg Hempel</a>, [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en), via Wikimedia Commons'
 ---
 
-> Vacker och god matsvamp som ofta är mer fast i konsistensen än många andra strävsoppar.
+> En av de vackraste och fastaste strävsopparna. Tegelröd hatt och svarta tofsar på foten. Måste tillagas väl!
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd, orange till rödbrun, slät, ibland småfjällig.
-- Hatthud överhängande (hänger någon mm utanför hattkanten).
-- Rör smutsvita, något mörkare hos yngre ex.
-- Fot vit, kraftig, med svarta tofsar (fjäll).
-- Kött vitt, rodnar strax och övergår sedan till nästan svart.
+- **Hatt:** Klart tegelröd eller gulorange. Hatthuden hänger ofta ner lite över kanten.
+- **Fot:** Vit med tydliga **svarta** tofsar/fjäll.
+- **Kött:** Vitt och fast. Vid snitt rodnar det först för att sedan övergå till violettgrått och slutligen svart.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-Vi har minst 15 arter av strävsoppar (släktet Leccinum) i Norden. Alla är ätliga så du behöver inte lära dig skilja alla åt, men de ska alltid tillagas ordentligt, minst 15-20 minuters värmebehandling eftersom råa och otillräckligt tillagade strävsoppar kan orsaka illamående.
+Mycket vanlig i hela landet, växer med **björk**.
+
+## Matvärde
+
+Tegelsoppen är fastare i köttet än den vanliga björksoppen och därför en bättre matsvamp. **OBS:** Den innehåller ämnen som är magretande. Den **MÅSTE tillagas i minst 15-20 minuter** (stekas eller kokas). Rå eller halvrå tegelsopp leder garanterat till magsjuka.
+
+## Förväxlingsrisker
+
+- **[Aspsopp](/svampar/leccinum_rufum/):** Har vita/bruna tofsar på foten (inte svarta) och växer med asp.
+- **[Tallsopp](/svampar/leccinum_vulpinum/):** Växer med tall.
+
+* **[Björksopp](/svampar/leccinum_scabrum/):** Brun hatt, köttet svartnar inte.

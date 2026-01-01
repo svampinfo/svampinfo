@@ -3,23 +3,34 @@ title: "Riddarmusseron"
 scientificName: "Tricholoma equestre"
 wikidata: "Q312756"
 artfakta: "245050"
-slug: "tricholoma_flavovirens"
+slug: "tricholoma_equestre"
 edible: false
 poisonous: 1
-summary: "Gulgrön musseron som tidigare var matsvamp men nu misstänks vara giftig."
-image: "/images/tricholoma_flavovirens_01.jpg"
+summary: "Tidligere ansedd som en delikatess, men nu klassad som giftig efter rapporter om allvarliga muskelskador."
+image: "/images/tricholoma_equestre_01.jpg"
 gallery:
-  - url: "/images/tricholoma_flavovirens_01.jpg"
-    credit: 'Unknown, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
+  - url: "/images/tricholoma_equestre_01.jpg"
+    credit: "Unknown, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
 ---
 
+> Tidigare ansedd som en delikatess, men nu klassad som giftig efter rapporter om allvarliga muskelskador.
 
-> Gulgrön musseron som tidigare var matsvamp men nu misstänks vara giftig.
+## Kännetecken
 
-## Beskrivning
+Riddarmusseronen är en senhöstsvamp.
 
-Hatten är gul till gulgrön, ofta med små fjäll. Skivorna är svavelgula. Smaken är mild och mjölaktig. Har kopplats till fall av rhabdomyolys.
+- **Hatt:** Gulgrön till brungul, ofta lite klibbig och med små fjäll i mitten.
+- **Skivor:** Lysande svavelgula.
+- **Fot:** Gul.
+- **Smak:** Mild och mjölaktig.
 
-## Förväxlingssvampar
+## Giftighet
 
-Kan förväxlas med kantmusseron (som har vitare skivor och växer med tall) eller [svavelmusseron](/svampar/tricholoma_sulphureum/) (som luktar illa).
+Länge såldes riddarmusseron på torget som matsvamp (under namnet "Grönling"). Men efter en serie förgiftningsfall i Frankrike och Polen, där människor som ätit stora mängder drabbades av **rhabdomyolys** (sönderfall av muskelceller) som ledde till njursvikt och död, har den omklassats. Det verkar krävas stora mängder eller upprepad konsumtion, men Livsmedelsverket avråder helt från att äta den.
+
+## Förväxlingsrisker
+
+- **Kantmusseron:** Har ljusare (vita) skivor och växer med tall.
+- **[Svavelmusseron](/svampar/tricholoma_sulphureum/):** Luktar starkt och illa (gas/gummi).
+
+* **[Streckmusseron](/svampar/tricholoma_portentosum/):** Mörkgrå hatt med svarta streck. God matsvamp.

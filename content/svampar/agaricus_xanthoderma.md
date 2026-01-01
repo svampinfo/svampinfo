@@ -6,28 +6,39 @@ artfakta: "2947"
 slug: "agaricus_xanthoderma"
 edible: false
 poisonous: 1
-summary: "Ser ut som en vanlig champinjon men luktar bläck och gulnar ilsket."
+summary: "Den svarta fåret i familjen. Känns igen på den otrevliga doften av bläck/karbol och att den gulnar kraftigt vid fotbasen."
 image: "/images/agaricus_xanthoderma_01.jpg"
 gallery:
   - url: "/images/agaricus_xanthoderma_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:Velella" class="mw-userlink" title="User:Velella">Velella</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
 ---
 
-> Ser ut som en vanlig champinjon men luktar bläck och gulnar ilsket.
+Giftchampinjonen är den art som förstör ryktet för champinjonerna. Den orsakar många förgiftningsfall varje år eftersom den är så lik de ätliga arterna.
 
-## Beskrivning
+## Kännetecken
 
-Giftchampinjonen är den elaka kusinen i champinjonfamiljen. Den är inte dödlig, men orsakar kraftigt illamående och magproblem. Det luriga är att den ser precis ut som en ätlig champinjon – tills du testar den.
+Det finns två bombsäkra sätt att avslöja en giftchampinjon:
 
-*   **Utseende:** Vit hatt och vita/grårosa skivor (som mörknar med tiden). Ring på foten.
-*   **Varningstecken 1 (Färg):** Om du skrapar på fotbasen (längst ner) gulnar den **omedelbart och kraftigt** (kromgult). Färgen försvinner sedan och blir gråaktig. (Ätliga snöbollschampinjoner kan gulna lite långsamt, men inte alls lika ilsket).
-*   **Varningstecken 2 (Lukt):** Den luktar illa! Doften beskrivs som bläck, fenol, karbol eller sjukhus. Lukten blir mycket tydligare om du steker svampen (eller kör den i mikron).
+1.  **Färgtestet:** Skrapa med nageln eller en kniv längst ner på fotbasen. Giftchampinjonen blir **omedelbart kromgul** i skrapet. Färgen är intensiv och ljusnar senare till grått/brunt. (Ätliga champinjoner kan gulna, men långsammare och mer halmgult/mässingsfärgat).
+2.  **Lukt:** Den luktar **inte** mandel eller svamp, utan har en obehaglig, kemisk doft som påminner om bläck, fenol, karbol eller sjukhus. Lukten förstärks kraftigt vid upphettning – så om du steker champinjoner och det börjar lukta illa i köket, släng dem!
 
-**Växtplats:** Parker, trädgårdar och gräsmattor.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Växer i parker, trädgårdar, på kyrkogårdar och i gräsmark. Ofta på kulturpåverkad mark.
 
-*   **[Snöbollschampinjon](/svampar/agaricus_arvensis/):** Luktar gott (anis/mandel) och gulnar bara svagt/långsamt.
-*   **[Vit flugsvamp](/svampar/amanita_virosa/):** Dödligt giftig! Har **helvita** skivor (champinjoner har färgade skivor) och strumpa.
+## Giftighet
 
-**Tumregel:** Luktar champinjonen "kemiskt" eller bläck? Kasta den. Gulnar fotbasen knallgult direkt? Kasta den.
+Orsakar mag- och tarmbesvär som illamående, kräkningar och diarré. Besvären kan vara kraftiga men går oftast över. Vissa personer verkar tåla den bättre än andra, men den ska betraktas som giftig för alla.
+
+## Förväxlingsrisker
+
+Kan förväxlas med alla vita ätliga champinjoner, t.ex.:
+
+- **[Snöbollschampinjon](/svampar/agaricus_arvensis/)**
+- **[Knölchampinjon](/svampar/agaricus_sylvicola/)**
+- **[Ängschampinjon](/svampar/agaricus_campestris/)**
+
+* **[Trädgårdschampinjon](/svampar/agaricus_bisporus/):** Har brunaktiga fjäll (ofta) och rodnar svagt.
+* **[Vit kungschampinjon](/svampar/agaricus_macrosporus/):** Mycket stor, gulnar svagt men luktar mandel.
+
+Men ingen av dessa uppvisar den snabba, kromgula färgförändringen eller den obehagliga lukten.

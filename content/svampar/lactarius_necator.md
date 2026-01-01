@@ -6,7 +6,7 @@ artfakta: "4747"
 slug: "lactarius_necator"
 edible: false
 poisonous: 1
-summary: "En mörk, olivgrön riska som måste avkokas. Innehåller necatorin."
+summary: "En mörk, olivgrön riska som tidigare ansågs vara en matsvamp men nu misstänks vara cancerogen."
 image: "https://www.artportalen.se/MediaLibrary/2025/10/e0e9ddb7-8e75-4c0e-b32c-247171a4cdc3_image.jpg"
 gallery:
   - url: "https://www.artportalen.se/MediaLibrary/2025/10/e0e9ddb7-8e75-4c0e-b32c-247171a4cdc3_image.jpg"
@@ -17,12 +17,24 @@ gallery:
     credit: "© Lennart Iselius, Hägersten Artportalen"
 ---
 
-> En mörk, olivgrön riska som måste avkokas. Innehåller necatorin.
+> En mörk, olivgrön riska som tidigare ansågs vara en matsvamp men nu misstänks vara cancerogen.
 
-## Beskrivning
+## Kännetecken
 
-Hatten är mörkt olivgrön till svartgrön, ofta klibbig och med luden kant. Mjölksaften är vit men grånar vid torkning. Smaken är skarp.
+Svartriskan är en stor, robust och mörk svamp.
 
-## Förväxlingssvampar
+- **Hatt:** Mörkt olivgrön till svartgrön, ofta med zoner. Ytan är slemmig i väta. Kanten är inrullad och luden hos unga exemplar.
+- **Saft:** Vit, men grånar vid intorkning och gör att hela svampen svartnar vid hantering.
+- **Smak:** Skarp.
 
-Svår att förväxla tack vare sin mörka färg och ludna kant.
+## Utbredning och Ekologi
+
+Mycket vanlig i hela landet, ofta i granskog eller under björkar.
+
+## Giftighet
+
+Svartriskan innehåller ämnet **necatorin**, som har visat sig vara mutagent (kan skada DNA) i laboratorietester. Den avråds därför numera som matsvamp, trots att den traditionellt ätits efter avkokning. Många svampexperter anser att det är säkrast att undvika den helt.
+
+## Förväxlingsrisker
+
+Tack vare sin mörka, olivgröna färg och storlek är den svår att förväxla med andra arter.

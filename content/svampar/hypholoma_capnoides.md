@@ -7,26 +7,34 @@ slug: "hypholoma_capnoides"
 edible: true
 poisonous: 0
 rating: 3
-summary: "En ganska anonym stubbsvamp som kan förekomma i stora mängder på murkna stubbar och stockar i barrskog."
+summary: "En av våra godaste stubbsvampar. Växer på barrved och känns igen på sina rökgrå skivor och milda smak."
 image: "/images/hypholoma_capnoides_01.jpg"
 gallery:
   - url: "/images/hypholoma_capnoides_01.jpg"
     credit: "Lone Glerup, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
-> En ganska anonym stubbsvamp som kan förekomma i stora mängder på murkna stubbar och stockar i barrskog.
+> En av våra godaste stubbsvampar. Växer på barrved och känns igen på sina rökgrå skivor och milda smak.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd till plan, gul till gulbrun med mörkare mitt, som ung med tunna rester av ett inre hylle längs hattkanten.
-- Skivor som unga gulvita, med åldern rökgrå med violett ton.
-- Fot gulvit, mörkare rödbrun mot fotbasen, upptill ofta med tunna rester av det inre hyllet som så småningom färgas svart av sporerna.
-- Kött gulvitt, med mild smak påminnande om färska gröna ärtor.
+Rökslöjskivlingen växer ofta i stora, täta tuvor.
 
-Växer i täta grupper på murkna stubbar och stockar av barrträd (ibland björk). Ofta är hattarna rökfärgade av de nedfallande sporerna. God matsvamp, men använd endast hattar och övre delen av foten då den nedre delen ofta blir träig i konsistensen.
+- **Hatt:** Gulbrun till honungsgul, ofta med en lite mörkare mitt. Slät yta.
+- **Skivor:** Det säkraste tecknet! De är först vitaktiga men blir snart **rökgrå** (ofta med en violett ton). De saknar helt gula eller gröna inslag.
+- **Smak:** Mild och god, påminner om gröna ärter.
+- **Växtplats:** Växer nästan uteslutande på stubbar och rötter av **barrträd** (gran och tall).
 
-## Förväxlingssvampar
+## Matvärde
 
-- [Svavelgul slöjskivling](/svampar/hypholoma_fasciculare/) - med bitter smak och gulgröna skivor, giftig.
-- Tegelröd slöjskivling - med bitter smak och tegelröd hatt, giftig.
-- Gul flamskivling - brunsporig.
+En utmärkt matsvamp som tyvärr ofta glöms bort. Den passar perfekt i stuvningar eller soppor. Man bör endast plocka hattarna eftersom foten är seg och träig.
+
+## Förväxlingsrisker - Viktigt!
+
+- **[Svavelgul slöjskivling](/svampar/hypholoma_fasciculare/):** **Giftig.** Denna har **gulgröna** skivor och smakar brännande **bittert**. Den växer oftast på lövträ (men kan finnas på barrved).
+- **Tegelröd slöjskivling:** Har en tegelröd hatt och smakar också bittert.
+- **[Föränderlig tofsskivling](/svampar/pholiota_mutabilis/):** Växer också på stubbar men har bruna skivor och fjällig fot.
+
+**Regel:** Smaka alltid på en liten bit av hatten om du är osäker. Rökslöjskivling är mild, de giftiga är bittra.
+
+- **[Vinterskivling](/svampar/flammulina_velutipes/):** Har sammetsluden fot och växer på vintern. God matsvamp.

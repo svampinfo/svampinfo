@@ -6,24 +6,33 @@ artfakta: "3622"
 slug: "cortinarius_gentilis"
 edible: false
 poisonous: 1
-summary: "Liten och gracil skivling som bör betraktas som giftig."
+summary: "En liten, rödbrun spindling med gula band på foten. Giftig."
 image: "/images/cortinarius_gentilis_01.jpg"
 gallery:
   - url: "/images/cortinarius_gentilis_01.jpg"
     credit: '<a rel="nofollow" class="external text" href="https://mushroomobserver.org/observer/show_user/442">Irene Anderson</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
 ---
 
-> Liten och gracil skivling som bör betraktas som giftig.
+> En liten, rödbrun spindling med gula band på foten. Giftig.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt klocklik till välvd, ofta med en liten spets eller puckel, hygrofan, rödbrun, i torka gulbrun.
-- Hattkant ofta med gula velumrester.
-- Skivor gulbruna till rostbruna, ganska glesa.
-- Fot lång, smal, ofta krokig, gulbrun till rödbrun med gula velumbälten.
+En liten och spenslig spindling.
 
-Gulbandad spindling förekommer allmänt över hela landet i mossig blåbärsgranskog och lingontallskog.
+- **Hatt:** Rödbrun, hygrograf (bleknar vid torka till gulbrun). Ofta med en liten spetsig puckel.
+- **Fot:** Lång och smal. Den har otydliga, gula sicksack-band (velumrester) på den bruna foten.
+- **Skivor:** Glesa, gulbruna.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-- [Toppig giftspindling](/svampar/cortinarius_rubellus/) - med mörkare skivor och mattare hatt, mycket giftig.
+Mycket vanlig i mager barrskog över hela landet, ofta i mossa eller bland lav.
+
+## Giftighet
+
+Innehåller gifter som kan skada njurarna (orellanin har påvisats i små mängder). Ska betraktas som giftig.
+
+## Förväxlingsrisker
+
+Kan likna en miniatyr av [toppig giftspindling](/svampar/cortinarius_rubellus/), vilket gör det extra viktigt att undvika alla bruna spindlingar.
+
+- **[Lokspindling](/svampar/cortinarius_callisteus/):** Större och har en mycket speciell doft av "ånglok" eller ozon.

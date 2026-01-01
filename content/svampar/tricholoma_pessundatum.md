@@ -6,7 +6,7 @@ artfakta: "6277"
 slug: "tricholoma_pessundatum"
 edible: false
 poisonous: 1
-summary: "En rödbrun musseron som ofta växer i tallskog. Orsakar magförgiftning."
+summary: "En rödbrun musseron med 'vattendroppar' på hatten. Orsakar magbesvär."
 image: "/images/tricholoma_pessundatum_01.jpg"
 gallery:
   - url: "/images/tricholoma_pessundatum_01.jpg"
@@ -19,12 +19,23 @@ gallery:
     credit: "© Andrea Nordenstreng, Norsborg Artportalen"
 ---
 
-> En rödbrun musseron som ofta växer i tallskog. Orsakar magförgiftning.
+> En rödbrun musseron med "vattendroppar" på hatten. Orsakar magbesvär.
 
-## Beskrivning
+## Kännetecken
 
-Hatten är rödbrun, ofta klibbig och med en ljusare kant. Foten är vitaktig till bruntonad. Doftar mjöl men smakar ofta mjölaktigt med en bitter eftersmak.
+- **Hatt:** Rödbrun, klibbig och glänsande. Ofta har den mörkare, runda fläckar som ser ut som **vattendroppar** (därav namnet).
+- **Fot:** Vitaktig till bruntonad.
+- **Smak:** Mjölaktig men ofta med en bitter eftersmak.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-Liknar andra bruna musseroner som [kastanjemusseron](/svampar/tricholoma_albobrunneum/), men droppmusseron har ofta fläckar på hatten ('droppar').
+Växer med tall, ofta på sandig mark eller gräsbevuxna ytor.
+
+## Giftighet
+
+Klassad som giftig då den orsakar illamående och kräkningar.
+
+## Förväxlingsrisker
+
+- **[Kastanjemusseron](/svampar/tricholoma_albobrunneum/):** Har en tydlig vit ringzon på foten.
+- **Kragmusseron:** Har en tydlig ringzon och strumpa.

@@ -7,25 +7,32 @@ slug: "suillus_granulatus"
 edible: true
 poisonous: 0
 rating: 4
-summary: "Läcker matsvamp som gärna växer med tall och trivs på lite kalkrikare marker."
+summary: "En läcker matsvamp som liknar smörsoppen men saknar ring. Växer gärna på kalkrik mark med tall."
 image: "/images/suillus_granulatus_01.jpg"
 gallery:
   - url: "/images/suillus_granulatus_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:Holleday" class="mw-userlink" title="User:Holleday">Holger Krisp</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
 ---
 
-> Läcker matsvamp som gärna växer med tall och trivs på lite kalkrikare marker.
+> En läcker matsvamp som liknar smörsoppen men saknar ring. Växer gärna på kalkrik mark med tall.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd, slemmig i fuktig väderlek, brungul till rödbrun.
-- Rör som unga gulvita, ofta med vätskedroppar, som äldre gula.
-- Fot vitgul, utan ring, upptill med små grynlika ljusa prickar som med åldern blir bruna.
-- Kött gulvitt, med mild smak och doft.
+Grynsoppen är mycket lik smörsoppen men är enklare att rensa eftersom den saknar ring.
 
-Växer med tall, gärna längs skogsvägar, föredrar kalkrikare marker. Bör plockas i torr väderlek när den inte är så slemmig. Flå av hatthuden innan anrättning, och använd endast fasta ex. till mat.
+- **Hatt:** Gulbrun till rödbrun, slemmig i väta.
+- **Fot:** Gulvit, **utan ring**. Den har istället små, vita gryn (prickar) högst upp på foten som ”svettas” ut små vätskedroppar hos unga exemplar.
+- **Rör:** Ljusgula.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-- [Örsopp](/svampar/suillus_bovinus/) - har skumgummikonsistens och mörkare rör, ätlig.
-- [Smörsopp](/svampar/suillus_luteus/) - har ring på foten, god matsvamp.
+Växer med **tall**, gärna på kalkrik mark, i gräsmattor, parker och skogsbryn.
+
+## Matvärde
+
+En mycket god matsvamp, i klass med smörsopp. Hatthuden är slemmig och kan ge en lös konsistens i pannan, så den bör dras bort före tillagning (enklast att göra direkt i skogen eller med en kniv).
+
+## Förväxlingsrisker
+
+- **[Smörsopp](/svampar/suillus_luteus/):** Har en tydlig **ring** på foten. Lika god.
+- **[Örsopp](/svampar/suillus_bovinus/):** Har stora, oregelbundna porer och segt kött.

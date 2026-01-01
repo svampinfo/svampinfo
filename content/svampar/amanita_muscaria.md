@@ -7,34 +7,35 @@ slug: "amanita_muscaria"
 edible: false
 poisonous: 1
 psychoactive: true
-summary: "Skogens vackraste varningssignal. Mytomspunnen, giftig och lätt att känna igen."
+summary: "Skogens mest ikoniska svamp. Vacker men giftig och hallucinogen."
 image: "/images/amanita_muscaria_01.jpg"
 gallery:
   - url: "/images/amanita_muscaria_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:Onderwijsgek" title="User:Onderwijsgek">Onderwijsgek</a>, [CC BY-SA 3.0 nl](https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en), via Wikimedia Commons'
 ---
 
-> Skogens vackraste varningssignal. Mytomspunnen, giftig och lätt att känna igen.
+> Skogens mest ikoniska svamp. Vacker men giftig och hallucinogen.
 
-## Beskrivning
+## Kännetecken
 
-Röd flugsvamp är sinnebilden av en svamp. Den är inte dödligt giftig på samma sätt som vit eller lömsk flugsvamp, men innehåller ibotensyra och muscimol som påverkar nervsystemet och ger hallucinationer, illamående och kramper.
+Få svampar är så lätta att känna igen som röd flugsvamp.
 
-*   **Hatt:** Lysande röd (ibland orangeblek) med vita "prickar". Dessa prickar är rester av det hylle som skyddade svampen som ung. **Obs:** Prickarna kan regna bort!
-*   **Skivor:** Vita och fria.
-*   **Fot:** Vit med en tydlig ring.
-*   **Fotbas:** Uppsvälld, med kransar av vårtor (rester av strumpan).
-*   **Kött:** Vitt, men med en gul rand precis under det röda hattskinnet.
+- **Hatt:** Klarröd till orange (kan blekna med åldern). Täckt av vita, lösa "prickar" (hyllerester) som kan regna bort.
+- **Skivor:** Vita och fria.
+- **Fot:** Vit, med en tydlig hängande ring som ofta är tandad i kanten.
+- **Fotbas:** Uppsvälld till en knöl, omgiven av flera kransar av vårtor (rester av strumpan).
 
-**Växtplats:** Mycket vanlig i hela Sverige, i både barr- och lövskog. Växer ofta tillsammans med björk och gran.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Mycket allmän i hela Sverige. Den bildar mykorrhiza (svamprotsymbios) med både lövträd (speciellt björk) och barrträd (gran och tall). Den dyker ofta upp rikligt på hösten.
 
-Normalt sett är den omöjlig att ta fel på. Faran uppstår om de vita prickarna regnat bort och svampen ser helt röd ut.
+## Giftighet
 
-*   **[Storkremla](/svampar/russula_paludosa/) & [Sillkremla](/svampar/russula_xerampelina/):** Dessa är goda matsvampar med röd hatt. Skillnaden är:
-    *   **Kremlor:** Har *ingen* ring på foten, *ingen* strumpa/valk vid basen, och foten är spröd som krita.
-    *   **Flugsvamp:** Har ring, fotbas med kransar, och trådig fot.
-*   **Kejsarflugsvamp:** En sydeuropeisk delikatess (mycket sällsynt) som har *gula* skivor och *gul* fot. Röd flugsvamp har alltid vita skivor/fot.
+Röd flugsvamp innehåller ibotensyra och muscimol, ämnen som påverkar nervsystemet. Förgiftning leder till yrsel, förvirring, hallucinationer, muskelryckningar och i värsta fall medvetslöshet. Den är sällan dödlig för friska vuxna, men mycket farlig för barn och husdjur.
 
-**Visste du att:** Vikingarnas bärsärkar har (troligen felaktigt) ryktats äta denna för att gå bärsärkagång. I verkligheten blir man mest förvirrad och illamående.
+## Förväxlingsrisker
+
+Tack vare sin färg är den svår att blanda ihop med matsvampar, förutsatt att prickarna sitter kvar.
+
+- **[Kejsarflugsvamp](/svampar/amanita_caesarea/):** En eftertraktad matsvamp som _inte_ finns i Sverige (men i Sydeuropa). Den har gul fot och gula skivor.
+- **Röda kremlor (t.ex. [Domherrekremla](/svampar/russula/)):** Har ingen ring, ingen strumpa och foten går av tvärt som en krita. Röd flugsvamp har trådig fot.

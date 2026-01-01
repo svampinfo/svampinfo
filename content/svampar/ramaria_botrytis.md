@@ -7,29 +7,35 @@ slug: "ramaria_botrytis"
 edible: true
 poisonous: 0
 rating: 4
-summary: "Vacker art som är lätt igenkänd på sina druvblåa fingertoppar. Färgen mattas dock av med åldern, och kan hos gamla exemplar försvinna helt."
+summary: "En vacker, koralliknande svamp med rosa grentoppar. En god matsvamp som ung."
 image: "/images/ramaria_botrytis_01.jpg"
 gallery:
   - url: "/images/ramaria_botrytis_01.jpg"
     credit: '<ul><li><a href="//commons.wikimedia.org/wiki/File:2010-09-17_Ramaria_botrytis.jpg" title="File:2010-09-17 Ramaria botrytis.jpg">2010-09-17_Ramaria_botrytis.jpg</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/7147684@N03">Jason Hollinger</a></li> <li>derivative work: <a href="//commons.wikimedia.org/w/index.php?title=User:Ak_ccm&amp;action=edit&amp;redlink=1" class="new" title="User:Ak ccm (page does not exist)">Ak ccm</a></li></ul>, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons'
 ---
 
-> Vacker art som är lätt igenkänd på sina druvblåa fingertoppar. Färgen mattas dock av med åldern, och kan hos gamla exemplar försvinna helt.
+> En vacker, koralliknande svamp med rosa grentoppar. En god matsvamp som ung.
 
-## Beskrivning
+## Kännetecken
 
-- 10-15 cm hög, stammen är köttig, vit, uppåt övergående i ett busklikt grenverk.
-- Grenarna är ljusa, och har rosa till rödvioletta, trubbiga toppar.
-- Svampköttet är vitt.
-- Smaken är mild, i grentopparna ofta något besk.
+Druvfingersvampen liknar en bit vit korall eller ett litet blomkålshuvud.
 
-Kommentar: Mycket god matsvamp. Liksom blomkålssvamp är den jättegod att fritera. Förekommer främst i södra sveriges bokskogar, men växer även i mossig barr- och blandskog (gärna med ek) upp till mellersta sverige. Med åldern blir smaken besk, varför endast unga exemplar med fräscht rödvioletta toppar bör plockas.
+- **Form:** Mycket kraftig och köttig stam som delar upp sig i täta grenar.
+- **Toppar:** Grentopparna är trubbiga och vackert **rosa, rödvioletta eller vinröda** (liknar små druvklasar). Med åldern bleknar färgen och blir mer ockragul.
+- **Kött:** Vitt och fast.
+- **Smak:** Mild, men grentopparna kan ha en svagt bitter eftersmak.
 
+## Utbredning och Ekologi
 
-**Kommentar**
+Växer främst i äldre bokskogar i södra Sverige, men kan även hittas i mossig barrskog (gärna med inslag av ek). Den är ganska sällsynt.
 
-Elias Fries döpte denna art till “Rödletta Bockskäggs-svampen” i ett verk utkommet 1836.
+## Matvärde
 
-## Förväxlingssvampar
+En mycket god matsvamp som passar perfekt att fritera eller steka i smör. Endast unga exemplar med fräscha rosa toppar bör plockas, då äldre svampar ofta blir beska och kan ha en laxerande effekt.
 
-Äldre druvfingersvampar som bleknat i grentopparna, kan förväxlas med [blek fingersvamp](/svampar/ramaria_pallida/), som har spetsiga grentoppar med svagt rödlila ton, och en svagt bitter smak. Den är svagt giftig, och kan orsaka illamående och tillfälliga mag-tarmbesvär.
+## Förväxlingsrisker
+
+Fingersvampar är en svår grupp att artbestämma.
+
+- **[Lömsk fingersvamp](/svampar/ramaria_formosa/):** **Giftig.** Denna har rosa grenar men **gula toppar** och en vit fot (tre färger). Smakar bittert.
+- **[Blek fingersvamp](/svampar/ramaria_pallida/):** **Giftig.** Är helt blekt grågul eller smutsvit utan de rosa topparna.

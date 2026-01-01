@@ -7,27 +7,32 @@ slug: "russula_claroflava"
 edible: true
 poisonous: 0
 rating: 3
-summary: "Karaktäriseras av sin klargula hattfärg, milda smak och att köttet grånar."
+summary: "En klargul kremla som växer fuktigt med björk. Kännetecknas av att köttet grånar."
 image: "/images/russula_claroflava_01.jpg"
 gallery:
   - url: "/images/russula_claroflava_01.jpg"
     credit: "[Ron Pastorino (Ronpast)](https://mushroomobserver.org/observer/show_user/9) at [Mushroom Observer](https://mushroomobserver.org), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
-> Karaktäriseras av sin klargula hattfärg, milda smak och att köttet grånar.
+> En klargul kremla som växer fuktigt med björk. Kännetecknas av att köttet grånar.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt som ung halvklotformad, med åldern välvd till utbredd och slutligen med nedsänkt mitt, klibbig i fuktig väderlek, klargul till blekgul.
-- Skivor vita till gräddgula, med åldern grånande.
-- Fot vit, grånande med åldern.
-- Kött vitt, grånande med åldern.
+- **Hatt:** Lysande citrongul eller kromgul.
+- **Kött:** Vitt, men **grånar** (blir svartgrått) vid snitt eller med åldern. Detta är ett nyckelkännetecken som skiljer den från många andra gula kremlor.
+- **Skivor:** Vita till gräddgula, grånar också.
+- **Smak:** Mild.
 
-Växer med björk, helst på fuktig mark.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Växer alltid med **björk**, och föredrar fuktig mark. Man hittar den ofta ikanten av myrar eller i fuktiga björkskogar.
 
-- [Äggkremla](/svampar/russula_lutea/) - mindre, med gulare skivor, ej grånande, ätlig.
-- Senapskremla - smutsgul hattfärg, mer eller mindre skarp, oätlig.
-- Gallkremla - ej enhetligt gul, växer i bokskog, skarp, oätlig.
-- Solkremla (R. solaris) och citronkremla (R. raoultii) är ytterligare 2 gula arter, men dessa är mindre i storleken och skarpa i smaken.
+## Matvärde
+
+En god matsvamp som dock blir tråkigt mörk/grå vid tillagning. Smaken är det dock inget fel på.
+
+## Förväxlingsrisker
+
+- **Gallkremla:** Gulaktig, men smakar brännande skarpt.
+- **Senapskremla:** Smutsgul, smakar skarpt.
+- **[Äggkremla](/svampar/russula_lutea/):** Liten, mörkare gul (äggula), grånar inte.

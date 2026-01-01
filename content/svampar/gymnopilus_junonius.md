@@ -6,7 +6,7 @@ artfakta: "4246"
 slug: "gymnopilus_junonius"
 edible: false
 poisonous: 1
-summary: "Stor och ståtlig svamp som växer i klungor på lövved. Bitter smak."
+summary: "En stor och praktfull gulorange svamp som växer på stubbar. Smakar mycket bittert."
 image: "https://www.artportalen.se/MediaLibrary/2025/10/84e74de0-9af0-446c-baad-fc7d0f2fb14f_image.jpg"
 images: []
 gallery:
@@ -24,12 +24,21 @@ gallery:
     credit: "© Marie Wallén, Mölndal Artportalen"
 ---
 
-> Stor och ståtlig svamp som växer i klungor på lövved. Bitter smak.
+> En stor och praktfull gulorange svamp som växer på stubbar. Smakar mycket bittert.
 
-## Beskrivning
+## Kännetecken
 
-Hatten är guldgul till orangebrun, ofta med fjäll. Har en tydlig ring på foten. Smaken är mycket bitter.
+- **Storlek:** Kraftig och stor, hatten kan bli upp till 20 cm bred.
+- **Hatt:** Guldgul till orangebrun, ofta med små fjäll.
+- **Fot:** Robust, ofta med en tydlig ring.
+- **Smak:** Extremt **bitter**. Det räcker att smaka en liten bit på tungan för att känna det.
+- **Växtplats:** Växer i stora klasar på stubbar och rötter av lövträd (t.ex. ek).
 
-## Förväxlingssvampar
+## Giftighet
 
-Kan vid hastigt påseende likna honungsskivling, men ringbitterskivlingen är större, kraftigare och har brunt sporpulver (honungsskivling har vitt).
+Oätlig på grund av den bittra smaken. I vissa delar av världen (utanför Europa) finns varianter som rapporterats vara hallucinogena, men de europeiska exemplaren anses enbart oätliga/svagt giftiga.
+
+## Förväxlingsrisker
+
+- **Honungsskivling:** Kan likna den vid första anblick, men honungsskivlingen är mindre och har vitt sporpulver (ringbitterskivlingens är rostbrunt).
+- **[Föränderlig tofsskivling](/svampar/pholiota_mutabilis/):** Mindre, har fjällig fot och är en god matsvamp.

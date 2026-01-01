@@ -6,20 +6,26 @@ artfakta: "2071"
 slug: "tricholoma_bresadolianum"
 edible: false
 poisonous: 1
-summary: "En sällsynt, fjällig musseron som växer med ek. Oätlig/giftig."
+summary: "En sällsynt, grå och fjällig musseron som växer med ek. Smakar bittert."
 image: "/images/tricholoma_bresadolianum_01.jpg"
 gallery:
   - url: "/images/tricholoma_bresadolianum_01.jpg"
     credit: "[James Baker (cepecity)](https://mushroomobserver.org/observer/show_user/354) at [Mushroom Observer](https://mushroomobserver.org), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
+> En sällsynt, grå och fjällig musseron som växer med ek. Smakar bittert.
 
-> En sällsynt, fjällig musseron som växer med ek. Oätlig/giftig.
+## Kännetecken
 
-## Beskrivning
+- **Hatt:** Mörkgrå och luden/fjällig.
+- **Fot:** Har ofta mörka tofsar eller fjäll, särskilt mot basen.
+- **Smak:** Bitter och skarp.
 
-Hatten är gråsvart och fjällig. Foten har ofta mörka tofsar eller fjäll. Smaken är bitter eller skarp.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Sällsynt art som växer i lövskog, knuten till ek.
 
-Liknar [gallmusseron](/svampar/tricholoma_virgatum/) och [streckmusseron](/svampar/tricholoma_portentosum/), men växer i lövskog och har mörkare fjäll på foten.
+## Förväxlingsrisker
+
+- **[Jordmusseron](/svampar/tricholoma_terreum/):** Grå och filtad men har mild smak och växer i barrskog.
+- **[Gallmusseron](/svampar/tricholoma_virgatum/):** Växer i barrskog och är slätare/trådigare.

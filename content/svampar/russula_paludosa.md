@@ -7,24 +7,33 @@ slug: "russula_paludosa"
 edible: true
 poisonous: 0
 rating: 3
-summary: "En av våra allra största kremlor som kan få en hattbredd på 20 cm."
+summary: "En stor, ståtlig och röd matsvamp som är vanlig i våra barrskogar."
 image: "/images/russula_paludosa_01.jpg"
 gallery:
   - url: "/images/russula_paludosa_01.jpg"
     credit: '<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161101052126/http://www.panoramio.com/user/1100550?with_photo_id=111290464">Henk Monster</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
 ---
 
-> En av våra allra största kremlor som kan få en hattbredd på 20 cm.
+> En stor, ståtlig och röd matsvamp som är vanlig i våra barrskogar.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt som ung halvklotformad, med åldern välvd till utbredd och slutligen med nedsänkt mitt, slät, svagt klibbig i fuktig väderlek, klarröd till äppelröd.
-- Skivor urnupna till vidväxta, vita till svagt gräddfärgade, ibland med röd egg.
-- Fot vit, ofta med inslag av rött.
-- Kött vitt, med mild smak, hos unga ex. är smaken ofta något skarp.
+Storkremlan är, som namnet antyder, ofta större än andra kremlor.
 
-Växer i barrskog över hela Norden. God matsvamp.
+- **Hatt:** Klarröd, äppelröd eller blodröd. Glänsande.
+- **Fot:** Vit, men har nästan alltid en vacker **rosa** rodnad på en del av foten.
+- **Skivor:** Vita som unga, men blir smörgula/ockra med åldern.
+- **Smak:** Mild.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-Det finns många kremlor med röd hattfärg, en del oätliga och en del ätliga. En klassisk oätlig förväxlingssvamp är [giftkremla](/svampar/russula_emetica/), som är brännande skarp i smaken.
+Trivs i barrskog, gärna lite fuktigare marker som i kanten av myrar eller i blåbärsriset.
+
+## Matvärde
+
+En bra matsvamp som ger mycket mat tack vare sin storlek.
+
+## Förväxlingsrisker
+
+- **[Giftkremla](/svampar/russula_emetica/):** Är oftast mindre, har helvit fot (ingen rosa ton) och **kritvita** skivor även som äldre. Smaken är brännande skarp.
+- **[Tegelkremla](/svampar/russula_decolorans/):** Har mer orange/tegelröd hatt och köttet grånar.

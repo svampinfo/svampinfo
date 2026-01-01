@@ -7,31 +7,32 @@ slug: "agaricus_sylvicola"
 edible: true
 poisonous: 0
 rating: 4
-summary: "En snöbollschampinjon med uppsvälld/lökformad fotbas. God matsvamp."
+summary: "En utmärkt matsvamp som liknar snöbollschampinjonen men har en tydligt avsatt 'knöl' vid fotbasen."
 image: "/images/agaricus_sylvicola_01.jpg"
 gallery:
   - url: "/images/agaricus_sylvicola_01.jpg"
     credit: ""
 ---
 
-> En snöbollschampinjon med uppsvälld/lökformad fotbas. God matsvamp.
+Knölchampinjonen är en elegant, vit champinjon som ofta hittas i barrskogen. Den är nära släkt med snöbollschampinjonen.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt som ung halvklotformad, sedan utbredd, vit, vid beröring gulfläckig.
-- Skivor först gråvita till rosa, med åldern svartbruna.
-- Fot vit, ibland med svagt rosa ton, ofta tvärt vidgad nere vid den lökformade fotbasen.
-- Ring vit, tunn, ofta trasig.
-- Doftar gott av mandel.
+- **Fotbas:** Det tydligaste kännetecknet är fotbasen, som är tvärt avhuggen och **knölformad** (nästan som en lök), snarare än jämnt avsmalnande.
+- **Hatt:** Vit, men gulnar ganska lätt om man tummar på den.
+- **Doft:** Behaglig doft av anis eller mandel.
+- **Ring:** Stor och tunn.
 
-Knölchampinjon växer i barrskog, ofta i barrmattan under gamla granar. Den smakar och doftar svagt av mandel och är en mycket god matsvamp som passar till all sorts matlagning.
+## Utbredning och Ekologi
 
-Hör till den grupp champinjoner som gulnar i köttet vid beröring, dessa kan innehålla höga halter av tungmetallen kadmium.
+Växer i barrskog och blandskog, gärna i barrmattan. Förekommer i hela landet upp till södra Norrland.
 
-## Förväxlingssvampar
+## Matvärde
 
-- [Snöbollschampinjon](/svampar/agaricus_arvensis/) - saknar den lökformade fotbasen, god matsvamp.
-- [Vit kungschampinjon](/svampar/agaricus_macrosporus/) - har ring med flockig undersida, matsvamp.
-- [Giftchampinjon](/svampar/agaricus_xanthoderma/) - gulnar kraftigt direkt vid skrapning, doftar obehagligt, svagt giftig.
-- [Vit flugsvamp](/svampar/amanita_virosa/) är dödligt giftig och varje svampplockare bör känna till den. I tron att ha plockat champinjoner så sker varje år förgiftningar av denna art. Lär dig följande två regler: 1. Champinjoner har ALDRIG helvita skivor. 2. Champinjoner står ALDRIG i en strumpa (slida, volva).
+Detta är en mycket god matsvamp med fin konsistens och smak. Precis som snöbollschampinjonen kan den lagra kadmium, så ät den med måtta som en del av en blandad kost.
 
+## Förväxlingsrisker
+
+- **[Vit flugsvamp](/svampar/amanita_virosa/):** Livsfarlig! Har **helvita skivor** (knölchampinjonen har grå/rosa/bruna skivor) och en strumpa (volva) som "knölen" sitter i. Knölchampinjonens knöl är en del av foten, inte en slida runt den. Var extremt noga med denna skillnad.
+- **[Giftchampinjon](/svampar/agaricus_xanthoderma/):** Gulnar ilsket (kromgult) vid basen och luktar illa (bläck/karbol).
+- **[Snöbollschampinjon](/svampar/agaricus_arvensis/):** Mycket lik men saknar den markanta knölen och växer oftare i gräsmark (även om överlappning sker).

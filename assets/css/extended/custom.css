@@ -308,7 +308,7 @@ body.dark {
   color: var(--green-dark);
   margin-top: 2rem;
   margin-bottom: 1rem;
-  text-align: center;
+  text-align: left;
   font-weight: 700;
   line-height: 1.2;
 }
@@ -327,7 +327,7 @@ body.dark {
   padding-bottom: 0.5rem;
   margin-top: 2.5rem;
   margin-bottom: 1.5rem;
-  text-align: center;
+  text-align: left;
 }
 
 .post-content h2 {
@@ -344,7 +344,7 @@ body.dark {
   padding-bottom: 0.3rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
-  text-align: center;
+  text-align: left;
 }
 
 .post-content h3 {

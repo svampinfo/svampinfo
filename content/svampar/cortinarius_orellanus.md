@@ -6,19 +6,31 @@ artfakta: "456"
 slug: "cortinarius_orellanus"
 edible: false
 poisonous: 2
-summary: "En mycket giftig spindling som innehåller orellanin. Kan orsaka allvarliga njurskador."
+summary: "En dödligt giftig svamp som växer med ek och bok. Orsakar livshotande njurskador."
 image: "/images/cortinarius_orellanus_01.jpg"
 gallery:
   - url: "/images/cortinarius_orellanus_01.jpg"
     credit: '<a href="//commons.wikimedia.org/w/index.php?title=User:Ak_ccm&amp;action=edit&amp;redlink=1" class="new" title="User:Ak ccm (page does not exist)">Andreas Kunze</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
 ---
 
-> En mycket giftig spindling som innehåller orellanin. Kan orsaka allvarliga njurskador.
+> En dödligt giftig svamp som växer med ek och bok. Orsakar livshotande njurskador.
 
-## Beskrivning
+## Kännetecken
 
-Hatten är 3-8 cm bred, välvd till utbredd, ofta med en trubbig puckel. Färgen är rödbrun till rävbrun, matt och filtad. Skivorna är glesa, först gulaktiga men blir snart rödbruna av sporerna. Foten är cylindrisk, gulaktig till rödbrun, ofta med sicksack-mönstrade band. Köttet är fast och gulaktigt, med en svag doft av rättika.
+Detta är "systerarten" till den toppiga giftspindlingen och minst lika farlig.
 
-## Förväxlingssvampar
+- **Hatt:** Vackert rävbrun eller orangebrun. Ytan är matt och filtad (luden). Saknar oftast den spetsiga toppen som _rubellus_ har.
+- **Skivor:** Glesa, orangebruna till kanelbruna.
+- **Fot:** Gulaktig till rödbrun, ofta avsmalnande nedåt.
 
-Kan förväxlas med andra bruna spindlingar, men den speciella rävbruna färgen och den matta hatten är goda kännetecken. Bör inte plockas alls på grund av giftigheten.
+## Utbredning och Ekologi
+
+Till skillnad från den toppiga giftspindlingen (som gillar barrskog) trivs denna art i **lövskog**, särskilt med ek och bok. Den är sällsynt och finns främst i södra Sverige.
+
+## Giftighet
+
+Innehåller giftet **orellanin** som förstör njurarna. Symtomen (törst, trötthet, huvudvärk) kommer smygande 3-14 dagar efter intag. Skadorna är ofta permanenta och kan kräva dialys eller transplantation.
+
+## Förväxlingsrisker
+
+Kan förväxlas med andra bruna spindlingar. Även om den är sällsynt är det en bra regel att undvika alla bruna svampar med bruna skivor i lövskog om man inte är expert.

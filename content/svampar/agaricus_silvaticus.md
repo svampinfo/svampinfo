@@ -7,7 +7,7 @@ slug: "agaricus_silvaticus"
 edible: true
 poisonous: 0
 rating: 3
-summary: "God matsvamp, lik blodchampinjon men rodnar ej lika kraftigt. Trivs i barrmattan under gamla granar och i myrstackar."
+summary: "En vanlig och god matsvamp som växer i barrskog, gärna i närheten av myrstackar. Köttet rodnar vid snitt."
 image: "/images/agaricus_sylvaticus_01.jpg"
 gallery:
   - url: "/images/agaricus_sylvaticus_02.jpg"
@@ -24,21 +24,23 @@ gallery:
     credit: "Игорь Лебединский, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agaricus_silvaticus.jpg)"
 ---
 
-> God matsvamp, lik blodchampinjon men rodnar ej lika kraftigt. Trivs i barrmattan under gamla granar och i myrstackar.
+Skogschampinjonen är en av de vanligaste champinjonerna i den svenska barrskogen.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt halvklotformad till utbredd, tätt beströdd med bruna fjäll på vitaktig botten.
-- Skivor som unga bleka, sedan rosa och med åldern mörkbruna.
-- Fot vit, svagt rodnande vid skrapning.
-- Ring vit, tunn, på undersidan med vitaktiga fjäll.
-- Svampkött vitt, rodnande i snitt.
+- **Hatt:** Brunfjällig. Något mindre och spädare än sin släkting blodchampinjonen.
+- **Kött:** Rodnar vid snitt (blir orangerött till rött), men oftast inte lika snabbt och intensivt "blodrött" som blodchampinjonen.
+- **Fot:** Vit, med en hängande ring. Foten är slät eller svagt fjällig under ringen.
 
-Skogschampinjon växer i barrskog, ofta i barrmattan under gamla granar och i myrstackar. En god matsvamp som passar till all sorts matlagning. En annan matsvamp som är läcker i smaken, är den närstående blodchampinjonen, den är mycket snarlik men rodnar snabbare och kraftigare i snitt, och har bruna fjäll på ringens undersida.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Som namnet säger är detta en skogsart. Den trivs bäst i barrskog och har en förkärlek för att växa i barrförna under granar, och mycket ofta direkt i eller intill myrstackar.
 
-- [Blodchampinjon](/svampar/agaricus_langei/) - rodnar kraftigare, god matsvamp.
-- [Brun flugsvamp](/svampar/amanita_regalis/) - hatt med ljusa fjäll mot mörkare botten, giftig.
-- [Panterflugsvamp](/svampar/amanita_pantherina/) - hatt med ljusa fjäll mot mörkare botten, giftig.
+## Matvärde
 
+En god matsvamp som passar bra att blanda med annan svamp.
+
+## Förväxlingsrisker
+
+- **[Blodchampinjon](/svampar/agaricus_langei/):** Också ätlig. Är generellt större, kraftigare och rodnar mer intensivt.
+- **[Brun flugsvamp](/svampar/amanita_regalis/):** Giftig. Har vita skivor och "prickar" (hyllerester) på hatten, inte fjäll som är en del av hatthuden.

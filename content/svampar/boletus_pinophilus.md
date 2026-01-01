@@ -7,27 +7,35 @@ slug: "boletus_pinophilus"
 edible: true
 poisonous: 0
 rating: 5
-summary: "God matsvamp i klass med karljohan från vilken den skiljer sig genom mörkare rödbrun hatt, och att rören ofta får brunaktiga mynningar."
+summary: "En ståtlig stensopp med mörkt rödbrun hatt som växer med tall. Lika god som vanlig Karljohan."
 image: "/images/boletus_pinophilus_01.jpg"
 gallery:
   - url: "/images/boletus_pinophilus_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:Paffka" title="User:Paffka">Paffka</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
 ---
 
-> God matsvamp i klass med karljohan från vilken den skiljer sig genom mörkare rödbrun hatt, och att rören ofta får brunaktiga mynningar.
+> En ståtlig stensopp med mörkt rödbrun hatt som växer med tall. Lika god som vanlig Karljohan.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd, rödbrun, gropig till skrynklig, i väta klibbig.
-- Rör först vita, med åldern gulgröna och ofta med brunaktiga rörmynningar.
-- Fot rödbrun, vanligen knubbig, täckt med vitt ådernät som nedtill blir mörkare rödbrunt.
-- Kött vitt, under hatthuden brunviolett, med mild smak.
+Detta är en nära släkting till Karljohan som ofta blir mycket stor och kraftig.
 
-Växer med tall i barrskog över hela landet. Har samma matvärde som släktingen karljohan. Hatthuden kan ibland bli grönfärgad vid upphettning. Det är en naturlig egenskap hos vissa stensoppar och har ingen negativ inverkan på matvärdet. Färgen uppkommer vid upphettning och försvinner så snart svampen har svalnat.
+- **Hatt:** Mörkt rödbrun till tegelröd (vanlig Karljohan är mer nötbrun/gråbrun). Ytan är ofta lite skrynklig eller hamrad.
+- **Rör:** Vita som unga, sedan gula.
+- **Fot:** Kraftig och rödbruntonad, ofta med ett tydligt rödbrunt ådernät.
+- **Kött:** Vitt och fast. Precis under hatthuden är köttet ofta rödtonat.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-- Gallsopp - med mörkt ådernät på foten, bitter i smaken, oätlig.
-- [Karljohan](/svampar/boletus_edulis/) - med ljusare färg på fot och hatt, läcker matsvamp.
-- [Finluden stensopp](/svampar/boletus_reticulatus/) - med finluden hatt och vitt svampkött strax under hatthuden, läcker matsvamp.
-- [Brunsopp](/svampar/boletus_badius/) - saknar ådernät på foten, blånar över rören, läcker matsvamp.
+Som det vetenskapliga namnet _pinophilus_ (tall-älskare) antyder, växer den främst i tallskog, ofta på hällmarker eller i blåbärsris. Vanlig i hela landet.
+
+## Matvärde
+
+Delikatess! Används på exakt samma sätt som vanlig Karljohan.
+
+## Förväxlingsrisker
+
+- **[Karljohan](/svampar/boletus_edulis/):** Ljusare brun hatt, växer oftare med gran/lövträd.
+- **[Finluden stensopp](/svampar/boletus_reticulatus/):** Ljusare brun hatt, växer med ek/bok.
+- **[Brunsopp](/svampar/boletus_badius/):** Saknar ådernät och blånar vid tryck.
+- **[Gallsopp](/svampar/tylopilus_felleus/):** Smakar beskt, har mörkt ådernät och rosa porer.

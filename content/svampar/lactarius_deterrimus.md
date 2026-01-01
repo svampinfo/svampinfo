@@ -7,26 +7,34 @@ slug: "lactarius_deterrimus"
 edible: true
 poisonous: 0
 rating: 4
-summary: "En klassiker bland våra matsvampar, god i smaken och lätt att lära sig känna igen. Även kallad granblodriska."
+summary: "En utmärkt matsvamp som blöder orange saft. Växer i granskog och är ofta lite grönfläckig."
 image: "/images/lactarius_deterrimus_01.jpg"
 gallery:
   - url: "/images/lactarius_deterrimus_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:Holleday" title="User:Holleday">Holger Krisp</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
 ---
 
-> En klassiker bland våra matsvampar, god i smaken och lätt att lära sig känna igen. Även kallad granblodriska.
+> En utmärkt matsvamp som blöder orange saft. Växer i granskog och är ofta lite grönfläckig.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd till trattformig, slät, orangefärgad med mer eller mindre tydliga cirkelformade zoner, ofta grönfläckig.
-- Skivor vidvuxna till nedlöpande, ljust orange.
-- Fot ihålig, ganska skör, orangefärgad, slät, vanligen utan gropar.
-- Vid brytning avsöndrar köttet en morotsfärgad saft, som efter intorkning blir grönaktigt.
-- Smak mild, ibland något kärv.
-- Växer med gran, gärna på fuktig mark.
+Granblodriskan är mycket lik tallblodriskan men skiljer sig på några punkter.
 
-## Förväxlingssvampar
+- **Saft:** Morotsfärgad (orange), men blir snabbt vinröd och sedan grön vid intorkning.
+- **Färg:** Orange, men hatten blir ofta **grönärgig** (gröna fläckar) med åldern eller vid hantering.
+- **Fot:** Orange men saknar de tydliga "groparna" som tallblodriskan har.
 
-Alla riskor som blöder en morotsfärgad till vinröd saft är goda matsvampar.
-- [Tallblodriska](/svampar/lactarius_deliciosus/) - har karaktäristiska gropar i foten.
-- [Vinriska](/svampar/lactarius_sanguifluus/) - blöder en vinröd saft vid färska skador. L. fennoscandicus är en nybeskriven art som också växer med gran, men som skiljer sig genom sin hatt med tydliga zoner och lila färgton.
+## Utbredning och Ekologi
+
+Växer med **gran**, ofta i ungskog eller mossig granskog. Mycket vanlig i hela landet.
+
+## Matvärde
+
+En mycket god matsvamp som kan stekas direkt utan förvällning. Vissa anser den vara snäppet sämre än tallblodriskan då den kan ha en något beska smak som rå, men tillagad är den delikat.
+
+## Förväxlingsrisker
+
+- **[Tallblodriska](/svampar/lactarius_deliciosus/):** Växer med tall, har gropar på foten och blir inte lika grön.
+- **[Skogsriska](/svampar/lactarius_trivialis/):** Har vit saft och kräver avkokning.
+
+* **[Vinriska](/svampar/lactarius_sanguifluus/):** Blöder en mörkröd vinliknande saft direkt.

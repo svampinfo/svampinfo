@@ -7,24 +7,33 @@ slug: "gomphidius_glutinosus"
 edible: true
 poisonous: 0
 rating: 3
-summary: "Låt inte det slemmiga intrycket avskräcka! God matsvamp som är lätt att lära sig känna igen på det citrongula köttet i fotbasen i kombination med de ljusgrå nedlöpande skivorna."
+summary: "En slemmig men mycket god matsvamp som växer med gran. Avslöjas av sitt knallgula kött i fotbasen."
 image: "/images/gomphidius_glutinosus_01.jpg"
 gallery:
   - url: "/images/gomphidius_glutinosus_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:BerndH" title="User:BerndH">Bernd Haynold</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
 ---
 
-> Låt inte det slemmiga intrycket avskräcka! God matsvamp som är lätt att lära sig känna igen på det citrongula köttet i fotbasen i kombination med de ljusgrå nedlöpande skivorna.
+> En slemmig men mycket god matsvamp som växer med gran. Avslöjas av sitt knallgula kött i fotbasen.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd till utbredd, slemmig i fuktig väderlek, grålila till gråbrun, som äldre svartfläckig.
-- Skivor nedlöpande, som unga gråvita och täckta av en glasklar slemhinna, med åldern släpper hinnan och efterlämnar en slemmig ringzon på foten. Ringzonen liksom skivorna svartnar snart av de nedfallande svarta sporerna.
-- Fot slemmig till klibbig, vit, med citrongul fotbas och en slemmig ringzon.
+Trots sitt lite oaptitliga utseende är citronslemskivlingen en bra matsvamp.
 
-Växer med gran och trivs i barrskog över hela Norden. Flå av hatthuden innan anrättning, gärna redan i skogen. Stora gamla fruktkroppar kan användas till att färga garn med, de ger en brun färg på alunbetat ullgarn.
+- **Hatt:** Gråbrun till lila-grå. Som ung är den helt täckt av ett tjockt, genomskinligt slemlager.
+- **Skivor:** Vita som unga, blir senare mörkgrå till svarta av sporerna. De är tjocka och löper ner på foten.
+- **Fot:** Vit överst, men det säkraste tecknet är att **fotbasen är lysande citrongul** (både utanpå och inuti).
+- **Slemring:** Mellan hatt och fot finns en slemmig hinna som senare lämnar en svartnande ringzon på foten.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-- Ibland kan [Smörsopp](/svampar/suillus_luteus/) likna citronslemskivlingen uppifrån, men när man väl plockat upp svampen så ser man lätt skillnaden.
-- [Rosenslemskivling](/svampar/gomphidius_roseus/) - närstående art men har en rosenröd till rosa hatt.
+Växer alltid tillsammans med **gran** i mossig skog. Vanlig i hela Sverige.
+
+## Matvärde
+
+En bra matsvamp som dock bör flås (dra av hatthuden) innan tillagning för att slippa slemmet. Köttet är vitt och fast, men svartnar vid tillagning, vilket är helt normalt.
+
+## Förväxlingsrisker
+
+- **[Rosenslemskivling](/svampar/gomphidius_roseus/):** Mindre, har rosa hatt och växer alltid med örsopp. Lika ätlig.
+- **[Smörsopp](/svampar/suillus_luteus/):** Kan likna den uppifrån, men smörsoppen har rör (svamp) under hatten, inte skivor.

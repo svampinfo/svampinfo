@@ -7,20 +7,33 @@ slug: "russula_aurea"
 edible: true
 poisonous: 0
 rating: 5
-summary: "En av de allra vackraste och godaste kremlorna. Har ofta en guldgul färgton över fot och skivor."
+summary: "Skogens guldjuvel. En ovanlig men fantastisk matsvamp med gyllengula färger."
 image: "/images/russula_aurea_01.jpg"
 gallery:
   - url: "/images/russula_aurea_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:Archenzo" title="User:Archenzo">archenzo</a>, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
 ---
 
-> En av de allra vackraste och godaste kremlorna. Har ofta en guldgul färgton över fot och skivor.
+> Skogens guldjuvel. En ovanlig men fantastisk matsvamp med gyllengula färger.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt som ung halvklotformad, med åldern välvd till utbredd och slutligen med nedsänkt mitt, klibbig i fuktig väderlek, röd, orange till guldgul.
-- Skivor urnupna, vita, oftast med guldgul ton över eggen.
-- Fot vit, ganska hård, ofta med guldgul ton.
-- Kött vitt, närmast hatthuden gult, med mild smak.
+Guldkremlan gör skäl för sitt namn och är lätt att känna igen på sin unika färgställning.
 
-Växer i lövskog och parker och örtrik barrskog i södra och mellersta Sverige. Mycket läcker matsvamp.
+- **Hatt:** Orangeröd till eldröd, ofta med guldgula fläckar.
+- **Skivor:** Det tydligaste kännetecknet – de är vackert guldgula eller har åtminstone en tydlig gul egg.
+- **Fot:** Vit, men ofta med en citrongul ton.
+- **Kött:** Vitt, men gult precis under hatthuden.
+- **Smak:** Mild och fin.
+
+## Utbredning och Ekologi
+
+Trivs i kalkrik mark, i lövskog med bok och ek eller i örtrik granskog. Den är ganska sällsynt i Sverige.
+
+## Matvärde
+
+En delikatess! Den har fast kött och en mycket fin smak. Värd att leta efter.
+
+## Förväxlingsrisker
+
+Det finns andra röda kremlor med gula skivor, men ingen har den kombinationen av röd hatt och den speciella guldgula färgen på skiveggen och foten.

@@ -7,29 +7,39 @@ slug: "tricholoma_columbetta"
 edible: true
 poisonous: 0
 rating: 3
-summary: "En helvit skivling som är ätlig och god, men var försiktig! Det finns flera oätliga och giftiga vita skivlingar."
+summary: "En snövit, glänsande skönhet. En god matsvamp om man lär sig skilja den från giftiga dubbelgångare."
 image: "/images/tricholoma_columbetta_01.jpg"
 gallery:
   - url: "/images/tricholoma_columbetta_01.jpg"
     credit: "[Gerhard Koller (Gerhard)](https://mushroomobserver.org/observer/show_user/1093) at [Mushroom Observer](https://mushroomobserver.org), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
-> En helvit skivling som är ätlig och god, men var försiktig! Det finns flera oätliga och giftiga vita skivlingar.
+> En snövit, glänsande skönhet. En god matsvamp om man lär sig skilja den från giftiga dubbelgångare.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd till utbredd, vit, silkesglänsande, ofta med rosaröda fläckar, hattkant ofta ojämn och uppsprucken.
-- Skivor urnupna, naggade, vita.
-- Fot vit, ibland med blågröna fläckar mot fotbasen.
-- Kött vitt, med en svag mjölliknande doft och smak.
+Silkesmusseronen är en elegant svamp.
 
-Växer gärna med ek eller björk i lövskog i södra och mellersta Sverige. De rosaröda fläckarna på hatten är en bra karaktär att ta fasta på, likaså de blågröna fläckarna som ibland finns vid fotbasen. När fläckar saknas kan det bli en svårare nöt att knäcka, men den karaktäristiska silkesglänsande hatten kan man med lite erfarenhet snart lära sig känna igen.
+- **Hatt:** Kritvit eller snövit med en **silkesglänsande** yta (inte matt som krita). Ibland har den små rosa eller violetta fläckar. Kanten är ofta lite vågig eller flikig.
+- **Fot:** Vit, ibland med blågröna fläckar vid basen.
+- **Doft:** Mild och behaglig, som färskt mjöl.
+- **Smak:** Mild och mjölaktig.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-- [Vit flugsvamp](/svampar/amanita_virosa/) - har ring och volva, mycket giftig!
-- [Rättikmusseron](/svampar/tricholoma_album/) - har matt hatt, luktar kokta rödbetor, giftig.
-- [Ekmusseron](/svampar/tricholoma_lascivum/) - har matt hatt, luktar annorlunda, misstänkt giftig.
-- [Luktmusseron](/svampar/tricholoma_inamoenum/) - med starkt stickande lukt, giftig.
-- [Gifttrattskivling](/svampar/clitocybe_dealbata/) - mindre, saknar silkesglänsande hatt, giftig.
-- Vit tuvskivling - växer ofta i tuvor, annorlunda lukt.
+Växer i lövskog, gärna med ek, bok och hassel, men kan också hittas med björk.
+
+## Förväxlingsrisker
+
+Det finns många vita svampar, och flera är giftiga.
+
+- **[Vit flugsvamp](/svampar/amanita_virosa/):** Dödligt giftig. Har **ring** och **strumpa**. Silkesmusseronen har ingendera.
+- **[Rättikmusseron](/svampar/tricholoma_album/):** Matt yta, luktar starkt av rättika/jordkällare och smakar skarpt.
+- **[Luktmusseron](/svampar/tricholoma_inamoenum/):** Luktar lysgas.
+- **[Gifttrattskivling](/svampar/clitocybe_dealbata/):** Mindre, med nedlöpande skivor.
+
+* **[Granvaxskivling](/svampar/hygrophorus_piceae/):** Mindre, har vaxartade skivor och växer med gran.
+
+* **[Vitgul flugsvamp (var. alba)](/svampar/amanita_citrina_var._alba/):** Har ring, knöl vid basen och luktar potatis. Giftig.
+
+* **[Ekmusseron](/svampar/tricholoma_lascivum/):** Matt yta, luktar obehagligt sött/syren.

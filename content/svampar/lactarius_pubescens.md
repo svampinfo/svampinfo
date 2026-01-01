@@ -7,7 +7,7 @@ slug: "lactarius_pubescens"
 edible: true
 poisonous: 0
 rating: 3
-summary: "En blekare och mindre släkting till skäggriskan. Vanlig under björkar i parker och trädgårdar."
+summary: "En mindre, vitare variant av skäggriskan som växer under björkar. Ätlig efter avkokning."
 image: "/images/lactarius_pubescens_01.jpg"
 gallery:
   - url: "/images/lactarius_pubescens_01.jpg"
@@ -24,31 +24,25 @@ gallery:
     credit: "[Th. Kuhnigk](https://commons.wikimedia.org/wiki/User:Thkgk), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:4.10.2006-Lactarius._pubescens_3.jpg)"
 ---
 
-> En blekare och mindre släkting till skäggriskan. Vanlig under björkar i parker och trädgårdar.
+> En mindre, vitare variant av skäggriskan som växer under björkar. Ätlig efter avkokning.
 
-## Beskrivning
+## Kännetecken
 
-- **Hatt:** Vit till blekt rosafärgad eller crèmefärgad. Betydligt ljusare än den vanliga skäggriskan. Ytan är "luden" eller hårig, särskilt mot kanten som är inrullad (därav namnet Dunriska), men håren är kortare än hos skäggriskan. Saknar oftast de tydliga cirkelzoner som skäggriskan har.
-- **Skivor:** Bleka, vitaktiga till svagt rosa.
-- **Fot:** Vit till blekrosa, ofta med ett vitt "band" högst upp.
-- **Saft:** Vit och oföränderlig (ändrar inte färg).
-- **Smak:** Skarp (brännande).
-- **Växtplats:** Bunden till **björk**. Växer ofta i gräsmattor, parker, vägkanter och unga björkskogar snarare än djupt inne i gammelskogen.
+Som namnet antyder är detta en blek kopia av skäggriskan.
 
-Detta är en underskattad matsvamp. Många går förbi den för att den ser "tråkig" ut jämfört med skäggriskan, men den är utmärkt att blanda ner i svampsallader eller inläggningar efter avkokning.
+- **Hatt:** Vit till blekt skärrosa. Kanten är inrullad och **luden** (hårig), men håren är kortare än hos vanlig skäggriska.
+- **Zoner:** Hatten saknar oftast de tydliga ringar (zoner) som skäggriskan har.
+- **Smak:** Skarp.
 
-## Tillagning
+## Utbredning och Ekologi
 
-Precis som sin släkting skäggriskan har den en brännande smak som måste kokas bort.
+Hårt knuten till **björk**. Växer ofta i parker, trädgårdar, vägkanter och på gräsmattor där det finns unga björkar.
 
-1. Rensa svampen (borsta bort skräp från "dunet").
-2. Skär i bitar.
-3. **Koka (förväll)** i rikligt med vatten i ca 10 minuter.
-4. Häll bort vattnet.
+## Matvärde
 
-Därefter är svampen mild och kan stekas, men den gör sig allra bäst i saltinläggningar eller ättiksinläggningar där den behåller sin fasta konsistens.
+Måste **kokas av (förvällas)** i 10 minuter för att få bort den skarpa smaken. Därefter är den en god matsvamp som passar bra att salta in.
 
-## Förväxlingssvampar
+## Förväxlingsrisker
 
-- [Skäggriska](/svampar/lactarius_torminosus/) - Är större, tydligt **tegelröd/rosa** med mörkare zoner på hatten och har längre "skägg" (hår) vid kanten. Även den är en utmärkt matsvamp efter avkokning.
-- [Alabasterriska](/svampar/lactarius_resimus/) - Är vitare och slätare (mindre luden), men det viktigaste kännetecknet är att saften snabbt blir **citrongul** i luften.
+- **[Skäggriska](/svampar/lactarius_torminosus/):** Större, tydligt rosa/tegelröd med zoner och längre "skägg". Också ätlig efter kokning.
+- **[Alabasterriska](/svampar/lactarius_resimus/):** Saften gulnar snabbt.

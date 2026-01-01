@@ -1,32 +1,42 @@
 ---
 title: "Toppmurkla"
-scientificName: "Morchella conica"
+scientificName: "Morchella elata"
 wikidata: "Q1327882"
 artfakta: "5079"
 slug: "morchella_elata"
 edible: true
 poisonous: 0
 rating: 4
-summary: "Toppmurklan har en vackert vindlad hatt med små håligheter. Storleken och smaken hos toppmurklor kan variera oerhört mellan olika individer."
+summary: "En av de mest eftertraktade matsvamparna. Känns igen på sin toppiga, bikakemönstrade hatt och ihåliga inre."
 image: "/images/morchella_conica_01.jpg"
 gallery:
   - url: "/images/morchella_conica_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:Beentree" title="User:Beentree">Beentree</a>, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons'
 ---
 
-> Toppmurklan har en vackert vindlad hatt med små håligheter. Storleken och smaken hos toppmurklor kan variera oerhört mellan olika individer.
+> En av de mest eftertraktade matsvamparna. Känns igen på sin toppiga, bikakemönstrade hatt och ihåliga inre.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt toppig, utdragen på höjden, brun.
-- Hattens utsida har ovala kamrar med längsgående åsar.
-- Hatt och fot ihålig.
-- Fot vit, grynig.
+Toppmurklan är en av vårens stora höjdpunkter för svampplockare.
 
-Toppmurkla växer på senvåren till försommaren i lövskog, barrskog, ängs- och hagmarker, dikeskanter och trädgårdar. Många är överens om att smak och konsistens förbättras avsevärt om man först torkar toppmurklorna, och sedan blötlägger dem strax innan man använder dem i matlagningen.
+- **Hatt:** Mörkbrun till gråbrun och **toppig** (konisk). Hatten är täckt av regelbundna gropar och åsar som påminner om en bikaka eller en tvättsvamp.
+- **Fot:** Vitaktig och grynig. Foten sitter ihop med hattens nederkant (till skillnad från klockmurklor).
+- **Insida:** Hela svampen är **helt ihålig** inuti, från toppen av hatten ner till fotens bas.
+- **Smak:** Mild och mycket aromatisk.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
+Växer på våren och försommaren (maj-juni). Man hittar den ofta på brandfält, kalhyggen, i trädgårdar (gärna i täckbark), dikeskanter och i lövskog.
 
-- [Rund toppmurkla](/svampar/morchella_esculenta/) - hatt rundare, utan längsgående åsar, läcker matsvamp.
-- [Stenmurkla](/svampar/gyromitra_esculenta/) - hatt ej kamrad, annorlunda vindlad, giftig. Kan möjligen förväxlas med klockmurkla och vindlad klockmurkla, dessa murklor är sällsynta och betraktas inte som giftsvampar. Toppmurklan är oerhört variabel och flera närstående arter finns beskrivna.
+## Matvärde
+
+En delikatess som anses vara en av världens bästa matsvampar. Den ska dock inte ätas rå utan kräver ordentlig tillagning (stekning eller kokning). Många tycker att smaken blir ännu intensivare om man torkar svampen först och sedan blötlägger den före tillagning.
+
+## Förväxlingsrisker
+
+- **[Stenmurkla](/svampar/gyromitra_esculenta/):** _Mycket giftig._ Stenmurklan har en hatt som ser ut som en brun, veckad **hjärna**, medan toppmurklan har tydliga **gropar/fack** (bikakemönster).
+- **[Rund toppmurkla](/svampar/morchella_esculenta/):** Har en rundare hatt och ofta ljusare, gulbrun färg. Lika god matsvamp.
+- **Klockmurkla:** Hatten sitter bara fast i fotens absoluta topp och hänger lös som en klocka. Oätlig/oaptitlig.
+
+* **[Toppstenmurkla](/svampar/gyromitra_ambigua/):** Mer oregelbundet "hjärnlik" hatt. Giftig.

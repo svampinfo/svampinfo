@@ -7,25 +7,29 @@ slug: "hydnum_rufescens"
 edible: true
 poisonous: 0
 rating: 3
-summary: "Ej lika uppskattad som sin släkting blek taggsvamp, men är likväl en god matsvamp och väl värd att plocka. Förekommer i både löv- och barrskog."
+summary: "Den bleka taggsvampens mindre och färgstarkare släkting. God matsvamp."
 image: "/images/hydnum_rufescens_s_lat_01.jpg"
 gallery:
   - url: "/images/hydnum_rufescens_s_lat_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:Strobilomyces" title="User:Strobilomyces">User:Strobilomyces</a>, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
 ---
 
-> Ej lika uppskattad som sin släkting blek taggsvamp, men är likväl en god matsvamp och väl värd att plocka. Förekommer i både löv- och barrskog.
+> Den bleka taggsvampens mindre och färgstarkare släkting. God matsvamp.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt ockrafärgad till rödgul, ofta tunnare än den hos blek taggsvamp.
-- Hattens undersida har vitaktiga, sköra taggar, som lätt trillar sönder vid tryck.
-- Taggar ej nedlöpande.
-- Fot vit till blekt rödgul, oftast mittställd.
+- **Färg:** Tydligt mörkare än blek taggsvamp – **aprikosfärgad**, rödgul eller brunorange.
+- **Form:** Mindre, tunnare och skörare än den bleka taggsvampen.
+- **Taggar:** Taggarna slutar tvärt vid foten och **löper inte ner** på den (till skillnad från blek taggsvamp).
 
-Passar till all sorts matlagning. Tillagas med fördel färsk, eller fryses in för senare bruk. Mindre lämpad att torka, då den lätt blir besk i smaken.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Växer i både barr- och lövskog, ofta på lite torrare mark än den bleka taggsvampen.
 
-- [Rödgul taggsvamp](/svampar/hydnum_rufescens/) är ett komplex med flera olika arter som är svåra att skilja åt och som vi ännu känner till ganska dåligt. De är alla ätliga så matsvampsplockaren behöver inte kunna skilja dem åt.
-- [Blek taggsvamp](/svampar/hydnum_repandum/) - vanligen större och kraftigare, blekare i färgen, läcker matsvamp.
+## Matvärde
+
+En god matsvamp, men inte riktigt lika matig som den bleka taggsvampen. Passar bra att blanda.
+
+## Förväxlingsrisker
+
+- **[Blek taggsvamp](/svampar/hydnum_repandum/):** Större, blekare och kraftigare.

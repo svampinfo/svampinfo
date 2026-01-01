@@ -6,19 +6,30 @@ artfakta: "4493"
 slug: "hypholoma_fasciculare"
 edible: false
 poisonous: 1
-summary: "Växer i stora klungor på stubbar. Smakar mycket bittert."
+summary: "En vacker men mycket bitter och giftig stubbsvamp som känns igen på sina gulgröna skivor."
 image: "/images/hypholoma_fasciculare_01.jpg"
 gallery:
   - url: "/images/hypholoma_fasciculare_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:LC-de" title="User:LC-de">Jörg Hempel</a>, [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en), via Wikimedia Commons'
 ---
 
-> Växer i stora klungor på stubbar. Smakar mycket bittert.
+> En vacker men mycket bitter och giftig stubbsvamp som känns igen på sina gulgröna skivor.
 
-## Beskrivning
+## Kännetecken
 
-Hatten är svavelgul med orange mitt. Skivorna är först gula, sedan gröna (viktigt kännetecken!). Växer på löv- och barrved.
+- **Hatt:** Starkt svavelgul med en orangeaktig mitt. Växer i stora klasar på stubbar.
+- **Skivor:** Det bästa kännetecknet – de har en tydlig **gulgrön** eller olivgrön färg som skiljer dem från matsvampen rökslöjskivling.
+- **Smak:** Extremt **bitter**.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-Kan förväxlas med [rökslöjskivling](/svampar/hypholoma_capnoides/) (som är en matsvamp men har grå skivor och mild smak).
+Växer på stubbar och död ved, främst av lövträd men även på barrved. Mycket vanlig i hela landet.
+
+## Giftighet
+
+Giftig. Orsakar illamående, kräkningar och diarré. Den bittra smaken gör att man sällan äter några större mängder av misstag.
+
+## Förväxlingsrisker
+
+- **[Rökslöjskivling](/svampar/hypholoma_capnoides/):** Har rökgrå skivor (aldrig gröna) och smakar milt. Växer på barrved.
+- **[Vinterskivling](/svampar/flammulina_velutipes/):** Har vitt sporpulver och sammetsluden fot.

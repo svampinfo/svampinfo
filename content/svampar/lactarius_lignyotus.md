@@ -7,7 +7,7 @@ slug: "lactarius_lignyotus"
 edible: true
 poisonous: 0
 rating: 4
-summary: "En förbisedd delikatess med vacker kontrast mellan den sammetsvarta hatten och de vita skivorna. Saften rodnar vid skada."
+summary: "En vacker, sammetssvart riska som är en utmärkt matsvamp. Köttet rodnar vid snitt."
 image: "/images/lactarius_lignyotus_01.jpg"
 gallery:
   - url: "/images/lactarius_lignyotus_01.jpg"
@@ -24,26 +24,27 @@ gallery:
     credit: "Игорь Лебединский, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lactarius_lignyotus2.jpg)"
 ---
 
-> En förbisedd delikatess med vacker kontrast mellan den sammetsvarta hatten och de vita skivorna. Saften rodnar vid skada.
+> En vacker, sammetssvart riska som är en utmärkt matsvamp. Köttet rodnar vid snitt.
 
-## Beskrivning
+## Kännetecken
 
-- **Hatt:** Mattsvart till mörkbrun med en sammetsluden yta. Ofta med en liten spetsig "buckla" (umbo) i mitten. Kanten är ofta vågig på äldre exemplar.
-- **Skivor:** Vita, som senare övergår i svagt ockragult. De är glesa och löper ner en bit på foten. Kontrasten mot den mörka foten och hatten är mycket tydlig.
-- **Fot:** Samma mörka, sammetsludna färg som hatten. Ofta rynkad högst upp mot skivorna.
-- **Saft:** Vit saft som långsamt färgar skivor och kött laxrosa/rödaktigt vid brytning eller skada.
-- **Smak:** Mild, ibland med en svag nötaktig ton.
-- **Växtplats:** Trivs i mossig barrskog, främst tillsammans med gran.
+Sotriskan är en av våra vackraste riskor, med en dramatisk kontrast mellan den mörka hatten och de ljusa skivorna.
 
-Detta är en utmärkt matsvamp som tyvärr många missar på grund av dess mörka färg. Den behöver inte kokas av utan kan stekas direkt. Köttet behåller en fast och fin konsistens vid tillagning.
+- **Hatt:** Djupt svartbrun till kolsvart. Ytan är matt och sammetsluden. I mitten finns ofta en liten spetsig "tuta" (umbo).
+- **Skivor:** Vita, vilket kontrasterar skarpt mot den mörka foten. De löper ner en bit på foten.
+- **Fot:** Samma sammetssvarta färg som hatten.
+- **Saft:** Vit, men färgar köttet och skivorna laxrosa eller rödaktiga där de skadas.
+- **Smak:** Mild.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-Sotriskan är relativt lätt att känna igen tack vare den sammetsmatta ytan och färgkontrasten, men det finns snarlika arter där smaken är avgörande.
+Växer i mossig barrskog, nästan uteslutande med gran. Den är ganska vanlig i mellersta och södra Sverige.
 
-- [Beckriska](/svampar/lactarius_picinus/) - Mycket lik, men har en
-  _skarp (brännande)_ smak och ska därför inte ätas utan avkokning.
-  Den saknar ofta den lilla spetsiga bucklan på hatten som vanlig sotriska har.
-- [Rökriska](/svampar/lactarius_fuliginosus/) - Liknar sotriskan och köttet rodnar också,
-  men växer i lövskog (gärna med hassel eller bok) och har glesare skivor.
-  Ätlig men sämre matvärde.
+## Matvärde
+
+En mycket fin matsvamp som inte behöver kokas av. Den har en fast konsistens och en mild, god smak.
+
+## Förväxlingsrisker
+
+- **[Beckriska](/svampar/lactarius_picinus/):** Mycket lik, men har en **skarp (brännande)** smak och måste kokas av. Den saknar ofta den lilla spetsen på hatten.
+- **[Rökriska](/svampar/lactarius_fuliginosus/):** Växer i lövskog och är ljusare brun.

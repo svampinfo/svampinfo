@@ -7,32 +7,34 @@ slug: "amanita_pantherina"
 edible: false
 poisonous: 2
 psychoactive: true
-summary: "En av våra farligaste giftsvampar. Kan lura nybörjare som letar efter stolt fjällskivling."
+summary: "En mycket giftig flugsvamp med brun hatt och vita prickar. Kan förväxlas med stolt fjällskivling."
 image: "/images/amanita_pantherina_01.jpg"
 gallery:
   - url: "/images/amanita_pantherina_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:George_Chernilevsky" title="User:George Chernilevsky">George Chernilevsky</a>, [Public domain](), via Wikimedia Commons'
 ---
 
-> En av våra farligaste giftsvampar. Kan lura nybörjare som letar efter stolt fjällskivling.
+> En mycket giftig flugsvamp med brun hatt och vita prickar. Kan förväxlas med stolt fjällskivling.
 
-## Beskrivning
+## Kännetecken
 
-Panterflugsvamp är mycket giftig (samma gifter som röd flugsvamp men i högre koncentration). Den är förrädisk eftersom den har en brun färg som påminner om ätliga svampar.
+- **Hatt:** Gråbrun till nötbrun (påminner om färgen på en hasselnöt). Beströdd med små, vita, "grynlika" hyllerester.
+- **Hattkant:** Kanten är ofta tydligt **strimmig** (räfflad).
+- **Fotbas:** Har en distinkt, smal "kant" eller valk (som en nedrullad strumpa) precis ovanför den runda knölen vid basen. Detta är ett viktigt skiljetecken mot andra flugsvampar.
+- **Kött:** Helvit, även precis under hatthuden.
 
-*   **Hatt:** Gråbrun, olivbrun eller nötfärgad. Beströdd med små, vita, "grynlika" prickar (hyllerester). Kanten på hatten är ofta **strimmig** (räfflad).
-*   **Skivor:** Vita och fria.
-*   **Fot:** Vit med en ring som ofta hänger lite slappt och kan vara svår att se på äldre ex.
-*   **Fotbas:** Har en tydlig, avgränsad "kant" eller valk precis ovanför den uppsvällda basen (ser ut som en nedkavlad strumpa).
+## Utbredning och Ekologi
 
-**Växtplats:** Trivs i lövskog, gärna med ek och bok, i södra och mellersta Sverige.
+Trivs i lövskog och blandskog, ofta med ek eller bok, men kan även hittas i tallskog. Den är vanligast i södra och mellersta Sverige.
 
-## Förväxlingssvampar
+## Giftighet
 
-Det vanligaste misstaget är att blanda ihop den med [Stolt fjällskivling](/svampar/macrolepiota_procera/) eller [Brun flugsvamp](/svampar/amanita_regalis/).
+Panterflugsvampen innehåller samma gifter som röd flugsvamp men i betydligt högre koncentrationer. Den klassas som mycket giftig och kan ge allvarliga symptom som kramper, medvetslöshet och andningspåverkan. Dödsfall har inträffat utomlands.
 
-*   **[Stolt fjällskivling](/svampar/macrolepiota_procera/):** Är en utmärkt matsvamp. Den har **mörka fjäll** på ljus botten (panterflugsvampen har ljusa "prickar" på mörk botten). Fjällskivlingen har dessutom en **vattrad** (ormskinnsmönstrad) fot och en ring som går att dra upp och ner.
-*   **[Brun flugsvamp](/svampar/amanita_regalis/):** Också giftig. Skiljs säkrast genom att snitta hatten. Brun flugsvamp har gult kött precis under hatthuden. Panterflugsvampen är helvit i köttet.
-*   **[Gråfotad flugsvamp](/svampar/amanita_spissa/):** Ätlig (men rekommenderas ej). Har en stor räfflad ring och saknar den tydliga "kanten" vid fotbasen.
+## Förväxlingsrisker
 
-**Tumregel:** Har svampen ljusa prickar på brun hatt? Låt den stå om du inte är expert. Stolt fjällskivling har mörka fjäll.
+- **[Stolt fjällskivling](/svampar/macrolepiota_procera/):** Denna matsvamp har mörka, fastsittande fjäll på ljus botten. Panterflugsvampen har ljusa, lösa prickar på mörk botten.
+- **[Brun flugsvamp](/svampar/amanita_regalis/):** Har gult kött precis under hatthuden (panterflugsvampen är vit).
+- **[Gråfotad flugsvamp](/svampar/amanita_spissa/):** Har en mer utbredd, räfflad ring och saknar den skarpa kanten vid fotbasen.
+
+* **[Blodchampinjon](/svampar/agaricus_langei/):** Rodnar vid snitt och har mörka skivor. Ätlig.

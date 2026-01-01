@@ -7,27 +7,35 @@ slug: "albatrellus_subrubescens"
 edible: true
 poisonous: 0
 rating: 2
-summary: "Skiljer sig från fårticka bl a genom att rören ofta får orangebruna fläckar."
+summary: "Fårtickans dubbelgångare i tallskogen. Känns igen på att den får orangea fläckar vid skada."
 image: "/images/albatrellus_subrubescens_01.jpg"
 gallery:
   - url: "/images/albatrellus_subrubescens_01.jpg"
     credit: ""
 ---
 
-> Skiljer sig från fårticka bl a genom att rören ofta får orangebruna fläckar.
+> Fårtickans dubbelgångare i tallskogen. Känns igen på att den får orangea fläckar vid skada.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt vanligen ljusare och tunnare än fårtickans, vit till ockrafärgad, som äldre med orangebrun ton.
-- Hattens undersida har ett vitt rörlager som löper ner på foten.
-- Rörlagret och nedre delen av foten får orangebruna fläckar vid skrapning och skador.
+Lammtickan är mycket lik fårtickan och förväxlas ofta med den.
 
-Lammticka växer gärna på tallhedar, och är funnen i mellersta och norra Sverige samt på Gotland. I vissa länder nere i Europa är den vanligare än fårtickan och används där som matsvamp.
+- **Hatt:** Ofta något ljusare än fårtickan, vit till blekt brunorange.
+- **Porer:** Vita.
+- **Färgförändring:** Den viktigaste skillnaden är att lammtickan får **orangea eller rostbruna fläckar** på porlagret och foten om man tummar på den eller skadar den. Fårtickan gulnar mer citrongult.
+- **Smak:** Mild, men kan ha en svagt bitter eftersmak hos äldre exemplar.
 
-Gul lammticka (Albatrellus citrinus Ryman) är en närstående art som växer med gran, och som inte får orangebruna fläckar vid skador utan istället citrongula. Den påminner därför om en tunn och spenslig fårticka.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Där fårtickan väljer granen, väljer lammtickan **tallen**. Den hittas ofta på torrare tallhedar och hällmarker i mellersta och norra Sverige.
 
-- [Fårticka](/svampar/albatrellus_ovinus/) - fläckas ej i orangebrunt, god matsvamp.
-- [Brödticka](/svampar/albatrellus_confluens/) - växer ofta mer tuvat, ätlig som ung.
-- Ängsticka - med zonerad hattöversida och svavelgult porlager, sällsynt. oätlig.
+## Matvärde
+
+Ätlig och god, men kanske snäppet sämre än fårtickan. Den kan användas på samma sätt.
+
+## Förväxlingsrisker
+
+- **[Fårticka](/svampar/albatrellus_ovinus/):** Gulnar snarare än rodnar/blir orange, och växer med gran.
+- **[Brödticka](/svampar/albatrellus_confluens/):** Har mörkare, mer aprikosfärgad hatt och växer tuvatt.
+
+* **[Gul lammticka](/svampar/albatrellus_citrinus/):** Får citrongula fläckar och växer med gran.

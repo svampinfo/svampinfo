@@ -6,20 +6,26 @@ artfakta: "4637"
 slug: "inocybe_rimosa"
 edible: false
 poisonous: 1
-summary: "En tråding med tydligt uppsprucken hatt. Giftig."
+summary: "En gulbrun, giftig svamp där hatten spricker upp i trådar. Innehåller muskarin."
 image: "/images/inocybe_rimosa_01.jpg"
 gallery:
   - url: "/images/inocybe_rimosa_01.jpg"
-    credit: 'Eric Steinert, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
+    credit: "Eric Steinert, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
 ---
 
+> En gulbrun, giftig svamp där hatten spricker upp i trådar. Innehåller muskarin.
 
-> En tråding med tydligt uppsprucken hatt. Giftig.
+## Kännetecken
 
-## Beskrivning
+Namnet _rimosa_ syftar på att hatten spricker.
 
-Hatten är kägelformad och gulbrun, radiärt uppsprucken i trådar (rimös). Foten är vitaktig. Luktar spermatiskt.
+- **Hatt:** Konisk eller klockformad, gulbrun eller halmgul. Hatten spricker upp radiärt i fibrer ("rimös") så att det vita köttet syns igenom.
+- **Doft:** Spermatisk/unken.
 
-## Förväxlingssvampar
+## Giftighet
 
-Kan förväxlas med andra trådingar, men den uppspruckna hatten är karaktäristisk.
+Innehåller muskarin. Orsakar klassiska muskarin-symtom (svettningar, dregling).
+
+## Förväxlingsrisker
+
+Kan förväxlas med andra trådingar eller möjligen små spindlingar. Generellt bör man undvika alla bruna småsvampar med konisk hatt och trådig struktur.

@@ -1,12 +1,12 @@
 ---
-title: ""
+title: "Vitgul flugsvamp (var. alba)"
 scientificName: "Amanita citrina f. alba"
 wikidata: "Q935729"
 artfakta: "236419"
 slug: "amanita_citrina_var._alba"
 edible: false
 poisonous: 1
-summary: "En helvit varietet av vitgul flugsvamp. Skiljer sig från vit flugsvamp genom annorlunda volva och en doft som påminner om rå potatis."
+summary: "En helvit form av vitgul flugsvamp. Mycket lik den dödliga vita flugsvampen men avslöjas av sin potatisdoft."
 image: "/images/amanita_citrina_f_alba_01.jpg"
 gallery:
   - url: "/images/amanita_citrina_f_alba_01.jpg"
@@ -21,4 +21,25 @@ gallery:
     credit: "© Anton Johansson, Nyköping Artportalen"
 ---
 
-> En helvit varietet av vitgul flugsvamp. Skiljer sig från vit flugsvamp genom annorlunda volva och en doft som påminner om rå potatis.
+> En helvit form av vitgul flugsvamp. Mycket lik den dödliga vita flugsvampen men avslöjas av sin potatisdoft.
+
+## Kännetecken
+
+Detta är helt enkelt en pigmentlös (albino) variant av den vanliga vitgula flugsvampen.
+
+- **Färg:** Helt vit, inklusive hatt, skivor och fot.
+- **Fotbas:** Precis som huvudarten har den en tydligt avsatt, kantad knöl längst ner, inte en lös strumpa.
+- **Doft:** Den typiska doften av rå skalad potatis är det bästa kännetecknet.
+
+## Utbredning och Ekologi
+
+Växer på samma platser som huvudarten, dvs. i mager skogsmark i södra och mellersta Sverige. Den kan växa blandad med den gula formen.
+
+## Giftighet
+
+Betraktas som oätlig eller svagt giftig. På grund av den extrema likheten med vit flugsvamp bör den aldrig plockas.
+
+## Förväxlingsrisker
+
+- **[Vit flugsvamp](/svampar/amanita_virosa/):** Denna dödligt giftiga svamp är också helvit. Den största skillnaden är fotbasen: vit flugsvamp har en **sladdrig, säcklik strumpa** (volva) som omsluter basen, medan denna art har en fast, **kantad knöl**. Vit flugsvamp saknar dessutom potatisdoften.
+- **[Silkesmusseron](/svampar/tricholoma_columbetta/):** Har ingen ring och ingen knöl/strumpa.

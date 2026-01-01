@@ -7,26 +7,33 @@ slug: "albatrellus_confluens"
 edible: true
 poisonous: 0
 rating: 1
-summary: "Skiljer sig från sin släkting fårticka genom den franskbröd liknande färgen på hatten samt genom det gyttrade växtsättet."
+summary: "En stor, köttig ticka som ofta växer ihop i klungor. Färgen påminner om gräddat bröd."
 image: "/images/albatrellus_confluens_01.jpg"
 gallery:
   - url: "/images/albatrellus_confluens_01.jpg"
     credit: '<a rel="nofollow" class="external text" href="https://www.inaturalist.org/users/3522968">Matej Frančeškin</a>, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons'
 ---
 
-> Skiljer sig från sin släkting fårticka genom den franskbröd liknande färgen på hatten samt genom det gyttrade växtsättet.
+> En stor, köttig ticka som ofta växer ihop i klungor. Färgen påminner om gräddat bröd.
 
-## Beskrivning
+## Kännetecken
 
-- Hattar ofta sammanvuxna, svagt gulorange (påminnande om färgen hos franskbröd).
-- Hattens undersida har ett vitt, ofta orangefläckigt rörlager som löper ner på foten.
-- Fot vit, ofta med orange fläckar, ibland är flera fötter sammanvuxna vid basen.
-- Kött vitt, som ung nästan mild i smaken men som äldre besk.
+Brödtickan gör skäl för sitt namn med sin limpliknande färg.
 
-Brödtickan är ätlig som ung, som äldre blir den besk och oaptitlig. Kan ha en något laxerande effekt på vissa människor. Växer ofta i stora tuvor i mossig barrskog, saknas i de sydligaste och nordligaste delarna av landet. Hela svampen blir orangefärgad vid torkning.
+- **Hatt:** Ljust rödbrun, sämskskinnsfärgad eller aprikosrosa. Ytan är slät och kan spricka upp i ett rutmönster (fält) vid torka.
+- **Växtsätt:** Växer ofta _konfluent_, vilket betyder att flera hattar och fötter växer ihop till stora, oregelbundna klungor.
+- **Porer:** Vita, men kan få en svagt orange eller rosa ton som äldre.
+- **Smak:** Som ung mild, men får snabbt en beska som många finner oangenäm.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-- [Fårticka](/svampar/albatrellus_ovinus/) - fläckas ej i orange och växer ej lika tuvat, god matsvamp.
-- [Lammticka](/svampar/albatrellus_subrubescens/) - sällsynt men troligen förbisedd då den påminner mycket om [Fårticka](/svampar/albatrellus_ovinus/), ätlig.
-- Ängsticka - sällsynt art med zonerad hattöversida och svavelgult porlager, oätlig.
+Mycket allmän i barrskog över hela Sverige, särskilt i mossa under granar. Den bildar ofta stora mattor eller häxringar.
+
+## Matvärde
+
+Ätlig, men långt ifrån lika god som fårtickan. Smaken blir ofta besk, särskilt hos äldre exemplar. Vissa personer kan också få magbesvär av den. Den duger som blandsvamp om man plockar unga exemplar och tillagar dem väl, men de flesta svampplockare låter den stå till förmån för godare arter.
+
+## Förväxlingsrisker
+
+- **[Fårticka](/svampar/albatrellus_ovinus/):** Är gråvit eller gråbrun (saknar den aprikos/rosa tonen) och växer inte lika hopgyttrat. Fårtickan gulnar vid tillagning, det gör inte brödtickan.
+- **[Lammticka](/svampar/albatrellus_subrubescens/):** Växer med tall och fläckas orange.

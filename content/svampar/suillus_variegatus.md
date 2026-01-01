@@ -7,26 +7,31 @@ slug: "suillus_variegatus"
 edible: true
 poisonous: 0
 rating: 3
-summary: 'Har karaktäristiska små mörka "fräknar" på hatten. En av våra vanligaste soppar som kan förekomma i stora mängder. Vinner smak på att torkas innan anrättning.'
+summary: "En mycket vanlig sopp på magra tallhedar. Känns igen på sin gryniga, 'fräkniga' hatt och speciella doft."
 image: "/images/suillus_variegatus_01.jpg"
 gallery:
   - url: "/images/suillus_variegatus_01.jpg"
     credit: '<a href="https://en.wikipedia.org/wiki/User:Luridiformis" class="extiw" title="en:User:Luridiformis">User:Luridiformis</a>, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons'
 ---
 
-> Har karaktäristiska små mörka "fräknar" på hatten. En av våra vanligaste soppar som kan förekomma i stora mängder. Vinner smak på att torkas innan anrättning.
+> En mycket vanlig sopp på magra tallhedar. Känns igen på sin gryniga, "fräkniga" hatt och speciella doft.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd till utbredd, gulbrun, med små mörka fjäll (“fräknar”).
-- Rör mörka, grågula till gulbruna, ofta med rödbruna mynningar, vid beröring ofta blånande.
-- Fot med samma färg som hatten, utan ring.
-- Kött gulvitt, vid snitt ofta blånande.
+- **Hatt:** Gulbrun till grågul med en **grynig, filtad yta** (ser ut som mörka fräknar eller sandkorn). Den är _inte_ slemmig som smörsoppen (utom i mycket kraftigt regn).
+- **Porer:** Mörka, olivbruna eller kaffe-med-mjölk-färgade. De blånar (blir mörka) om man trycker på dem.
+- **Kött:** Gulaktigt, blånar ibland svagt vid snitt.
+- **Doft:** Syrlig och lite stickande som färsk (vissa säger klor), men får en mustig doft som påminner om **murklor** vid torkning.
 
-Växer med tall och trivs på tallhedar och bergig barrskog med renlav över hela Norden, förekommer även i mossig barrskog. Är något syrlig i smaken som färsk. Om man torkar svampen innan anrättning mognar smaken till det bättre och syrligheten försvinner. Alla delar av fruktkroppen kan användas så länge de är fasta i konsistensen.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+En av Sveriges vanligaste svampar på mager mark. Den trivs på sandiga tallhedar, hällmarker och i blåbärsris.
 
-- Pepparsopp - saknar fräknar, har pepprig smak och är därför oätlig.
-- [Örsopp](/svampar/suillus_bovinus/) - saknar fräknar, har större rörmynningar, ätlig.
-- [Grynsopp](/svampar/suillus_granulatus/) - saknar fräknar, har gula rör, god matsvamp.
+## Matvärde
+
+Som färsk är den lite syrlig och har en grynig konsistens, vilket gör den till en medelmåttig steksvamp. Men **torkad** är den fantastisk! Den kallas ibland "fattigmansmurkla" eftersom smaken djupnar och blir mycket aromatisk.
+
+## Förväxlingsrisker
+
+- **[Örsopp](/svampar/suillus_bovinus/):** Slät, slemmig hatt och stora porer.
+- **Pepparsopp:** Mycket mindre, rödare porer, pepprig smak.

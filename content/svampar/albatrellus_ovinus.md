@@ -7,27 +7,36 @@ slug: "albatrellus_ovinus"
 edible: true
 poisonous: 0
 rating: 3
-summary: "Hatten är vit till gråbrun. På undersidan av hatten finns ett vitt rörlager med små porer som är svåra att se för blotta ögat. Till skillnad från soppar sitter rörlagret hos tickor hårt fastväxt i hattköttet."
+summary: "En klassisk matsvamp i barrskogen. Känns igen på sitt vita porlager och att den blir gulgrön vid tillagning."
 image: "/images/albatrellus_ovinus_01.jpg"
 gallery:
   - url: "/images/albatrellus_ovinus_01.jpg"
     credit: '<a href="//commons.wikimedia.org/w/index.php?title=User:Bernypisa&amp;action=edit&amp;redlink=1" class="new" title="User:Bernypisa (page does not exist)">Bernypisa</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
 ---
 
-> Hatten är vit till gråbrun. På undersidan av hatten finns ett vitt rörlager med små porer som är svåra att se för blotta ögat. Till skillnad från soppar sitter rörlagret hos tickor hårt fastväxt i hattköttet.
+> En klassisk matsvamp i barrskogen. Känns igen på sitt vita porlager och att den blir gulgrön vid tillagning.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt vit till ljust gråbrun, som äldre ofta gulfläckig och med uppsprucken hattmitt.
-- Hattens undersida har ett vitt, ofta citrongulfläckigt rörlager som löper ner på foten.
-- Kött vitt, ofta med en citrongul till gröngul ton.
+Fårtickan är en marklevande ticka, vilket skiljer den från de flesta andra tickor som växer på träd.
 
-Klassisk matsvamp som ofta finns i mängder där den växer i mossig barrskog. Vanlig över hela landet utom i de sydligaste och nordligaste delarna. Bildar mykorrhiza med gran.
+- **Hatt:** Oregelbunden, ofta med vågig kant. Färgen varierar från gräddvit till gråbrun. Ytan kan spricka upp (fältas) när det är torrt.
+- **Porer:** Undersidan är täckt av mycket små, vita porer som löper ner en bit på foten. De är så små att ytan ser nästan slät ut.
+- **Fot:** Kort, tjock och ofta snedställd.
+- **Färgförändring:** Skrapar man på porerna eller foten gulnar de ofta långsamt.
 
-Fårtickan ändrar färg vid upphettning och blir gulgrön i köttet. Använder man en järnpanna vid tillagningen så reagerar svampköttet med järnet i pannan och blir svart. Matvärdet försämras inte med denna färgförändring. Denna egenskap har utnyttjats av livsmedelsindustrin där fårtickan – efter kokning i järnlaktat – spelat en viktig roll som tryffelersättning.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Trivs i äldre, mossig granskog. Den är mycket vanlig i stora delar av Sverige men saknas i de sydligaste delarna (Skåne) och längst i norr.
 
-- [Brödticka](/svampar/albatrellus_confluens/) - fläckas i orangebrunt, växer ofta tuvat, ätlig som ung.
-- [Lammticka](/svampar/albatrellus_subrubescens/) - ser ut som en liten fårticka men fläckas i orangebrunt, sällsynt, ätlig.
-- Ängsticka - med zonerad hattöversida och svavelgult porlager, sällsynt, oätlig.
+## Matvärde
+
+Fårtickan är en bra och matig svamp med fast konsistens. En intressant egenskap är att den **blir citrongul eller gulgrön när man steker eller kokar den**. Detta är helt ofarligt och ett bra kännetecken! Konsistensen påminner lite om kött, och panerad fårticka ("skogens wienerschnitzel") är en klassiker. Den har mild smak och doft.
+
+## Förväxlingsrisker
+
+- **[Brödticka](/svampar/albatrellus_confluens/):** Har en mer rödbrun/aprikos färg, smakar beskt och blir inte gul vid tillagning.
+- **[Lammticka](/svampar/albatrellus_subrubescens/):** Mycket lik men växer med tall och får orangea fläckar. Ätlig.
+- **Taggsvampar:** Taggsvampar har taggar på undersidan som lätt faller av, fårtickan har fastsittande porer.
+
+* **[Gul lammticka](/svampar/albatrellus_citrinus/):** Liknar fårtickan men får citrongula fläckar vid beröring och växer med gran i kalkrik skog.

@@ -6,33 +6,40 @@ artfakta: "4251"
 slug: "gyromitra_esculenta"
 edible: false
 poisonous: 2
-summary: "En dödligt giftig delikatess som numera rekommenderas att undvikas helt."
+summary: "En klassisk vårsvamp som ser ut som en hjärna. Tidigare en delikatess, nu klassad som giftig och olämplig som matsvamp."
 image: "/images/gyromitra_esculenta_01.jpg"
 gallery:
   - url: "/images/gyromitra_esculenta_01.jpg"
     credit: "[ChristianSW](https://commons.wikimedia.org/wiki/User:ChristianSW), [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en), via Wikimedia Commons"
 ---
 
-> En dödligt giftig delikatess som numera rekommenderas att undvikas helt.
+> En klassisk vårsvamp som ser ut som en hjärna. Tidigare en delikatess, nu klassad som giftig och olämplig som matsvamp.
 
-## Beskrivning
+## Kännetecken
 
-Stenmurklan är en klassisk vårsvamp som ser ut som en brun, skrynklig hjärna.
+Stenmurklan är lätt att känna igen och dyker upp på våren.
 
-- **Hatt:** Rödbrun till mörkbrun, oregelbundet veckad och "hjärnlik".
-- **Fot:** Vitaktig eller blekt köttröd, ofta ihålig.
-- **Växtplats:** Trivs på sandig mark, ofta på kalhyggen och vid skogsstigar. Dyker upp på våren (april-juni).
+- **Hatt:** Rödbrun, mörkbrun eller kastanjebrun. Formen är **oregelbundet veckad och skrynklig**, vilket gör att den påminner starkt om en hjärna.
+- **Fot:** Kort, tjock och vitaktig (ibland köttröd). Ihålig och kamrad inuti.
+- **Doft:** Speciell, kryddig doft.
 
-## Varför den är kontroversiell
+## Utbredning och Ekologi
 
-Stenmurklan innehåller giftet **gyromitrin**, som i kroppen omvandlas till ett ämne som liknar raketbränsle. Det skadar levern, nervsystemet och är cancerogent.
+Växer på våren och försommaren (april-juni). Trivs på sandig mark, kalhyggen, vid skogsstigar och i tallskog.
 
-Förr åt man stenmurkla efter förvällt i rikligt med vatten flera gånger om,
-eller torkat den. Idag vet vi att giftet _inte_ försvinner helt.
-Att andas in ångorna vid kokning är också farligt.
-Vidare avråder livsmedelsverket helt från att äta stenmurkla. Fin är den iallafall!
+## Giftighet
 
-## Förväxlingssvampar
+Stenmurklan innehåller **gyromitrin**, ett mycket farligt gift som i kroppen omvandlas till monometylhydrazin (samma ämne som i raketbränsle). Det påverkar levern, nervsystemet och de röda blodkropparna. Det är också bevisat **cancerogent** och kan påverka fortplantningen.
 
-- **[Toppmurkla](/svampar/morchella_elata/):** En eftertraktad och säker matsvamp (efter tillagning). Den har en mer konisk/spetsig hatt med gropar (som en bikaka) snarare än veckad "hjärnstruktur".
+Förr rekommenderades avkokning (att koka svampen i rikligt med vatten i två omgångar och hälla bort vattnet) eller torkning. Forskning har dock visat att giftet aldrig försvinner helt, och att själva kokångorna kan vara giftiga att andas in. Därför avråder Livsmedelsverket numera helt från att äta stenmurkla.
 
+## Förväxlingsrisker
+
+- **[Toppmurkla](/svampar/morchella_elata/):** Också en vårsvamp, men en säker och god matsvamp. Toppmurklan har en hatt med **gropar** (som en bikaka eller tvättsvamp), inte veckade vindlingar som stenmurklan.
+- **Biskopsmössa:** Växer på hösten.
+
+* **[Rund toppmurkla](/svampar/morchella_esculenta/):** Har gropar (bikakemönster) på hatten, inte veck.
+
+* **[Svart hattmurkla](/svampar/helvella_lacunosa/):** Har svart hatt och ribbad fot.
+
+* **[Toppstenmurkla](/svampar/gyromitra_ambigua/):** Mer toppig hatt, växer i norr. Också giftig.

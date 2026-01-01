@@ -31,3 +31,4 @@ Trivs på näringsrik jord under hassel och ek, men växer även tillsammans med
 - [Kantarell](/svampar/cantharellus_cibarius/) - mer enhetligt gul, utan tydlig färgkontrast mellan hatt och åsar.
 - Lundvaxing - har skivor under hatten (EJ åsar).
 
+* **[Äggvaxskivling](/svampar/hygrophorus_karstenii/):** Har glesa skivor (inte åsar) och vitare hatt. God matsvamp.

@@ -7,7 +7,7 @@ slug: "lactarius_picinus"
 edible: true
 poisonous: 0
 rating: 2
-summary: "Sotriskans skarpa dubbelgångare som kräver förvälling."
+summary: "En dubbelgångare till sotriskan, men med en brännande skarp smak. Måste kokas av."
 image: "/images/lactarius_picinus_01.jpg"
 gallery:
   - url: "/images/lactarius_picinus_01.jpg"
@@ -28,30 +28,26 @@ gallery:
     credit: "© Lars Bsenko, Surahammar Artportalen"
 ---
 
-> Sotriskans skarpa dubbelgångare som kräver avkokning.
+> En dubbelgångare till sotriskan, men med en brännande skarp smak. Måste kokas av.
 
-## Beskrivning
+## Kännetecken
 
-- **Hatt:** Svartbrun och sammetsluden. Påminner mycket om vanlig sotriska men saknar ofta den spetsiga "bucklan" (umbo) i mitten. Kanten är ofta ljusare.
-- **Skivor:** Ockragula och glesa. Färgas rödaktiga vid beröring.
-- **Fot:** Mörk och luden.
-- **Smak:** **Skarp.** Smaken är brännande pepprig.
-- **Växtplats:** Växer i barrskog (gran), precis som sotriskan.
+Liknar sotriskan i utseende men inte i smak.
 
-Svampen har sedan länge haft rykte om sig att vara oätlig på grund av den skarpa
-smaken, men precis som andra skarpa riskor blir den ätlig efter förvälling (avkokning).
+- **Hatt:** Svartbrun och sammetsluden.
+- **Smak:** Mycket **skarp** (pepprig/brännande). Det räcker att smaka en liten bit på tungan för att känna skillnaden mot den milda sotriskan.
+- **Saft:** Vit, rodnar vid kontakt med luften.
 
-## Tillagning
+## Utbredning och Ekologi
 
-Eftersom smaken är skarp/brännande måste denna svamp _förvällas (kokas av)_ innan den anrättas.
+Växer precis som sotriskan i barrskog med gran.
 
-1. Skär svampen i mindre bitar.
-2. Koka i rikligt med vatten i ca 10 minuter.
-3. Häll bort kokvattnet.
+## Matvärde
 
-Den når inte upp till samma kvalitet som den milda sotriskan, men fungerar bra som blandsvamp eller i saltinläggningar.
+På grund av den skarpa smaken räknas den som en "finsk riska", dvs. den måste **förvällas (kokas av)** i 10 minuter och vattnet hällas bort innan den kan ätas. Därefter fungerar den bra som blandsvamp eller saltad.
 
-## Förväxlingssvampar
+## Förväxlingsrisker
 
-- [Sotriska](/svampar/lactarius_lignyotus/) - Mycket lik, men har en **mild** smak direkt i skogen och behöver inte kokas av.
-- [Rökriska](/svampar/lactarius_fuliginosus/) - Växer i lövskog och är ljusare i färgen.
+- **[Sotriska](/svampar/lactarius_lignyotus/):** Mörkare hatt, ofta med en liten spets, och **mild** smak. En bättre matsvamp.
+
+* **[Rökriska](/svampar/lactarius_fuliginosus/):** Ljusare brun hatt och växer i lövskog.

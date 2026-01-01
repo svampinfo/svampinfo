@@ -7,42 +7,39 @@ slug: "macrolepiota_procera"
 edible: true
 poisonous: 0
 rating: 5
-summary: "Populär och läcker matsvamp med vackert brunfjällig hatt och vattrad fot. Hattbredden kan nå ända upp till 30 cm i diameter."
+summary: "En av skogens mest imponerande och godaste matsvampar. Känns igen på sin enorma storlek och den vattrade foten."
 image: "/images/macrolepiota_procera_01.jpg"
 gallery:
   - url: "/images/macrolepiota_procera_01.jpg"
     credit: "[Holger Krisp](https://commons.wikimedia.org/wiki/User:Holleday), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parasol-Macrolepiota-procera.jpg)"
   - url: "/images/macrolepiota_procera_02.jpg"
-    credit: "[Chrumps](https://commons.wikimedia.org/wiki/User:Chrumps), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Macrolepiota-procera.jpg)"
+    credit: "[Chrumps](https://commons.wikimedia.org/wiki/User:Chrumps), [CC BY 4.0](https://creativecommons.org/licenses/by 4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Macrolepiota-procera.jpg)"
   - url: "/images/macrolepiota_procera_03.jpg"
     credit: "[Morgan Owen](https://commons.wikimedia.org/wiki/User:Lloergi), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Glawlen_y_Bwgan_(Macrolepiota_procera).jpg)"
 ---
 
-> Populär och läcker matsvamp med vackert brunfjällig hatt och vattrad fot. Hattbredden kan nå ända upp till 30 cm i diameter.
+> En av skogens mest imponerande och godaste matsvampar. Känns igen på sin enorma storlek och den vattrade foten.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt som ung klotformad och gråbrun, med åldern välvd till utbredd med en liten puckel, och med uppsprickande bruna fjäll mot en vit botten.
-- Skivorna är täta, fria, vita, med åldern ibland svagt brunfläckiga.
-- Foten är ihålig, seg, vit, med ett brunvattrat mönster och uppsvälld fotbas.
-- Ringen är kraftig, lätt att lossa och kan då föras upp och ned på foten (likt en ring på ett finger).
-- Köttet är vitt, med en behaglig nötlik smak och lukt.
+Stolt fjällskivling är svår att missa. Den ser ut som ett stort parasoll som sticker upp ur gräset eller i skogsbrynet.
 
-Växer i skogsbryn och på ljusa platser i löv- och barrskog och på betade ängar i södra och mellersta Sverige.
+- **Hatt:** Kan bli upp till 30 cm bred. Den har en ljus botten med stora, mörka, uppspruckna **bruna fjäll**. I mitten finns en mörkare, slät puckel.
+- **Skivor:** Vita, mjuka och sitter mycket tätt. De når inte ända in till foten (fria skivor).
+- **Fot:** Lång, smal och ihålig men mycket seg. Foten har ett karaktäristiskt **vattrat mönster** (som ormskinn) i brunt på en ljus botten. Basen är kraftigt uppsvälld.
+- **Ring:** Har en stor, tjock och dubbel ring som går att **skjuta upp och ner** längs foten när svampen är utvuxen. Detta är ett mycket viktigt kännetecken!
+- **Kött:** Vitt och rodnar **inte** vid snitt (viktigt skiljetecken mot giftiga varianter).
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-Stolt fjällskivling kan förväxlas med både giftiga och ätliga svampar.
-De giftiga flugsvamparna skiljer sig främst genom att de har ljusa
-"plättar" (hyllerester) på mörk hattbotten, medan fjällskivlingar
-har mörka fjäll på ljus hattbotten.
+Växer på ljusa platser, som skogsbryn, hagmarker, vägkanter och i gles skog. Vanlig i södra och mellersta Sverige upp till Uppland/Dalarna.
 
-- [Panterflugsvamp](/svampar/amanita_pantherina/) och [Brun flugsvamp](/svampar/amanita_regalis/) --
-  Dessa är giftiga. Har ljusa plättar som kontrasterar mot en mörkfärgad hatt.
-- _Rodnande fjällskivling_ -- Saknar vattringar på foten och rodnar (blir rödaktig) i köttet vid skrapning eller snitt.
-- _Puckelfjällskivling_ -- Har brantare puckel och sämskfärgad hatt.
-- _Stjärnfjällskivling_ -- Mindre till växten, med stjärnlikt uppsprucken hatt.
-- _Olivfläckig fjällskivling_ -- Har brantare puckel, grönaktiga fläckar på hatt och fot samt smutsrosa sporpulver (sällsynt).
-- _Sotbrun fjällskivling_ -- Mörkare sotbrun färg, foten rodnar vid skrapning (sällsynt).
-- [Kungschampinjon](/svampar/agaricus_augustus) -- Foten är inte vattrad (ormskinnsmönstrad)
-  och skivorna mörknar till svart (är aldrig vita som hos stolt fjällskivling).
+## Matvärde
+
+En delikatess! Man använder oftast bara hatten, eftersom foten är alldeles för seg (men foten kan torkas och malas till svampmjöl). Hatten är fantastisk att steka i smör eller panera och steka som schnitzel. Den har en fin nötaktig smak.
+
+## Förväxlingsrisker
+
+- **[Panterflugsvamp](/svampar/amanita_pantherina/) & [Brun flugsvamp](/svampar/amanita_regalis/):** Giftiga. Dessa har **ljusa prickar på mörk botten** (fjällskivlingen har mörka fjäll på ljus botten). Deras ringar sitter fast och går inte att skjuta på foten.
+- **Rodnande fjällskivling:** Är mindre, saknar det vattrade mönstret på foten och **rodnar kraftigt** (blir röd) när man skrapar på den eller skär i den. Den kan orsaka magbesvär hos vissa.
+- **[Kungschampinjon](/svampar/agaricus_augustus/):** Har också bruna fjäll på hatten, men dess skivor blir mörkt bruna/svarta med tiden. Fjällskivlingen har alltid vita skivor.

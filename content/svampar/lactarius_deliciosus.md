@@ -7,7 +7,7 @@ slug: "lactarius_deliciosus"
 edible: true
 poisonous: 0
 rating: 5
-summary: "Även kallad läcker riska. En av våra bästa matsvampar, god, lättrensad och lätt att lära sig känna igen."
+summary: "Kanske vår godaste riska. Känns igen på sin orangea saft och att den växer med tall."
 image: "/images/lactarius_deliciosus_01.jpg"
 gallery:
   - url: "/images/lactarius_deliciosus_01.jpg"
@@ -26,24 +26,33 @@ gallery:
     credit: "[Casliber](https://commons.wikimedia.org/wiki/User:Casliber), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lactarius_deliciosus_bisected_WFalls_orig.jpg)"
 ---
 
-> Även kallad läcker riska. En av våra bästa matsvampar, god, lättrensad och lätt att lära sig känna igen.
+> Kanske vår godaste riska. Känns igen på sin orangea saft och att den växer med tall.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd till trattformig, med orangefärgade zoner, ibland grönfläckig.
-- Skivor vidvuxna till nedlöpande, ljust orange.
-- Fot kort, med karaktäristiska orangefärgade gropar mot ljusare botten.
-- Vid brytning avsöndrar köttet en morotsfärgad saft, som efter intorkning blir grönaktigt.
-- Smak mild.
-- Växer med tall, helst på kalkrik mark.
+Tallblodriskan, eller "Läcker riska" som det latinska namnet betyder, är en favorit.
 
-Mycket god matsvamp som lämpar sig bra att steka. Den kraftiga smaken hos blodriskor gör sig bra också bra i soppor, och passar bra att blanda med med mindre smakrika matsvampar såsom soppar och kremlor.
+- **Färg:** Hela svampen går i orangea toner, ofta med mörkare ringar (zoner) på hatten.
+- **Saft:** Den viktigaste egenskapen: om du bryter en bit blöder den en **morotsfärgad** (orange) saft.
+  Saften blir långsamt grönaktig när den torkar.
+- **Fot:** Foten har tydliga, mörkare orangea **gropar** (fläckar), vilket skiljer den från granblodriskan.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-Alla i Sverige förekommande blodriskor är bra matsvampar, här är några av dem:
+Växer med **tall**, gärna på lite kalkrikare mark. Vanlig i hela landet.
 
-- [Granblodriska](/svampar/lactarius_deterrimus/) - saknar vanligen gropar i foten.
-- [Vinriska](/svampar/lactarius_sanguifluus/) - blöder en vinröd saft vid färska skador.
-- [Grönfläckig vinriska](/svampar/lactarius_semisanguifluus/) - blöder en morotsfärgad saft som efter 5-10 minuter övergår i vinrött, ofta kraftigt grönfläckig hatt.
+## Matvärde
 
+En delikatess! Till skillnad från många andra riskor är den mild i smaken och
+behöver **inte** kokas av. Den kan stekas direkt i panna. Smaken är kryddig och fyllig.
+
+## Förväxlingsrisker
+
+- **[Granblodriska](/svampar/lactarius_deterrimus/):** Växer med gran, saknar
+  gropar på foten och blir snabbare grönärgig i köttet. I stort sätt en lika god matsvamp!
+
+- **[Vinriska](/svampar/lactarius_sanguifluus/):** Har vinröd saft. Också god.
+
+* **[Skäggriska](/svampar/lactarius_torminosus/):** Har en liknande rosa/orange färgton men känns igen på sin "skäggiga" hattkant och att saften är vit (inte orange).
+
+- **Giftiga riskor:** Har vit saft. Blodriskor (med orange/röd saft) är aldrig giftiga i Sverige.

@@ -20,21 +20,25 @@ gallery:
 
 Svart trumpetsvamp är svår att upptäcka eftersom den smälter in i de vissna löven på marken. Men har du väl hittat en ser du snart att marken är täckt av dem.
 
-*   **Form:** Som en djup tratt eller trumpet, ända ner till basen.
-*   **Färg:** Insidan av trumpeten är svart eller mörkgrå (blir ljusare som torkad). Utsidan är gråaktig och lite rynkig.
-*   **Konsistens:** Tunn och lite läderartad.
+- **Form:** Som en djup tratt eller trumpet, ända ner till basen.
+- **Färg:** Insidan av trumpeten är svart eller mörkgrå (blir ljusare som torkad). Utsidan är gråaktig och lite rynkig.
+- **Konsistens:** Tunn och lite läderartad.
 
 **Växtplats:** Trivs bäst i lövskog med ek och hassel, ofta på lite bättre mark.
 
 ## Matvärde
 
 Detta är en 5-stjärnig matsvamp! Den är otrolig att torka och smula ner i såser, soppor eller pasta. Smaken är djup, mustig och aromatisk.
-*   **Tips:** Rensa noga. Eftersom den är trattformad samlas det ofta barr, grus och småkryp längst ner i röret. Riv gärna isär svampen för att få bort allt skräp.
+
+- **Tips:** Rensa noga. Eftersom den är trattformad samlas det ofta barr, grus och småkryp längst ner i röret. Riv gärna isär svampen för att få bort allt skräp.
 
 ## Förväxlingssvampar
 
 Det finns i princip inga förväxlingsrisker.
-*   **Grå kantarell:** Också ätlig, men har åsar under hatten.
-*   **Kruskantarell:** Ljusare och mer "krusig". Ätlig men sällsynt.
+
+- **Grå kantarell:** Också ätlig, men har åsar under hatten.
+- **Kruskantarell:** Ljusare och mer "krusig". Ätlig men sällsynt.
 
 **Tumregel:** Hittar du svarta trumpeter i skogen är det bara att plocka. Det finns ingen giftig svamp som ser ut så här.
+
+- **[Violgubbe](/svampar/gomphus_clavatus/):** Har en mer violett ton och tydliga åsar (rynkor) på utsidan, till skillnad från trumpetens nästan släta utsida.

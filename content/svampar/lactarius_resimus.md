@@ -1,5 +1,5 @@
 ---
-title: "Alabasterriska / Gulmjölkig riska"
+title: "Alabasterriska"
 scientificName: "Lactarius resimus"
 wikidata: "Q1421173"
 artfakta: "4762"
@@ -7,7 +7,7 @@ slug: "lactarius_resimus"
 edible: true
 poisonous: 0
 rating: 4
-summary: "En delikatess för inläggningar, men kräver förvälling."
+summary: "En stor, vit riska vars saft gulnar. En delikatess i öster men kräver noggrann tillagning."
 image: "/images/lactarius_resimus_01.jpg"
 gallery:
   - url: "/images/lactarius_resimus_01.jpg"
@@ -30,34 +30,27 @@ gallery:
     credit: "© Barbro Engström, LULEÅ Artportalen"
 ---
 
-> En delikatess för inläggningar, men kräver förvälling.
+> En stor, vit riska vars saft gulnar. En delikatess i öster men kräver noggrann tillagning.
 
-## Beskrivning
+## Kännetecken
 
-- **Hatt:** Vit till gräddvit, ofta med svaga gulaktiga zoner. Ytan är något slemmig i fuktigt väder. Kanten är inrullad och hårig/luden (särskilt hos unga exemplar), vilket påminner om skäggriskan.
-- **Skivor:** Vita till gräddgula, tätt sittande.
-- **Fot:** Vit, kort och knubbig. Blir ofta ihålig hos äldre exemplar.
-- **Saft:** Vit saft som **snabbt blir citrongul** i kontakt med luften.
-- **Smak:** Brännande skarp som rå.
-- **Växtplats:** Trivs bäst med **björk** och tall på något fuktigare, kalkrik mark.
+Kallas ibland "den sanna riskan" i Ryssland och Finland.
 
-I Finland och Östeuropa räknas detta som en av skogens absolut främsta matsvampar.
-Den fasta konsistensen gör den perfekt för mjölksyrning eller saltinläggning.
+- **Saft:** Den vita mjölksaften **gulnar snabbt** (blir citrongul) när den kommer i kontakt med luften.
+- **Hatt:** Vit till gräddvit, ofta stor och trattformad som äldre. Kanten är luden.
+- **Smak:** Mycket skarp.
 
-## Tillagning
+## Utbredning och Ekologi
 
-Då smaken är mycket skarp måste svampen **förvällas (kokas av)** innan den äts.
+Växer med björk och tall, gärna på kalkrik mark i norra och mellersta Sverige.
 
-1. Rensa och skär i bitar.
-2. Koka i rikligt med vatten i **minst 10 minuter**.
-3. Häll bort kokvattnet och skölj svampen.
+## Matvärde
 
-Efter detta är den mild och redo att saltas in eller användas i en klassisk finsk risksallad.
+Måste **kokas av** i minst 10 minuter. Därefter är den en av de absolut bästa svamparna för insaltning.
 
-## Förväxlingssvampar
+## Förväxlingsrisker
 
-Det viktigaste kännetecknet för Forsbordsriskan är att den vita saften gulnar. Detta delar den dock med några andra arter som man bör se upp med.
+- **[Skäggriska](/svampar/lactarius_torminosus/):** Saften gulnar inte.
+- **Svavelriska:** Saften gulnar också, men hatten är mer gulorange och zonerad. Svavelriskan anses ofta olämplig som matsvamp i Sverige.
 
-- [Svavelriska](/svampar/lactarius_scrobiculatus/) - Har också saft som gulnar snabbt, men hatten är gulare/orange med tydligare zoner och foten har tydliga **gropar** (fläckar). Svavelriskan anses milt giftig/olämplig i Sverige.
-- [Skäggriska](/svampar/lactarius_torminosus/) - Har liknande "skägg" på kanten, men är **rosa** i färgen och saften är oförändrat vit (gulnar inte). Ätlig efter avkokning.
-- [Fransriska](/svampar/lactarius_citriolens/) - Liknar forsbordsriskan och har saft som gulnar, men har mycket långa "fransar" på hattkanten (upp till 1 cm) och växer i lövskog. Den anses ätlig efter avkokning men är sällsynt.
+* **[Blek skäggriska](/svampar/lactarius_pubescens/):** Mindre och har vit saft (gulnar ej).

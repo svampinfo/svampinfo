@@ -37,3 +37,5 @@ Det finns inga farliga svampar som liknar kantarell.
 - **Orange kantarell:** Liten och spenslig, saknar matvärde.
 
 **Tips:** Kantareller växer sällan ensamma. Har du hittat en, stå still och titta noga runt fötterna – ofta finns det fler gömda i mossan.
+
+- **[Violgubbe](/svampar/gomphus_clavatus/):** Violett, köttigare och har 'skrynkliga' åsar. God matsvamp.

@@ -7,35 +7,36 @@ slug: "hydnum_repandum"
 edible: true
 poisonous: 0
 rating: 5
-summary: "En av skogens säkraste kort. God, vanlig och helt utan giftiga dubbelgångare."
+summary: "En nybörjarfavorit som är lätt att känna igen på taggarna under hatten. Mild smak och fast konsistens."
 image: "/images/hydnum_repandum_01.jpg"
 gallery:
   - url: "/images/hydnum_repandum_01.jpg"
     credit: "D J Kelly, [Public domain](), via Wikimedia Commons"
 ---
 
-> En av skogens säkraste kort. God, vanlig och helt utan giftiga dubbelgångare.
+> En nybörjarfavorit som är lätt att känna igen på taggarna under hatten. Mild smak och fast konsistens.
 
-## Beskrivning
+## Kännetecken
 
-Taggsvampar är perfekta för nybörjaren. Titta under hatten – istället för skivor eller rör hänger det ner små mjuka taggar.
+Taggsvamparna är en egen grupp som skiljer sig från skivlingar och soppar.
 
-*   **Hatt:** Matt, oregelbunden form. Färgen är blekgul, gräddvit eller ljust sämskfärgad.
-*   **Undersida:** Täckt av **mjuka, ljusa taggar** som lätt lossnar om man drar med fingret.
-*   **Fot:** Vitaktig, kort och kraftig.
-*   **Kött:** Vitt, fast och hårt.
+- **Undersida:** Istället för skivor eller rör har den **mjuka taggar** som hänger ner. Taggarna lossnar lätt om man drar med fingret. På blek taggsvamp löper taggarna ofta ner en bit på foten.
+- **Hatt:** Blekt gulvit, gräddfärgad eller ljust sämskskinnsfärgad. Formen är ofta oregelbunden.
+- **Fot:** Vit, kort och kraftig.
+- **Kött:** Vitt, fast och hårt.
 
-**Växtplats:** Växer ofta i stora ringar eller rader ("häxringar") i mossig skog, både barr och löv.
+## Utbredning och Ekologi
+
+Trivs i både barr- och lövskog, ofta i mossa eller lövförna. Den bildar ofta stora ringar ("häxringar") eller rader. Vanlig i hela landet.
 
 ## Matvärde
 
-En fantastisk matsvamp! Den är fast i köttet och krymper inte lika mycket i pannan som många andra svampar. Smaken är mild men kan ha en liten pepprighet som försvinner vid tillagning.
+En femstjärnig matsvamp! Den har ett fast och fint kött som inte krymper bort i stekpannan. Smaken är mild, ibland med en svag pepprighet som försvinner vid tillagning.
+Det är bra att skrapa bort taggarna redan i skogen, då de annars lossnar och skräpar ner bland de andra svamparna i korgen.
 
-*   **Rensningstips:** Taggarna är goda att äta, men de lossnar lätt och skräpar ner i korgen. Många svampplockare skrapar därför bort taggarna med kniven direkt i skogen för att hålla svampen renare.
-*   **Tillagning:** Passar utmärkt att steka, stuva eller blanda med kantareller.
+## Förväxlingsrisker
 
-## Förväxlingssvampar
+Det finns inga giftiga svampar med taggar.
 
-Det finns **inga giftiga svampar** som ser ut som blek taggsvamp.
-*   **[Rödgul taggsvamp](/svampar/hydnum_rufescens/):** Mindre, tunnare och mer aprikosfärgad. Också en utmärkt matsvamp!
-*   **Bruna taggsvampar:** Det finns mörka/bruna taggsvampar som är sega och beska. Plocka bara de ljusa så är du säker.
+- **[Rödgul taggsvamp](/svampar/hydnum_rufescens/):** Mindre, tunnare, mer aprikosfärgad och har taggar som inte löper ner på foten. Också god!
+- **Motaggsvamp:** Mörkbrun med mörka taggar. Oätlig (men inte farlig).

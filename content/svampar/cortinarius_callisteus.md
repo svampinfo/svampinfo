@@ -6,25 +6,32 @@ artfakta: "3571"
 slug: "cortinarius_callisteus"
 edible: false
 poisonous: 1
-summary: "Vacker art med en karaktäristisk doft, påminnande om varmt strykjärn. Bilden visar den närstående arten Cortinarius citrinofulvescens som har en ljusare och mer klargul färg"
+summary: "En gulorange spindling med en mycket speciell doft av varmt strykjärn eller ånglok."
 image: "/images/cortinarius_callisteus_01.jpg"
 gallery:
   - url: "/images/cortinarius_callisteus_01.jpg"
     credit: "[amadej trnkoczy (amadej)](https://mushroomobserver.org/observer/show_user/931) at [Mushroom Observer](https://mushroomobserver.org), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
-> Vacker art med en karaktäristisk doft, påminnande om varmt strykjärn. Bilden visar den närstående arten Cortinarius citrinofulvescens som har en ljusare och mer klargul färg
+> En gulorange spindling med en mycket speciell doft av varmt strykjärn eller ånglok.
 
-## Beskrivning
+## Kännetecken
 
-- Hatten är välvd till utbredd, slät till finfjällig, gul, ibland med orangegul mitt, ej hygrofan.
-- Skivorna är ljust gula, som äldre mer bruna, ganska glesa, vidvuxna till urnupna.
-- Foten är av hattens färg, vanligen med uppsvälld bas.
-- Lukt speciell, beskriven som stenkolsrök, ånglok, ozon, varmt strykjärn, nysläckt stearinljus.
+Lokspindlingen är en ganska liten men färgstark svamp.
 
-Lokspindling förekommer främst i kalkrika, mossiga barrskogar. Spridd över hela landet.
+- **Hatt:** Gulorange till aprikosfärgad, ofta med en lite filtad yta.
+- **Doft:** Detta är nyckeln. Doften beskrivs ofta som **varm metall, nysläckt stearinljus, ozon eller "ånglok"**. Har man en gång känt den glömmer man den inte.
+- **Skivor:** Gula, blir brunare med åldern.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-- [Eldspindling](/svampar/cortinarius_limonius/) - har mörkare hatt, annan doft, misstänkt giftig.
-- [Gulbandad spindling](/svampar/cortinarius_gentilis/) - spensligare, misstänkt giftig.
+Växer i mossig barrskog (gran), gärna på kalkrik mark.
+
+## Giftighet
+
+Misstänkt giftig (kan innehålla orellaninliknande ämnen) och ska absolut inte ätas.
+
+## Förväxlingsrisker
+
+- **[Eldspindling](/svampar/cortinarius_limonius/):** Liknande färg men saknar den speciella doften.
+- **[Gulbandad spindling](/svampar/cortinarius_gentilis/):** Mindre och spensligare.

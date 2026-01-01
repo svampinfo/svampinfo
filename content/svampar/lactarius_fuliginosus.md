@@ -7,7 +7,7 @@ slug: "lactarius_fuliginosus"
 edible: true
 poisonous: 0
 rating: 2
-summary: "En mildare släkting till sotriskan som växer i lövskog. Köttet rodnar vid snitt."
+summary: "En brun riska som växer i lövskog. Köttet rodnar vid snitt, men den når inte riktigt upp till sotriskans kvalitet."
 image: "/images/lactarius_fuliginosus_01.jpg"
 gallery:
   - url: "/images/lactarius_fuliginosus_01.jpg"
@@ -22,20 +22,24 @@ gallery:
     credit: "[Tigran Mitr am](https://en.wikipedia.org/wiki/ru:User:Tigran_Mitr_am), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lactarius_fuliginosus.jpg)"
 ---
 
-> En mildare släkting till sotriskan som växer i lövskog. Köttet rodnar vid snitt.
+> En brun riska som växer i lövskog. Köttet rodnar vid snitt, men den når inte riktigt upp till sotriskans kvalitet.
 
-## Beskrivning
+## Kännetecken
 
-- **Hatt:** Gråbrun till kaffebrun, ofta med en något ljusare kant. Ytan är matt men inte lika sammetsluden som hos sotriskan.
-- **Skivor:** Glesa, gräddfärgade till ockragula. Vid skada rodnar de långsamt (blir laxrosa).
-- **Fot:** Färgad som hatten eller något ljusare, ofta vitaktig allra högst upp.
-- **Saft:** Vit, men ändrar färg till rosa/rött i kontakt med luften (syns tydligt på skivorna eller om du skär i foten).
-- **Smak:** Mild till något besskarp.
-- **Växtplats:** Växer i **lövskog**, gärna med hassel, ek och bok.
+- **Hatt:** Kaffebrun eller gråbrun, ofta ljusare mot kanten. Matt yta.
+- **Skivor:** Glesa, ockragula.
+- **Saft:** Vit, men reagerar med luften och färgar köttet skärt/rosa efter en stund.
+- **Smak:** Mild, men kan ha en viss kärvhet.
 
-Detta är en ätlig svamp men den når inte alls upp till samma kulinariska nivå som den vanliga sotriskan. Den används bäst som blandsvamp.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Till skillnad från den populära sotriskan växer rökriskan i **lövskog**, gärna med hassel och ek.
 
-- [Sotriska](/svampar/lactarius_lignyotus/) - Har en betydligt mörkare, sammetsluden hatt och växer i barrskog (gran). Mycket godare matsvamp.
-- [Beckriska](/svampar/lactarius_picinus/) - Växer i barrskog och har en tydligt skarp (brännande) smak.
+## Matvärde
+
+Ätlig, men anses ofta underlägsen sotriskan i smak och konsistens. Kan användas som blandsvamp.
+
+## Förväxlingsrisker
+
+- **[Sotriska](/svampar/lactarius_lignyotus/):** Mörkare (sammetsvart) hatt, växer i granskog och smakar bättre.
+- **[Beckriska](/svampar/lactarius_picinus/):** Växer i barrskog och smakar brännande skarpt.

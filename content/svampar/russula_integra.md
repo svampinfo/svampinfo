@@ -7,24 +7,33 @@ slug: "russula_integra"
 edible: true
 poisonous: 0
 rating: 5
-summary: "Den krispiga spröda konsistensen i kombination med den milda nötlika smaken gör denna kremla till en av de läckraste. Gör sig utmärkt i alla möjliga anrättningar."
+summary: "En stor, fast och nötig kremla som växer under granar. En av de bästa matsvamparna."
 image: "/images/russula_integra_01.jpg"
 gallery:
   - url: "/images/russula_integra_01.jpg"
     credit: '<a href="//commons.wikimedia.org/w/index.php?title=User:Puchatech_K.&amp;action=edit&amp;redlink=1" class="new" title="User:Puchatech K. (page does not exist)">Puchatech K.</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
 ---
 
-> Den krispiga spröda konsistensen i kombination med den milda nötlika smaken gör denna kremla till en av de läckraste. Gör sig utmärkt i alla möjliga anrättningar.
+> En stor, fast och nötig kremla som växer under granar. En av de bästa matsvamparna.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt som ung halvklotformad, med åldern välvd till utbredd och slutligen med nedsänkt mitt, svagt klibbig i fuktig väderlek, brun till rödbrun, ibland urblekt.
-- Skivor urnupna till vidväxta, ganska glesa, tjocka, vita till gräddfärgade, sköra (liknar hyvlad mandel då de lossnat från hatten), med tydliga tvärådror mellan skivorna (anastomoser).
-- Fot vit, ibland fläckig i gul till gulbrunt.
-- Kött vitt, med mild nötlik smak, påminnande om mandel.
+- **Hatt:** Mörkt rödbrun, chokladbrun eller kopparfärgad.
+- **Skivor:** Det tydligaste tecknet! Hos vuxna exemplar är skivorna **smörgula** eller ockragula (pga sporpulvret). De är breda och glesa.
+- **Fot:** Vit och mycket robust/tjock.
+- **Smak:** Mild, påminner om mandel eller nötter.
 
-Ser ofta skräpig ut då löv och barr gärna fastnar på översidan av hatten. Växer ofta i barrmattan under granar i barr- och blandskog.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Växer med **gran**, ofta på kalkrik mark. Vanlig i mellersta och norra Sverige.
 
-Det finns flera snarlika kremlor. T ex är pepparkremlan en av de oätliga dubbelgångarna, den har ofta röda inslag på foten och är mycket skarp i smaken. Förekomsten av anastomoser är inget unikt för mandelkremlan utan finns hos flera andra arter. Möjligen kan exemplaren på bilden föreställa den snarlika dubbelgångaren R. integriformis, en art med nordlig utbredning som ibland har inslag av rött på foten, ätlig.
+## Matvärde
+
+En absolut toppsvamp. Den är matig, fast och smakar ljuvligt.
+
+## Förväxlingsrisker
+
+- **Pepparkremla:** Har liknande färg men är mindre, skörare och smakar brännande skarpt.
+- **[Tegelkremla](/svampar/russula_decolorans/):** Har grånande kött (mandelkremlan grånar ej).
+
+* **[Giftkremla](/svampar/russula_emetica/):** Röd hatt, vita skivor och brännande skarp smak.

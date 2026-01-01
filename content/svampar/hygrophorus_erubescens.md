@@ -6,20 +6,26 @@ artfakta: "4408"
 slug: "hygrophorus_erubescens"
 edible: false
 poisonous: 1
-summary: "En vaxskivling som smakar beskt och rodnar vid beröring."
+summary: "En vaxskivling med vackra rosa färger som tyvärr smakar mycket beskt. Oätlig."
 image: "/images/hygrophorus_erubescens_01.jpg"
 gallery:
   - url: "/images/hygrophorus_erubescens_01.jpg"
     credit: "[Ron Pastorino (Ronpast)](https://mushroomobserver.org/observer/show_user/9) at [Mushroom Observer](https://mushroomobserver.org), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 
+> En vaxskivling med vackra rosa färger som tyvärr smakar mycket beskt. Oätlig.
 
-> En vaxskivling som smakar beskt och rodnar vid beröring.
+## Kännetecken
 
-## Beskrivning
+- **Hatt:** Vitaktig men täckt av rosa till rödaktiga fläckar eller strimmor. Klibbig i fuktigt väder.
+- **Skivor:** Vita men får rosa fläckar med åldern. Glesa och nedlöpande.
+- **Färgförändring:** Hela svampen gulnar eller rodnar vid skada.
+- **Smak:** **Besk.**
 
-Hatten är vitaktig med rosafläckiga partier, klibbig i fuktigt väder. Skivorna är glesa och nedlöpande. Hela svampen rodnar/gulnar vid tryck eller ålder. Smaken är tydligt besk.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Växer i mossig granskog, ofta på kalkrik mark.
 
-Kan förväxlas med besksötriska (som har vit mjölksaft) eller andra vaxskivlingar, men den beska smaken skiljer den ut.
+## Förväxlingsrisker
+
+Kan likna en del andra rosa-tonade vaxskivlingar, men den bittra smaken är unik.

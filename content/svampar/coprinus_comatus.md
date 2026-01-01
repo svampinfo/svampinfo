@@ -7,25 +7,31 @@ slug: "coprinus_comatus"
 edible: true
 poisonous: 0
 rating: 4
-summary: "En läcker matsvamp som trivs i feta gräsmattor, gärna i tätortsbebyggelse."
+summary: "En ståtlig och läcker matsvamp som måste ätas direkt efter plockning. Känns igen på sin höga, vita och fjälliga hatt."
 image: "/images/coprinus_comatus_01.jpg"
 gallery:
   - url: "/images/coprinus_comatus_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:Bigredwine1" title="User:Bigredwine1">Bigredwine1</a>, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons'
 ---
 
-> En läcker matsvamp som trivs i feta gräsmattor, gärna i tätortsbebyggelse.
+> En ståtlig och läcker matsvamp som måste ätas direkt efter plockning. Känns igen på sin höga, vita och fjälliga hatt.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt som ung utdraget äggformad, med åldern klockformad, vit, med vita till beigebruna fransade fjäll, slät och gulbrun i toppen.
-- Skivor som unga vita, med åldern övergående i rosa för att slutligen bli svarta och upplösta i en bläckliknande vätska.
-- Fot slät, ihålig, vit.
-- Ring tunn, försvinner lätt.
-- Kött vitt.
+Fjällig bläcksvamp är en av våra mest karaktäristiska svampar.
 
-Växer ofta i närheten av människor där den trivs i feta gräsmattor, komposter och längs vägkanter i tätorter. Läcker matsvamp, kan bli något lös i konsistensen och passar därför bäst stekt eller ännu hellre friterad. Fruktkropparna växer relativt snabbt och bör plockas innan de vita skivorna och köttet ändrar färg.
+- **Hatt:** Hög och cylindrisk (äggformad) som ung, senare klockformad. Den är vit och täckt av stora, mjuka, vita till beigea fjäll. Toppen är ofta slät och brunaktig.
+- **Skivor:** Mycket tättsittande. Först vita, sedan rosa och slutligen svarta och flytande.
+- **Fot:** Vit, slät och ihålig. Den har en tunn ring som ofta faller ner mot basen.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-- [Grå bläcksvamp](/svampar/coprinus_atramentarius/) - grå, saknar fransiga fjäll, giftig.
+Trivs på näringsrik mark, som nysådda gräsmattor, parker, komposter och vägkanter. Den dyker ofta upp i stora grupper på sensommaren och hösten.
+
+## Matvärde
+
+En utmärkt matsvamp med mild och fin smak. **Viktigt:** Den måste plockas och tillagas medan den fortfarande är helt vit inuti. Så snart skivorna börjar bli rosa eller svarta börjar den lösas upp till bläck och är inte längre god. Den bör tillagas direkt efter plockning då den fortsätter mogna snabbt i svampkorgen. Den passar bäst att steka eller fritera.
+
+## Förväxlingsrisker
+
+- **[Grå bläcksvamp](/svampar/coprinus_atramentarius/):** Gråare, saknar de stora fransiga fjällen och är giftig ihop med alkohol.

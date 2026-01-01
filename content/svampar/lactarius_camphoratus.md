@@ -7,7 +7,7 @@ slug: "lactarius_camphoratus"
 edible: true
 poisonous: 0
 rating: 4
-summary: "Skogens egen currykrydda. En liten mörk riska som torkad förvandlas till en fantastisk smaksättare."
+summary: "En liten, mörk riska som i torkat tillstånd får en intensiv doft av curry. Perfekt som kryddsvamp."
 image: "/images/lactarius_camphoratus_01.jpg"
 images: []
 gallery:
@@ -21,32 +21,25 @@ gallery:
     credit: "[Irene Andersson (irenea)](https://mushroomobserver.org/observer/show_user/442), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2010-08-28_Lactarius_camphoratus_54601.jpg)"
 ---
 
-> Skogens egen currykrydda. En liten mörk riska som torkad förvandlas till en fantastisk smaksättare.
+> En liten, mörk riska som i torkat tillstånd får en intensiv doft av curry. Perfekt som kryddsvamp.
 
-## Beskrivning
+## Kännetecken
 
-Kamferriskan är kanske inte den vackraste svampen i skogen, men den vinner på sin doft. Det är en liten till medelstor riska med en mörk, matt färgton som ofta gömmer sig i mossan.
+Kamferriskan är en ganska liten och oansenlig svamp, men doften avslöjar den.
 
-- **Hatt:** Mörkt rödbrun till kanelbrun. Ytan är matt och saknar glans. Ofta har den en liten "bula" (papill) mitt på hatten.
-- **Skivor:** Tätare än hos många andra riskor. Färgen är rödbrun med en ton av tegel.
-- **Fot:** Samma färg som hatten, men ofta lite mörkare mot basen. Ganska spröd.
-- **Saft:** Vit (ibland vattnig/tunn som skummjölk). Smaken är mild eller svagt besk, inte brännande.
-- **Doft:** Det viktigaste kännetecknet! Som färsk doftar den kryddigt (vissa säger "buljong" eller "fuktig källare"), men när den torkar framträder en tydlig doft av **curry** eller libbsticka.
+- **Hatt:** Mörkt rödbrun, matt och torr.
+- **Doft:** Som färsk doftar den kryddigt, lite som buljong eller libbsticka. När den torkar blir doften mycket starkare och påminner om **curry**.
+- **Saft:** Vit, ibland vattnig (som skummjölk). Smaken är mild eller svagt skarp.
 
-**Växtplats:** Trivs i barrskog och blandskog, ofta direkt på murken ved eller djupt nere i mossa. Vanlig i södra och mellersta Sverige.
+## Utbredning och Ekologi
+
+Växer i barrskog och blandskog över hela landet, ofta direkt på murken ved eller djupt nere i mossa.
 
 ## Matvärde
 
-Detta är ingen "steksvamp" du fyller magen med, utan en **kryddsvamp**.
+Detta är ingen svamp man steker och äter för mättnadens skull. Den används bäst som **krydda**. Torka svampen och smula ner den i såser, grytor eller soppor för en mustig curry-liknande smak.
 
-- **Torkning:** Kamferriskan gör sig absolut bäst torkad. Det är då magin sker och currydoften exploderar.
-- **Användning:** Smula ner den torkade svampen till ett pulver. Använd som krydda i såser, grytor, soppor eller i brödbaket. Den ger en djup, mustig umami-ton som påminner om curry och Bockhornsklöver.
-- **Färsk:** Kan blandas ut i svampstuvningar, men smaken är ganska anonym som färsk.
+## Förväxlingsrisker
 
-## Förväxlingssvampar
-
-Eftersom Kamferriskan är brun kan den förväxlas med andra bruna riskor, men doften avslöjar den oftast.
-
-- **[Pepparriska](/svampar/lactarius_rufus/):** Den vanligaste förväxlingen. Pepparriskan är också rödbrun men har en **brännande skarp smak** (tugga på en liten bit och spotta ut). Den saknar helt currydoft. Pepparriskan måste kokas av.
-- **[Lakritsriska](/svampar/lactarius_helvus/):** Doftar lakrits/buljong (vilket kan påminna om kamferriskan för ovana näsor). Skillnaden är att Lakritsriskan har **vattenklar saft** (som vatten), medan Kamferriskan har vit saft. Lakritsriskan är svagt giftig.
-- **Sotriska:** Mörkare, nästan svartbrun, och har vit saft som rodnar (blir röd) när den torkar in.
+- **[Pepparriska](/svampar/lactarius_rufus/):** Också rödbrun, men har en brännande skarp smak och saknar currydoften.
+- **[Lakritsriska](/svampar/lactarius_helvus/):** Doftar också starkt (lakrits/buljong), men har **vattenklar saft** och är svagt giftig.

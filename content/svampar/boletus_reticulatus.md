@@ -7,25 +7,35 @@ slug: "boletus_reticulatus"
 edible: true
 poisonous: 0
 rating: 5
-summary: "Läcker matsvamp i klass med karljohan från vilken den skiljer sig bl a genom den finludna hatten (ungefär som hos persikor). Växer gärna med ek och bok och kommer redan i juni-juli."
+summary: "En sommarvariant av Karljohan som trivs i lövskog. Hatten är matt och finluden som skalet på en persika."
 image: "/images/boletus_reticulatus_01.jpg"
 gallery:
   - url: "/images/boletus_reticulatus_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:Rude" title="User:Rude">Rude</a>, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons'
 ---
 
-> Läcker matsvamp i klass med karljohan från vilken den skiljer sig bl a genom den finludna hatten (ungefär som hos persikor). Växer gärna med ek och bok och kommer redan i juni-juli.
+> En sommarvariant av Karljohan som trivs i lövskog. Hatten är matt och finluden som skalet på en persika.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd, grågul till ljusbrun, finluden, ofta rutlikt uppsprucken.
-- Rör som unga vitaktiga, som äldre gula till gulgröna.
-- Fot vit till gråbrun, vanligen knubbig, ibland slank, med vitt ådernät.
-- Svampkött vitt, även strax under hatthuden. Smaken är mild.
+Kallas ibland sommar-karljohan eftersom den dyker upp tidigare på säsongen än den vanliga stensoppen.
 
-## Förväxlingssvampar
+- **Hatt:** Ljusbrun till hasselnötsbrun. Ytan är matt, torr och **finluden** (filtad), till skillnad från vanlig Karljohan som kan vara lite klibbig. Hatten spricker ofta upp i ett nätmönster vid torka.
+- **Rör:** Vita till gula.
+- **Fot:** Ljusbrun med ett mycket tydligt, upphöjt **vitt ådernät** som ofta täcker hela foten.
+- **Kött:** Vitt och fast, ofta mjukare än hos vanlig Karljohan.
 
-- Gallsopp - med mörkt ådernät på foten, besk smak, oätlig.
-- [Karljohan](/svampar/boletus_edulis/) - med brunviolett svampkött strax under hatthuden, läcker matsvamp.
-- [Rödbrun stensopp](/svampar/boletus_pinophilus/) - med mörkare rödbrun hatt, växer i barrskog, läcker matsvamp.
-- [Brunsopp](/svampar/boletus_badius/) - saknar ådernät på foten, blånar över rören, läcker matsvamp.
+## Utbredning och Ekologi
+
+Värmeälskande art som växer i lövskog med ek och bok. Finns främst i södra och mellersta Sverige.
+
+## Matvärde
+
+Femstjärnig matsvamp. Har ofta en ännu starkare och kryddigare doft än vanlig Karljohan. Tyvärr angrips den mycket snabbt av larver eftersom den växer under den varma sommaren.
+
+## Förväxlingsrisker
+
+- **[Karljohan](/svampar/boletus_edulis/):** Har slät/klibbig hatt och växer oftare senare på hösten.
+- **[Rödbrun stensopp](/svampar/boletus_pinophilus/):** Har mörkare rödbrun hatt och växer med tall.
+- **[Brunsopp](/svampar/boletus_badius/):** Saknar ådernät, har sammetsluden hatt och blånar vid tryck.
+- **[Gallsopp](/svampar/tylopilus_felleus/):** Smakar beskt, har mörkt ådernät och rosa porer.

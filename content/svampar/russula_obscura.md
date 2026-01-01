@@ -7,24 +7,33 @@ slug: "russula_obscura"
 edible: true
 poisonous: 0
 rating: 3
-summary: "Karaktäriseras av sin vinröda hattfärg, grånande kött och att skiveggen är vinröd millimetrarna närmast hattkanten."
+summary: "En mörkröd kremla som grånar vid snitt. Har ofta en röd egg på skivorna."
 image: "/images/russula_vinosa_01.jpg"
 gallery:
   - url: "/images/russula_vinosa_01.jpg"
     credit: "Jerzy Opioła, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 ---
 
-> Karaktäriseras av sin vinröda hattfärg, grånande kött och att skiveggen är vinröd millimetrarna närmast hattkanten.
+> En mörkröd kremla som grånar vid snitt. Har ofta en röd egg på skivorna.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt som ung halvklotformad, vinröd, med gråvit pruina, med åldern välvd till utbredd och slutligen blekare, med mörkare, nedsänkt mitt.
-- Skivor vita till gräddgula, grånande med åldern. Skiveggen är millimetrarna närmast hattkanten av samma färg som hatten.
-- Fot vit, grånande med åldern.
-- Kött vitt, grånande, med mild smak eller något skarp hos unga ex.
+Vinkremlan är en nära släkting till tegelkremlan och delar egenskapen att köttet svartnar/grånar.
 
-Växer i barrskog över hela Norden.
+- **Hatt:** Mörkt vinröd, ofta med mörkare mitt.
+- **Kött:** Vitt, men **grånar/svartnar** vid skada och ålder.
+- **Skivor:** Gräddgula. Ett viktigt detalj är att skiveggen (kanten på skivan) ofta är **rödfärgad** precis ute vid hattkanten (syns med lupp).
+- **Smak:** Mild.
 
-## Förväxlingssvampar
+## Utbredning och Ekologi
 
-- Russula vinososordida - har ej färgad skivegg närmast hattkanten.
+Växer i barrskog, ofta i mossig granskog.
+
+## Matvärde
+
+En god och vanlig matsvamp.
+
+## Förväxlingsrisker
+
+- **[Tegelkremla](/svampar/russula_decolorans/):** Ljusare, tegelröd/orange hatt. Också god.
+- **Giftiga röda kremlor:** Har vita skivor, grånar ej och smakar skarpt.

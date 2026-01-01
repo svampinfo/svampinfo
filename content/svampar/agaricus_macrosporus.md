@@ -7,26 +7,32 @@ slug: "agaricus_macrosporus"
 edible: true
 poisonous: 0
 rating: 2
-summary: "Påminner om en snöbollschampinjon men saknar det kugghjulslika mönstret på undersidan av ringen. God matsvamp."
+summary: "En stor, vit champinjon som påminner om snöbollschampinjonen men är ännu kraftigare och saknar kugghjulsmönster på ringen."
 image: "/images/agaricus_urinascens_01.jpg"
 gallery:
   - url: "/images/agaricus_urinascens_01.jpg"
     credit: '<a href="//commons.wikimedia.org/wiki/User:Traumrune" title="User:Traumrune">Traumrune</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons'
 ---
 
-> Påminner om en snöbollschampinjon men saknar det kugghjulslika mönstret på undersidan av ringen. God matsvamp.
+Vit kungschampinjon är en imponerande svamp som kan bli mycket stor. Den är nära släkt med snöbollschampinjonen och delar många av dess egenskaper.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt som ung klotrund, sedan utbredd, glänsande vit, ofta svagt gulnande vid tryck.
-- Skivor först vitaktiga, med åldern grårosa till mörkbruna.
-- Fot vit, vidgad mot basen, gulnar svagt vid tryck.
-- Ring hängande, stor och tunn, undersida flockig av mjuka fjäll.
-- Svampköttet har mild smak och doftar behagligt som av mandel.
+- **Hatt:** Vit, stor och köttig. Kan gulna något vid tryck, men ofta mindre än snöbollschampinjonen.
+- **Ring:** Ringen är stor och hängande, men undersidan är flockig (luddig) snarare än det tydliga kugghjulsmönster som snöbollschampinjonen har.
+- **Lukt:** Svag doft av mandel.
+- **Fot:** Kraftig och ofta lite spolformad (tjockare på mitten/neråt).
 
-Vit kungschampinjon är sällsynt och förekommer främst i hag- och betesmarker i södra Sverige men också i örtrikare barrskogar. Möjligen kalkgynnad.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Växer på öppen mark, gärna i hagar, på strandängar och gräsmarker. Den är mindre vanlig än snöbollschampinjonen och kan hittas främst i södra Sverige.
 
-- [Snöbollschampinjon](/svampar/agaricus_arvensis/) - med kugghjulsmönster på ringens undersida, god matsvamp.
-- [Giftchampinjon](/svampar/agaricus_xanthoderma/) - gulnar kraftigt direkt vid skrapning, lukt obehaglig, svagt giftig. Likheterna är inte speciellt slående men ändå händer det att folk plockar den livsfarliga vita flugsvampen i tron att det är en champinjon.
+## Matvärde
+
+God matsvamp, fullt jämförbar med andra mandeldoftande champinjoner.
+
+## Förväxlingsrisker
+
+- **[Snöbollschampinjon](/svampar/agaricus_arvensis/):** Har kugghjulsmönster på ringen. Båda är ätliga.
+- **[Giftchampinjon](/svampar/agaricus_xanthoderma/):** Gulnar omedelbart och luktar illa.
+- **[Vit flugsvamp](/svampar/amanita_virosa/):** Dödligt giftig. Har vita skivor och strumpa.

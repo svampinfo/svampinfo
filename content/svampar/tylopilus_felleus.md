@@ -6,7 +6,7 @@ artfakta: "6345"
 slug: "tylopilus_felleus"
 edible: false
 poisonous: 0
-summary: "Inte farlig, men förstör hela middagen. Lär dig skilja den från Karljohan!"
+summary: "Ser ut som en perfekt Karljohan men smakar vidrigt beskt. En enda gallsopp kan förstöra en hel måltid."
 image: "/images/tylopilus_felleus_01.jpg"
 images: []
 gallery:
@@ -26,24 +26,25 @@ gallery:
     credit: "© Marie Flöisbon, Bollebygd Artportalen"
 ---
 
-> Inte farlig, men förstör hela middagen. Lär dig skilja den från Karljohan!
+> Ser ut som en perfekt Karljohan men smakar vidrigt beskt. En enda gallsopp kan förstöra en hel måltid.
 
-## Beskrivning
+## Kännetecken
 
-Gallsoppen är en stor besvikelse. Den ser ut som en ståtlig Karljohan, men smakar galla. En enda liten svamp i grytan gör allt oätligt.
+Gallsoppen är soppvärldens stora bedragare. Den är inte giftig, men helt oätlig på grund av sin extrema beska.
 
-*   **Hatt:** Ljusbrun, ofta lite ljusare än Karljohan.
-*   **Rör:** Som unga vita, men blir **rosa** eller smutsrosa när svampen mognar (och sporerna faller). De buktar ofta ut under hatten som en kudde.
-*   **Fot:** Har ett **tydligt, mörkt, grovmaskigt ådernät**. Tänk dig ett mörkt fisknät utdraget över foten. (Karljohan har ett ljust, fint nät).
+- **Rör:** Hos unga exemplar är rören vita, men när sporerna mognar blir de **smutsrosa** (Karljohans rör blir gula/gröna). Rören buktar ofta ut som en mjuk kudde under hatten.
+- **Fot:** Foten har ett mycket tydligt, **mörkt och grovmaskigt ådernät** (ser ut som ett brunt nätstrumpa på en ljusare fot).
+- **Hatt:** Ljusbrun till mockabrun, påminner mycket om Karljohan.
 
 ## Smaktestet – din räddning
 
-Är du osäker? Skär loss en liten, liten bit av svampen och smaka på tungspetsen.
-*   **Milt/Nötigt:** Det är en Karljohan eller annan matsopp.
-*   **Beskt/Galla:** Spotta ut! Det är en Gallsopp. Släng den långt från svampkorgen.
+Är du det minsta osäker? Skär av en liten flisa av svampen och sätt den mot tungspetsen. Om den smakar beskt som galla – spotta ut och kasta svampen. Karljohan smakar milt och nötigt.
 
-**Växtplats:** Barrskog, gärna vid stubbar och myrstackar. Vanlig i södra och mellersta Sverige.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
-*   **[Karljohan](/svampar/boletus_edulis/):** Har ljust nät och gula/gröna rör.
-*   **[Finluden stensopp](/svampar/boletus_reticulatus/):** Har också ljust nät.
+Växer främst i barrskog, gärna vid murkna stubbar eller myrstackar. Mycket vanlig i södra och mellersta Sverige.
+
+## Förväxlingsrisker
+
+- **[Karljohan / Stensopp](/svampar/boletus_edulis/):** Har **ljust ådernät** och dess rör mörknar till gult/grönt, aldrig rosa.
+- **[Finluden stensopp](/svampar/boletus_reticulatus/):** Har också ljust ådernät och finluden hatt.

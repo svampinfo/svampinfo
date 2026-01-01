@@ -11,7 +11,7 @@ summary: "Ätlig och hyfsat god i en blandsvampanrättning, men använd bara fas
 image: "/images/boletus_subtomentosus_01.jpg"
 gallery:
   - url: "/images/boletus_subtomentosus_01.jpg"
-    credit: ''
+    credit: ""
 ---
 
 > Ätlig och hyfsat god i en blandsvampanrättning, men använd bara fasta ex. och rensa bort den något träiga foten innan användning.
@@ -26,7 +26,6 @@ gallery:
 Vanlig i löv- och barrskog över hela Norden. Foten är ofta träig i konsistensen varför den bör rensas bort innan anrättning.
 
 ## Förväxlingssvampar
-
 
 - Rödsopp - med röd hatt, sällsynt, ätlig.
 - [Rutsopp](/svampar/boletus_chrysenteron/) - hatt ofta uppsprickande, med röda färger, ätlig.

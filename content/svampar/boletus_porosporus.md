@@ -28,3 +28,5 @@ Växer med ek i södra och mellersta Sverige. Ätlig, men foten blir lätt träi
 ## Förväxlingssvampar
 
 - [Rutsopp](/svampar/boletus_chrysenteron/) - vackert röd i hattsprickor och på foten, ätlig.
+
+* **[Sammetssopp](/svampar/boletus_subtomentosus/):** Mycket lik men saknar den gråbruna tonen och spricker sällan upp lika kraftigt i hatten.

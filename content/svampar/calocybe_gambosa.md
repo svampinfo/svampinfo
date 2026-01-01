@@ -7,7 +7,7 @@ slug: "calocybe_gambosa"
 edible: true
 poisonous: 0
 rating: 3
-summary: "En vacker vår-försommarsvamp som bildar \"häxringar\" i feta gräsmattor, gärna på lite kalkrikare mark."
+summary: 'En vacker vår-försommarsvamp som bildar "häxringar" i feta gräsmattor, gärna på lite kalkrikare mark.'
 image: "/images/calocybe_gambosa_01.jpg"
 gallery:
   - url: "/images/calocybe_gambosa_01.jpg"
@@ -33,4 +33,9 @@ Går bra att torka eller frysa in efter förkokning.
 ## Förväxlingssvampar
 
 Det finns flera arter som kan förväxlas med vårmusseronen, några av dem är giftiga, var därför noggrann när du identifierar den! [Bolmörtsskivling](/svampar/entoloma_sinuatum/) är en giftsvamp som kan likna vårmusseronen väldigt mycket, skiljer sig bl a genom att ha en mer gulvit till gråaktig hattfärg och rosa sporpulver (Om du är osäker ta ett sporprov!).
+
 - Sommarmusseron - är spensligare byggd, har en puckel på hatten och en smalare och längre fot. [Gifttråding](/svampar/inocybe_erubescens/) – med klockformad hatt, rodnar vid beröring, brunt sporpulver, giftig.
+
+* **[Vit flugsvamp](/svampar/amanita_virosa/):** Har ring och strumpa. Dödligt giftig. (Växer dock på hösten).
+
+* **[Vårrödskivling](/svampar/entoloma_vernum/):** Har brun/grå hatt och saknar mjöldoft. Giftig.

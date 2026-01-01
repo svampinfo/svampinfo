@@ -18,3 +18,5 @@ gallery:
 ## Förväxlingssvampar
 
 - [Djävulssopp](/svampar/boletus_satanas/) - blånar inte kraftigt på hattöversida efter beröring, giftig.
+
+* **[Purpursopp](/svampar/boletus_rhodopurpureus/):** Också giftig. Har en hatt som blånar kraftigt vid beröring och växer i lövskog.

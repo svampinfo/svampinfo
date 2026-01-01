@@ -7,26 +7,30 @@ slug: "leccinum_rufum"
 edible: true
 poisonous: 0
 rating: 3
-summary: "Växer tillsammans med asp och finns över hela landet."
+summary: "En ståtlig sopp med orangeröd hatt och vita tofsar på foten som mörknar. Växer med asp."
 image: "/images/leccinum_aurantiacum_slat_01.jpg"
 gallery:
   - url: "/images/leccinum_aurantiacum_slat_01.jpg"
     credit: '<div class="fn value"> Hans Hillewaert</div>, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons'
 ---
 
-> Växer tillsammans med asp och finns över hela landet.
+> En ståtlig sopp med orangeröd hatt och vita tofsar på foten som mörknar. Växer med asp.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd, orange till rödbrun.
-- Hatthud överhängande (hänger någon mm utanför hattkanten).
-- Rör smutsvita.
-- Fot vit, med vita tofsar som med åldern mörknar till rödbrunt.
-- Kött i snitt rodnande, övergår sedan till svart.
+- **Hatt:** Klart orangeröd eller tegelröd. Hatthuden hänger ofta ner en liten bit över kanten.
+- **Fot:** Vit med **vita tofsar** (fjäll) som först med åldern mörknar till rödbrunt. (Jämför med tegelsopp som har svarta tofsar direkt).
+- **Kött:** Vitt, men rodnar snabbt vid snitt och övergår sedan till grålila/svart.
 
-Växer med asp och förekommer över hela Norden.
+## Utbredning och Ekologi
 
-## Förväxlingssvampar
+Bunden till **asp**.
 
-Strävsoppar är ett komplex med flera närstående arter som kan likna varandra mycket. Som matsvampplockare behöver du inte kunna skilja dem alla åt eftersom alla är ätliga.
-- [Tegelsopp](/svampar/leccinum_versipelle/) - Tegelröd hattfärg, har svarta tofsar på foten.
+## Matvärde
+
+God matsvamp, men kräver **minst 15-20 minuters tillagning** för att bryta ner magirriterande ämnen.
+
+## Förväxlingsrisker
+
+- **[Tegelsopp](/svampar/leccinum_versipelle/):** Har **svarta** tofsar på foten och växer med björk.
+- **[Tallsopp](/svampar/leccinum_vulpinum/):** Växer med tall.
