@@ -5,45 +5,63 @@ summary: "Lär dig identifiera de fantastiska matriskorna och förstå vilka som
 
 ## Svampar som blöder
 
-Riskor är en spännande grupp. Bryter du en bit av hatten så "blöder" svampen en mjölksaft. Det är just färgen på denna saft som berättar om du hittat en delikatess eller något som kräver mer jobb.
+Riskor är en spännande grupp. Bryter du en bit av hatten så "blöder" svampen en mjölksaft.
+Färgen på saften avgör om du kan steka svampen direkt eller om den kräver lite
+kärlek -- i form av förvälling (avkokning) -- först.
 
-### Orange saft
+### Grupp 1: Milda riskor
 
-Om mjölksaften är **<span style="color: #ff8c00;">orange</span>** eller
-<span style="color: #e9692c;">morotsfärgad</span> har du hittat
-guld. Dessa kallas **Matriskor**
-(Blodriskor) och är några av våra allra bästa matsvampar. De är milda och
-kan stekas direkt.
+Dessa svampar har mild smak direkt i skogen. De behöver **inte** kokas av utan kan rensas och läggas rätt i stekpannan.
+
+#### Matriskorna (Orange saft)
+
+Dessa kallas ofta "nybörjarsvampar" eftersom den <span style="color: #ff8c00;">orangea</span> saften gör dem omöjliga att förväxla med giftiga svampar.
+
+- **Granblodriska:** Växer med gran, ofta grönfläckig.
+- **Tallblodriska:** Växer med tall, har gropar på foten.
 
 {{< species-grid >}}
 {{< species-card path="svampar/lactarius_deliciosus.md" >}}
 {{< species-card path="svampar/lactarius_deterrimus.md" >}}
 {{< /species-grid >}}
 
-### Vita saft -- lite klurigare
+#### De milda med vit saft
 
-Om saften är **vit** (eller ofärgad) måste du vara mer försiktig.
+Här missar många svampplockare riktiga skatter. Dessa har vit saft men är milda i smaken.
 
-1.  **Smaka (lite!):** Om saften är vit kan du göra ett smakprov på tungspetsen (spotta ut sen).
-2.  **Milt?** Ingen fara över huvudtaget. Då kan det bland annat vara en Manderriska – en delikatess som doftar skaldjur
-3.  **Skarpt?** Då måste den kokas av.
-
-**Finska Riskor**, även kända som **Skarpa riskor** är riskor som utan tillagning
-smakar brännande skarp. De är relativt lätta att känna igen då deras saft är vit
-och då de smakar brännande. Det är rädd för att bli rädd för en sådan svamp, men
-det ska man absolut inte bli. Så länge du ser till att tillaga svampen är allt lugna puckar.
-Undvik dock att äta den rå.
-
-**Lösningen:** Koka av dem -- det vill säga förväll -- i rikligt med vatten i ca 10 minuter.
-Häll bort vattnet. Nu är den skarpa smaken borta och de passar
-perfekt till inläggningar eller svampsallad. En finsk delikatess!
+- **Mandelriska:** En riktig delikatess! Stor, kraftig och rödbrun. Doftar skaldjur när den steks/torkas. Har rikligt med vit saft.
+- **Sotriska:** En förbisedd stjärna. Känns igen på sin **kolsvarta, sammetsludna** hatt som kontrasterar mot de vita skivorna. Saften är vit men rodnar (blir laxrosa) om den kommer på fingrarna eller snittytor. Mycket god matsvamp!
 
 {{< species-grid >}}
 {{< species-card path="svampar/lactarius_volemus.md" >}}
-{{< species-card path="svampar/lactarius_torminosus.md" >}}
-{{< species-card path="svampar/lactarius_rufus.md" >}}
-{{< species-card path="svampar/lactarius_trivialis.md" >}}
+{{< species-card path="svampar/lactarius_lignyotus.md" >}}
 {{< /species-grid >}}
+
+---
+
+### Grupp 2: Skarpa riskor
+
+Dessa riskor har vit saft och smakar brännande skarpt ("pepprigt") om du smakar på dem råa. I Finland och Östeuropa anses dessa vara de allra bästa matsvamparna.
+
+**Gör så här:** Koka svampen i rikligt med vatten i **10 minuter**. Häll bort vattnet. Nu är skärpan borta och de är redo för inläggning, saltning eller stekning.
+
+#### De bästa skarpa riskorna
+
+- **Skogsriska:** En lila-grå, slemmig svamp som blir gulaktig när den torkar upp. Mångas favorit till risksallad.
+- **Pepparriska:** Skogens vanligaste riska? Rödbrun, torr och toppig. Mycket skarp smak men utmärkt konsistens efter avkokning.
+- **Forsbordsriska:** (Även kallad _Saltriska_). En stor, vit/gulvit riska som liknar en enorm skäggriska men utan lika mycket "skägg" (hår) på kanten. Anses av många vara den absolut bästa riskan för saltinläggning.
+- **Skäggriska:** Lätt att känna igen på den "ludna" kanten (skägget). Rosaaktig i tonen med cirkelzoner på hatten.
+- **Dunriska:** Liknar skäggriskan men är mindre, blekare och växer ofta vid björkar på gräsmattor eller i parker. God efter avkokning!
+
+{{< species-grid >}}
+{{< species-card path="svampar/lactarius_trivialis.md" >}}
+{{< species-card path="svampar/lactarius_resimus.md" >}}
+{{< species-card path="svampar/lactarius_rufus.md" >}}
+{{< species-card path="svampar/lactarius_torminosus.md" >}}
+{{< species-card path="svampar/lactarius_pubescens.md" >}}
+{{< /species-grid >}}
+
+---
 
 ### Bubblaren -- Kryddsvampen
 
@@ -67,4 +85,3 @@ Här är två riskor du bör lämna i skogen av olika anledningar.
 {{< species-card path="svampar/lactarius_necator.md" >}}
 {{< species-card path="svampar/lactarius_helvus.md" >}}
 {{< /species-grid >}}
-
