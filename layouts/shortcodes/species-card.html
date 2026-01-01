@@ -9,7 +9,7 @@
         {{ $large := $img.Resize "800x webp Lanczos" }}
         <img
         src="{{ $small.RelPermalink }}"
-        srcset="{{ $small.RelPermalink }} 400w, {{ $medium.RelPermalink }} 600w, {{ $large.RelPermalink }} 800w, {{ $img.RelPermalink }} {{ $img.Width }}w"
+        srcset="{{ $small.RelPermalink }} 400w, {{ $medium.RelPermalink }} 600w, {{ $large.RelPermalink }} 800w"
         sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 33vw"
         alt="{{ $page.Title }}"
         class="species-card-image"

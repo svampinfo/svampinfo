@@ -79,11 +79,10 @@
             {{ $small := $img.Resize "400x webp Lanczos" }}
             {{ $medium := $img.Resize "600x webp Lanczos" }}
             {{ $large := $img.Resize "800x webp Lanczos" }}
-            <img
-            src="{{ $small.RelPermalink }}"
-            srcset="{{ $small.RelPermalink }} 400w, {{ $medium.RelPermalink }} 600w, {{ $large.RelPermalink }} 800w, {{ $img.RelPermalink }} {{ $img.Width }}w"
-            sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 33vw"
-            alt="{{ .Title }}"
+                        <img
+                          src="{{ $small.RelPermalink }}"
+                          srcset="{{ $small.RelPermalink }} 400w, {{ $medium.RelPermalink }} 600w, {{ $large.RelPermalink }} 800w"
+                          sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 33vw"            alt="{{ .Title }}"
             class="species-card-image"
             loading="lazy"
             width="{{ $small.Width }}"
