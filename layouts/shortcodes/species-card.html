@@ -1,11 +1,23 @@
-{{ $path := .Get "path" }}
-{{ $page := site.GetPage $path }}
-
-{{ if $page }}
+{{ $path := .Get "path" }} {{ $page := site.GetPage $path }} {{ if $page }}
 <div class="species-card-wrapper">
   <article class="species-card">
     <a href="{{ $page.Permalink }}" class="link color-inherit">
-      {{ if $page.Params.image }}
+      {{ $img := resources.Get (strings.TrimPrefix "/" $page.Params.image) }}
+      {{ if $img }}
+        {{ $small := $img.Resize "400x webp Lanczos" }}
+        {{ $medium := $img.Resize "600x webp Lanczos" }}
+        {{ $large := $img.Resize "800x webp Lanczos" }}
+        <img
+        src="{{ $small.RelPermalink }}"
+        srcset="{{ $small.RelPermalink }} 400w, {{ $medium.RelPermalink }} 600w, {{ $large.RelPermalink }} 800w, {{ $img.RelPermalink }} {{ $img.Width }}w"
+        sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 33vw"
+        alt="{{ $page.Title }}"
+        class="species-card-image"
+        loading="lazy"
+        width="{{ $small.Width }}"
+        height="{{ $small.Height }}"
+      />
+      {{ else if $page.Params.image }}
       <img
         src="{{ $page.Params.image }}"
         alt="{{ $page.Title }}"
@@ -27,16 +39,13 @@
         <div class="star-rating" style="margin-bottom: 0.5rem">
           {{ range seq $page.Params.rating }}
           <span class="star filled">★</span>
-          {{ end }} 
-          {{ $emptyStars := sub 5 $page.Params.rating }} 
-          {{ range seq $emptyStars }}
+          {{ end }} {{ $emptyStars := sub 5 $page.Params.rating }} {{ range seq
+          $emptyStars }}
           <span class="star empty">☆</span>
           {{ end }}
           <span class="rating-text">({{ $page.Params.rating }}/5)</span>
         </div>
-        {{ end }}
-
-        {{ if $page.Params.summary }}
+        {{ end }} {{ if $page.Params.summary }}
         <p class="species-card-summary">
           {{ $page.Params.summary | truncate 150 }}
         </p>
@@ -48,8 +57,7 @@
             <img src="/icons/food-mushroom.svg" alt="" />
             Matsvamp
           </span>
-          {{ end }} 
-          {{ if eq $page.Params.poisonous true }}
+          {{ end }} {{ if eq $page.Params.poisonous true }}
           <span class="badge badge-poisonous">
             <img src="/icons/skull-and-crossbones.svg" alt="" />
             Giftig
@@ -61,5 +69,6 @@
   </article>
 </div>
 {{ else }}
-  <p style="color: red;">Error: Page not found at path: {{ $path }}</p>
+<p style="color: red">Error: Page not found at path: {{ $path }}</p>
 {{ end }}
+

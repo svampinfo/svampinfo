@@ -1,7 +1,15 @@
 {{- $.Scratch.Set "index" slice -}}
 {{- range .Site.RegularPages -}}
     {{- if and (ne .Type "search") (ne .Params.hidden true) -}}
-    {{- $.Scratch.Add "index" (dict "title" .Title "permalink" .Permalink "summary" .Summary "content" .Plain "image" .Params.image "scientificName" .Params.scientificName) -}}
+        {{- $img := .Params.image -}}
+        {{- if $img -}}
+            {{- $res := resources.Get (strings.TrimPrefix "/" $img) -}}
+            {{- if $res -}}
+                {{- $resized := $res.Resize "400x webp Lanczos" -}}
+                {{- $img = $resized.RelPermalink -}}
+            {{- end -}}
+        {{- end -}}
+    {{- $.Scratch.Add "index" (dict "title" .Title "permalink" .Permalink "summary" .Summary "content" .Plain "image" $img "scientificName" .Params.scientificName) -}}
     {{- end -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}

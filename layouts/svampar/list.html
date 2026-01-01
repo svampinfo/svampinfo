@@ -1,5 +1,7 @@
-{{ define "header" }} {{ partial "page-header.html" . }} {{ end }} {{ define
-"main" }}
+{{ define "header" }} 
+{{ partial "page-header.html" . }}
+{{ end }}
+{{ define "main" }}
 <script>
   // Instant filter application to prevent blinking
   (function () {
@@ -19,14 +21,25 @@
   </section>
 
   <section class="ph3 ph5-l">
-    {{ $edibleCount := 0 }} {{ $poisonousCount := 0 }} {{ range .Pages }} {{ if
-    eq .Params.edible true }} {{ $edibleCount = add $edibleCount 1 }} {{ end }}
-    {{ if eq .Params.poisonous true }} {{ $poisonousCount = add $poisonousCount
-    1 }} {{ end }} {{ end }}
+    {{ $edibleCount := 0 }} 
+    {{ $poisonousCount := 0 }}
+        {{ range .Pages }}
+        {{ if eq .Params.edible true }} 
+            {{ $edibleCount = add $edibleCount 1 }}
+        {{ end }}
+        {{ if eq .Params.poisonous true }}
+            {{ $poisonousCount = add $poisonousCount 1 }} 
+        {{ end }} 
+    {{ end }}
 
     <div
       class="filter-buttons"
-      style="text-align: center; margin-top: 3rem; margin-bottom: 2rem; align-items: center;"
+      style="
+        text-align: center;
+        margin-top: 3rem;
+        margin-bottom: 2rem;
+        align-items: center;
+      "
     >
       <span class="control-label">Filtrera:</span>
       <button class="filter-btn active" data-filter="all">
@@ -42,12 +55,10 @@
 
     <div
       class="filter-buttons"
-      style="text-align: center; margin-bottom: 2rem; align-items: center;"
+      style="text-align: center; margin-bottom: 2rem; align-items: center"
     >
       <span class="control-label">Sortera:</span>
-      <button class="filter-btn active" data-sort="name">
-        Svenskt namn
-      </button>
+      <button class="filter-btn active" data-sort="name">Svenskt namn</button>
       <button class="filter-btn" data-sort="scientific">
         Vetenskapligt namn
       </button>
@@ -63,7 +74,22 @@
         data-scientific="{{ .Params.scientificName }}"
       >
         <a href="{{ .Permalink }}" class="link color-inherit">
-          {{ if .Params.image }}
+          {{ $img := resources.Get (strings.TrimPrefix "/" .Params.image) }}
+          {{ if $img }}
+            {{ $small := $img.Resize "400x webp Lanczos" }}
+            {{ $medium := $img.Resize "600x webp Lanczos" }}
+            {{ $large := $img.Resize "800x webp Lanczos" }}
+            <img
+            src="{{ $small.RelPermalink }}"
+            srcset="{{ $small.RelPermalink }} 400w, {{ $medium.RelPermalink }} 600w, {{ $large.RelPermalink }} 800w, {{ $img.RelPermalink }} {{ $img.Width }}w"
+            sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 33vw"
+            alt="{{ .Title }}"
+            class="species-card-image"
+            loading="lazy"
+            width="{{ $small.Width }}"
+            height="{{ $small.Height }}"
+          />
+          {{ else if .Params.image }}
           <img
             src="{{ .Params.image }}"
             alt="{{ .Title }}"
@@ -85,8 +111,9 @@
             <div class="star-rating" style="margin-bottom: 0.5rem">
               {{ range seq .Params.rating }}
               <span class="star filled">★</span>
-              {{ end }} {{ $emptyStars := sub 5 .Params.rating }} {{ range seq
-              $emptyStars }}
+              {{ end }} 
+              {{ $emptyStars := sub 5 .Params.rating }}
+              {{ range seq $emptyStars }}
               <span class="star empty">☆</span>
               {{ end }}
               <span class="rating-text">({{ .Params.rating }}/5)</span>
@@ -103,7 +130,8 @@
                 <img src="/icons/food-mushroom.svg" alt="" />
                 Matsvamp
               </span>
-              {{ end }} {{ if eq .Params.poisonous true }}
+              {{ end }} 
+              {{ if eq .Params.poisonous true }}
               <span class="badge badge-poisonous">
                 <img src="/icons/skull-and-crossbones.svg" alt="" />
                 Giftig
@@ -117,8 +145,6 @@
     </div>
   </section>
 </article>
-
-
 
 <script>
   (function () {
@@ -181,7 +207,7 @@
     }
 
     const savedSort = localStorage.getItem(STORAGE_KEY_SORT) || "name";
-    // If not default "name", apply the sort. 
+    // If not default "name", apply the sort.
     // "name" is default order from Hugo, but we apply anyway to set active button state correct
     applySort(savedSort);
 
@@ -195,4 +221,3 @@
   })();
 </script>
 {{ end }}
-
