@@ -65,18 +65,22 @@
       <div class="carousel-slide">
         {{ if $slide.resource }}
           {{ $img := $slide.resource }}
-          {{ $medium := $img.Resize "800x webp Lanczos" }}
-          {{ $large := $img.Resize "1200x webp Lanczos" }}
-          <img
-          src="{{ $large.RelPermalink }}"
-          srcset="{{ $medium.RelPermalink }} 800w, {{ $large.RelPermalink }} 1200w, {{ $img.RelPermalink }} {{ $img.Width }}w"
-          sizes="(min-width: 1200px) 1200px, 100vw"
-          alt="{{ $.Title }}"
-          width="{{ $img.Width }}"
-          height="{{ $img.Height }}"
-          loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}"
-        />
-        {{ else }}
+                                                  {{ $medium := $img.Resize "800x webp Lanczos" }}
+                                                  {{ $large := $img.Resize "1200x webp Lanczos" }}
+                                                  {{ $xlarge := $img.Resize "1600x webp Lanczos" }}
+                                                  {{ $xxlarge := $img.Resize "2500x webp Lanczos" }}
+                                                  {{ $srcset := (printf "%s %dw, %s %dw, %s %dw, %s %dw" $medium.RelPermalink $medium.Width $large.RelPermalink $large.Width $xlarge.RelPermalink $xlarge.Width $xxlarge.RelPermalink $xxlarge.Width) }}
+                                                  {{ if gt $img.Width $xxlarge.Width }}
+                                                    {{ $srcset = (printf "%s, %s %dw" $srcset $img.RelPermalink $img.Width) }}
+                                                  {{ end }}
+                                                  <img
+                                                    src="{{ $large.RelPermalink }}"
+                                                    srcset="{{ $srcset }}"                                          sizes="100vw"
+                                          alt="{{ $.Title }}"
+                                          width="{{ $img.Width }}"
+                                          height="{{ $img.Height }}"
+                                          loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}"
+                                        />        {{ else }}
         <img
           src="{{ $slide.url }}"
           alt="{{ $.Title }}"
