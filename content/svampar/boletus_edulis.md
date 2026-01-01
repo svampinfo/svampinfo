@@ -5,7 +5,7 @@ wikidata: "Q19740"
 artfakta: "3126"
 slug: "boletus_edulis"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "Kungen av soppar. En matig delikatess som är lätt att känna igen och älska."
 image: "/images/boletus_edulis_01.jpg"

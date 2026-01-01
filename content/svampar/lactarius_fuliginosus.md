@@ -5,7 +5,7 @@ wikidata: "Q2178027"
 artfakta: "4729"
 slug: "lactarius_fuliginosus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 2
 summary: "En mildare släkting till sotriskan som växer i lövskog. Köttet rodnar vid snitt."
 image: "/images/lactarius_fuliginosus_01.jpg"

@@ -5,7 +5,7 @@ wikidata: "Q188643"
 artfakta: "2979"
 slug: "amanita_phalloides"
 edible: false
-poisonous: true
+poisonous: 2
 summary: "Vacker men dödligt giftig. Orsakar majoriteten av alla dödliga svampförgiftningar i världen."
 image: "/images/amanita_phalloides_01.jpg"
 gallery:

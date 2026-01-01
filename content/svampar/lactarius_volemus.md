@@ -5,7 +5,7 @@ wikidata: "Q155929"
 artfakta: ""
 slug: "lactarius_volemus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "Mycket smakrik matsvamp som inte lämnar någon oberörd. Luktar karaktäristiskt, som av skaldjur, speciellt som äldre och vid skador."
 image: "/images/lactarius_volemus_01.jpg"

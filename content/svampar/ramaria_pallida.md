@@ -5,7 +5,7 @@ wikidata: "Q811152"
 artfakta: "256756"
 slug: "ramaria_pallida"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En blek fingersvamp som kan orsaka magbesvär."
 image: "/images/ramaria_pallida_01.jpg"
 gallery:

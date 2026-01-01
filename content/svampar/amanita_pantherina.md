@@ -5,7 +5,8 @@ wikidata: "Q45547"
 artfakta: "2978"
 slug: "amanita_pantherina"
 edible: false
-poisonous: true
+poisonous: 2
+psychoactive: true
 summary: "En av våra farligaste giftsvampar. Kan lura nybörjare som letar efter stolt fjällskivling."
 image: "/images/amanita_pantherina_01.jpg"
 gallery:

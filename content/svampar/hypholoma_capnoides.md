@@ -5,7 +5,7 @@ wikidata: "Q1543695"
 artfakta: "4489"
 slug: "hypholoma_capnoides"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "En ganska anonym stubbsvamp som kan förekomma i stora mängder på murkna stubbar och stockar i barrskog."
 image: "/images/hypholoma_capnoides_01.jpg"

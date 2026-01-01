@@ -5,7 +5,7 @@ wikidata: "Q372893"
 artfakta: "4137"
 slug: "flammulina_velutipes"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "Har en vackert finluden fot och klibbig honungsgul hatt. God matsvamp som växer på stammar, stubbar och stockar av lövträd under senhöst och milda vintrar. Endast hattarna används. Har odlats i asien i århundraden."
 image: "/images/flammulina_velutipes_01.jpg"

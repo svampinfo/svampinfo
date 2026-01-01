@@ -5,7 +5,7 @@ wikidata: "Q1415435"
 artfakta: "245723"
 slug: "boletus_pinophilus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "God matsvamp i klass med karljohan från vilken den skiljer sig genom mörkare rödbrun hatt, och att rören ofta får brunaktiga mynningar."
 image: "/images/boletus_pinophilus_01.jpg"

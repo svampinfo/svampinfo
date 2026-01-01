@@ -5,7 +5,7 @@ wikidata: "Q198817"
 artfakta: "263734"
 slug: "boletus_subtomentosus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 2
 summary: "Ätlig och hyfsat god i en blandsvampanrättning, men använd bara fasta ex. och rensa bort den något träiga foten innan användning."
 image: "/images/boletus_subtomentosus_01.jpg"

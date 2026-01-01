@@ -5,7 +5,7 @@ wikidata: "Q1333853"
 artfakta: "4586"
 slug: "inocybe_geophylla"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En liten vit eller lila svamp med trådig hatt. Giftig (muskarin)."
 image: "/images/inocybe_geophylla_01.jpg"
 gallery:

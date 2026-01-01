@@ -5,7 +5,7 @@ wikidata: "Q80984330"
 artfakta: "2947"
 slug: "agaricus_xanthoderma"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Ser ut som en vanlig champinjon men luktar bläck och gulnar ilsket."
 image: "/images/agaricus_xanthoderma_01.jpg"
 gallery:

@@ -5,7 +5,7 @@ wikidata: "Q509308"
 artfakta: "6276"
 slug: "tricholoma_matsutake"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "En av världens dyraste matsvampar, uppskattad i Japan men har sedan länge varit förbisedd i Sverige. Den trivs på torra och öppna tallhedar i Norrland där den är vanligast men förekommer även längre söderut."
 image: "/images/tricholoma_matsutake_01.jpg"

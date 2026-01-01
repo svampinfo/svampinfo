@@ -5,7 +5,7 @@ wikidata: "Q882829"
 artfakta: "232274"
 slug: "boletus_rhodopurpureus"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Stor, kraftig, tung och kompakt sopp med ojämn gropig hattöversida som blånar kraftigt efter beröring liksom fot och rör. Växer med ek på kalkrik mark, mkt sällsynt."
 image: "/images/imperator_rhodopurpureus_01.jpg"
 gallery:

@@ -5,7 +5,7 @@ wikidata: "Q262105"
 artfakta: "5964"
 slug: "sarcodon_imbricatus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 1
 summary: "En stor, fjällig och vacker art som kan nå en hattbredd på 20-30 cm."
 image: "/images/sarcodon_imbricatus_01.jpg"

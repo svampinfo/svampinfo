@@ -5,7 +5,7 @@ wikidata: "Q80742"
 artfakta: "4753"
 slug: "lactarius_picinus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 2
 summary: "Sotriskans skarpa dubbelgångare som kräver förvälling."
 image: "/images/lactarius_picinus_01.jpg"

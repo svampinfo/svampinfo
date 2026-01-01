@@ -5,7 +5,7 @@ wikidata: "Q80705"
 artfakta: "1958"
 slug: "albatrellus_subrubescens"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 2
 summary: "Skiljer sig från fårticka bl a genom att rören ofta får orangebruna fläckar."
 image: "/images/albatrellus_subrubescens_01.jpg"

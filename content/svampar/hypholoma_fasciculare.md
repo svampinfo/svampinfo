@@ -5,7 +5,7 @@ wikidata: "Q752507"
 artfakta: "4493"
 slug: "hypholoma_fasciculare"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Växer i stora klungor på stubbar. Smakar mycket bittert."
 image: "/images/hypholoma_fasciculare_01.jpg"
 gallery:

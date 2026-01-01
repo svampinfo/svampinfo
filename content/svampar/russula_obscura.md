@@ -5,7 +5,7 @@ wikidata: "Q113988"
 artfakta: "5902"
 slug: "russula_obscura"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Karaktäriseras av sin vinröda hattfärg, grånande kött och att skiveggen är vinröd millimetrarna närmast hattkanten."
 image: "/images/russula_vinosa_01.jpg"

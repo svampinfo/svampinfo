@@ -5,7 +5,7 @@ wikidata: "Q302097"
 artfakta: "5949"
 slug: "russula_xerampelina"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "Sillkremlorna utgör ett komplex med flera olika arter. Alla är läckra matsvampar och här beskrivs av praktiska skäl deras gemensamma karaktärer."
 image: "/images/russula_xerampelina_01.jpg"

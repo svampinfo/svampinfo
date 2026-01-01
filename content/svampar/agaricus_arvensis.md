@@ -5,7 +5,7 @@ wikidata: "Q690801"
 artfakta: "239066"
 slug: "agaricus_arvensis"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "Har ett karaktäristiskt kugghjulsmönster på undersidan av ringen. Doftar gott av mandel. Kan bli över 20 cm bred över hatten."
 image: "/images/agaricus_arvensis_01.jpg"

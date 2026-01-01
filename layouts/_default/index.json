@@ -45,7 +45,7 @@
         
         {{- $imageObj := dict "credit" $imgCredit "imageset" $mainImgSet -}}
 
-        {{- $.Scratch.Add "index" (dict "title" .Title "permalink" .Permalink "summary" .Summary "content" .Plain "image" $imageObj "gallery" $galleryOut "scientificName" .Params.scientificName "rating" .Params.rating "edible" .Params.edible "poisonous" .Params.poisonous) -}}
+        {{- $.Scratch.Add "index" (dict "title" .Title "permalink" .Permalink "summary" .Summary "content" .Plain "image" $imageObj "gallery" $galleryOut "scientificName" .Params.scientificName "rating" .Params.rating "edible" .Params.edible "poisonous" .Params.poisonous "psychoactive" .Params.psychoactive) -}}
     {{- end -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}

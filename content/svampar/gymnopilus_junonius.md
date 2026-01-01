@@ -5,7 +5,7 @@ wikidata: "Q103817247"
 artfakta: "4246"
 slug: "gymnopilus_junonius"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Stor och ståtlig svamp som växer i klungor på lövved. Bitter smak."
 image: "https://www.artportalen.se/MediaLibrary/2025/10/84e74de0-9af0-446c-baad-fc7d0f2fb14f_image.jpg"
 images: []

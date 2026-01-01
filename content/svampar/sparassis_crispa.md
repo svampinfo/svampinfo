@@ -5,7 +5,7 @@ wikidata: "Q36992"
 artfakta: "6031"
 slug: "sparassis_crispa"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "En härligt god, stor och maffig gräddfärgad svamp påminnande om ett stort blomkålshuvud. Växer på marken intill stammen på stora, gamla tallar."
 image: "/images/sparassis_crispa_01.jpg"

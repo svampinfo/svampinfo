@@ -5,7 +5,7 @@ wikidata: "Q10510451"
 artfakta: "232138"
 slug: "albatrellus_citrinus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 1
 summary: "Påminner om en tunn och spenslig fårticka, troligen ätlig men ganska ovanlig. Lammticka är en annan snarlik art som växer på tallhedar, ätlig."
 image: "/images/albatrellus_citrinus_01.jpg"

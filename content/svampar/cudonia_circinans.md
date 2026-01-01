@@ -5,7 +5,7 @@ wikidata: "Q10593706"
 artfakta: "3816"
 slug: "cudonia_circinans"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En liten, seg svamp som växer i hexringar i barrskog."
 image: "/images/cudonia_circinans_01.jpg"
 gallery:

@@ -5,7 +5,7 @@ wikidata: "Q371126"
 artfakta: "3217"
 slug: "craterellus_tubaeformis"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "Höstkantarellen nummer ett. En fantastisk matsvamp som är lätt att torka och lagra."
 image: "/images/craterellus_tubaeformis_01.jpg"

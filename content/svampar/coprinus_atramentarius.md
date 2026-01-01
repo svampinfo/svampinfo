@@ -5,7 +5,7 @@ wikidata: "Q728673"
 artfakta: "3436"
 slug: "coprinus_atramentarius"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Klassisk förväxlingssvamp till fjällig bläcksvamp. Kan orsaka förgiftning tillsammans med alkohol."
 image: "/images/coprinopsis_atramentaria_01.jpg"
 gallery:

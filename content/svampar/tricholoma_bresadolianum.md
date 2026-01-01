@@ -5,7 +5,7 @@ wikidata: "Q10496030"
 artfakta: "2071"
 slug: "tricholoma_bresadolianum"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En sällsynt, fjällig musseron som växer med ek. Oätlig/giftig."
 image: "/images/tricholoma_bresadolianum_01.jpg"
 gallery:

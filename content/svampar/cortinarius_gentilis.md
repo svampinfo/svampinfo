@@ -5,7 +5,7 @@ wikidata: "Q2614222"
 artfakta: "3622"
 slug: "cortinarius_gentilis"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Liten och gracil skivling som bör betraktas som giftig."
 image: "/images/cortinarius_gentilis_01.jpg"
 gallery:

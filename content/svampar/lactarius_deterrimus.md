@@ -5,7 +5,7 @@ wikidata: "Q498221"
 artfakta: "4724"
 slug: "lactarius_deterrimus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "En klassiker bland våra matsvampar, god i smaken och lätt att lära sig känna igen. Även kallad granblodriska."
 image: "/images/lactarius_deterrimus_01.jpg"

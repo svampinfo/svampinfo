@@ -5,7 +5,7 @@ wikidata: "Q633503"
 artfakta: "6345"
 slug: "tylopilus_felleus"
 edible: false
-poisonous: false
+poisonous: 0
 summary: "Inte farlig, men förstör hela middagen. Lär dig skilja den från Karljohan!"
 image: "/images/tylopilus_felleus_01.jpg"
 images: []

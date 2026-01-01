@@ -5,7 +5,7 @@ wikidata: "Q2605342"
 artfakta: "2926"
 slug: "agaricus_langei"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Växer ofta under granar i skogar och parker. God matsvamp som passar till all sorts matlagning."
 image: "/images/agaricus_langei_01.jpg"

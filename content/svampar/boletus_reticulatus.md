@@ -5,7 +5,7 @@ wikidata: "Q26203726"
 artfakta: "3135"
 slug: "boletus_reticulatus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "Läcker matsvamp i klass med karljohan från vilken den skiljer sig bl a genom den finludna hatten (ungefär som hos persikor). Växer gärna med ek och bok och kommer redan i juni-juli."
 image: "/images/boletus_reticulatus_01.jpg"

@@ -5,7 +5,7 @@ wikidata: "Q2249479"
 artfakta: "2946"
 slug: "agaricus_macrosporus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 2
 summary: "Påminner om en snöbollschampinjon men saknar det kugghjulslika mönstret på undersidan av ringen. God matsvamp."
 image: "/images/agaricus_urinascens_01.jpg"

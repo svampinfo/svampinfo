@@ -5,7 +5,7 @@ wikidata: "Q833108"
 artfakta: "6087"
 slug: "suillus_grevillei"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 2
 summary: "En vackert guldgul till rödbrun sopp som är vanlig vid lärkträd i skogar och parker."
 image: "/images/suillus_grevillei_01.jpg"

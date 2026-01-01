@@ -5,7 +5,7 @@ wikidata: "Q10508181"
 artfakta: "4422"
 slug: "hygrophorus_piceae"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 0
 summary: "Vit hatt, vita nedlöpande skivor och mild smak. Växer med gran."
 image: "/images/hygrophorus_piceae_01.jpg"

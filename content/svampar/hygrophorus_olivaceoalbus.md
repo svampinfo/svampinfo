@@ -5,7 +5,7 @@ wikidata: "Q1855552"
 artfakta: "4418"
 slug: "hygrophorus_olivaceoalbus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Ganska liten och spenslig skogsvaxing. Hatt slemmig, olivbrun med mörkare mitt. Fot slemmig, ofta vattrad och med vit zon upptill."
 image: "/images/hygrophorus_olivaceoalbus_01.jpg"

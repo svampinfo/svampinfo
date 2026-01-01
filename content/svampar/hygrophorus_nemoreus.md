@@ -5,7 +5,7 @@ wikidata: "Q1749162"
 artfakta: "826"
 slug: "hygrophorus_nemoreus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Växer tillsammans med ek i södra och mellersta Sverige."
 image: "/images/hygrophorus_nemoreus_01.jpg"

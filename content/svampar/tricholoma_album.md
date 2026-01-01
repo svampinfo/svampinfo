@@ -5,7 +5,7 @@ wikidata: "Q15095332"
 artfakta: "245029"
 slug: "tricholoma_album"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En helt vit musseron med stark rättikdoft."
 image: "/images/tricholoma_album_01.jpg"
 gallery:

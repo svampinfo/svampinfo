@@ -5,7 +5,7 @@ wikidata: "Q1367003"
 artfakta: "456"
 slug: "cortinarius_orellanus"
 edible: false
-poisonous: true
+poisonous: 2
 summary: "En mycket giftig spindling som innehåller orellanin. Kan orsaka allvarliga njurskador."
 image: "/images/cortinarius_orellanus_01.jpg"
 gallery:

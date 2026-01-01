@@ -5,7 +5,7 @@ wikidata: "Q669036"
 artfakta: "5821"
 slug: "rozites_caperatus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "Läcker matsvamp som även kallas rynkad tofsskivling. Döpt efter sin karaktäristiska rimfrostliknande beläggning på hatten."
 image: "/images/cortinarius_caperatus_01.jpg"

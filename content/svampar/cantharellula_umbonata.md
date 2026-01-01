@@ -5,7 +5,7 @@ wikidata: "Q2403071"
 artfakta: "3211"
 slug: "cantharellula_umbonata"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 2
 summary: "Ganska liten hattsvamp med gaffelgrenade ljusa skivor som rödfläckas med åldern. Växer i barrskog, främst i norra och mellersta Sverige. Ätlig."
 image: "/images/cantharellula_umbonata_01.jpg"

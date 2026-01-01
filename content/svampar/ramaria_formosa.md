@@ -5,7 +5,7 @@ wikidata: "Q1257786"
 artfakta: "1355"
 slug: "ramaria_formosa"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Vacker men giftig fingersvamp med tre färger."
 image: "/images/ramaria_formosa_01.jpg"
 gallery:

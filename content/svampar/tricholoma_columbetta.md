@@ -5,7 +5,7 @@ wikidata: "Q2640522"
 artfakta: "6263"
 slug: "tricholoma_columbetta"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "En helvit skivling som är ätlig och god, men var försiktig! Det finns flera oätliga och giftiga vita skivlingar."
 image: "/images/tricholoma_columbetta_01.jpg"

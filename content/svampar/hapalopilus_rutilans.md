@@ -5,7 +5,7 @@ wikidata: "Q10571732"
 artfakta: "4255"
 slug: "hapalopilus_rutilans"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En ticka som färgas lila med baser (t.ex. ammoniak). Giftig."
 image: "/images/hapalopilus_rutilans_01.jpg"
 gallery:

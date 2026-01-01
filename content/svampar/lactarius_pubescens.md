@@ -5,7 +5,7 @@ wikidata: "Q653776"
 artfakta: "4758"
 slug: "lactarius_pubescens"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "En blekare och mindre släkting till skäggriskan. Vanlig under björkar i parker och trädgårdar."
 image: "/images/lactarius_pubescens_01.jpg"

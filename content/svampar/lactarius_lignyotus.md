@@ -5,7 +5,7 @@ wikidata: "Q80740"
 artfakta: "4740"
 slug: "lactarius_lignyotus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "En förbisedd delikatess med vacker kontrast mellan den sammetsvarta hatten och de vita skivorna. Saften rodnar vid skada."
 image: "/images/lactarius_lignyotus_01.jpg"

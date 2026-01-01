@@ -5,7 +5,8 @@ wikidata: "Q742673"
 artfakta: "236394"
 slug: "amanita_regalis"
 edible: false
-poisonous: true
+poisonous: 1
+psychoactive: true
 summary: "Påminner om den klassiska röda flugsvampen men har istället en vackert gulbrun hatthud."
 image: "/images/amanita_regalis_01.jpg"
 gallery:

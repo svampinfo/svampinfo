@@ -5,7 +5,7 @@ wikidata: "Q1473080"
 artfakta: "6282"
 slug: "tricholoma_saponaceum"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En variabel musseron som känns igen på sin doft av såpa."
 image: "/images/tricholoma_saponaceum_01.jpg"
 gallery:

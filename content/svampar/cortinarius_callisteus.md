@@ -5,7 +5,7 @@ wikidata: "Q4347254"
 artfakta: "3571"
 slug: "cortinarius_callisteus"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Vacker art med en karaktäristisk doft, påminnande om varmt strykjärn. Bilden visar den närstående arten Cortinarius citrinofulvescens som har en ljusare och mer klargul färg"
 image: "/images/cortinarius_callisteus_01.jpg"
 gallery:

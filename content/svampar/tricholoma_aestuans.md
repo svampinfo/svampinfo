@@ -5,7 +5,7 @@ wikidata: "Q10430335"
 artfakta: "6255"
 slug: "tricholoma_aestuans"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En bittert smakande musseron som växer i barrskog."
 image: "/images/tricholoma_aestuans_01.jpg"
 gallery:

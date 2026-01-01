@@ -5,7 +5,7 @@ wikidata: "Q961386"
 artfakta: "4767"
 slug: "lactarius_sanguifluus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "Påminner om tallblodriska, men skiljer sig tydligast från denna genom sin vinröda saft. Växer i Sverige främst på Gotland."
 image: "/images/lactarius_sanguifluus_01.jpg"

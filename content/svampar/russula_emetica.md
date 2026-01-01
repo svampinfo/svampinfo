@@ -5,7 +5,7 @@ wikidata: "Q614625"
 artfakta: "5857"
 slug: "russula_emetica"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Klassisk röd kremla med brännande skarp smak. Orsakar illamående."
 image: "/images/russula_emetica_01.jpg"
 gallery:

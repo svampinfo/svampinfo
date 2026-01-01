@@ -134,11 +134,25 @@
                 Matsvamp
               </span>`;
             }
-            if (item.poisonous) {
+            if (item.poisonous === 1) {
+                badgesHtml += `
+              <span class="badge badge-poisonous">
+                <img src="/icons/warning.svg" alt="" />
+                Giftig
+              </span>`;
+            }
+            if (item.poisonous === 2) {
                 badgesHtml += `
               <span class="badge badge-poisonous">
                 <img src="/icons/skull-and-crossbones.svg" alt="" />
-                Giftig
+                Dödligt giftig
+              </span>`;
+            }
+            if (item.psychoactive) {
+                badgesHtml += `
+              <span class="badge badge-psychoactive">
+                <img src="/icons/psychoactive.svg" alt="" />
+                Psykoaktiv
               </span>`;
             }
             badgesHtml += '</div>';

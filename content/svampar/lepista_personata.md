@@ -5,7 +5,7 @@ wikidata: "Q1824952"
 artfakta: "236563"
 slug: "lepista_personata"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "En stor och kraftig svamp med en vackert rödviolett fot."
 image: "/images/lepista_personata_01.jpg"

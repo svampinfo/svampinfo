@@ -5,7 +5,8 @@ wikidata: "Q503359"
 artfakta: "5713"
 slug: "psilocybe_semilanceata"
 edible: false
-poisonous: true
+poisonous: 1
+psychoactive: true
 summary: "En liten, toppig svamp som växer i gräsmattor. Narkotikaklassad."
 image: "/images/psilocybe_semilanceata_01.jpg"
 gallery:

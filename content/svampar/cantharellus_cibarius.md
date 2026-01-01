@@ -5,7 +5,7 @@ wikidata: "Q188749"
 artfakta: "3213"
 slug: "cantharellus_cibarius"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "Skogens guld. En av våra mest älskade matsvampar som är lätt att känna igen."
 image: "/images/cantharellus_cibarius_01.jpg"

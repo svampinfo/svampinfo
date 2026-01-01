@@ -5,7 +5,7 @@ wikidata: "Q9387379"
 artfakta: "245726"
 slug: "cortinarius_sanguineus"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En liten, blodröd spindling. Giftig men används till växtfärgning."
 image: "/images/cortinarius_sanguineus_01.jpg"
 gallery:

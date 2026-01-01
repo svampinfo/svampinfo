@@ -5,7 +5,7 @@ wikidata: "Q53743"
 artfakta: "2958"
 slug: "albatrellus_confluens"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 1
 summary: "Skiljer sig från sin släkting fårticka genom den franskbröd liknande färgen på hatten samt genom det gyttrade växtsättet."
 image: "/images/albatrellus_confluens_01.jpg"

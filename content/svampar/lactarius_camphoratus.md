@@ -5,7 +5,7 @@ wikidata: "Q28951"
 artfakta: "4718"
 slug: "lactarius_camphoratus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "Skogens egen currykrydda. En liten mörk riska som torkad förvandlas till en fantastisk smaksättare."
 image: "/images/lactarius_camphoratus_01.jpg"

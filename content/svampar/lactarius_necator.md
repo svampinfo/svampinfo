@@ -5,7 +5,7 @@ wikidata: "Q103810863"
 artfakta: "4747"
 slug: "lactarius_necator"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En mörk, olivgrön riska som måste avkokas. Innehåller necatorin."
 image: "https://www.artportalen.se/MediaLibrary/2025/10/e0e9ddb7-8e75-4c0e-b32c-247171a4cdc3_image.jpg"
 gallery:

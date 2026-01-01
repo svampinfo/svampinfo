@@ -5,7 +5,7 @@ wikidata: "Q618295"
 artfakta: "5908"
 slug: "russula_paludosa"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "En av våra allra största kremlor som kan få en hattbredd på 20 cm."
 image: "/images/russula_paludosa_01.jpg"

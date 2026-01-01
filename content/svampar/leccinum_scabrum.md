@@ -5,7 +5,7 @@ wikidata: "Q628977"
 artfakta: "245496"
 slug: "leccinum_scabrum"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Vanligt förekommande över hela landet och är därför ofta en av de första arterna matsvampplockare brukar lära sig."
 image: "/images/leccinum_scabrum_01.jpg"

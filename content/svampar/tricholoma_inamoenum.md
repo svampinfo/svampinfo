@@ -5,7 +5,7 @@ wikidata: "Q10570608"
 artfakta: "6271"
 slug: "tricholoma_inamoenum"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En ljus musseron med stark, obehaglig gasverksdoft."
 image: "/images/tricholoma_inamoenum_01.jpg"
 gallery:

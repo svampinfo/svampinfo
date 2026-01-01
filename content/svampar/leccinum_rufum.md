@@ -5,7 +5,7 @@ wikidata: "Q728184"
 artfakta: "259546"
 slug: "leccinum_rufum"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Växer tillsammans med asp och finns över hela landet."
 image: "/images/leccinum_aurantiacum_slat_01.jpg"

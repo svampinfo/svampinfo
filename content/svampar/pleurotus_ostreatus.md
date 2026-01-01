@@ -5,7 +5,7 @@ wikidata: "Q186451"
 artfakta: "5555"
 slug: "pleurotus_ostreatus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "Hatten är gråblå till gråbrun, skivorna är vita och nedlöpande. Foten är kort, sidoställd och nedtill filthårig. Växer främst på lövved men ibland på barrved."
 image: "/images/pleurotus_ostreatus_01.jpg"

@@ -5,7 +5,8 @@ wikidata: "Q131227"
 artfakta: "236537"
 slug: "amanita_muscaria"
 edible: false
-poisonous: true
+poisonous: 1
+psychoactive: true
 summary: "Skogens vackraste varningssignal. Mytomspunnen, giftig och lätt att känna igen."
 image: "/images/amanita_muscaria_01.jpg"
 gallery:

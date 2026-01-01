@@ -5,7 +5,7 @@ wikidata: "Q371126"
 artfakta: "3217"
 slug: "cantharellus_tubaeformis"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "Höstens stora skördefest. En fantastisk matsvamp som är lätt att torka."
 image: "/images/craterellus_tubaeformis_01.jpg"

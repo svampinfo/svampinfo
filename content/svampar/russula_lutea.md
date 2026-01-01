@@ -5,7 +5,7 @@ wikidata: "Q108334785"
 artfakta: "5889"
 slug: "russula_lutea"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Liten mild kremla som sällan överstiger 5 cm i hattbredd. Hattöversida gul, mot mitten ofta gulröd. Skivor gulaktiga."
 image: "/images/russula_vitellina_01.jpg"

@@ -5,7 +5,7 @@ wikidata: "Q816730"
 artfakta: "6088"
 slug: "suillus_luteus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "Populär matsvamp vanlig över hela Norden. De vackert smörgula rören i kombination med den tunna hudartade ringen gör den lätt att känna igen. Den slemmiga hatthuden bör tas bort innan anrättning."
 image: "/images/suillus_luteus_01.jpg"

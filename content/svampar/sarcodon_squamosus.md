@@ -5,7 +5,7 @@ wikidata: "Q3845782"
 artfakta: "5966"
 slug: "sarcodon_squamosus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 2
 summary: "Växer med tall. Är något ljusare i köttet än den snarlika fjälliga taggsvampen som växer med gran."
 image: "/images/sarcodon_squamosus_01.jpg"

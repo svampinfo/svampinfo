@@ -5,7 +5,7 @@ wikidata: "Q752497"
 artfakta: "3122"
 slug: "boletus_badius"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "Den mörkt kastanjebruna hatten är finluden som ung och slät till klibbig som äldre. De gula rören blir ofta blåaktiga efter beröring."
 image: "/images/imleria_badia_01.jpg"

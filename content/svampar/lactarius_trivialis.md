@@ -5,7 +5,7 @@ wikidata: "Q1486219"
 artfakta: "4780"
 slug: "lactarius_trivialis"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "En av de vanligaste och mest uppskattade riskorna för insaltning, särskilt i norra Sverige och Finland. Kräver avkokning."
 image: "/images/lactarius_trivialis_01.jpg"

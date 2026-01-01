@@ -5,7 +5,7 @@ wikidata: "Q261047"
 artfakta: "6279"
 slug: "tricholoma_portentosum"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Läcker matsvamp som ofta har tjocka svarta blyertsliknande streck på hatten."
 image: "/images/tricholoma_portentosum_01.jpg"

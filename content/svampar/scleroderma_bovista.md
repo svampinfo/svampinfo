@@ -5,7 +5,7 @@ wikidata: "Q4265344"
 artfakta: "5975"
 slug: "scleroderma_bovista"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En rottryffel med tunt skal, växer ofta på sandig mark."
 image: "/images/scleroderma_bovista_01.jpg"
 gallery:

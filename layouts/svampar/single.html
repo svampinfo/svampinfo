@@ -1,212 +1,220 @@
 {{ define "header" }}
-{{ partial "page-header.html" . }}
-{{ end }} 
+  {{ partial "page-header.html" . }}
+{{ end }}
+
 {{ define "main" }}
-<article class="cf ph3 ph5-l pv3 pv4-l">
-  <header class="species-header">
-    <h1 class="species-main-title athelas">{{ .Title }}</h1>
-    <h2 class="species-scientific-name">{{ .Params.scientificName }}</h2>
+  <article class="cf ph3 ph5-l pv3 pv4-l">
+    <header class="species-header">
+      <h1 class="species-main-title athelas">{{ .Title }}</h1>
+      <h2 class="species-scientific-name">{{ .Params.scientificName }}</h2>
 
-    {{ if .Params.rating }}
-    <div class="star-rating-large" style="margin: 1rem 0">
-      {{ range seq .Params.rating }}
-      <span class="star filled">★</span>
-      {{ end }} 
-      {{ $emptyStars := sub 5 .Params.rating }} 
-      {{ range seq $emptyStars }}
-      <span class="star empty">☆</span>
-      {{ end }}
-      <span class="rating-text">({{ .Params.rating }}/5)</span>
-    </div>
-    {{ end }}
-
-    <div
-      class="species-badges"
-      style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap"
-    >
-      {{ if eq .Params.edible true }}
-      <span class="badge badge-edible">
-        <img src="/icons/food-mushroom.svg" alt="" />
-        Matsvamp
-      </span>
-      {{ end }} {{ if eq .Params.poisonous true }}
-      <span class="badge badge-poisonous">
-        <img src="/icons/skull-and-crossbones.svg" alt="" />
-        Giftig
-      </span>
-      {{ end }}
-    </div>
-
-    {{/* External IDs */}} 
-    {{ partial "species-ids.html" . }}
-  </header>
-
-  {{/* Construct Image List */}} 
-  {{ $slides := slice }} 
-  {{ if .Params.gallery }}
-      {{ range .Params.gallery }} 
-      {{ $res := resources.Get (strings.TrimPrefix "/" .url) }} 
-      {{ $slides = $slides | append (dict "url" .url "credit" .credit "resource" $res) }} 
-  {{ end }} 
-  {{ else if .Params.images }} 
-      {{ range .Params.images }} 
-      {{ $res := resources.Get (strings.TrimPrefix "/" .) }} 
-      {{ $slides = $slides | append (dict "url" . "credit" "" "resource" $res) }}
-  {{ end }} 
-  {{ else if .Params.image }} 
-  {{ $res := resources.Get (strings.TrimPrefix "/" .Params.image) }}
-  {{ $slides = $slides | append (dict "url" .Params.image "credit" "" "resource" $res) }}
-  {{ end }} 
-  {{/* Carousel Implementation */}} 
-  {{ if gt (len $slides) 0 }}
-  <div class="carousel-container" id="speciesCarousel">
-    <div class="carousel-slides">
-      {{ range $index, $slide := $slides }}
-      <div class="carousel-slide">
-        {{ if $slide.resource }}
-          {{ $img := $slide.resource }}
-                                                  {{ $medium := $img.Resize "800x webp Lanczos" }}
-                                                  {{ $large := $img.Resize "1200x webp Lanczos" }}
-                                                  {{ $xlarge := $img.Resize "1600x webp Lanczos" }}
-                                                  {{ $xxlarge := $img.Resize "2500x webp Lanczos" }}
-                                                  {{ $srcset := (printf "%s %dw, %s %dw, %s %dw, %s %dw" $medium.RelPermalink $medium.Width $large.RelPermalink $large.Width $xlarge.RelPermalink $xlarge.Width $xxlarge.RelPermalink $xxlarge.Width) }}
-                                                  {{ if gt $img.Width $xxlarge.Width }}
-                                                    {{ $srcset = (printf "%s, %s %dw" $srcset $img.RelPermalink $img.Width) }}
-                                                  {{ end }}
-                                                  <img
-                                                    src="{{ $large.RelPermalink }}"
-                                                    srcset="{{ $srcset }}"                                          sizes="100vw"
-                                          alt="{{ $.Title }}"
-                                          width="{{ $img.Width }}"
-                                          height="{{ $img.Height }}"
-                                          loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}"
-                                        />        {{ else }}
-        <img
-          src="{{ $slide.url }}"
-          alt="{{ $.Title }}"
-          loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}"
-        />
-        {{ end }} {{ if $slide.credit }}
-        <div class="carousel-caption">
-          Foto: {{ $slide.credit | markdownify }}
+      {{ if .Params.rating }}
+        <div class="star-rating-large" style="margin: 1rem 0">
+          {{ range seq .Params.rating }}
+            <span class="star filled">★</span>
+          {{ end }}
+          {{ $emptyStars := sub 5 .Params.rating }}
+          {{ range seq $emptyStars }}
+            <span class="star empty">☆</span>
+          {{ end }}
+          <span class="rating-text">({{ .Params.rating }}/5)</span>
         </div>
+      {{ end }}
+
+      <div
+        class="species-badges"
+        style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap"
+      >
+        {{ if eq .Params.edible true }}
+          <span class="badge badge-edible">
+            <img src="/icons/food-mushroom.svg" alt="" />
+            Matsvamp
+          </span>
+        {{ end }}
+        {{ if eq .Params.poisonous 1 }}
+          <span class="badge badge-poisonous">
+            <img src="/icons/warning.svg" alt="" />
+            Giftig
+          </span>
+        {{ end }}
+        {{ if eq .Params.poisonous 2 }}
+          <span class="badge badge-poisonous">
+            <img src="/icons/skull-and-crossbones.svg" alt="" />
+            Dödligt giftig
+          </span>
+        {{ end }}
+        {{ if .Params.psychoactive }}
+          <span class="badge badge-psychoactive">
+            <img src="/icons/psychoactive.svg" alt="" />
+            Psykoaktiv
+          </span>
         {{ end }}
       </div>
-      {{ end }}
-    </div>
 
-    {{ if gt (len $slides) 1 }}
-    <button class="carousel-btn carousel-prev" aria-label="Previous Slide">
-      ❮
-    </button>
-    <button class="carousel-btn carousel-next" aria-label="Next Slide">
-      ❯
-    </button>
+      {{/* External IDs */}}
+      {{ partial "species-ids.html" . }}
+    </header>
 
-    <div class="carousel-dots">
-      {{ range $index, $slide := $slides }}
-      <button
-        class="carousel-dot {{ if eq $index 0 }}active{{ end }}"
-        data-index="{{ $index }}"
-        aria-label="Go to slide {{ add $index 1 }}"
-      ></button>
+    {{/* Construct Image List */}}
+    {{ $slides := slice }}
+    {{ if .Params.gallery }}
+      {{ range .Params.gallery }}
+        {{ $res := resources.Get (strings.TrimPrefix "/" .url) }}
+        {{ $slides = $slides | append (dict "url" .url "credit" .credit "resource" $res) }}
       {{ end }}
-    </div>
+    {{ else if .Params.images }}
+      {{ range .Params.images }}
+        {{ $res := resources.Get (strings.TrimPrefix "/" .) }}
+        {{ $slides = $slides | append (dict "url" . "credit" "" "resource" $res) }}
+      {{ end }}
+    {{ else if .Params.image }}
+      {{ $res := resources.Get (strings.TrimPrefix "/" .Params.image) }}
+      {{ $slides = $slides | append (dict "url" .Params.image "credit" "" "resource" $res) }}
     {{ end }}
-  </div>
-  {{ end }}
 
-  <div
-    class="nested-copy-line-height lh-copy f4 mid-gray measure-wide center content-section"
-  >
-    {{ .Content }}
-  </div>
-</article>
+    {{/* Carousel Implementation */}}
+    {{ if gt (len $slides) 0 }}
+      <div class="carousel-container" id="speciesCarousel">
+        <div class="carousel-slides">
+          {{ range $index, $slide := $slides }}
+            <div class="carousel-slide">
+              {{ if $slide.resource }}
+                {{ $img := $slide.resource }}
+                {{ $medium := $img.Resize "800x webp Lanczos" }}
+                {{ $large := $img.Resize "1200x webp Lanczos" }}
+                {{ $xlarge := $img.Resize "1600x webp Lanczos" }}
+                {{ $xxlarge := $img.Resize "2500x webp Lanczos" }}
+                {{ $srcset := (printf "%s %dw, %s %dw, %s %dw, %s %dw" $medium.RelPermalink $medium.Width $large.RelPermalink $large.Width $xlarge.RelPermalink $xlarge.Width $xxlarge.RelPermalink $xxlarge.Width) }}
+                {{ if gt $img.Width $xxlarge.Width }}
+                  {{ $srcset = (printf "%s, %s %dw" $srcset $img.RelPermalink $img.Width) }}
+                {{ end }}
+                <img
+                  src="{{ $large.RelPermalink }}"
+                  srcset="{{ $srcset }}"
+                  sizes="100vw"
+                  alt="{{ $.Title }}"
+                  width="{{ $img.Width }}"
+                  height="{{ $img.Height }}"
+                  loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}"
+                />
+              {{ else }}
+                <img
+                  src="{{ $slide.url }}"
+                  alt="{{ $.Title }}"
+                  loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}"
+                />
+              {{ end }}
+              {{ if $slide.credit }}
+                <div class="carousel-caption">
+                  Foto: {{ $slide.credit | markdownify }}
+                </div>
+              {{ end }}
+            </div>
+          {{ end }}
+        </div>
 
-{{ if gt (len $slides) 1 }}
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const carousel = document.getElementById("speciesCarousel");
-    if (!carousel) return;
+        {{ if gt (len $slides) 1 }}
+          <button class="carousel-btn carousel-prev" aria-label="Previous Slide">❮</button>
+          <button class="carousel-btn carousel-next" aria-label="Next Slide">❯</button>
 
-    const slidesContainer = carousel.querySelector(".carousel-slides");
-    const slides = carousel.querySelectorAll(".carousel-slide");
-    const prevBtn = carousel.querySelector(".carousel-prev");
-    const nextBtn = carousel.querySelector(".carousel-next");
-    const dots = carousel.querySelectorAll(".carousel-dot");
+          <div class="carousel-dots">
+            {{ range $index, $slide := $slides }}
+              <button
+                class="carousel-dot {{ if eq $index 0 }}active{{ end }}"
+                data-index="{{ $index }}"
+                aria-label="Go to slide {{ add $index 1 }}"
+              ></button>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
 
-    let currentIndex = 0;
-    const totalSlides = slides.length;
+    <div class="nested-copy-line-height lh-copy f4 mid-gray measure-wide center content-section">
+      {{ .Content }}
+    </div>
+  </article>
 
-    function updateCarousel() {
-      slidesContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
+  {{ if gt (len $slides) 1 }}
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const carousel = document.getElementById("speciesCarousel");
+        if (!carousel) return;
 
-      // Update dots
-      dots.forEach((dot, index) => {
-        if (index === currentIndex) {
-          dot.classList.add("active");
-        } else {
-          dot.classList.remove("active");
+        const slidesContainer = carousel.querySelector(".carousel-slides");
+        const slides = carousel.querySelectorAll(".carousel-slide");
+        const prevBtn = carousel.querySelector(".carousel-prev");
+        const nextBtn = carousel.querySelector(".carousel-next");
+        const dots = carousel.querySelectorAll(".carousel-dot");
+
+        let currentIndex = 0;
+        const totalSlides = slides.length;
+
+        function updateCarousel() {
+          slidesContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
+
+          // Update dots
+          dots.forEach((dot, index) => {
+            if (index === currentIndex) {
+              dot.classList.add("active");
+            } else {
+              dot.classList.remove("active");
+            }
+          });
         }
+
+        function nextSlide() {
+          currentIndex = (currentIndex + 1) % totalSlides;
+          updateCarousel();
+        }
+
+        function prevSlide() {
+          currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+          updateCarousel();
+        }
+
+        nextBtn.addEventListener("click", nextSlide);
+        prevBtn.addEventListener("click", prevSlide);
+
+        dots.forEach((dot) => {
+          dot.addEventListener("click", () => {
+            currentIndex = parseInt(dot.getAttribute("data-index"));
+            updateCarousel();
+          });
+        });
+
+        // Optional: Swipe support for touch devices
+        let touchStartX = 0;
+        let touchEndX = 0;
+
+        carousel.addEventListener("touchstart", (e) => {
+          touchStartX = e.changedTouches[0].screenX;
+        });
+
+        carousel.addEventListener("touchend", (e) => {
+          touchEndX = e.changedTouches[0].screenX;
+          handleSwipe();
+        });
+
+        function handleSwipe() {
+          if (touchEndX < touchStartX - 50) {
+            nextSlide();
+          }
+          if (touchEndX > touchStartX + 50) {
+            prevSlide();
+          }
+        }
+
+        // Toggle caption on click/tap
+        carousel.addEventListener("click", function (e) {
+          // Ignore clicks on controls
+          if (e.target.closest(".carousel-btn") || e.target.closest(".carousel-dot")) return;
+          // Ignore clicks on links within caption
+          if (e.target.closest("a")) return;
+
+          carousel.classList.toggle("show-caption");
+        });
       });
-    }
-
-    function nextSlide() {
-      currentIndex = (currentIndex + 1) % totalSlides;
-      updateCarousel();
-    }
-
-    function prevSlide() {
-      currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
-      updateCarousel();
-    }
-
-    nextBtn.addEventListener("click", nextSlide);
-    prevBtn.addEventListener("click", prevSlide);
-
-    dots.forEach((dot) => {
-      dot.addEventListener("click", () => {
-        currentIndex = parseInt(dot.getAttribute("data-index"));
-        updateCarousel();
-      });
-    });
-
-    // Optional: Swipe support for touch devices
-    let touchStartX = 0;
-    let touchEndX = 0;
-
-    carousel.addEventListener("touchstart", (e) => {
-      touchStartX = e.changedTouches[0].screenX;
-    });
-
-    carousel.addEventListener("touchend", (e) => {
-      touchEndX = e.changedTouches[0].screenX;
-      handleSwipe();
-    });
-
-    function handleSwipe() {
-      if (touchEndX < touchStartX - 50) {
-        nextSlide();
-      }
-      if (touchEndX > touchStartX + 50) {
-        prevSlide();
-      }
-    }
-
-    // Toggle caption on click/tap
-    carousel.addEventListener("click", function (e) {
-      // Ignore clicks on controls
-      if (
-        e.target.closest(".carousel-btn") ||
-        e.target.closest(".carousel-dot")
-      )
-        return;
-      // Ignore clicks on links within caption
-      if (e.target.closest("a")) return;
-
-      carousel.classList.toggle("show-caption");
-    });
-  });
-</script>
-{{ end }}
+    </script>
+  {{ end }}
 {{ end }}

@@ -5,7 +5,7 @@ wikidata: "Q1323764"
 artfakta: "4763"
 slug: "lactarius_rufus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: 'Med vackert pepparkaksbrun hatt och en vit mjölksaft som först är mild sedan brännande skarp. Hör till de s.k. "finska riskorna" som är ätliga efter avkokning. Koka i rikligt med vatten 10 minuter varefter kokvattnet slås bort. Klar att anrättas!'
 image: "/images/lactarius_rufus_01.jpg"

@@ -5,7 +5,7 @@ wikidata: "Q1345689"
 artfakta: "3729"
 slug: "cortinarius_splendens"
 edible: false
-poisonous: true
+poisonous: 2
 summary: "En vackert gul spindling som är mycket giftig (orellanin)."
 image: "/images/cortinarius_splendens_01.jpg"
 gallery:

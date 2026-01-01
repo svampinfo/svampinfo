@@ -5,7 +5,7 @@ wikidata: ""
 artfakta: "245039"
 slug: "tricholoma_saponaceum_var._squamosum"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En varietet av såpmusseron med fjällig hatt och fot. Oätlig."
 image: "https://www.artportalen.se/MediaLibrary/2025/12/6a84fa21-5cab-43c3-9ccf-8c149df5a21b_image.jpg"
 images: []

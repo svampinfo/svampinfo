@@ -5,7 +5,7 @@ wikidata: "Q1423834"
 artfakta: "2916"
 slug: "agaricus_bitorquis"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 1
 summary: "Ätlig men rekommenderas ej som matsvamp, främst beroende på att växtplatsen ofta är trafikförorenade vägkanter."
 image: "/images/agaricus_bitorquis_01.jpg"

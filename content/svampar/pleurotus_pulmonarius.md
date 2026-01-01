@@ -5,7 +5,7 @@ wikidata: "Q1261868"
 artfakta: "5556"
 slug: "pleurotus_pulmonarius"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "Vit till gulvit hatt, skivor nedlöpande. Foten är kort och sidoställd eller saknas helt. Växer på döda och levande stammar av lövträd."
 image: "/images/pleurotus_pulmonarius_01.jpg"

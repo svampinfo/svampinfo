@@ -5,7 +5,7 @@ wikidata: "Q234529"
 artfakta: "2917"
 slug: "agaricus_campestris"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "En av våra bästa matsvampar, god och vacker och växer i lättframkomlig terräng."
 image: "/images/agaricus_campestris_01.jpg"

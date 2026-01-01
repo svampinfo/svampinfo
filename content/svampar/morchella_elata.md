@@ -5,7 +5,7 @@ wikidata: "Q1327882"
 artfakta: "5079"
 slug: "morchella_elata"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "Toppmurklan har en vackert vindlad hatt med små håligheter. Storleken och smaken hos toppmurklor kan variera oerhört mellan olika individer."
 image: "/images/morchella_conica_01.jpg"

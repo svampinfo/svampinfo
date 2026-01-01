@@ -5,7 +5,7 @@ wikidata: "Q857903"
 artfakta: "3772"
 slug: "craterellus_cornucopioides"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "En av de läckraste matsvamparna. Kallas ofta 'fattigmans tryffel' för sin djupa smak."
 image: "/images/craterellus_cornucopioides_01.jpg"

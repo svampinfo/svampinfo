@@ -5,7 +5,7 @@ wikidata: "Q3829329"
 artfakta: ""
 slug: "leccinum_pseudoscabrum"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 2
 image: "/images/leccinum_pseudoscabrum_01.jpg"
 gallery:

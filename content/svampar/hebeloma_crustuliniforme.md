@@ -5,7 +5,7 @@ wikidata: "Q180150"
 artfakta: "4264"
 slug: "hebeloma_crustuliniforme"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En fränskivling som 'gråter' vätskedroppar från skivorna."
 image: "/images/hebeloma_crustuliniforme_01.jpg"
 gallery:

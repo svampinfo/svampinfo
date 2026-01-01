@@ -5,7 +5,7 @@ wikidata: "Q2501490"
 artfakta: "3133"
 slug: "boletus_porosporus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 1
 summary: "Ser ut som en liten och dystert färgad sammetsopp med uppsprucken hatthud."
 image: "/images/xerocomellus_porosporus_01.jpg"

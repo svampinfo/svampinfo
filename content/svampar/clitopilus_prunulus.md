@@ -5,7 +5,7 @@ wikidata: "Q856834"
 artfakta: "3341"
 slug: "clitopilus_prunulus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "En läcker matsvamp med nedlöpande skivor och rosa sporpulver. Doftar starkt av mjöl. Se upp för giftiga förväxlingssvampar, t.ex. trattskivlingar som istället har vitt sporpulver."
 image: "/images/clitopilus_prunulus_01.jpg"

@@ -5,7 +5,7 @@ wikidata: "Q865540"
 artfakta: "4779"
 slug: "lactarius_torminosus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 2
 summary: "Hatt rosafärgad, zonerad och med skäggig hattkant. Blöder en vit, skarpsmakande mjölksaft vid brytning. Ätlig efter avkokning. Koka i rikligt med vatten 10 min. varefter kokvattnet slås bort. Klar att anrättas!"
 image: "/images/lactarius_torminosus_01.jpg"

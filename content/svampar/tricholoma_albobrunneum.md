@@ -5,7 +5,7 @@ wikidata: "Q4355699"
 artfakta: "6256"
 slug: "tricholoma_albobrunneum"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En brun musseron med vit, avgränsad zon överst på foten."
 image: "/images/tricholoma_albobrunneum_01.jpg"
 gallery:

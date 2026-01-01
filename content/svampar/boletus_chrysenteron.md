@@ -5,7 +5,7 @@ wikidata: "Q254161"
 artfakta: "3125"
 slug: "boletus_chrysenteron"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 1
 summary: "Påminner om sammetsopp, men har mer rött på foten och en hatt som ofta är uppsprucken och blottar hattköttet i sina rödaste färger."
 image: "/images/xerocomellus_chrysenteron_01.jpg"

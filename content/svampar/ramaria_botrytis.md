@@ -5,7 +5,7 @@ wikidata: "Q1568901"
 artfakta: "6331633"
 slug: "ramaria_botrytis"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "Vacker art som är lätt igenkänd på sina druvblåa fingertoppar. Färgen mattas dock av med åldern, och kan hos gamla exemplar försvinna helt."
 image: "/images/ramaria_botrytis_01.jpg"

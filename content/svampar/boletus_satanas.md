@@ -5,7 +5,7 @@ wikidata: "Q26203731"
 artfakta: "161"
 slug: "boletus_satanas"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Djävulssopp är en av de fyra giftiga sopparna vi har i landet. Den är sällsynt och endast känd från ett fåtal växtplatser på Öland och Gotland, samt på senare tid funnen i en lindallé i Uppsala."
 image: "/images/rubroboletus_satanas_01.jpg"
 gallery:

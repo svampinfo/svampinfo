@@ -5,7 +5,7 @@ wikidata: "Q275125"
 artfakta: "3442"
 slug: "coprinus_comatus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "En läcker matsvamp som trivs i feta gräsmattor, gärna i tätortsbebyggelse."
 image: "/images/coprinus_comatus_01.jpg"

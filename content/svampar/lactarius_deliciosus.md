@@ -5,7 +5,7 @@ wikidata: "Q62138"
 artfakta: "4723"
 slug: "lactarius_deliciosus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "Även kallad läcker riska. En av våra bästa matsvampar, god, lättrensad och lätt att lära sig känna igen."
 image: "/images/lactarius_deliciosus_01.jpg"

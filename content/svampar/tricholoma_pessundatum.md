@@ -5,7 +5,7 @@ wikidata: "Q5398217"
 artfakta: "6277"
 slug: "tricholoma_pessundatum"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En rödbrun musseron som ofta växer i tallskog. Orsakar magförgiftning."
 image: "/images/tricholoma_pessundatum_01.jpg"
 gallery:

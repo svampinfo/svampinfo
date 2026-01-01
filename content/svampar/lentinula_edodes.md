@@ -5,7 +5,7 @@ wikidata: "Q320999"
 artfakta: "248687"
 slug: "lentinula_edodes"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 0
 summary: "Brun hatt med ljusa tofsar/hyllerester, växer på ved, odlad och kommersiellt saluförd. Ej naturligt växande i Sverige."
 image: "/images/lentinula_edodes_01.jpg"

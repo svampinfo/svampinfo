@@ -5,7 +5,7 @@ wikidata: "Q935729"
 artfakta: "236419"
 slug: "amanita_citrina_var._alba"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En helvit varietet av vitgul flugsvamp. Skiljer sig från vit flugsvamp genom annorlunda volva och en doft som påminner om rå potatis."
 image: "/images/amanita_citrina_f_alba_01.jpg"
 gallery:

@@ -5,7 +5,7 @@ wikidata: "Q901119"
 artfakta: "5881"
 slug: "russula_integra"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "Den krispiga spröda konsistensen i kombination med den milda nötlika smaken gör denna kremla till en av de läckraste. Gör sig utmärkt i alla möjliga anrättningar."
 image: "/images/russula_integra_01.jpg"

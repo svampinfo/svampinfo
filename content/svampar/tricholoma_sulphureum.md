@@ -5,7 +5,7 @@ wikidata: "Q583388"
 artfakta: "245047"
 slug: "tricholoma_sulphureum"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En helt svavelgul musseron med stark, obehaglig doft."
 image: "/images/tricholoma_sulphureum_01.jpg"
 images: []

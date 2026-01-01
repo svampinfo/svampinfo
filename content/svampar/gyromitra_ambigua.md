@@ -5,7 +5,7 @@ wikidata: "Q4355288"
 artfakta: "4250"
 slug: "gyromitra_ambigua"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Liknar stenmurkla men växer ofta senare och i norra Sverige. Giftig."
 image: "/images/gyromitra_ambigua_01.jpg"
 gallery:

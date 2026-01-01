@@ -5,7 +5,7 @@ wikidata: "Q384480"
 artfakta: "2944"
 slug: "agaricus_sylvicola"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "En snöbollschampinjon med uppsvälld/lökformad fotbas. God matsvamp."
 image: "/images/agaricus_sylvicola_01.jpg"

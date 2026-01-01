@@ -5,7 +5,7 @@ wikidata: "Q2720076"
 artfakta: "239284"
 slug: "clitocybe_dealbata"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Liten vitaktig till beigefärgad skivling som ofta växer i ringar i gräsmattor. Innehåller giftet muskarin."
 image: "/images/clitocybe_rivulosa_01.jpg"
 gallery:

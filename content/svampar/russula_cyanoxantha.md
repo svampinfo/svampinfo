@@ -5,7 +5,7 @@ wikidata: "Q246696"
 artfakta: "5850"
 slug: "russula_cyanoxantha"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Läcker matsvamp med elastiska skivor och variabel hattfärg."
 image: "/images/russula_cyanoxantha_01.jpg"

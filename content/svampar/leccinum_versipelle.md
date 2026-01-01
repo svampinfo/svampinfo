@@ -5,7 +5,7 @@ wikidata: "Q533017"
 artfakta: "245485"
 slug: "leccinum_versipelle"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Vacker och god matsvamp som ofta är mer fast i konsistensen än många andra strävsoppar."
 image: "/images/leccinum_versipelle_01.jpg"

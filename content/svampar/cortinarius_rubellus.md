@@ -5,7 +5,7 @@ wikidata: "Q944328"
 artfakta: "3710"
 slug: "cortinarius_rubellus"
 edible: false
-poisonous: true
+poisonous: 2
 summary: "En dödligt giftig svamp som kan gömma sig bland trattkantareller."
 image: "/images/cortinarius_rubellus_01.jpg"
 gallery:

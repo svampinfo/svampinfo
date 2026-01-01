@@ -5,7 +5,7 @@ wikidata: "Q1478429"
 artfakta: "3215"
 slug: "craterellus_lutescens"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "Trattkantarellens lyxiga kusin. Doftar starkt av frukt och är en delikatess."
 image: "/images/craterellus_lutescens_01.jpg"

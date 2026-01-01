@@ -5,7 +5,7 @@ wikidata: "Q26203718"
 artfakta: "3128"
 slug: "boletus_luridiformis"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "En underskattad delikatess! Låt inte den blå färgen eller de röda rören skrämma dig."
 image: "/images/neoboletus_luridiformis_01.jpg"

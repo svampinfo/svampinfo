@@ -5,7 +5,7 @@ wikidata: "Q29362"
 artfakta: "4871"
 slug: "lepista_nuda"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Klassisk matsvamp som många, speciellt äldre svampplockare känner till. Den utpräglade smaken gör att åsikterna om användbarheten går isär."
 image: "/images/lepista_nuda_01.jpg"

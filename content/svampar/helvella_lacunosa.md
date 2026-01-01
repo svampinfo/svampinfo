@@ -5,7 +5,7 @@ wikidata: "Q1462244"
 artfakta: "6033427"
 slug: "helvella_lacunosa"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "En mycket vacker, grå till gråsvart murkla med ribbor och djupa fåror på foten. Uppges ibland som ätlig, dock ingen läckerhet."
 image: "/images/helvella_lacunosa_01.jpg"

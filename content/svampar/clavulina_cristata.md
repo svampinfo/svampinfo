@@ -5,7 +5,7 @@ wikidata: "Q84826407"
 artfakta: "3292"
 slug: "clavulina_cristata"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "En liten och tunnköttig fingersvamp som kan förekomma i stora mängder."
 image: "/images/clavulina_cristata_01.jpg"

@@ -5,7 +5,7 @@ wikidata: "Q1478429"
 artfakta: "3215"
 slug: "cantharellus_lutescens"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "Mycket läcker matsvamp som kan uppträda i massor där den växer. Skiljer sig från trattkantarell genom sin varma gula färg på foten och undersidan av hatten."
 image: "/images/craterellus_lutescens_01.jpg"

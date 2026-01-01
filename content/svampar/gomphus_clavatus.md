@@ -5,7 +5,7 @@ wikidata: "Q1478471"
 artfakta: "720"
 slug: "gomphus_clavatus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Kompakt, vackert lila till grågul. Utsida med skrynkliga åsar. Ätlig men bör skonas då den är ovanlig. Växer i kalkrika skogsmarker."
 image: "/images/gomphus_clavatus_01.jpg"

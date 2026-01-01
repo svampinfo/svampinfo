@@ -5,7 +5,7 @@ wikidata: "Q1142857"
 artfakta: "6086"
 slug: "suillus_granulatus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "Läcker matsvamp som gärna växer med tall och trivs på lite kalkrikare marker."
 image: "/images/suillus_granulatus_01.jpg"

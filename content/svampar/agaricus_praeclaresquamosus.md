@@ -5,7 +5,7 @@ wikidata: "Q1614842"
 artfakta: "239063"
 slug: "agaricus_praeclaresquamosus"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Kännetecknas av de gråsvarta små fjällen, att den snabbt gulnar vid skrapning, samt den obehagliga doften"
 image: "/images/agaricus_moelleri_01.jpg"
 gallery:

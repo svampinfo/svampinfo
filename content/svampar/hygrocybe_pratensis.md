@@ -5,7 +5,7 @@ wikidata: "Q934772"
 artfakta: "239218"
 slug: "hygrocybe_pratensis"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Växer i betade ängs- och hagmarker. God matsvamp."
 image: "/images/cuphophyllus_pratensis_01.jpg"

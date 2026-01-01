@@ -5,7 +5,7 @@ wikidata: "Q1323740"
 artfakta: "5824"
 slug: "russula_aeruginea"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Läcker matsvamp, men se upp för den lömska flugsvampen som uppifrån kan vara väldigt lik."
 image: "/images/russula_aeruginea_01.jpg"

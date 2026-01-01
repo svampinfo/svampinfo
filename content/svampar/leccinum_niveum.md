@@ -5,7 +5,7 @@ wikidata: "Q633441"
 artfakta: "4818"
 slug: "leccinum_niveum"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 0
 summary: "Vit till grönvit hatt, vit fot med ljusa tofsar, växer fuktigt"
 image: "/images/leccinum_niveum_01.jpg"

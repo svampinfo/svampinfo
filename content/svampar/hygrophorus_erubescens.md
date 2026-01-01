@@ -5,7 +5,7 @@ wikidata: "Q579738"
 artfakta: "4408"
 slug: "hygrophorus_erubescens"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En vaxskivling som smakar beskt och rodnar vid beröring."
 image: "/images/hygrophorus_erubescens_01.jpg"
 gallery:

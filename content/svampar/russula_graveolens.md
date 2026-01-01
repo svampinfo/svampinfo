@@ -5,7 +5,7 @@ wikidata: "Q1427919"
 artfakta: "5872"
 slug: "russula_graveolens"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "En sillkremla med matt, purpurröd till rödlila hatt. Växer med ek i södra och mellersta Sverige. En av våra bästa matsvampar."
 image: "/images/russula_graveolens_01.jpg"

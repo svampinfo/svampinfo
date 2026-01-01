@@ -5,7 +5,7 @@ wikidata: "Q267538"
 artfakta: "2912"
 slug: "agaricus_augustus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "Stor och kraftig skivling med brunfjällig hatt och en härlig doft av mandel. Kan få en hattbredd på uppemot 30 cm."
 image: "/images/agaricus_augustus_01.jpg"

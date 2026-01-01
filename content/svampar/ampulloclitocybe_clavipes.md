@@ -5,7 +5,7 @@ wikidata: "Q54356860"
 artfakta: "236439"
 slug: "ampulloclitocybe_clavipes"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Nedlöpande vita skivor, uppsvälld fot och en tydligt sötaktig och bittermandelliknande doft."
 image: "/images/ampulloclitocybe_clavipes_01.jpg"
 gallery:

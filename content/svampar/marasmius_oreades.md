@@ -5,7 +5,7 @@ wikidata: "Q752492"
 artfakta: "4995"
 slug: "marasmius_oreades"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "Tunnköttig, gulbrun till ljust beige, med seg fot. Doftar starkt och gott av kryddnejlikor/bittermandel. Växer i häxringar i gräsmattor."
 image: "/images/marasmius_oreades_01.jpg"

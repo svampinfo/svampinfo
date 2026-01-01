@@ -5,7 +5,7 @@ wikidata: "Q1421173"
 artfakta: "4762"
 slug: "lactarius_resimus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "En delikatess för inläggningar, men kräver förvälling."
 image: "/images/lactarius_resimus_01.jpg"

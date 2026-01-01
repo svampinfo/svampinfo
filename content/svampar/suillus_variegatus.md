@@ -5,7 +5,7 @@ wikidata: "Q1347128"
 artfakta: "6090"
 slug: "suillus_variegatus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: 'Har karaktäristiska små mörka "fräknar" på hatten. En av våra vanligaste soppar som kan förekomma i stora mängder. Vinner smak på att torkas innan anrättning.'
 image: "/images/suillus_variegatus_01.jpg"

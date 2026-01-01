@@ -5,7 +5,7 @@ wikidata: "Q472817"
 artfakta: "2986"
 slug: "amanita_virosa"
 edible: false
-poisonous: true
+poisonous: 2
 summary: "En av Sveriges giftigaste svampar. Lär dig känna igen den för att undvika livsfarliga misstag."
 image: "/images/amanita_virosa_01.jpg"
 gallery:

@@ -5,7 +5,7 @@ wikidata: "Q594027"
 artfakta: "6291"
 slug: "tricholoma_virgatum"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Grå musseron med spetsig hatt och brännande smak."
 image: "/images/tricholoma_virgatum_01.jpg"
 gallery:

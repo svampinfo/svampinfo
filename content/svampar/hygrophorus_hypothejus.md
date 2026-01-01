@@ -5,7 +5,7 @@ wikidata: "Q1364735"
 artfakta: "6008713"
 slug: "hygrophorus_hypothejus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "En senhöstsvamp som vanligen tittar fram efter första nattfrosten."
 image: "/images/hygrophorus_hypothejus_01.jpg"

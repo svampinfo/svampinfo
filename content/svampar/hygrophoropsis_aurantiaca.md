@@ -5,7 +5,7 @@ wikidata: "Q1265541"
 artfakta: "4400"
 slug: "hygrophoropsis_aurantiaca"
 edible: false
-poisonous: false
+poisonous: 0
 rating: 0
 summary: "Kantarellens tråkiga kusin. Ser ut som en kantarell vid första anblick, men saknar smak och matvärde."
 image: "/images/hygrophoropsis_aurantiaca_01.jpg"

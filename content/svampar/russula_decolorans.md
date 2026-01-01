@@ -5,7 +5,7 @@ wikidata: "Q2028199"
 artfakta: "5852"
 slug: "russula_decolorans"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "God och vanligt förekommande matsvamp. Karaktäriseras av sin tegelröda hattfärg och det grånande köttet."
 image: "/images/russula_decolorans_01.jpg"

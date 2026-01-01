@@ -5,7 +5,7 @@ wikidata: "Q1210127"
 artfakta: "5976"
 slug: "scleroderma_citrinum"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En tjockskalig buksvamp som kan likna tryffel eller röksvamp."
 image: "/images/scleroderma_citrinum_01.jpg"
 gallery:

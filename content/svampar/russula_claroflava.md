@@ -5,7 +5,7 @@ wikidata: "Q1462183"
 artfakta: "5847"
 slug: "russula_claroflava"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Karaktäriseras av sin klargula hattfärg, milda smak och att köttet grånar."
 image: "/images/russula_claroflava_01.jpg"

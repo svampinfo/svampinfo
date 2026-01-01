@@ -5,7 +5,7 @@ wikidata: "Q1129282"
 artfakta: "5080"
 slug: "morchella_esculenta"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "En av de läckraste toppmurklorna, det är tyvärr inte alla förunnat att finna den då den är ganska ovanlig i Sverige."
 image: "/images/morchella_esculenta_01.jpg"

@@ -5,7 +5,7 @@ wikidata: "Q1130154"
 artfakta: "6003332"
 slug: "hydnum_rufescens"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Ej lika uppskattad som sin släkting blek taggsvamp, men är likväl en god matsvamp och väl värd att plocka. Förekommer i både löv- och barrskog."
 image: "/images/hydnum_rufescens_s_lat_01.jpg"

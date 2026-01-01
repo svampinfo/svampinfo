@@ -5,7 +5,7 @@ wikidata: "Q2255852"
 artfakta: "4412"
 slug: "hygrophorus_karstenii"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Ätlig men ej omtyckt av alla."
 image: "/images/hygrophorus_karstenii_01.jpg"

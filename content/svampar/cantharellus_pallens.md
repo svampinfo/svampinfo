@@ -5,7 +5,7 @@ wikidata: "Q4355294"
 artfakta: "3216"
 slug: "cantharellus_pallens"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "Lite blekare i färgen, samt något större och kraftigare än vår vanliga kantarell. Dyker gärna upp redan i juni-juli och anses av många vara den godaste kantarellen."
 image: "/images/cantharellus_pallens_01.jpg"

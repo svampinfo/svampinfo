@@ -5,7 +5,7 @@ wikidata: "Q3501513"
 artfakta: "4051"
 slug: "entoloma_vernum"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En tidig rödskivling som växer på våren. Giftig."
 image: "/images/entoloma_vernum_01.jpg"
 gallery:

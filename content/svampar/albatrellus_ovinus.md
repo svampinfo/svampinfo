@@ -5,7 +5,7 @@ wikidata: "Q331465"
 artfakta: "2959"
 slug: "albatrellus_ovinus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Hatten är vit till gråbrun. På undersidan av hatten finns ett vitt rörlager med små porer som är svåra att se för blotta ögat. Till skillnad från soppar sitter rörlagret hos tickor hårt fastväxt i hattköttet."
 image: "/images/albatrellus_ovinus_01.jpg"

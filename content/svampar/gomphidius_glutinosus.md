@@ -5,7 +5,7 @@ wikidata: "Q790626"
 artfakta: "4237"
 slug: "gomphidius_glutinosus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "Låt inte det slemmiga intrycket avskräcka! God matsvamp som är lätt att lära sig känna igen på det citrongula köttet i fotbasen i kombination med de ljusgrå nedlöpande skivorna."
 image: "/images/gomphidius_glutinosus_01.jpg"

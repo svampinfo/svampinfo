@@ -5,7 +5,7 @@ wikidata: "Q3915574"
 artfakta: "4404"
 slug: "hygrophorus_camarophyllus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "De tjocka, glesa, vita skivorna kontrasterar vackert mot den sotbruna hatten och foten."
 image: "/images/hygrophorus_camarophyllus_01.jpg"

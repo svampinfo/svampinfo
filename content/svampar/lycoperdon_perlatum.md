@@ -5,7 +5,7 @@ wikidata: "Q545130"
 artfakta: "4936"
 slug: "lycoperdon_perlatum"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 2
 summary: "Päronformade fruktkroppar med små vårtor som lätt trillar av vid beröring. Ätlig."
 image: "/images/lycoperdon_perlatum_01.jpg"

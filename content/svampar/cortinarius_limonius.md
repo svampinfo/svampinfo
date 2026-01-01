@@ -5,7 +5,7 @@ wikidata: "Q10481155"
 artfakta: "3653"
 slug: "cortinarius_limonius"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Eldspindling lyser upp vackert där den står i mossig och fuktig barrskog över hela landet. Bör betraktas som giftig."
 image: "/images/cortinarius_limonius_01.jpg"
 gallery:

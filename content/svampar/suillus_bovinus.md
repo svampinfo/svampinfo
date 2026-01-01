@@ -5,7 +5,7 @@ wikidata: "Q1165762"
 artfakta: "6084"
 slug: "suillus_bovinus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 1
 summary: "Ätlig men inte speciellt aptitlig då hatten är mjuk och böjlig med en konsistens av skumgummi."
 image: "/images/suillus_bovinus_01.jpg"

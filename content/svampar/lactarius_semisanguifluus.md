@@ -5,7 +5,7 @@ wikidata: "Q513517"
 artfakta: "4770"
 slug: "lactarius_semisanguifluus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 image: "/images/lactarius_semisanguifluus_01.jpg"
 gallery:

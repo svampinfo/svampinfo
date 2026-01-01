@@ -5,7 +5,7 @@ wikidata: "Q13684"
 artfakta: "6037401"
 slug: "hydnum_repandum"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "En av skogens säkraste kort. God, vanlig och helt utan giftiga dubbelgångare."
 image: "/images/hydnum_repandum_01.jpg"

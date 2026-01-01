@@ -5,7 +5,7 @@ wikidata: "Q49550411"
 artfakta: "3201"
 slug: "calvatia_gigantea"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 2
 summary: "Ätlig och god så länge svampköttet är vitt. Lämpar sig bäst att steka i tunna skivor."
 image: "/images/langermannia_gigantea_01.jpg"

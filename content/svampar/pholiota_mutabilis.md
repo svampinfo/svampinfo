@@ -5,7 +5,7 @@ wikidata: "Q732640"
 artfakta: "5499"
 slug: "pholiota_mutabilis"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "God matsvamp men se upp för den snarlika gifthättingen!"
 image: "/images/kuehneromyces_mutabilis_01.jpg"

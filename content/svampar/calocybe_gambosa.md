@@ -5,7 +5,7 @@ wikidata: "Q731944"
 artfakta: "3191"
 slug: "calocybe_gambosa"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "En vacker vår-försommarsvamp som bildar \"häxringar\" i feta gräsmattor, gärna på lite kalkrikare mark."
 image: "/images/calocybe_gambosa_01.jpg"

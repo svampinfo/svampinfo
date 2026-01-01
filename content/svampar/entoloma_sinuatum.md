@@ -5,7 +5,7 @@ wikidata: "Q1424216"
 artfakta: "4037"
 slug: "entoloma_sinuatum"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Bolmörtsskivling är en stor och ståtlig men mycket giftig skivling."
 image: "/images/entoloma_sinuatum_01.jpg"
 gallery:

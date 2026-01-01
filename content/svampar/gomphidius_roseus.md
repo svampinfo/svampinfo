@@ -5,7 +5,7 @@ wikidata: "Q1931554"
 artfakta: "4239"
 slug: "gomphidius_roseus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 2
 summary: "En nära släkting till citronslemskivling. Ätlig men ej speciellt vanlig."
 image: "/images/gomphidius_roseus_01.jpg"

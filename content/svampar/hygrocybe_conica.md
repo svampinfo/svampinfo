@@ -5,7 +5,7 @@ wikidata: "Q1434668"
 artfakta: "4379"
 slug: "hygrocybe_conica"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Färggrann vaxskivling som svartnar vid beröring och ålder."
 image: "/images/hygrocybe_conica_01.jpg"
 gallery:

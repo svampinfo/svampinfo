@@ -5,7 +5,7 @@ wikidata: "Q1737818"
 artfakta: "4637"
 slug: "inocybe_rimosa"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En tråding med tydligt uppsprucken hatt. Giftig."
 image: "/images/inocybe_rimosa_01.jpg"
 gallery:

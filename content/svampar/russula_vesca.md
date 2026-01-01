@@ -5,7 +5,7 @@ wikidata: "Q851539"
 artfakta: "5943"
 slug: "russula_vesca"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 4
 summary: "Karaktäriseras av sin fläskfilérosa hattfärg, den hårda foten och att hatthuden ej når ända ut till hattkanten."
 image: "/images/russula_vesca_01.jpg"

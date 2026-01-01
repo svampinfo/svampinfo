@@ -5,7 +5,7 @@ wikidata: "Q883698"
 artfakta: "3328"
 slug: "clitocybe_phyllophila"
 edible: false
-poisonous: true
+poisonous: 1
 image: "/images/clitocybe_phyllophila_01.jpg"
 gallery:
   - url: "/images/clitocybe_phyllophila_01.jpg"

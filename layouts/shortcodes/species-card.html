@@ -57,10 +57,23 @@
             <img src="/icons/food-mushroom.svg" alt="" />
             Matsvamp
           </span>
-          {{ end }} {{ if eq $page.Params.poisonous true }}
+          {{ end }} 
+          {{ if eq $page.Params.poisonous 1 }}
+          <span class="badge badge-poisonous">
+            <img src="/icons/warning.svg" alt="" />
+            Giftig
+          </span>
+          {{ end }}
+          {{ if eq $page.Params.poisonous 2 }}
           <span class="badge badge-poisonous">
             <img src="/icons/skull-and-crossbones.svg" alt="" />
-            Giftig
+            Dödligt giftig
+          </span>
+          {{ end }}
+          {{ if $page.Params.psychoactive }}
+          <span class="badge badge-psychoactive">
+            <img src="/icons/psychoactive.svg" alt="" />
+            Psykoaktiv
           </span>
           {{ end }}
         </div>

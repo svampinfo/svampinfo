@@ -5,7 +5,7 @@ wikidata: "Q355571"
 artfakta: "4829"
 slug: "leccinum_variicolor"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 0
 summary: "Hatt gråsvart, fläckig i ljusare partier, fot med mörka tofsar, växer på fuktig mark."
 image: "/images/leccinum_variicolor_01.jpg"

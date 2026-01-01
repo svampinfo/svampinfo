@@ -5,7 +5,7 @@ wikidata: "Q243381"
 artfakta: "4977"
 slug: "macrolepiota_procera"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "Populär och läcker matsvamp med vackert brunfjällig hatt och vattrad fot. Hattbredden kan nå ända upp till 30 cm i diameter."
 image: "/images/macrolepiota_procera_01.jpg"

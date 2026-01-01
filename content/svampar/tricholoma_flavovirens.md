@@ -5,7 +5,7 @@ wikidata: "Q312756"
 artfakta: "245050"
 slug: "tricholoma_flavovirens"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Gulgrön musseron som tidigare var matsvamp men nu misstänks vara giftig."
 image: "/images/tricholoma_flavovirens_01.jpg"
 gallery:

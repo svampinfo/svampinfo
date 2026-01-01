@@ -5,7 +5,7 @@ wikidata: ""
 artfakta: "6273"
 slug: "tricholoma_lascivum"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "Ekmusseron är en vitaktig till ljust läderfärgad musseron med obehaglig doft."
 image: "https://www.artportalen.se/MediaLibrary/2018/2/a527383f-3e6b-4819-9d42-9fc7d7db79d4_image.jpg"
 gallery:

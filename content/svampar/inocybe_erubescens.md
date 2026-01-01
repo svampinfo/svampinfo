@@ -5,7 +5,7 @@ wikidata: "Q198722"
 artfakta: "4581"
 slug: "inocybe_erubescens"
 edible: false
-poisonous: true
+poisonous: 2
 summary: "En dödligt giftig tråding som rodnar vid skada. Innehåller muskarin."
 image: "/images/inocybe_erubescens_01.jpg"
 gallery:

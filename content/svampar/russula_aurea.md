@@ -5,7 +5,7 @@ wikidata: "Q1276522"
 artfakta: "5836"
 slug: "russula_aurea"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 5
 summary: "En av de allra vackraste och godaste kremlorna. Har ofta en guldgul färgton över fot och skivor."
 image: "/images/russula_aurea_01.jpg"

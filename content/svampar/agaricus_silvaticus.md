@@ -5,7 +5,7 @@ wikidata: "Q1097213"
 artfakta: "2941"
 slug: "agaricus_silvaticus"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "God matsvamp, lik blodchampinjon men rodnar ej lika kraftigt. Trivs i barrmattan under gamla granar och i myrstackar."
 image: "/images/agaricus_sylvaticus_01.jpg"

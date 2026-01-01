@@ -5,7 +5,7 @@ wikidata: "Q42054"
 artfakta: "805"
 slug: "hygrocybe_punicea"
 edible: true
-poisonous: false
+poisonous: 0
 rating: 3
 summary: "En av våra största hagvaxingar. Vackert blodröd. Har en fibrig fot och vitaktig fotbas vilket skiljer den från den spensligare blodvaxingen."
 image: "/images/hygrocybe_punicea_01.jpg"

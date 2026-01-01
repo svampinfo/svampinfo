@@ -5,7 +5,7 @@ wikidata: "Q1377524"
 artfakta: "4732"
 slug: "lactarius_helvus"
 edible: false
-poisonous: true
+poisonous: 1
 summary: "En stor riska som doftar starkt av lakrits eller buljong. Svagt giftig."
 image: "/images/lactarius_helvus_01.jpg"
 gallery:

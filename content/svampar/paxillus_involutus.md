@@ -5,7 +5,7 @@ wikidata: "Q518069"
 artfakta: "6051059"
 slug: "paxillus_involutus"
 edible: false
-poisonous: true
+poisonous: 2
 summary: "Tidigare ansedd som matsvamp, nu känd som dödligt giftig vid upprepad förtäring."
 image: "/images/paxillus_involutus_01.jpg"
 gallery:
