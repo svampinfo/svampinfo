@@ -24,15 +24,17 @@ Den klassiska kantarellen är svår att ta miste på med sin lysande **<span sty
 {{< species-card path="svampar/hygrophoropsis_aurantiaca.md" >}}
 {{< /species-grid >}}
 
-### Höstens hjältar
+### Trattisar
 
-När sommaren går mot höst tar släktingarna över. **Trattkantarellen** är mindre och brunare, men växer ofta i enorma mattor.
+När sommaren går mot höst tar släktingarna över. _Trattkantarellen_ är mindre och brunare, men växer ofta i enorma mattor.
 
 - **Utseende:** En <span style="color: #8b7d6b;">brun/grå</span> hatt med en **<span style="color: #ffd700;">gul</span>** fot.
 - **Ihålig:** Foten är ihålig, som ett sugrör.
 - **Undersidan:** Har tydliga, gråaktiga åsar.
 
-Även **Rödgul Trumpetsvamp** hör hit. Den är mer gul-orange än trattkantarellen och saknar tydliga åsar (är nästan slät under), men är lika god.
+Lite kuriosa på ämnet: den _Rödgula Trumpetsvampen_ och _Trattkantarellen_ är inte samma svamp.
+De växer dock på ungefär samma ställen, och smakar båda lika gott. Det som skiljer dem åt är att
+den <span style="color: #e58337;">gul-orange</span> varianten saknar tydliga åsar (är nästan slät under).
 
 {{< species-grid >}}
 {{< species-card path="svampar/craterellus_tubaeformis.md" >}}

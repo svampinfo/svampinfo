@@ -20,12 +20,6 @@ Felbedömningar kan i värsta fall vara livsfarliga.
 2. **Ring:** Det finns alltid en ring på foten.
 3. **Foten:** Foten lossnar lätt från hatten om du vickar på den (som en kula i en skål).
 
-**Favoriterna:**
-
-- **Snöbollschampinjon:** Stor, vit och doftar gott av anis.
-- **Kungschampinjon:** Fjällig hatt och delikat smak.
-- **Ängschampinjon:** Växer i hagar, något mindre.
-
 {{< species-grid >}}
 {{< species-card path="svampar/agaricus_arvensis.md" >}}
 {{< species-card path="svampar/agaricus_augustus.md" >}}
