@@ -8,6 +8,7 @@ theme = 'PaperMod'
   author = 'Svampinfo'
   [params.assets]
     favicon = '/icons/favico.svg'
+    apple_touch_icon = '/icons/apple-touch-icon.png'
   
   [params.label]
     text = "Svampinfo"
