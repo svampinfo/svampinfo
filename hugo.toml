@@ -6,6 +6,7 @@ theme = 'PaperMod'
 [params]
   description = 'Din guide till Sveriges svampar - mer än 150 arter med bilder och beskrivningar'
   author = 'Svampinfo'
+  disableThemeToggle = true
   [params.assets]
     favicon = '/icons/favico.svg'
     apple_touch_icon = '/icons/apple-touch-icon.png'
