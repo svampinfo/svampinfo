@@ -29,5 +29,5 @@ Vanlig i löv- och barrskog över hela Norden. Foten är ofta träig i konsisten
 
 - Rödsopp - med röd hatt, sällsynt, ätlig.
 - [Rutsopp](/svampar/boletus_chrysenteron/) - hatt ofta uppsprickande, med röda färger, ätlig.
-- [Falsk [rutsopp](/svampar/boletus_chrysenteron/)](/svampar/boletus_porosporus/) - hatt uppsprickande, ätlig.
+- [Falsk rutsopp](/svampar/boletus_porosporus/) - hatt uppsprickande, ätlig.
 - [Brunsopp](/svampar/boletus_badius/) - mörkbrun hatt, utan ådernät på foten, god matsvamp.
