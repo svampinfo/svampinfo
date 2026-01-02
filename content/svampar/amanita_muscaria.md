@@ -1,5 +1,4 @@
 ---
-
 title: "Röd flugsvamp"
 scientificName: "Amanita muscaria"
 wikidata: "Q131227"
@@ -13,7 +12,6 @@ image: "/images/amanita_muscaria_01.jpg"
 gallery:
   - url: "/images/amanita_muscaria_01.jpg"
     credit: "[Onderwijsgek](https://commons.wikimedia.org/wiki/User:Onderwijsgek), [CC BY-SA 3.0 nl](https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en), via Wikimedia Commons"
-
   - url: "/images/amanita_muscaria_02.jpg"
     credit: "Tony Wills, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fly_Agaric_mushroom_04.jpg)"
   - url: "/images/amanita_muscaria_03.jpg"
@@ -49,6 +47,7 @@ gallery:
   - url: "/images/amanita_muscaria_18.jpg"
     credit: "[Internet Archive Book Images](https://www.flickr.com/people/126377022@N07), [No restrictions](https://www.flickr.com/commons/usage/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_American_botanist_-_a_monthly_journal_for_the_plant_lover_(1901-1948)_(18118765721).jpg)"
 ---
+
 > Skogens mest ikoniska svamp. Vacker men giftig och hallucinogen.
 
 ## Kännetecken

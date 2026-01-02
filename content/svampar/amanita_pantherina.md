@@ -1,4 +1,5 @@
 ---
+
 title: "Panterflugsvamp"
 scientificName: "Amanita pantherina"
 wikidata: "Q45547"
@@ -12,8 +13,24 @@ image: "/images/amanita_pantherina_01.jpg"
 gallery:
   - url: "/images/amanita_pantherina_01.jpg"
     credit: "[George Chernilevsky](https://commons.wikimedia.org/wiki/User:George_Chernilevsky), [Public domain](), via Wikimedia Commons"
----
 
+  - url: "/images/amanita_pantherina_02.jpg"
+    credit: "Jerzy Opioła, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amanita_pantherina_G25.JPG)"
+  - url: "/images/amanita_pantherina_03.jpg"
+    credit: "[European_Panther.jpg](https://commons.wikimedia.org/wiki/File:European_Panther.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2008-10_Amanita_pantherina_cropped.jpg)"
+  - url: "/images/amanita_pantherina_04.jpg"
+    credit: "[Toffel](https://commons.wikimedia.org/wiki/User:Toffel), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amanita_rubescens_und_Amanita_pantherina.JPG)"
+  - url: "/images/amanita_pantherina_05.jpg"
+    credit: "[Reaperman](https://en.wikipedia.org/wiki/cs:Wikipedista:Reaperman), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amanita_pantherina_2007.JPG)"
+  - url: "/images/amanita_pantherina_06.jpg"
+    credit: "[Holger Krisp](https://commons.wikimedia.org/wiki/User:Holleday), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pantherpilz_Amanita_pantherina.jpg)"
+  - url: "/images/amanita_pantherina_07.jpg"
+    credit: "[Richard Daniel](https://mushroomobserver.org/observer/show_user/236), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amanita_pantherina_1538476.jpg)"
+  - url: "/images/amanita_pantherina_08.jpg"
+    credit: "Jacob Christian Schäffer, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tab90-Agaricus_maculatus_Schaeff.jpg)"
+  - url: "/images/amanita_pantherina_09.jpg"
+    credit: "Unknown, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Panther_cap_fungus_(Amanita_pantherina);_four_fruiting_bodie_Wellcome_V0043343.jpg)"
+---
 > En mycket giftig flugsvamp med brun hatt och vita prickar. Kan förväxlas med stolt fjällskivling.
 
 ## Kännetecken
