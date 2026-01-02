@@ -34,11 +34,13 @@ Många gamla svampböcker varnar för soppar med röda rör, men då missar man 
 
 1.  **Blodsopp:** En fantastisk matsvamp! Den har mörkbrun sammetslen hatt och röda rör. Köttet är gult men blånar (blir mörkblått) direkt när man skär i det. Låt dig inte skrämmas av färgskiftningen – det är helt ofarligt. Tillaga den väl, så har du en delikatess.
 2.  **Djävulssopp:** Den giftiga dubbelgångaren. Den är dock mycket sällsynt (finns knappt i Sverige, mest på Öland/Gotland) och har en **blekgrå/kalkvit** hatt, till skillnad från blodsoppens mörkbruna. Den luktar dessutom illa.
+3.  **Purpursopp:** Mycket sällsynt och giftig. Hatten är ojämn och gropig, och hela svampen (hatt, fot, rör) blånar extremt kraftigt och snabbt vid minsta beröring.
 
 {{< species-grid >}}
   {{< species-card path="svampar/boletus_luridiformis.md" >}}
   {{< species-card path="svampar/tylopilus_felleus.md" >}}
   {{< species-card path="svampar/boletus_satanas.md" >}}
+  {{< species-card path="svampar/imperator_rhodopurpureus.md" >}}
 {{< /species-grid >}}
 
 **Sammanfattning:** Plocka gärna soppar! De är säkra och goda. Lär dig känna igen Gallsopp (smaka om du är osäker) så du slipper förstörd mat. Och våga prova Blodsopp – men kolla så hatten är mörkbrun och inte blekgrå.
