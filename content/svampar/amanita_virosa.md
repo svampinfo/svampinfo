@@ -1,4 +1,5 @@
 ---
+
 title: "Vit flugsvamp"
 scientificName: "Amanita virosa"
 wikidata: "Q472817"
@@ -10,19 +11,27 @@ summary: "Dödligt giftig. Helvit svamp med ring och strumpa som ofta förväxla
 image: "/images/amanita_virosa_01.jpg"
 gallery:
   - url: "/images/amanita_virosa_01.jpg"
-    credit: "[en:User:Ben DeRoy](https://en.wikipedia.org/wiki/User:Ben_DeRoy), [Public domain](), via Wikimedia Commons"
-  - url: "https://www.artportalen.se/MediaLibrary/2025/10/671c4a3c-2712-4258-9b83-039297de1781_image.jpg"
-    credit: "© Klas Magnusson, Vendelsö Artportalen"
-  - url: "https://www.artportalen.se/MediaLibrary/2025/10/daf71d15-fcf6-4c14-8cbf-c548657dafd8_image.jpg"
-    credit: "© Klas Magnusson, Vendelsö Artportalen"
-  - url: "https://www.artportalen.se/MediaLibrary/2025/10/68a44ad9-80b8-4160-b80f-d6392c07cfef_image.jpg"
-    credit: "© Klas Magnusson, Vendelsö Artportalen"
-  - url: "https://www.artportalen.se/MediaLibrary/2025/10/720ddda4-d99e-474d-8d0a-374eae474be4_image.jpg"
-    credit: "© Claes Urban Eliasson, Lindesberg Artportalen"
-  - url: "https://www.artportalen.se/MediaLibrary/2025/10/a7141431-a5d0-49ab-906e-63aa18899782_image.jpg"
-    credit: "© Claes Urban Eliasson, Lindesberg Artportalen"
----
+    credit: "[Cephas](https://commons.wikimedia.org/wiki/User:Cephas), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amanita_virosa_UL_01.jpg)"
 
+  - url: "/images/amanita_virosa_02.jpg"
+    credit: "[Cephas](https://commons.wikimedia.org/wiki/User:Cephas), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amanita_virosa_UL_03.jpg)"
+  - url: "/images/amanita_virosa_03.jpg"
+    credit: "[Cephas](https://commons.wikimedia.org/wiki/User:Cephas), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amanita_virosa_UL_04.jpg)"
+  - url: "/images/amanita_virosa_04.jpg"
+    credit: "[Pieria](https://commons.wikimedia.org/wiki/User:Pieria), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amanita_virosa-03.jpg)"
+  - url: "/images/amanita_virosa_05.jpg"
+    credit: "[Pieria](https://commons.wikimedia.org/wiki/User:Pieria), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amanita_virosa-04.jpg)"
+  - url: "/images/amanita_virosa_06.jpg"
+    credit: "[Pieria](https://commons.wikimedia.org/wiki/User:Pieria), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amanita_virosa-05.jpg)"
+  - url: "/images/amanita_virosa_07.jpg"
+    credit: "[Lameiro](https://commons.wikimedia.org/wiki/User:Lameiro), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amanita_virosa_(praia_do_Espiño)_01.jpg)"
+  - url: "/images/amanita_virosa_08.jpg"
+    credit: "[Σ64](https://ja.wikipedia.org/wiki/User:%CE%A364), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amanita_virosa_09.jpg)"
+  - url: "/images/amanita_virosa_09.jpg"
+    credit: "[Maxim Shashkov](https://www.inaturalist.org/users/519014), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amanita_virosa_10099268.jpg)"
+  - url: "/images/amanita_virosa_10.jpg"
+    credit: "[Svencapoeira](https://commons.wikimedia.org/wiki/User:Svencapoeira), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Valge_kärbseseen.jpg)"
+---
 > Dödligt giftig. Helvit svamp med ring och strumpa som ofta förväxlas med champinjoner.
 
 ## Kännetecken
