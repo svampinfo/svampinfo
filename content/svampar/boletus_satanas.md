@@ -36,7 +36,7 @@ Orsakar kraftiga mag- och tarmbesvär med kräkningar och diarré.
 
 - **[Falsk djävulssopp](/svampar/boletus_splendidus/):** Också giftig och sällsynt. Har ofta rosa fläckar på hatten.
 - **[Blodsopp](/svampar/boletus_luridiformis/):** Ätlig. Har mörkbrun hatt (inte vitgrå) och saknar ådernät (har rödprickig fot).
-- **[Eldsopp](/svampar/boletus_luridus/):** Ätlig. Har också röd fot och röda rör, men hatten är brun/olivtonad, inte vitgrå.
+- **[Eldsopp](/svampar/suillellus_luridus/):** Ätlig. Har också röd fot och röda rör, men hatten är brun/olivtonad, inte vitgrå.
 - **[Purpursopp](/svampar/imperator_rhodopurpureus/):** Giftig. Hatten blånar kraftigt vid beröring och är inte lika vitgrå.
 
 **Obs:** Djävulssopp är fridlyst (rödlistad) och ska inte plockas.

@@ -37,6 +37,6 @@ Det finns några få giftiga soppar med röda rör, men de är sällsynta och se
 
 - **[Djävulssopp](/svampar/boletus_satanas/):** Mycket sällsynt (finns mest på Öland/Gotland). Har en **blekgrå/kalkvit** hatt (Blodsopp har mörkbrun). Luktar illa.
 - **[Purpursopp](/svampar/imperator_rhodopurpureus/):** Giftig. Har rött **ådernät** på foten (Blodsopp har prickar) och blånar extremt kraftigt på hatten vid beröring.
-- **Eldsopp:** Har rött **ådernät** på foten (Blodsopp har röda prickar). Går att äta om den tillagas väl, men kan vara knepig för vissa magar, så Blodsoppen är ett säkrare val.
+- **[Eldsopp](/svampar/suillellus_luridus/):** Har rött **ådernät** på foten (Blodsopp har röda prickar). Går att äta om den tillagas väl, men kan vara knepig för vissa magar, så Blodsoppen är ett säkrare val.
 
 **Tumregel:** Mörkbrun sammetshatt + röda rör + röda prickar på foten = Blodsopp (Matsvamp!).

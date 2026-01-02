@@ -63,7 +63,6 @@ På grund av sin sällsynthet och giftighet bör den lämnas ifred i skogen.
 
 - [Falsk djävulssopp](/svampar/boletus_splendidus/) - blånar inte kraftigt på
   hattöversida efter beröring, giftig.
-- [Djävulssopp](/svampar/boletus_satanas/) - har en slätare, mer vitgrå hatt och
-  blånar inte lika intensivt på hattens yta.
-- [Blodsopp](/svampar/boletus_luridiformis/) - matsvamp med mörkbrun sammetslen
-  hatt och röda prickar på foten (saknar ådernät).
+- [Djävulssopp](/svampar/boletus_satanas/) - har en slätare, mer vitgrå hatt och blånar inte lika intensivt på hattens yta.
+- [Blodsopp](/svampar/boletus_luridiformis/) - matsvamp med mörkbrun sammetslen hatt och röda prickar på foten (saknar ådernät).
+- [Eldsopp](/svampar/suillellus_luridus/) - matsvamp (som tillagad), har olivbrun/gulbrun hatt, men blånar inte lika våldsamt på hatten.

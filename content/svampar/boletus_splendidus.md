@@ -19,3 +19,4 @@ gallery:
 
 - [Djävulssopp](/svampar/boletus_satanas/) - blånar inte kraftigt på hattöversida efter beröring, giftig.
 - [Purpursopp](/svampar/imperator_rhodopurpureus/) - också giftig, har hatt som blånar kraftigt vid beröring.
+- [Eldsopp](/svampar/suillellus_luridus/) - ätlig som tillagad, har olivbrun hatt och saknar den kryddiga lukten.
