@@ -33,3 +33,4 @@ Giftig. Orsakar illamående, kräkningar och diarré. Den bittra smaken gör att
 
 - **[Rökslöjskivling](/svampar/hypholoma_capnoides/):** Har rökgrå skivor (aldrig gröna) och smakar milt. Växer på barrved.
 - **[Vinterskivling](/svampar/flammulina_velutipes/):** Har vitt sporpulver och sammetsluden fot.
+- **[Gifthätting](/svampar/galerina_marginata/):** Dödligt giftig. Har bruna skivor (ej gröna), ring på foten och doftar mjöl.

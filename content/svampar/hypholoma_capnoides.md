@@ -35,7 +35,6 @@ En utmärkt matsvamp som tyvärr ofta glöms bort. Den passar perfekt i stuvning
 - **Tegelröd slöjskivling:** Har en tegelröd hatt och smakar också bittert.
 - **[Föränderlig tofsskivling](/svampar/pholiota_mutabilis/):** Växer också på stubbar men har bruna skivor och fjällig fot.
 - **[Gifthätting](/svampar/galerina_marginata/):** **Dödligt giftig.** Har bruna skivor, ring på foten och brunt sporpulver.
+- **[Vinterskivling](/svampar/flammulina_velutipes/):** Har sammetsluden fot och växer på vintern. God matsvamp.
 
 **Regel:** Smaka alltid på en liten bit av hatten om du är osäker. Rökslöjskivling är mild, de giftiga är bittra.
-
-- **[Vinterskivling](/svampar/flammulina_velutipes/):** Har sammetsluden fot och växer på vintern. God matsvamp.

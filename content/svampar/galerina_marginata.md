@@ -73,5 +73,7 @@ Det är mycket viktigt att känna igen gifthättingen om man plockar andra svamp
 - **[Rökslöjskivling](/svampar/hypholoma_capnoides/):** God matsvamp, som växer på barrstubbar.
   Rökslöjskivlingen har _gråa skivor_ -- aldrig bruna -- och saknar ring
   (har bara en ringzon eller rester av slöja).
+- **[Svavelgul slöjskivling](/svampar/hypholoma_fasciculare/):** Giftig stubbsvamp.
+  Har _gulgröna_ skivor och smakar mycket bittert.
 - **Honungsskivlingar (släktet Armillaria):** Honungsskivlingar är ofta större,
   växer i större klungor och har fjäll på hatten (gifthättingen har slät hatt).
