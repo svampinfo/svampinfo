@@ -11,6 +11,8 @@ image: "/images/amanita_citrina_f_alba_01.jpg"
 gallery:
   - url: "/images/amanita_citrina_f_alba_01.jpg"
     credit: "[The High Fin Sperm Whale](https://commons.wikimedia.org/wiki/User:The_High_Fin_Sperm_Whale), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
+  - url: "/images/amanita_citrina_f_alba_02.jpg"
+    credit: "[Hans-Martin Scheibner](https://commons.wikimedia.org/w/index.php?title=User:Hans-Martin_Scheibner&amp;action=edit&amp;redlink=1), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gelber_Knollenblätterpilz,_weiße_Variation_(Amanita_citrina)_var._alba.-hms(1).jpg)"
   - url: "https://www.artportalen.se/MediaLibrary/2023/7/3aa7f79a-dbad-4db7-b117-030eda62b20b_image.jpg"
     credit: "© Suvi Sivula, Helsingborg Artportalen"
   - url: "https://www.artportalen.se/MediaLibrary/2023/7/f4515d95-85b3-48b4-bb11-83ad3fb190d2_image.jpg"
