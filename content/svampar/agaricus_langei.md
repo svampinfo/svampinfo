@@ -36,4 +36,4 @@ Detta är en förstklassig matsvamp med fyllig smak. Den behåller sin fasthet b
 - **[Skogschampinjon](/svampar/agaricus_silvaticus/):** Mycket lik och växer i samma miljö. Skogschampinjonen rodnar också, men ofta något långsammare och inte lika intensivt mörkrött. Den är också ätlig, så förväxling är ofarlig.
 - **[Brun flugsvamp](/svampar/amanita_regalis/) & [Panterflugsvamp](/svampar/amanita_pantherina/):** Giftiga. Dessa har **vita skivor**, en strumpa/kant vid fotbasen och ljusa "prickar" (hyllerester) på hatten, inte mörka fjäll som champinjonen.
 
-* **[Pärlchampinjon](/svampar/agaricus_praeclaresquamosus/):** Gulnar vid skrapning och luktar illa (bläck).
+* **[Pärlchampinjon](/svampar/agaricus_moelleri/):** Gulnar vid skrapning och luktar illa (bläck).

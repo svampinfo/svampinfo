@@ -50,4 +50,4 @@ Tack vare sin storlek och de guldbruna fjällen är kungschampinjonen relativt l
 - **[Stolt fjällskivling](/svampar/macrolepiota_procera/):** Har också fjäll på hatten, men dessa är mörka mot en ljus botten. Foten är vattrad (ormskinnsmönstrad) och ringen är lös och går att skjuta upp och ner längs foten.
 - **Andra champinjoner:** Det finns andra bruna skogschampinjoner (t.ex. blodchampinjon), men dessa rodnar (blir röda) i köttet vid snitt, vilket kungschampinjonen inte gör (den gulnar snarare).
 
-* **[Pärlchampinjon](/svampar/agaricus_praeclaresquamosus/):** Mörkare, gråsvarta fjäll och gulnar kraftigt. Giftig.
+* **[Pärlchampinjon](/svampar/agaricus_moelleri/):** Mörkare, gråsvarta fjäll och gulnar kraftigt. Giftig.
