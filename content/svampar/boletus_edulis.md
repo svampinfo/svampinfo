@@ -35,10 +35,11 @@ En femstjärnig matsvamp. Den går att använda till allt: stuvning, soppa, sås
 
 ## Förväxlingsrisker
 
-- **Gallsopp:** Den viktigaste förväxlingen. Gallsoppen har **rosa** porer (som äldre), ett **mörkt** ådernät på foten och smakar vidrigt beskt. Smaka en liten bit på tungan och spotta ut – gallsopp smakar galla direkt.
-- **[Finluden stensopp](/svampar/boletus_reticulatus/):** Lika god. Har finluden hatt och växer med ek/bok.
-- **[Brunsopp](/svampar/boletus_badius/):** Blånar vid tryck, saknar ådernät. Mycket god.
+- **[Gallsopp](/svampar/tylopilus_felleus/):** Smakar beskt, har rosa porer och mörkt ådernät.
+  Förstör en hel maträtt om du råkar få med den!
 
-* **[Gallsopp](/svampar/tylopilus_felleus/):** Smakar beskt, har rosa porer och mörkt ådernät.
+* **[Finluden stensopp](/svampar/boletus_reticulatus/):** Lika god. Har finluden hatt och växer med ek/bok.
 
-* **[Rödbrun stensopp](/svampar/boletus_pinophilus/):** Mörkare rödbrun hatt, växer med tall. Lika god.
+* **[Brunsopp](/svampar/boletus_badius/):** Blånar vid tryck, saknar ådernät. Mycket god.
+
+- **[Rödbrun stensopp](/svampar/boletus_pinophilus/):** Mörkare rödbrun hatt, växer med tall. Lika god.
