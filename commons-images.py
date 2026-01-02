@@ -144,7 +144,7 @@ def get_commons_metadata(page_url: str) -> Optional[Dict[str, Any]]:
         "license": meta.get("LicenseShortName", {}).get("value", "Unknown"),
         "license_url": meta.get("LicenseUrl", {}).get("value", ""),
         "original_filename": filename,
-        "page_url": clean_page_url,
+        "page_url": clean_page_url.replace('"', "%22"),
     }
 
 
