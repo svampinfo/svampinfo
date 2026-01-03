@@ -7,6 +7,10 @@
   --yellow: #ffa473;
   --blue: #89b5be;
 
+  /* Layout widths */
+  --main-width: 900px;
+  --nav-width: 1000px;
+
   /* Light mode defaults */
   --card-bg: #fff;
   --text-main: #333;
