@@ -35,7 +35,7 @@ Förr rekommenderades avkokning (att koka svampen i rikligt med vatten i två om
 
 ## Förväxlingsrisker
 
-- **[Toppmurkla](/svampar/morchella_elata/):** Också en vårsvamp, men en säker och god matsvamp. Toppmurklan har en hatt med **gropar** (som en bikaka eller tvättsvamp), inte veckade vindlingar som stenmurklan.
+- **[Toppmurkla](/svampar/morchella_conica/):** Också en vårsvamp, men en säker och god matsvamp. Toppmurklan har en hatt med **gropar** (som en bikaka eller tvättsvamp), inte veckade vindlingar som stenmurklan.
 - **Biskopsmössa:** Växer på hösten.
 
 * **[Rund toppmurkla](/svampar/morchella_esculenta/):** Har gropar (bikakemönster) på hatten, inte veck.

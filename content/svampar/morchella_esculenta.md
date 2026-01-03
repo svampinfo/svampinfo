@@ -34,5 +34,5 @@ En fantastisk matsvamp som används på samma sätt som toppmurklan. Den ska til
 
 ## Förväxlingsrisker
 
-- **[Toppmurkla](/svampar/morchella_elata/):** Har en mer spetsig, mörkare hatt med mer regelbundna, längsgående åsar.
+- **[Toppmurkla](/svampar/morchella_conica/):** Har en mer spetsig, mörkare hatt med mer regelbundna, längsgående åsar.
 - **[Stenmurkla](/svampar/gyromitra_esculenta/):** **Giftig.** Har veckad hjärnlik yta, inte gropar.

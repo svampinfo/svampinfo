@@ -1,9 +1,9 @@
 ---
 title: "Toppmurkla"
-scientificName: "Morchella elata"
+scientificName: "Morchella conica"
 wikidata: "Q1327882"
 artfakta: "5079"
-slug: "morchella_elata"
+slug: "morchella_conica"
 edible: true
 poisonous: 0
 rating: 4
@@ -31,12 +31,15 @@ Växer på våren och försommaren (maj-juni). Man hittar den ofta på brandfäl
 
 ## Matvärde
 
-En delikatess som anses vara en av världens bästa matsvampar. Den ska dock inte ätas rå utan kräver ordentlig tillagning (stekning eller kokning). Många tycker att smaken blir ännu intensivare om man torkar svampen först och sedan blötlägger den före tillagning.
+En delikatess som anses vara en av världens bästa matsvampar.
+Den ska dock inte ätas rå utan kräver ordentlig tillagning (stekning eller kokning).
+Många tycker att smaken blir ännu intensivare om man torkar svampen först och sedan blötlägger den före tillagning.
 
 ## Förväxlingsrisker
 
 - **[Stenmurkla](/svampar/gyromitra_esculenta/):** _Mycket giftig._ Stenmurklan har en hatt som ser ut som en brun, veckad **hjärna**, medan toppmurklan har tydliga **gropar/fack** (bikakemönster).
-- **[Rund toppmurkla](/svampar/morchella_esculenta/):** Har en rundare hatt och ofta ljusare, gulbrun färg. Lika god matsvamp.
-- **Klockmurkla:** Hatten sitter bara fast i fotens absoluta topp och hänger lös som en klocka. Oätlig/oaptitlig.
 
 * **[Toppstenmurkla](/svampar/gyromitra_ambigua/):** Mer oregelbundet "hjärnlik" hatt. Giftig.
+
+- **[Rund toppmurkla](/svampar/morchella_esculenta/):** Har en rundare hatt och ofta ljusare, gulbrun färg. Lika god matsvamp.
+- **Klockmurkla:** Hatten sitter bara fast i fotens absoluta topp och hänger lös som en klocka. Oätlig/oaptitlig.

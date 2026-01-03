@@ -30,4 +30,4 @@ Innehåller samma gift (**gyromitrin**) som stenmurklan och ska betraktas som gi
 ## Förväxlingsrisker
 
 - **[Stenmurkla](/svampar/gyromitra_esculenta/):** Mer rundad, hjärnlik hatt.
-- **[Toppmurkla](/svampar/morchella_elata/):** Har bikakemönster (gropar), inte veckad hatt. Ätlig efter tillagning.
+- **[Toppmurkla](/svampar/morchella_conica/):** Har bikakemönster (gropar), inte veckad hatt. Ätlig efter tillagning.
