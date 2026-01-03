@@ -11,7 +11,25 @@ summary: "En vacker lila svamp som dyker upp sent på hösten. Känd för sin in
 image: "/images/lepista_nuda_01.jpg"
 gallery:
   - url: "/images/lepista_nuda_01.jpg"
-    credit: "[Jimmie Veitch (jimmiev)](https://mushroomobserver.org/observer/show_user/1980) at [Mushroom Observer](https://mushroomobserver.org), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
+    credit: "[Jimmie Veitch](https://mushroomobserver.org/observer/show_user/1980) at [Mushroom Observer](https://mushroomobserver.org), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
+  - url: "/images/lepista_nuda_02.jpg"
+    credit: "[Jörg Hempel](https://commons.wikimedia.org/wiki/User:LC-de), [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lepista_nuda_LC0372.jpg)"
+  - url: "/images/lepista_nuda_03.jpg"
+    credit: "[Hulle](https://commons.wikimedia.org/w/index.php?title=User:Hulle&amp;action=edit&amp;redlink=1), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Violetter_Rötelritterling.jpg)"
+  - url: "/images/lepista_nuda_04.jpg"
+    credit: "[Jerzy Opioła](https://commons.wikimedia.org/wiki/User:Selso), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lepista_nuda_G3.jpg)"
+  - url: "/images/lepista_nuda_05.jpg"
+    credit: "Horst74, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LupenyCF.jpg)"
+  - url: "/images/lepista_nuda_06.jpg"
+    credit: "Jerzy Opioła, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lepista_nuda_a1.jpg)"
+  - url: "/images/lepista_nuda_07.jpg"
+    credit: "[John Carl Jacobs](https://mushroomobserver.org/observer/show_user/1376), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lepista_nuda_60878.jpg)"
+  - url: "/images/lepista_nuda_08.jpg"
+    credit: "[John Carl Jacobs](https://mushroomobserver.org/observer/show_user/1376), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lepista_nuda_60878.jpg)"
+  - url: "/images/lepista_nuda_09.jpg"
+    credit: "[John Carl Jacobs](https://mushroomobserver.org/observer/show_user/1376), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lepista_nuda_60878.jpg)"
+  - url: "/images/lepista_nuda_10.jpg"
+    credit: "[00Amanita00](https://commons.wikimedia.org/wiki/User:00Amanita00), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lepista.nuda.001.jpg)"
 ---
 
 > En vacker lila svamp som dyker upp sent på hösten. Känd för sin intensiva doft och speciella smak.
