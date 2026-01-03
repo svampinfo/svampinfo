@@ -36,3 +36,4 @@ En förstklassig matsvamp som kan stekas direkt.
 
 - **[Tallblodriska](/svampar/lactarius_deliciosus/):** Blöder orange saft.
 - **[Granblodriska](/svampar/lactarius_deterrimus/):** Blöder orange saft och växer med gran.
+- **[Grönfläckig vinriska](/svampar/lactarius_semisanguifluus/):** Saften är först orange och blir sedan vinröd.

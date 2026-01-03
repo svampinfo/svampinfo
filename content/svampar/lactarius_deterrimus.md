@@ -38,3 +38,4 @@ En mycket god matsvamp som kan stekas direkt utan förvällning. Vissa anser den
 - **[Skogsriska](/svampar/lactarius_trivialis/):** Har vit saft och kräver avkokning.
 
 * **[Vinriska](/svampar/lactarius_sanguifluus/):** Blöder en mörkröd vinliknande saft direkt.
+- **[Grönfläckig vinriska](/svampar/lactarius_semisanguifluus/):** Liknar granblodriska men växer oftast med tall på kalkrik mark och saften blir vinröd efter en stund.

@@ -53,6 +53,8 @@ behöver **inte** kokas av. Den kan stekas direkt i panna. Smaken är kryddig oc
 
 - **[Vinriska](/svampar/lactarius_sanguifluus/):** Har vinröd saft. Också god.
 
+- **[Grönfläckig vinriska](/svampar/lactarius_semisanguifluus/):** Saften skiftar från orange till vinrött efter en stund. Hatten ofta starkt grönfläckig.
+
 * **[Skäggriska](/svampar/lactarius_torminosus/):** Har en liknande rosa/orange färgton men känns igen på sin "skäggiga" hattkant och att saften är vit (inte orange).
 
 - **Giftiga riskor:** Har vit saft. Blodriskor (med orange/röd saft) är aldrig giftiga i Sverige.

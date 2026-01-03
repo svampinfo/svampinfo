@@ -31,4 +31,7 @@ God matsvamp som steks direkt.
 
 ## Förväxlingsrisker
 
+- **[Tallblodriska](/svampar/lactarius_deliciosus/):** Har orange saft som inte ändrar färg lika tydligt och har gropar på foten. Växer med tall.
+- **[Granblodriska](/svampar/lactarius_deterrimus/):** Har orange saft som blir vinröd/grön, men växer med gran och saknar gropar på foten.
+- **[Vinriska](/svampar/lactarius_sanguifluus/):** Har mörkt vinröd saft direkt vid brytning (inte orange först).
 - **Andra blodriskor:** Alla riskor med orange/röd saft är ätliga.
