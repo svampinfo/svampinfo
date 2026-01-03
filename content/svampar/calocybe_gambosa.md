@@ -6,8 +6,8 @@ artfakta: "3191"
 slug: "calocybe_gambosa"
 edible: true
 poisonous: 0
-rating: 3
-summary: 'En vacker vår-försommarsvamp som bildar "häxringar" i feta gräsmattor, gärna på lite kalkrikare mark.'
+rating: 4
+summary: "En av vårens delikatesser. Denna kraftiga, köttiga musseron känns igen på sin tydliga mjöldoft och att den ofta växer i stora häxringar i kalkrika gräsmarker."
 image: "/images/calocybe_gambosa_01.jpg"
 gallery:
   - url: "/images/calocybe_gambosa_01.jpg"
@@ -32,41 +32,34 @@ gallery:
     credit: "Cooke, M. C.; Cooke, Mordecai Cubitt, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Illustrations_of_British_Fungi_(Hymenomycetes),_to_serve_as_an_atlas_to_the_%22Handbook_of_British_Fungi%22_(Pl._103)_(8163903849).jpg)"
 ---
 
-> En vacker vår-försommarsvamp som bildar "häxringar" i feta gräsmattor, gärna på lite kalkrikare mark.
+> En av vårens delikatesser. Denna kraftiga, köttiga musseron känns igen på sin tydliga mjöldoft och att den ofta växer i stora häxringar i kalkrika gräsmarker.
 
 ## Beskrivning
 
-- **Hatt:** matt, gräddvit, ibland med rosa eller gulbrun ton.
-- **Skivor:** vita, urnupna och ganska täta.
-- **Fot:** vit, kraftig.
-- **Svampkött:** vitt, med stark doft av mjöl.
-- **Fruktkroppar:** kraftiga och ger ett kompakt intryck.
+- **Hatt:** 5–12 cm bred, köttig och kompakt. Matt yta, gräddvit till ljust lädergul. Kanten är länge inrullad.
+- **Skivor:** Vita, mycket täta och urnupna vid fästet mot foten.
+- **Fot:** Vit, kraftig, kompakt och ofta något utvidgad mot basen.
+- **Svampkött:** Vitt, fast och tjockt.
+- **Doft & Smak:** Mycket karaktäristisk och genomträngande doft av färskt mjöl eller gurka.
 
-Växer i parker, beteshagar, trädgårdar, strandängar och lövskog i södra och mellersta Sverige.
-Vårmusseronen föredrar kalkrikare marker och har sin växtperiod under maj-juni,
-men kan ibland påträffas under hösten.
+Växer främst i södra och mellersta Sverige på kalkrik mark. Den påträffas ofta i häxringar eller rader i gräsmarker som parker, beteshagar, kyrkogårdar och skogsbryn.
+Huvudsäsongen är maj–juni, men vid gynnsamt väder kan den sällsynt återkomma på hösten.
 
-En bra matsvamp men åsikterna om smaken går isär, den är ganska kraftig och dominerar gärna i en anrättning.
-Eftersom vårmusseronen kommer tidigt på svampsäsongen är den en välkommen
-och uppskattad matsvamp som många svampplockare söker efter, tyvärr är den ofta larvangripen.
+## Som matsvamp
 
-Går bra att torka eller frysa in efter förkokning.
+En utmärkt matsvamp med fast konsistens. Den starka mjöldoften dämpas vid tillagning, men svampen har fortfarande en mycket distinkt och fyllig smak som lätt dominerar en anrättning. Tyvärr är den ofta larvangripen, varför unga exemplar bör prioriteras.
+
+Passar utmärkt att steka, torka eller frysa in efter förvällning.
 
 ## Förväxlingssvampar
 
-Det finns flera arter som kan förväxlas med vårmusseronen,
-några av dem är giftiga -- och dessutom väldigt lika --
-var därför noggrann när du identifierar den.
-Något som är tacksamt med just vårmusseronen är att många förväxlingssvampar
-inte växer under samma årstid.
+Det är väldigt viktigt att hålla koll på årstiden när man identifierar Vårmusseronen,
+då många svampar är väldigt lik den, men inte växer under samma tid på året.
+Så länge man håller koll på det, blir svampen en ganska tacksam svamp att hålla ett öga på.
+Det finns nämligen inte så många goda svampar som växer på våren, och just då är denna relativt säker.
 
-- Sommarmusseron - är spensligare byggd, har en puckel på hatten och en smalare och längre fot.
-- **[Gifttråding](/svampar/inocybe_erubescens/)** Har klockformad hatt, rodnar vid beröring, brunt sporpulver, giftig.
-  Växer under **högsommaren** (juni--augusti).
-- **[Bolmörtsskivling](/svampar/entoloma_sinuatum/)** är en giftsvamp som kan likna vårmusseronen väldigt mycket,
-  skiljer sig bl a genom att ha en mer gulvit till gråaktig hattfärg och rosa sporpulver.
-  Den växer under **sensommaren/hösten**, runt augusti--oktober.
-- **[Vit flugsvamp](/svampar/amanita_virosa/):** Har ring och strumpa. Dödligt giftig.
-  Växer på **hösten**.
-- **[Vårrödskivling](/svampar/entoloma_vernum/):** Har brun/grå hatt och saknar mjöldoft.
-  Giftig. Växer på **våren**
+- **[Vårrödskivling](/svampar/entoloma_vernum/):** Växer samtidigt på **våren** men är spensligare, har gråbrun hatt och saknar mjöldoft. _Giftig._
+- **[Gifttråding](/svampar/inocybe_erubescens/):** Växer under **högsommaren** (juni–augusti). Hatten rodnar vid beröring och är mer klockformad. _Mycket giftig._
+- **[Bolmörtsskivling](/svampar/entoloma_sinuatum/):** Växer under **sensommar/höst**. Har rosa sporpulver/skivor som äldre och en mer unken doft. _Mycket giftig._
+- **Sommarmusseron:** Är spensligare byggd med en liten puckel på hatten och saknar den tydliga, friska mjöldoften. _Oätlig._
+- **[Vit flugsvamp](/svampar/amanita_virosa/):** Växer i skog under **hösten**, har ring på foten och en strumpa vid basen. _Dödligt giftig._
