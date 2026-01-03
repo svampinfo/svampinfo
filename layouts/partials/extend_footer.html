@@ -1,0 +1,18 @@
+<script>
+  // Automatically switch theme when system preference changes
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
+      // If the theme toggle is enabled and the user has overridden the theme, do nothing.
+      {{ if not site.Params.disableThemeToggle }}
+      if (localStorage.getItem("pref-theme")) return;
+      {{ end }}
+
+      // If no default theme is enforced, follow the system
+      {{ if (and (ne site.Params.defaultTheme "light") (ne site.Params.defaultTheme "dark")) }}
+      if (e.matches) {
+          document.body.classList.add('dark');
+      } else {
+          document.body.classList.remove('dark');
+      }
+      {{ end }}
+  });
+</script>
