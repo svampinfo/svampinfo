@@ -1,8 +1,8 @@
 ---
 title: "Höstmusseron"
 scientificName: "Lepista saeva"
-wikidata: "Q1824952"
-artfakta: "236563"
+wikidata: "Q25379773"
+artfakta: "236564"
 slug: "lepista_personata"
 edible: true
 poisonous: 0
