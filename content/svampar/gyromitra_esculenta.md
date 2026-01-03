@@ -11,6 +11,18 @@ image: "/images/gyromitra_esculenta_01.jpg"
 gallery:
   - url: "/images/gyromitra_esculenta_01.jpg"
     credit: "[ChristianSW](https://commons.wikimedia.org/wiki/User:ChristianSW), [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en), via Wikimedia Commons"
+  - url: "/images/gyromitra_esculenta_02.jpg"
+    credit: "Unknown, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Frühjahrslorchel.JPG)"
+  - url: "/images/gyromitra_esculenta_03.jpg"
+    credit: "[Jason Hollinger](https://www.flickr.com/people/7147684@N03), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:False_Morel.jpg)"
+  - url: "/images/gyromitra_esculenta_04.jpg"
+    credit: "[Kruczy89](https://commons.wikimedia.org/wiki/User:Kruczy89), [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gyromitra_esculenta01.jpg)"
+  - url: "/images/gyromitra_esculenta_05.jpg"
+    credit: "[Аимаина хикари](https://commons.wikimedia.org/wiki/User:%D0%90%D0%B8%D0%BC%D0%B0%D0%B8%D0%BD%D0%B0_%D1%85%D0%B8%D0%BA%D0%B0%D1%80%D0%B8), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gyromitra_esculenta.jpg)"
+  - url: "/images/gyromitra_esculenta_06.jpg"
+    credit: "[Albin Schmalfuß](https://www.wikidata.org/wiki/Q2639623), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Frühjahrslorchel-1.jpg)"
+  - url: "/images/gyromitra_esculenta_07.png"
+    credit: "[Giacomo Bresadola](https://commons.wikimedia.org/wiki/Giacomo_Bresadola), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bresadola_-_Gyromitra_esculenta.png)"
 ---
 
 > En klassisk vårsvamp som ser ut som en hjärna. Tidigare en delikatess, nu klassad som giftig och olämplig som matsvamp.
