@@ -1,5 +1,5 @@
 ---
-title: "Stensopp / Karljohan"
+title: "Karljohan / Stensopp"
 scientificName: "Boletus edulis"
 wikidata: "Q19740"
 artfakta: "3126"
@@ -8,10 +8,34 @@ edible: true
 poisonous: 0
 rating: 5
 summary: "En av Sveriges populäraste matsvamp. En stor, fast sopp med nötaktig smak och vitt ådernät på foten."
-image: "/images/boletus_edulis_01.jpg"
+image: "/images/boletus_edulis_02.jpg"
 gallery:
-  - url: "/images/boletus_edulis_01.jpg"
-    credit: "Ak ccm, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
+  - url: "/images/boletus_edulis_02.jpg"
+    credit: "[Holger Krisp](https://commons.wikimedia.org/wiki/User:Holleday), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:(Gemeine_Steinpilz)_Boletus_edulis.jpg)"
+  - url: "/images/boletus_edulis_03.jpg"
+    credit: "[Bernie](https://commons.wikimedia.org/wiki/User:Wilder_Kaiser), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AD2009Sep13_Boletus_edulis_01.jpg)"
+  - url: "/images/boletus_edulis_04.jpg"
+    credit: "[Andreas Eichler](https://commons.wikimedia.org/wiki/User:Hockei), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2017.07.15.-14-Wochowsee-Storkow_(Mark)--Fichten-Steinpilz.jpg)"
+  - url: "/images/boletus_edulis_05.jpg"
+    credit: "[Andreas Eichler](https://commons.wikimedia.org/wiki/User:Hockei), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2017.07.15.-12-Wochowsee-Storkow_(Mark)--Fichten-Steinpilz.jpg)"
+  - url: "/images/boletus_edulis_06.jpg"
+    credit: "Jerzy Opioła, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Boletus_edulis_B1.jpg)"
+  - url: "/images/boletus_edulis_07.jpg"
+    credit: "[Strobilomyces](https://commons.wikimedia.org/wiki/User:Strobilomyces), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Boletus_edulis_EtgHollande_041031_091.jpg)"
+  - url: "/images/boletus_edulis_08.jpg"
+    credit: "[Ernie](https://commons.wikimedia.org/wiki/User:Wilder_Kaiser), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AD2009Sep13_Boletus_edulis_04.jpg)"
+  - url: "/images/boletus_edulis_09.jpg"
+    credit: "[Bernie](https://commons.wikimedia.org/wiki/User:Wilder_Kaiser), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AD2009Sep13_Boletus_edulis_05.jpg)"
+  - url: "/images/boletus_edulis_10.jpg"
+    credit: "[Bernie](https://commons.wikimedia.org/wiki/User:Wilder_Kaiser), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AD2009Sep13_Boletus_edulis_06.jpg)"
+  - url: "/images/boletus_edulis_11.jpg"
+    credit: "[Alinja](https://commons.wikimedia.org/w/index.php?title=User:Alinja&amp;action=edit&amp;redlink=1), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Boletus_edulis_herkkutatti_halki.jpg)"
+  - url: "/images/boletus_edulis_12.jpg"
+    credit: "[Rob Hille](https://commons.wikimedia.org/wiki/User:Rob_Hille), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Boletus_edulis_R.H._(4).jpg)"
+  - url: "/images/boletus_edulis_13.jpg"
+    credit: "Dufour, L., Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_vénéneux_(Planche_55)_(6358026439).jpg)"
+  - url: "/images/boletus_edulis_14.jpg"
+    credit: "[Albin Schmalfuß](https://www.wikidata.org/wiki/Q2639623), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Steinpilz-1.jpg)"
 ---
 
 > En av Sveriges populäraste matsvamp. En stor, fast sopp med nötaktig smak och vitt ådernät på foten.
