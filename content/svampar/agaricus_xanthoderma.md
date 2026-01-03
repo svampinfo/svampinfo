@@ -1,7 +1,7 @@
 ---
 title: "Giftchampinjon"
 scientificName: "Agaricus xanthoderma"
-wikidata: "Q80984330"
+wikidata: "Q1349044"
 artfakta: "2947"
 slug: "agaricus_xanthoderma"
 edible: false
@@ -11,6 +11,22 @@ image: "/images/agaricus_xanthoderma_01.jpg"
 gallery:
   - url: "/images/agaricus_xanthoderma_01.jpg"
     credit: "[Velella](https://commons.wikimedia.org/wiki/User:Velella), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
+  - url: "/images/agaricus_xanthoderma_02.jpg"
+    credit: "[Lord Mayonnaise](https://mushroomobserver.org/observer/show_user/1864), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2010-11-13_Agaricus_xanthodermus_Genev_120348.jpg)"
+  - url: "/images/agaricus_xanthoderma_03.jpg"
+    credit: "[Byrain](https://mushroomobserver.org/observer/show_user/%7B%7B%7B1%7D%7D%7D), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2011-10-13_Agaricus_xanthodermus_Genev_181971.jpg)"
+  - url: "/images/agaricus_xanthoderma_04.jpg"
+    credit: "[Byrain](https://mushroomobserver.org/observer/show_user/%7B%7B%7B1%7D%7D%7D), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2011-10-13_Agaricus_xanthodermus_Genev_181972.jpg)"
+  - url: "/images/agaricus_xanthoderma_05.jpg"
+    credit: "Unknown, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agaricus_xanthoderma.jpg)"
+  - url: "/images/agaricus_xanthoderma_06.jpg"
+    credit: "[Fornax](https://de.wikipedia.org/wiki/user:Fornax), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agaricus_xanthoderma_eF.jpg)"
+  - url: "/images/agaricus_xanthoderma_07.jpg"
+    credit: "Unknown, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agaric_xanthodermus1.jpg)"
+  - url: "/images/agaricus_xanthoderma_08.jpg"
+    credit: "[frankenstoen](https://www.flickr.com/photos/48016763@N00), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yellow_staining_mushroom.jpg)"
+  - url: "/images/agaricus_xanthoderma_09.jpg"
+    credit: "Dumée, Paul., Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nouvel_atlas_de_poche_des_champignons_comestibles_et_vénéneux_(Pl._41)_(6459642223).jpg)"
 ---
 
 Giftchampinjonen är den art som förstör ryktet för champinjonerna. Den orsakar många förgiftningsfall varje år eftersom den är så lik de ätliga arterna.
