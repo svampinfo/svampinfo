@@ -8,10 +8,24 @@ edible: true
 poisonous: 0
 rating: 4
 summary: "En utmärkt matsvamp som liknar snöbollschampinjonen men har en tydligt avsatt 'knöl' vid fotbasen."
-image: "/images/agaricus_sylvicola_01.jpg"
+image: "/images/agaricus_sylvicola_06.jpg"
 gallery:
+  - url: "/images/agaricus_sylvicola_06.jpg"
+    credit: "[Richard Daniel](https://mushroomobserver.org/observer/show_user/236), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agaricus_sylvicola_1255906.jpg)"
   - url: "/images/agaricus_sylvicola_01.jpg"
-    credit: ""
+    credit: "[Luridiformis](https://en.wikipedia.org/wiki/User:Luridiformis), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agaricus_silvicola_father_and_son.jpg)"
+  - url: "/images/agaricus_sylvicola_02.jpg"
+    credit: "[Holger Krisp](https://commons.wikimedia.org/wiki/User:Holleday), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anis-champignon-Agaricus-silvicola.jpg)"
+  - url: "/images/agaricus_sylvicola_03.jpg"
+    credit: "[Jerzy Opioła](https://commons.wikimedia.org/wiki/User:Selso), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agaricus_sylvicola_G4_(4).JPG)"
+  - url: "/images/agaricus_sylvicola_04.jpg"
+    credit: "[Jerzy Opioła](https://commons.wikimedia.org/wiki/User:Selso), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agaricus_sylvicola_G4_(1).JPG)"
+  - url: "/images/agaricus_sylvicola_05.jpg"
+    credit: "[Johann Harnisch](https://mushroomobserver.org/observer/show_user/550), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agaricus_silvicola_section.jpg)"
+  - url: "/images/agaricus_sylvicola_07.jpg"
+    credit: "Cooke, M. C.; Cooke, Mordecai Cubitt, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Illustrations_of_British_Fungi_(Hymenomycetes),_to_serve_as_an_atlas_to_the_%22Handbook_of_British_Fungi%22_(Pl._547)_(9015250385).jpg)"
+  - url: "/images/agaricus_sylvicola_08.jpg"
+    credit: "[Internet Archive Book Images](https://www.flickr.com/people/126377022@N07), [No restrictions](https://www.flickr.com/commons/usage/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Annual_report_of_the_Regents%22_(1890-1903)_(19180259700).jpg)"
 ---
 
 Knölchampinjonen är en elegant, vit champinjon som ofta hittas i barrskogen. Den är nära släkt med snöbollschampinjonen.
