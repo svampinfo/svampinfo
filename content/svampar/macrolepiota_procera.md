@@ -13,7 +13,7 @@ gallery:
   - url: "/images/macrolepiota_procera_01.jpg"
     credit: "[Holger Krisp](https://commons.wikimedia.org/wiki/User:Holleday), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parasol-Macrolepiota-procera.jpg)"
   - url: "/images/macrolepiota_procera_02.jpg"
-    credit: "[Chrumps](https://commons.wikimedia.org/wiki/User:Chrumps), [CC BY 4.0](https://creativecommons.org/licenses/by 4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Macrolepiota-procera.jpg)"
+    credit: "[Chrumps](https://commons.wikimedia.org/wiki/User:Chrumps), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Macrolepiota-procera.jpg)"
   - url: "/images/macrolepiota_procera_03.jpg"
     credit: "[Morgan Owen](https://commons.wikimedia.org/wiki/User:Lloergi), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Glawlen_y_Bwgan_(Macrolepiota_procera).jpg)"
 ---

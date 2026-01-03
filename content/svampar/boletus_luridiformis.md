@@ -40,3 +40,17 @@ Det finns några få giftiga soppar med röda rör, men de är sällsynta och se
 - **[Eldsopp](/svampar/suillellus_luridus/):** Har rött **ådernät** på foten (Blodsopp har röda prickar). Går att äta om den tillagas väl, men kan vara knepig för vissa magar, så Blodsoppen är ett säkrare val.
 
 **Tumregel:** Mörkbrun sammetshatt + röda rör + röda prickar på foten = Blodsopp (Matsvamp!).
+
+https://commons.wikimedia.org/wiki/File:Boletus_erythropus_01.jpg#/media/File:Boletus_erythropus_01.jpg
+https://commons.wikimedia.org/wiki/File:Boletus_erythropus_1.JPG#/media/File:Boletus_erythropus_1.JPG
+https://commons.wikimedia.org/wiki/File:Boletus_erythropus_BG1.jpg#/media/File:Boletus_erythropus_BG1.jpg
+https://commons.wikimedia.org/wiki/File:Boletus_luridiformis_G4.jpg#/media/File:Boletus_luridiformis_G4.jpg
+https://commons.wikimedia.org/wiki/File:Flockenstielige_Hexenr%C3%B6hrling.jpg#/media/File:Flockenstielige_Hexenr%C3%B6hrling.jpg
+https://commons.wikimedia.org/wiki/File:Boletus_erythropus_2010_G1.jpg#/media/File:Boletus_erythropus_2010_G1.jpg
+https://commons.wikimedia.org/wiki/File:Neoboletus_luridiformis_LC0087.jpg#/media/File:Neoboletus_luridiformis_LC0087.jpg
+https://commons.wikimedia.org/wiki/File:Boletus_erythropus1.jpg#/media/File:Boletus_erythropus1.jpg
+https://commons.wikimedia.org/wiki/File:BoletusErythropus.jpg#/media/File:BoletusErythropus.jpg
+https://commons.wikimedia.org/wiki/File:2011-07-31_Boletus_erythropus_tubes.jpg#/media/File:2011-07-31_Boletus_erythropus_tubes.jpg
+https://commons.wikimedia.org/wiki/File:Icones_Farlowianae_(Pl._85)_(8488403567).jpg#/media/File:Icones_Farlowianae_(Pl._85)_(8488403567).jpg
+https://commons.wikimedia.org/wiki/File:Bresadola_-_Boletus_Erythropus.png#/media/File:Bresadola_-_Boletus_Erythropus.png
+https://commons.wikimedia.org/wiki/File:Pilze_d._Heimat,_T._14_-_Boletus_luridus.jpg#/media/File:Pilze_d._Heimat,_T._14_-_Boletus_luridus.jpg

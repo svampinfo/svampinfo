@@ -11,7 +11,7 @@ summary: "En variant av sillkremlan som växer med ek. Doftar skaldjur och smaka
 image: "/images/russula_graveolens_01.jpg"
 gallery:
   - url: "/images/russula_graveolens_01.jpg"
-    credit: "[zaca](https://mushroomobserver.org/observer/show_user/2250) at [Mushroom Observer](https://mushroomobserver.org), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
+    credit: "[zaca](https://mushroomobserver.org/observer/show_user/2250) at [Mushroom Observer](https://mushroomobserver.org), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2011-05-19_Russula_graveolens_Romell_146803.jpg)"
 ---
 
 > En variant av sillkremlan som växer med ek. Doftar skaldjur och smakar fantastiskt.
@@ -37,3 +37,12 @@ En delikatess! Skaldjursdoften övergår i en mild och fin smak vid tillagning.
 
 - **[Sillkremla](/svampar/russula_xerampelina/):** Växer i barrskog och är mer glänsande röd/grön. Lika god.
 - **[Brokkremla](/svampar/russula_cyanoxantha/):** Har elastiska skivor och saknar silldoft.
+
+https://commons.wikimedia.org/wiki/File:2011-05-19_Russula_graveolens_Romell_146804.jpg#/media/File:2011-05-19_Russula_graveolens_Romell_146804.jpg
+https://commons.wikimedia.org/wiki/File:2011-05-19_Russula_graveolens_Romell_146805.jpg#/media/File:2011-05-19_Russula_graveolens_Romell_146805.jpg
+https://commons.wikimedia.org/wiki/File:Russula_graveolens_1292222.jpg#/media/File:Russula_graveolens_1292222.jpg
+https://commons.wikimedia.org/wiki/File:Russula_graveolens_331471301.jpg#/media/File:Russula_graveolens_331471301.jpg
+https://commons.wikimedia.org/wiki/File:Russula_graveolens_331472310.jpg#/media/File:Russula_graveolens_331472310.jpg
+https://commons.wikimedia.org/wiki/File:Russula_graveolens_331476487.jpg#/media/File:Russula_graveolens_331476487.jpg
+https://commons.wikimedia.org/wiki/File:Russula_graveolens.jpg#/media/File:Russula_graveolens.jpg
+https://commons.wikimedia.org/wiki/File:Russula_purpurea-Cooke.jpg#/media/File:Russula_purpurea-Cooke.jpg

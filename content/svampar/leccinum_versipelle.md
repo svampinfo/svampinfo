@@ -34,5 +34,9 @@ Tegelsoppen är fastare i köttet än den vanliga björksoppen och därför en b
 
 - **[Aspsopp](/svampar/leccinum_rufum/):** Har vita/bruna tofsar på foten (inte svarta) och växer med asp.
 - **[Tallsopp](/svampar/leccinum_vulpinum/):** Växer med tall.
+- **[Björksopp](/svampar/leccinum_scabrum/):** Brun hatt, köttet svartnar inte.
 
-* **[Björksopp](/svampar/leccinum_scabrum/):** Brun hatt, köttet svartnar inte.
+https://commons.wikimedia.org/wiki/File:2006-09-02_Leccinum_versipelle.jpg#/media/File:2006-09-02_Leccinum_versipelle.jpg
+https://commons.wikimedia.org/wiki/File:Birkenrotkappe,_Heidenrotkappe_-_Ko%C5%BAlarz_pomara%C5%84czowy,_ko%C5%BAlarz_pomara%C5%84czowo%C5%BC%C3%B3%C5%82ty_-_Leccinum_versipelle.jpg#/media/File:Birkenrotkappe,_Heidenrotkappe_-_Ko%C5%BAlarz_pomara%C5%84czowy,_ko%C5%BAlarz_pomara%C5%84czowo%C5%BC%C3%B3%C5%82ty_-_Leccinum_versipelle.jpg
+https://commons.wikimedia.org/wiki/File:Leccinum_auraniacum_P3.2.jpg#/media/File:Leccinum_auraniacum_P3.2.jpg
+https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_(Planche_58)_(6358027377).jpg#/media/File:Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_(Planche_58)_(6358027377).jpg

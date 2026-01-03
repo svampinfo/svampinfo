@@ -36,3 +36,16 @@ Detta kan hända första gången man äter den, eller efter att man ätit den i 
 ## Förväxlingsrisker
 
 - **Riskor:** Vissa riskor kan likna pluggskivling (brun hatt, inrullad kant), men riskor blöder alltid mjölksaft. Pluggskivlingen har ingen saft.
+
+https://commons.wikimedia.org/wiki/File:Paxillus_involutus_20061015w.jpg
+https://commons.wikimedia.org/wiki/Paxillus_involutus#/media/File:Paxillus_involutus_G3.JPG
+https://commons.wikimedia.org/wiki/Paxillus_involutus#/media/File:Paxillus_involutus_(Kahler_Krempling)_-_Vorderansicht.jpg
+https://commons.wikimedia.org/wiki/Paxillus_involutus#/media/File:Paxillus_involutus_(Kahler_Krempling)_-_Seitenansicht.jpg
+https://commons.wikimedia.org/wiki/Paxillus_involutus#/media/File:Paxillus_involutus_(Kahler_Krempling)_-_Draufsicht.jpg
+https://commons.wikimedia.org/wiki/Paxillus_involutus#/media/File:Pilkoji_meskute.jpg
+https://commons.wikimedia.org/wiki/Paxillus_involutus#/media/File:Paxillus_involutus_112874.jpg
+https://commons.wikimedia.org/wiki/Paxillus_involutus#/media/File:Paxillus_involutus_119524.jpg
+https://commons.wikimedia.org/wiki/Paxillus_involutus#/media/File:2009-10-31_Paxillus_involutus_(Batsch)_Fr_62959.jpg
+https://commons.wikimedia.org/wiki/Paxillus_involutus#/media/File:Paxillus_involutus_112885.jpg
+https://commons.wikimedia.org/wiki/Paxillus_involutus#/media/File:Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._56.jpg
+https://commons.wikimedia.org/wiki/Paxillus_involutus#/media/File:Paxillus-involutus-gramberg-1913-pilzederheimatei00gram_0025.jpg

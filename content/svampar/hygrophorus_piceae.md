@@ -12,6 +12,12 @@ image: "/images/hygrophorus_piceae_01.jpg"
 gallery:
   - url: "/images/hygrophorus_piceae_01.jpg"
     credit: "[Svencapoeira](https://commons.wikimedia.org/wiki/User:Svencapoeira), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
+  - url: "https://assets.artdatabanken.se/image/_5/55705_4422_5.jpg"
+    credit: "© Ellen Larsson"
+  - url: "https://assets.artdatabanken.se/image/_5/55704_4422_5.jpg"
+    credit: "© Ellen Larsson"
+  - url: "https://assets.artdatabanken.se/image/_5/55706_4422_5.jpg"
+    credit: "© Ellen Larsson"
 ---
 
 > En helt snövit vaxskivling som växer med gran. Mild och god matsvamp.

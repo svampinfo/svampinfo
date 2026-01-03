@@ -1,4 +1,5 @@
 ---
+
 title: "Druvfingersvamp"
 scientificName: "Ramaria botrytis"
 wikidata: "Q1568901"
@@ -12,8 +13,14 @@ image: "/images/ramaria_botrytis_01.jpg"
 gallery:
   - url: "/images/ramaria_botrytis_01.jpg"
     credit: "[2010-09-17_Ramaria_botrytis.jpg](https://commons.wikimedia.org/wiki/File:2010-09-17_Ramaria_botrytis.jpg): Jason Hollinger derivative work: [Ak ccm](https://commons.wikimedia.org/w/index.php?title=User:Ak_ccm&amp;action=edit&amp;redlink=1), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons"
----
 
+  - url: "/images/ramaria_botrytis_02.jpg"
+    credit: "John Kirkpatrick, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ramaria_botrytis_299869.jpg)"
+  - url: "/images/ramaria_botrytis_03.jpg"
+    credit: "user:Landsnorkler, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ramaria_botrytis_31768.jpg)"
+  - url: "/images/ramaria_botrytis_04.jpg"
+    credit: "[Albin Schmalfuß](https://www.wikidata.org/wiki/Q2639623), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hahnenkamm-1.jpg)"
+---
 > En vacker, koralliknande svamp med rosa grentoppar. En god matsvamp som ung.
 
 ## Kännetecken

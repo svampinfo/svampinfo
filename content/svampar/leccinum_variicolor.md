@@ -33,5 +33,7 @@ Samma som björksopp – ätlig och god efter **rejäl tillagning**.
 ## Förväxlingsrisker
 
 - **[Björksopp](/svampar/leccinum_scabrum/):** Har mer enfärgad hatt och oföränderligt vitt kött.
+- **[Kärrsopp](/svampar/leccinum_niveum/):** Ljusare vit/grönvit hatt.
 
-* **[Kärrsopp](/svampar/leccinum_niveum/):** Ljusare vit/grönvit hatt.
+https://commons.wikimedia.org/wiki/File:2008-09-05_Leccinum_variicolor_crop.jpg#/media/File:2008-09-05_Leccinum_variicolor_crop.jpg
+https://commons.wikimedia.org/wiki/File:Leccinum-variicolor0334.jpg#/media/File:Leccinum-variicolor0334.jpg

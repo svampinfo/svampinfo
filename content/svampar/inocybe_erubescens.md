@@ -1,7 +1,8 @@
 ---
+
 title: "Gifttråding"
 scientificName: "Inocybe erubescens"
-wikidata: "Q198722"
+wikidata: "Q107805287"
 artfakta: "4581"
 slug: "inocybe_erubescens"
 edible: false
@@ -11,8 +12,24 @@ image: "/images/inocybe_erubescens_01.jpg"
 gallery:
   - url: "/images/inocybe_erubescens_01.jpg"
     credit: "[Andreas Kunze](https://commons.wikimedia.org/w/index.php?title=User:Ak_ccm&amp;action=edit&amp;redlink=1), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
----
 
+  - url: "/images/inocybe_erubescens_02.jpg"
+    credit: "[Andreas Kunze](https://commons.wikimedia.org/w/index.php?title=User:Ak_ccm&amp;action=edit&amp;redlink=1), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2010-05-27_Inocybe_erubescens.jpg)"
+  - url: "/images/inocybe_erubescens_03.jpg"
+    credit: "Jerzy Opioła, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Inocybe_erubescens_MS4_(1).jpg)"
+  - url: "/images/inocybe_erubescens_04.jpg"
+    credit: "Jerzy Opioła, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Inocybe_erubescens_MS4_(2).jpg)"
+  - url: "/images/inocybe_erubescens_05.jpg"
+    credit: "[Tatiana Bulyonkova](https://www.flickr.com/people/41503862@N08), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Inocybe_erubescens_(19417855088).jpg)"
+  - url: "/images/inocybe_erubescens_06.jpg"
+    credit: "[The Brook](https://commons.wikimedia.org/w/index.php?title=User:The_Brook&amp;action=edit&amp;redlink=1), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Inosperma_erubescens.jpg)"
+  - url: "/images/inocybe_erubescens_07.jpg"
+    credit: "[Svencapoeira](https://commons.wikimedia.org/wiki/User:Svencapoeira), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Punakas_narmasnutt1.jpg)"
+  - url: "/images/inocybe_erubescens_08.jpg"
+    credit: "[Svencapoeira](https://commons.wikimedia.org/wiki/User:Svencapoeira), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Punakas_narmasnutt2.jpg)"
+  - url: "/images/inocybe_erubescens_09.png"
+    credit: "[Giacomo Bresadola](https://commons.wikimedia.org/wiki/Giacomo_Bresadola), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bresadola_-_Inocybe_Patouillardi.png)"
+---
 > En dödligt giftig svamp som rodnar vid beröring. Växer ofta i parker och lövskog.
 
 ## Kännetecken

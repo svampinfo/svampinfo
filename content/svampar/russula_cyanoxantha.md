@@ -37,5 +37,16 @@ En av de absolut bästa matkremlorna. Den är fast, matig och sällan angripen a
 
 - **Andra kremlor:** Eftersom färgen varierar så mycket kan den likna många andra arter (t.ex. grönkremla), men de elastiska skivorna avslöjar den.
 - **[Lömsk flugsvamp](/svampar/amanita_phalloides/):** Har ring och strumpa!
+- **[Eksillkremla](/svampar/russula_graveolens/):** Luktar skaldjur, köttet brunfärgas och den växer med ek.
 
-* **[Eksillkremla](/svampar/russula_graveolens/):** Luktar skaldjur, köttet brunfärgas och den växer med ek.
+https://commons.wikimedia.org/wiki/File:Russula_cyanoxantha_G1.jpg#/media/File:Russula_cyanoxantha_G1.jpg
+https://commons.wikimedia.org/wiki/File:2010-09-29_Russula_cyanoxantha_cropped.jpg#/media/File:2010-09-29_Russula_cyanoxantha_cropped.jpg
+https://commons.wikimedia.org/wiki/File:Frauen-T%C3%A4ubling_Russula_cyanoxantha.jpg#/media/File:Frauen-T%C3%A4ubling_Russula_cyanoxantha.jpg
+https://commons.wikimedia.org/wiki/File:0_Russula_cyanoxantha_2.jpg#/media/File:0_Russula_cyanoxantha_2.jpg
+https://commons.wikimedia.org/wiki/File:Russula_cyanoxantha_G2.1.jpg#/media/File:Russula_cyanoxantha_G2.1.jpg
+https://commons.wikimedia.org/wiki/File:Russula_cyanoxantha_G28.jpg#/media/File:Russula_cyanoxantha_G28.jpg
+https://commons.wikimedia.org/wiki/File:Russula_cyanoxanha_1.jpg#/media/File:Russula_cyanoxanha_1.jpg
+https://commons.wikimedia.org/wiki/File:Russula_cyanoxantha_1.JPG#/media/File:Russula_cyanoxantha_1.JPG
+https://commons.wikimedia.org/wiki/File:Tab93-Agaricus_cyanoxanthus_Schaeff.jpg#/media/File:Tab93-Agaricus_cyanoxanthus_Schaeff.jpg
+https://commons.wikimedia.org/wiki/File:Russula_cyanoxantha-Cooke.jpg#/media/File:Russula_cyanoxantha-Cooke.jpg
+https://commons.wikimedia.org/wiki/File:Russula_cyanoxantha-Cooke-2.jpg#/media/File:Russula_cyanoxantha-Cooke-2.jpg

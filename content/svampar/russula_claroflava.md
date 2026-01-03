@@ -1,4 +1,5 @@
 ---
+
 title: "Gulkremla"
 scientificName: "Russula claroflava"
 wikidata: "Q1462183"
@@ -12,8 +13,18 @@ image: "/images/russula_claroflava_01.jpg"
 gallery:
   - url: "/images/russula_claroflava_01.jpg"
     credit: "[Ron Pastorino (Ronpast)](https://mushroomobserver.org/observer/show_user/9) at [Mushroom Observer](https://mushroomobserver.org), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
----
 
+  - url: "/images/russula_claroflava_02.jpg"
+    credit: "[Lebrac](https://commons.wikimedia.org/wiki/User:Lebrac), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gelber_Graustiel-Täubling2.jpg)"
+  - url: "/images/russula_claroflava_03.jpg"
+    credit: "Unknown, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Russula_ochroleuca_2004-11-15.jpg)"
+  - url: "/images/russula_claroflava_04.jpg"
+    credit: "[D.O.G.A.](https://commons.wikimedia.org/wiki/User:D.O.G.A.), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mushroom_03.JPG)"
+  - url: "/images/russula_claroflava_05.jpg"
+    credit: "James Lindsey, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Russula.claroflava2.-.lindsey.jpg)"
+  - url: "/images/russula_claroflava_06.jpg"
+    credit: "[Luridiformis](https://en.wikipedia.org/wiki/User:Luridiformis), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Russula_claroflava_trio.jpg)"
+---
 > En klargul kremla som växer fuktigt med björk. Kännetecknas av att köttet grånar.
 
 ## Kännetecken

@@ -11,6 +11,18 @@ image: "/images/inocybe_geophylla_01.jpg"
 gallery:
   - url: "/images/inocybe_geophylla_01.jpg"
     credit: "[Luridiformis](https://en.wikipedia.org/wiki/User:Luridiformis) at en.wikipedia, [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
+  - url: "/images/inocybe_geophylla_02.jpg"
+    credit: "[Richard Sullivan](https://mushroomobserver.org/observer/show_user/919), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2009-12-12_Inocybe_geophylla_(Pers.)_P._Kumm_69628.jpg)"
+  - url: "/images/inocybe_geophylla_03.jpg"
+    credit: "[Richard Sullivan](https://mushroomobserver.org/observer/show_user/919), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2009-12-12_Inocybe_geophylla_(Pers.)_P._Kumm_69629.jpg)"
+  - url: "/images/inocybe_geophylla_04.jpg"
+    credit: "[Ron Pastorino](https://mushroomobserver.org/observer/show_user/9), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Inocybe_geophylla,_Medford.jpg)"
+  - url: "/images/inocybe_geophylla_05.jpg"
+    credit: "James Lindsey, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Inocybe_geophylla_-_Lindsey.jpg)"
+  - url: "/images/inocybe_geophylla_06.jpg"
+    credit: "James Lindsey, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Inocybe.geophylla2.-.lindsey.jpg)"
+  - url: "/images/inocybe_geophylla_07.jpg"
+    credit: "Boudier, Émile, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Icones_mycologicæ,_ou_Iconographie_des_champignons_de_France_principalement_Discomycetes_(Pl._125)_(9801110596).jpg)"
 ---
 
 > En liten, giftig svamp med silkesglänsande hatt. Finns i en vit och en lila variant.
