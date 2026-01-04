@@ -4,7 +4,7 @@ scientificName: "Mutinus caninus"
 wikidata: "Q1500672"
 artfakta: "1068"
 slug: "mutinus_caninus"
-notOnSvampguiden: true
+svampguiden: false
 edible: false
 poisonous: 0
 summary: "En mindre och slankare släkting till stinksvampen, med en karakteristisk orangeröd topp."

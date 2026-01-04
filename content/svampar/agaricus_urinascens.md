@@ -3,6 +3,7 @@ title: "Vit kungschampinjon"
 scientificName: "Agaricus urinascens"
 wikidata: "Q2249479"
 artfakta: "2946"
+svampguiden: "agaricus_macrosporus"
 slug: "agaricus_urinascens"
 edible: true
 poisonous: 0

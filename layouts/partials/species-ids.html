@@ -80,9 +80,20 @@
       </a>
   {{ end }}
 
-  {{ if not .Params.notOnSvampguiden }}
+  {{ $sgSlug := .Params.slug }}
+  {{ $renderSg := true }}
+
+  {{ if isset .Params "svampguiden" }}
+      {{ if eq .Params.svampguiden false }}
+          {{ $renderSg = false }}
+      {{ else if ne .Params.svampguiden true }}
+          {{ $sgSlug = .Params.svampguiden }}
+      {{ end }}
+  {{ end }}
+
+  {{ if $renderSg }}
     <a 
-      href="https://web.archive.org/web/20250517175346/https://svampguiden.com/art/visa/{{ .Params.slug }}"
+      href="https://web.archive.org/web/20250517175346/https://svampguiden.com/art/visa/{{ $sgSlug }}"
       target="_blank"
       rel="noopener noreferrer"
       class="external-id-link"
