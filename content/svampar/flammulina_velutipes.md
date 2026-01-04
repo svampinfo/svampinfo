@@ -38,24 +38,36 @@ gallery:
 
 ## Kännetecken
 
-Vinterskivlingen (känd som _Enoki_ i odlad form) är en av få svampar man kan hitta när snön har fallit.
+Vinterskivlingen är en av få svampar som man kan hitta när snön har fallit.
 
 - **Hatt:** Honungsgul till orangebrun, ofta mörkare i mitten. Ytan är mycket klibbig eller slemmig i fuktigt väder.
 - **Fot:** Det bästa kännetecknet – foten är seg och täckt av ett mörkt brunt till svartaktigt **sammetsludd**, särskilt mot basen.
 - **Skivor:** Vita till gulvita.
 - **Tid:** Växer från senhösten ända fram till våren. Fruktkropparna tål att frysa och kan fortsätta växa när det blir plusgrader igen.
 
+## Taxonomi
+
+Vinterskivlingen är nära besläktad med _Enoki_.
+Man trodde länge att de var av samma taxon, och att de på så vis var artfränder,
+där dess färgskillnad enbart var då Enoki vanligen får väldigt lite ljus.
+Nyare studier där DNA-sekvensering använts, har blott
+visat att Vinterskivlingen och Enoki trotts allt är olika arter.
+
 ## Utbredning och Ekologi
 
-Växer i täta klasar på döda eller levande lövträd (speciellt alm, asp och pil). Vanlig i hela landet.
+Växer i täta klasar på döda eller levande lövträd (speciellt alm, asp och pil).
+Vanlig i hela landet.
 
 ## Matvärde
 
-En god matsvamp med mild smak. Man använder endast hattarna, då foten är alldeles för seg. Den passar utmärkt i soppor eller stekta.
+En god matsvamp med mild smak.
+Den passar utmärkt i soppor eller stekt.
+När man kokar eller steker svampen bör endast hattarna användas, då foten är seg och träig.
+För att ta vara på hela svampen kan man torka fötterna för att därefter -- när de är snustorra -- mixa dem till ett pulver.
+Det ger ett buljongliknande svamppulver som går att använda i det mesta, bland annat i biffar och såser.
 
 ## Förväxlingsrisker
 
 - **[Gifthätting](/svampar/galerina_marginata/):** **Livsfarlig.** Den växer också på ved men har en ring på foten, brunt sporpulver och saknar det svarta sammetsluddet på foten. Gifthättingen växer sällan mitt i vintern men kan finnas sent på hösten.
 - **[Rökslöjskivling](/svampar/hypholoma_capnoides/):** Växer på barrved, har gråa skivor och saknar den luddiga foten.
-
-* **[Svavelgul slöjskivling](/svampar/hypholoma_fasciculare/):** Har gröna skivor och smakar bittert. Giftig.
+- **[Svavelgul slöjskivling](/svampar/hypholoma_fasciculare/):** Har gröna skivor och smakar bittert. Giftig.
