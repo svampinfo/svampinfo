@@ -16,8 +16,6 @@ gallery:
     credit: "[Аимаина хикари](https://commons.wikimedia.org/wiki/User:%D0%90%D0%B8%D0%BC%D0%B0%D0%B8%D0%BD%D0%B0_%D1%85%D0%B8%D0%BA%D0%B0%D1%80%D0%B8), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flammulina-velutipes.jpg)"
   - url: "/images/flammulina_velutipes_03.jpg"
     credit: "Jerzy Opioła, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flammulina_velutipes_BW13_(1).JPG)"
-  - url: "/images/flammulina_velutipes_04.jpg"
-    credit: "James K. Lindsey, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hypholoma_capnoides_-_Lindsey_2.jpg)"
   - url: "/images/flammulina_velutipes_05.jpg"
     credit: "[Archenzo](https://commons.wikimedia.org/wiki/User:Archenzo), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flammulina_velutipes.JPG)"
   - url: "/images/flammulina_velutipes_06.jpg"
