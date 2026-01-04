@@ -773,6 +773,7 @@ html[data-svamp-filter="poisonous"] .species-card[data-poisonous="false"] {
 /* Invert icons in dark mode */
 body.dark .github-icon,
 body.dark .logo a img,
-body.dark img[src*="wikipedia.svg"] {
+body.dark img[src*="wikipedia.svg"],
+body.dark img[src*="svampguiden.svg"] {
   filter: invert(1) brightness(0.8);
 }
