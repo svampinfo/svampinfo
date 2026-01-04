@@ -8,7 +8,7 @@ edible: true
 poisonous: 0
 rating: 3
 summary: "En stor, vit champinjon som påminner om snöbollschampinjonen men är ännu kraftigare och saknar kugghjulsmönster på ringen."
-image: "/images/agaricus_urinascens_02.jpg"
+image: "/images/agaricus_macrosporus_02.jpg"
 gallery:
   - url: "/images/agaricus_macrosporus_02.jpg"
     credit: "[Strobilomyces](https://commons.wikimedia.org/wiki/User:Strobilomyces), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agaricus_macrosporus_20100930w.JPG)"
