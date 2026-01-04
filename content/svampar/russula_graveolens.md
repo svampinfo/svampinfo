@@ -1,4 +1,5 @@
 ---
+
 title: "Eksillkremla"
 scientificName: "Russula graveolens"
 wikidata: "Q1427919"
@@ -12,8 +13,24 @@ image: "/images/russula_graveolens_01.jpg"
 gallery:
   - url: "/images/russula_graveolens_01.jpg"
     credit: "[zaca](https://mushroomobserver.org/observer/show_user/2250) at [Mushroom Observer](https://mushroomobserver.org), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2011-05-19_Russula_graveolens_Romell_146803.jpg)"
----
 
+  - url: "/images/russula_graveolens_02.jpg"
+    credit: "[zaca](https://mushroomobserver.org/observer/show_user/2250), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2011-05-19_Russula_graveolens_Romell_146804.jpg)"
+  - url: "/images/russula_graveolens_03.jpg"
+    credit: "[zaca](https://mushroomobserver.org/observer/show_user/2250), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2011-05-19_Russula_graveolens_Romell_146805.jpg)"
+  - url: "/images/russula_graveolens_04.jpg"
+    credit: "[Richard Daniel](https://mushroomobserver.org/observer/show_user/236), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Russula_graveolens_1292222.jpg)"
+  - url: "/images/russula_graveolens_05.jpg"
+    credit: "[Michel Langeveld](https://www.inaturalist.org/users/3599717), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Russula_graveolens_331471301.jpg)"
+  - url: "/images/russula_graveolens_06.jpg"
+    credit: "[Michel Langeveld](https://www.inaturalist.org/users/3599717), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Russula_graveolens_331472310.jpg)"
+  - url: "/images/russula_graveolens_07.jpg"
+    credit: "[Michel Langeveld](https://www.inaturalist.org/users/3599717), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Russula_graveolens_331476487.jpg)"
+  - url: "/images/russula_graveolens_08.jpg"
+    credit: "[EmillimeS](https://commons.wikimedia.org/w/index.php?title=User:EmillimeS&amp;action=edit&amp;redlink=1), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Russula_graveolens.jpg)"
+  - url: "/images/russula_graveolens_09.jpg"
+    credit: "[Mordecai Cubitt Cooke](https://commons.wikimedia.org/w/index.php?title=Mordecai_Cubitt_Cooke&amp;action=edit&amp;redlink=1), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Russula_purpurea-Cooke.jpg)"
+---
 > En variant av sillkremlan som växer med ek. Doftar skaldjur och smakar fantastiskt.
 
 ## Kännetecken
@@ -37,12 +54,3 @@ En delikatess! Skaldjursdoften övergår i en mild och fin smak vid tillagning.
 
 - **[Sillkremla](/svampar/russula_xerampelina/):** Växer i barrskog och är mer glänsande röd/grön. Lika god.
 - **[Brokkremla](/svampar/russula_cyanoxantha/):** Har elastiska skivor och saknar silldoft.
-
-https://commons.wikimedia.org/wiki/File:2011-05-19_Russula_graveolens_Romell_146804.jpg#/media/File:2011-05-19_Russula_graveolens_Romell_146804.jpg
-https://commons.wikimedia.org/wiki/File:2011-05-19_Russula_graveolens_Romell_146805.jpg#/media/File:2011-05-19_Russula_graveolens_Romell_146805.jpg
-https://commons.wikimedia.org/wiki/File:Russula_graveolens_1292222.jpg#/media/File:Russula_graveolens_1292222.jpg
-https://commons.wikimedia.org/wiki/File:Russula_graveolens_331471301.jpg#/media/File:Russula_graveolens_331471301.jpg
-https://commons.wikimedia.org/wiki/File:Russula_graveolens_331472310.jpg#/media/File:Russula_graveolens_331472310.jpg
-https://commons.wikimedia.org/wiki/File:Russula_graveolens_331476487.jpg#/media/File:Russula_graveolens_331476487.jpg
-https://commons.wikimedia.org/wiki/File:Russula_graveolens.jpg#/media/File:Russula_graveolens.jpg
-https://commons.wikimedia.org/wiki/File:Russula_purpurea-Cooke.jpg#/media/File:Russula_purpurea-Cooke.jpg

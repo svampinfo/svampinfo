@@ -1,4 +1,5 @@
 ---
+
 title: "Fläcksopp"
 scientificName: "Leccinum variicolor"
 wikidata: "Q355571"
@@ -12,8 +13,12 @@ image: "/images/leccinum_variicolor_01.jpg"
 gallery:
   - url: "/images/leccinum_variicolor_01.jpg"
     credit: "[Jörg Hempel](https://commons.wikimedia.org/wiki/User:LC-de), [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en), via Wikimedia Commons"
----
 
+  - url: "/images/leccinum_variicolor_02.jpg"
+    credit: "[Leccinum_variicolor_11.jpg](https://commons.wikimedia.org/wiki/File:Leccinum_variicolor_11.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2008-09-05_Leccinum_variicolor_crop.jpg)"
+  - url: "/images/leccinum_variicolor_03.jpg"
+    credit: "[Mars 2002](https://commons.wikimedia.org/w/index.php?title=User:Mars_2002&amp;action=edit&amp;redlink=1), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leccinum-variicolor0334.jpg)"
+---
 > Liknar björksopp men har en flammig hatt och kött som rodnar/blånar i fotbasen.
 
 ## Kännetecken
@@ -34,6 +39,3 @@ Samma som björksopp – ätlig och god efter **rejäl tillagning**.
 
 - **[Björksopp](/svampar/leccinum_scabrum/):** Har mer enfärgad hatt och oföränderligt vitt kött.
 - **[Kärrsopp](/svampar/leccinum_niveum/):** Ljusare vit/grönvit hatt.
-
-https://commons.wikimedia.org/wiki/File:2008-09-05_Leccinum_variicolor_crop.jpg#/media/File:2008-09-05_Leccinum_variicolor_crop.jpg
-https://commons.wikimedia.org/wiki/File:Leccinum-variicolor0334.jpg#/media/File:Leccinum-variicolor0334.jpg
