@@ -76,7 +76,7 @@ Som utvuxen är den svår att förväxla med något annat än andra stinksvampar
 
 - **[Jätteröksvamp](/svampar/calvatia_gigantea/):** Mycket små exemplar kan likna häxägg.
 
-- **Flugsvampar (t.ex. [Lömsk flugsvamp](/svampar/amanita_phalloides/) eller [Vit flugsvamp](/svampar/amanita_virosa/)):** Även flugsvampar startar som "ägg". Vid genomskärning av ett flugsvampsägg syns dock anlagen till hatt och skivor tydligt, och det tjocka gelatinösa lagret saknas.
+- **Vita flugsvampar som [Lömsk flugsvamp](/svampar/amanita_phalloides/) och [Vit flugsvamp](/svampar/amanita_virosa/)):** Även flugsvampar startar som "ägg". Vid genomskärning av ett flugsvampsägg syns dock anlagen till hatt och skivor tydligt, och det tjocka gelatinösa lagret saknas.
 - **[Stenmurkla](/svampar/gyromitra_esculenta/):** Har en veckad, hjärnlik hatt (inte nätmönstrad med klibbig gleba) och saknar den stinkande lukten.
   Dödligt giftig.
 - **[Toppmurkla](/svampar/morchella_conica/):** Har en hatt med gropar (bikakemönster) men saknar den illaluktande spormassan och "häxäggs"-stadiet.
