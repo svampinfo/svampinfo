@@ -35,3 +35,5 @@ Orsakar illamående, kräkningar och medvetslöshet vid förtäring.
 
 - **[Gul rottryffel](/svampar/scleroderma_citrinum/):** Har tjockare, grovt vårtigt skal.
 - **Röksvampar (t.ex. [Vårtig röksvamp](/svampar/lycoperdon_perlatum/)):** Är **vita** inuti så länge de är ätliga (blir bruna/pulvriga som gamla). Rottryfflar är svarta och fasta inuti.
+- **[Stinksvamp](/svampar/phallus_impudicus/):** Häxägget har ett tjockt gelatinöst lager under skalet, inte solid svart insida.
+- **[Liten stinksvamp](/svampar/mutinus_caninus/):** Häxägget är litet och ovalt, med ett gelatinöst lager inuti.

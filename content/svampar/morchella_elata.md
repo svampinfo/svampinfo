@@ -38,8 +38,7 @@ Många tycker att smaken blir ännu intensivare om man torkar svampen först och
 ## Förväxlingsrisker
 
 - **[Stenmurkla](/svampar/gyromitra_esculenta/):** _Mycket giftig._ Stenmurklan har en hatt som ser ut som en brun, veckad **hjärna**, medan toppmurklan har tydliga **gropar/fack** (bikakemönster).
-
-* **[Toppstenmurkla](/svampar/gyromitra_ambigua/):** Mer oregelbundet "hjärnlik" hatt. Giftig.
-
+- **[Toppstenmurkla](/svampar/gyromitra_ambigua/):** Mer oregelbundet "hjärnlik" hatt. Giftig.
 - **[Rund toppmurkla](/svampar/morchella_esculenta/):** Har en rundare hatt och ofta ljusare, gulbrun färg. Lika god matsvamp.
 - **Klockmurkla:** Hatten sitter bara fast i fotens absoluta topp och hänger lös som en klocka. Oätlig/oaptitlig.
+- **[Stinksvamp](/svampar/phallus_impudicus/):** Kan påminna om en murkla till formen, men har en klibbig, illaluktande spormassa på toppen.

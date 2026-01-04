@@ -34,5 +34,9 @@ En rolig matsvamp som bäst skivas i centimeterstora "skivor" och steks i smör,
 
 ## Förväxlingsrisker
 
-Tack vare sin storlek är den svår att förväxla med något annat. Små exemplar kan likna andra röksvampar, t.ex. **[Vårtig röksvamp](/svampar/lycoperdon_perlatum/)**, men alla röksvampar som är helvita inuti är ätliga.
-Var dock uppmärksam på att unga exemplar av flugsvampar kan ligga inneslutna i ett vitt hylle (äggstadiet), men om man skär itu dem ser man konturerna av en blivande hatt och fot, vilket röksvampar saknar (de är homogena inuti).
+Tack vare sin storlek är den svår att förväxla med något annat. Små exemplar kan dock förväxlas med:
+
+- **[Vårtig röksvamp](/svampar/lycoperdon_perlatum/) & andra röksvampar:** Alla röksvampar som är helvita och fasta inuti (som färskost) är ätliga.
+- **Flugsvampar (i äggstadiet):** Kan ligga inneslutna i ett vitt hylle. Vid genomskärning syns dock konturerna av en blivande hatt och fot, vilket röksvampar saknar (de är homogena inuti).
+- **[Stinksvamp (häxägg)](/svampar/phallus_impudicus/):** Har ett tjockt gelatinöst lager under skalet och en hård kärna, inte homogen vit massa.
+- **[Liten stinksvamp (häxägg)](/svampar/mutinus_caninus/):** Mycket mindre än en fullvuxen jätteröksvamp, men kan likna mycket unga exemplar. Har gelatinöst lager.

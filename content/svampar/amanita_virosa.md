@@ -1,5 +1,4 @@
 ---
-
 title: "Vit flugsvamp"
 scientificName: "Amanita virosa"
 wikidata: "Q472817"
@@ -32,6 +31,7 @@ gallery:
   - url: "/images/amanita_virosa_10.jpg"
     credit: "[Svencapoeira](https://commons.wikimedia.org/wiki/User:Svencapoeira), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Valge_kärbseseen.jpg)"
 ---
+
 > Dödligt giftig. Helvit svamp med ring och strumpa som ofta förväxlas med champinjoner.
 
 ## Kännetecken
@@ -67,5 +67,7 @@ Innehåller amatoxiner som förstör levern. Symtomen kommer sent, ofta efter at
 - **[Rättikmusseron](/svampar/tricholoma_album/):** Luktar starkt av rättika, ingen ring/strumpa.
 - **[Vitgul flugsvamp (var. alba)](/svampar/amanita_citrina_var._alba/):** Luktar potatis, har kantad knöl (ej sladdrig strumpa).
 - **[Knölchampinjon](/svampar/agaricus_sylvicola/):** Färgade skivor, mandeldoft.
+- **[Stinksvamp](/svampar/phallus_impudicus/):** Unga flugsvampar i "äggstadiet" kan likna häxägg.
+  Stinksvampens ägg har dock ett tjockt gelatinöst lager under huden och saknar tydliga anlag till skivor.
 
 **Regel:** Ät aldrig en vit svamp med vita skivor och ring/strumpa.

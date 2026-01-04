@@ -33,7 +33,7 @@ Giftig, orsakar magförgiftning. Har ibland felaktigt sålts som "falsk tryffel"
 
 - **Röksvampar:** Är **vita** inuti (som färskost) när de är unga och ätliga. Har tunnare skal.
 - **Äkta tryffel:** Växer under jord och har en helt annan, aromatisk doft och marmorerad insida.
-
-* **[Vårtig röksvamp](/svampar/lycoperdon_perlatum/):** Vit inuti (som ung) och har tunnare skal. Ätlig.
-
-* **[Potatisrottryffel](/svampar/scleroderma_bovista/):** Slätare skal, ofta mindre. Giftig.
+- **[Vårtig röksvamp](/svampar/lycoperdon_perlatum/):** Vit inuti (som ung) och har tunnare skal. Ätlig.
+- **[Potatisrottryffel](/svampar/scleroderma_bovista/):** Slätare skal, ofta mindre. Giftig.
+- **[Stinksvamp](/svampar/phallus_impudicus/):** Har ett tjockt gelatinöst lager under skalet och anlag till svampkropp i mitten (häxägg).
+- **[Liten stinksvamp](/svampar/mutinus_caninus/):** Häxägget är litet och ovalt, med ett gelatinöst lager inuti.

@@ -49,9 +49,7 @@ Förr rekommenderades avkokning (att koka svampen i rikligt med vatten i två om
 
 - **[Toppmurkla](/svampar/morchella_conica/):** Också en vårsvamp, men en säker och god matsvamp. Toppmurklan har en hatt med **gropar** (som en bikaka eller tvättsvamp), inte veckade vindlingar som stenmurklan.
 - **Biskopsmössa:** Växer på hösten.
-
-* **[Rund toppmurkla](/svampar/morchella_esculenta/):** Har gropar (bikakemönster) på hatten, inte veck.
-
-* **[Svart hattmurkla](/svampar/helvella_lacunosa/):** Har svart hatt och ribbad fot.
-
-* **[Toppstenmurkla](/svampar/gyromitra_ambigua/):** Mer toppig hatt, växer i norr. Också giftig.
+- **[Rund toppmurkla](/svampar/morchella_esculenta/):** Har gropar (bikakemönster) på hatten, inte veck.
+- **[Svart hattmurkla](/svampar/helvella_lacunosa/):** Har svart hatt och ribbad fot.
+- **[Toppstenmurkla](/svampar/gyromitra_ambigua/):** Mer toppig hatt, växer i norr. Också giftig.
+- **[Stinksvamp](/svampar/phallus_impudicus/):** Kan likna en murkla när den gröna spormassan regnat bort, men har en helt annan, porös fot och luktar as.

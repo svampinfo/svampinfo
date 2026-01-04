@@ -36,7 +36,6 @@ Extremt giftig. Innehåller amatoxiner som förstör levercellerna. En enda svam
 - **Gröna kremlor (t.ex. [Grönkremla](/svampar/russula_aeruginea/)):** Dessa är populära matsvampar. De saknar dock både ring och strumpa, och har en spröd fot.
 - **[Riddarmusseron](/svampar/tricholoma_equestre/):** Har gula skivor, inte vita.
 - **Champinjoner:** Unga exemplar (knappar) kan likna champinjoner, men champinjoner har aldrig grön hatt och deras skivor mörknar (blir rosa/bruna).
-
-* **[Brokkremla](/svampar/russula_cyanoxantha/):** Har elastiska skivor, saknar ring och strumpa. Ätlig.
-
-* **[Vitgul flugsvamp](/svampar/amanita_citrina/):** Har kantad knöl (inte sladdrig strumpa) och luktar potatis.
+- **[Brokkremla](/svampar/russula_cyanoxantha/):** Har elastiska skivor, saknar ring och strumpa. Ätlig.
+- **[Vitgul flugsvamp](/svampar/amanita_citrina/):** Har kantad knöl (inte sladdrig strumpa) och luktar potatis.
+- **[Stinksvamp](/svampar/phallus_impudicus/):** Unga flugsvampar i "äggstadiet" kan likna häxägg. Stinksvampens ägg har dock ett tjockt gelatinöst lager under huden och saknar tydliga anlag till skivor.
