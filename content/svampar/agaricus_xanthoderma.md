@@ -55,6 +55,6 @@ Kan förväxlas med alla vita ätliga champinjoner, t.ex.:
 - **[Ängschampinjon](/svampar/agaricus_campestris/)**
 
 * **[Trädgårdschampinjon](/svampar/agaricus_bisporus/):** Har brunaktiga fjäll (ofta) och rodnar svagt.
-* **[Vit kungschampinjon](/svampar/agaricus_macrosporus/):** Mycket stor, gulnar svagt men luktar mandel.
+* **[Vit kungschampinjon](/svampar/agaricus_urinascens/):** Mycket stor, gulnar svagt men luktar mandel.
 
 Men ingen av dessa uppvisar den snabba, kromgula färgförändringen eller den obehagliga lukten.

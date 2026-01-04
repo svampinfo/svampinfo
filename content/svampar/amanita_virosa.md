@@ -62,7 +62,7 @@ Innehåller amatoxiner som förstör levern. Symtomen kommer sent, ofta efter at
 - **[Silkesmusseron](/svampar/tricholoma_columbetta/):** Har ingen ring och ingen strumpa.
 - **[Vårmusseron](/svampar/calocybe_gambosa/):** Växer på våren (vit flugsvamp är en höstsvamp) och saknar ring/strumpa.
 - **[Granvaxskivling](/svampar/hygrophorus_piceae/):** Har nedlöpande skivor och saknar ring/strumpa.
-- **[Vit kungschampinjon](/svampar/agaricus_macrosporus/):** Har färgade skivor som äldre och saknar strumpa.
+- **[Vit kungschampinjon](/svampar/agaricus_urinascens/):** Har färgade skivor som äldre och saknar strumpa.
 - **[Ängschampinjon](/svampar/agaricus_campestris/):** Rosa/bruna skivor, ingen strumpa.
 - **[Rättikmusseron](/svampar/tricholoma_album/):** Luktar starkt av rättika, ingen ring/strumpa.
 - **[Vitgul flugsvamp (var. alba)](/svampar/amanita_citrina_var._alba/):** Luktar potatis, har kantad knöl (ej sladdrig strumpa).

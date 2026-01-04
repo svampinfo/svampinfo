@@ -50,6 +50,6 @@ Det är livsviktigt att kunna skilja snöbollschampinjonen från dess giftiga du
 - **[Giftchampinjon](/svampar/agaricus_xanthoderma/):** Denna art liknar snöbollschampinjonen men gulnar _omedelbart_ och kraftigt (kromgult) vid fotbasen om man skrapar på den. Den har dessutom en obehaglig doft av karbol eller bläck, särskilt vid tillagning.
 - **[Vit flugsvamp](/svampar/amanita_virosa/):** Dödligt giftig! Skiljs enklast genom att den har **helvita skivor** (champinjoner har färgade skivor) och en strumpa (volva) vid fotbasen.
 - **[Knölchampinjon](/svampar/agaricus_sylvicola/):** En annan ätlig champinjon som är mycket lik men har en tydligt uppsvälld, lökformad fotbas.
-- **[Vit kungschampinjon](/svampar/agaricus_macrosporus/):** Ätlig och lik, men saknar det typiska kugghjulsmönstret på ringen.
+- **[Vit kungschampinjon](/svampar/agaricus_urinascens/):** Ätlig och lik, men saknar det typiska kugghjulsmönstret på ringen.
 
 * **[Ängschampinjon](/svampar/agaricus_campestris/):** Mindre, har rosa skivor som ung och växer ofta i häxringar. God matsvamp.
