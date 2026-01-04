@@ -80,6 +80,7 @@
       </a>
   {{ end }}
 
+  {{ if not .Params.notOnSvampguiden }}
     <a 
       href="https://web.archive.org/web/20250517175346/https://svampguiden.com/art/visa/{{ .Params.slug }}"
       target="_blank"
@@ -96,5 +97,6 @@
       />
       <span>Svampguiden</span>
     </a>
+  {{ end }}
 
 </div>
