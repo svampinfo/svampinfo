@@ -38,5 +38,4 @@ Fårtickan är en bra och matig svamp med fast konsistens. En intressant egenska
 - **[Brödticka](/svampar/albatrellus_confluens/):** Har en mer rödbrun/aprikos färg, smakar beskt och blir inte gul vid tillagning.
 - **[Lammticka](/svampar/albatrellus_subrubescens/):** Mycket lik men växer med tall och får orangea fläckar. Ätlig.
 - **Taggsvampar:** Taggsvampar har taggar på undersidan som lätt faller av, fårtickan har fastsittande porer.
-
-* **[Gul lammticka](/svampar/albatrellus_citrinus/):** Liknar fårtickan men får citrongula fläckar vid beröring och växer med gran i kalkrik skog.
+- **[Gul lammticka](/svampar/albatrellus_citrinus/):** Liknar fårtickan men får citrongula fläckar vid beröring och växer med gran i kalkrik skog.
