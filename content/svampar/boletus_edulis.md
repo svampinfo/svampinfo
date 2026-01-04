@@ -55,7 +55,7 @@ Förekommer i nästan hela landet i både barr- och lövskog. Den lever i symbio
 
 ## Matvärde
 
-En femstjärnig matsvamp. Den går att använda till allt: stuvning, soppa, sås, pasta eller risotto. Den är också en av de absolut bästa svamparna att torka, då smaken koncentreras.
+En supergod matsvamp. Den går att använda till allt: stuvning, soppa, sås, pasta eller risotto. Den är också en av de absolut bästa svamparna att torka, då smaken koncentreras.
 
 ## Förväxlingsrisker
 

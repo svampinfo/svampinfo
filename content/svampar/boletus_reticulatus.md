@@ -31,7 +31,7 @@ Värmeälskande art som växer i lövskog med ek och bok. Finns främst i södra
 
 ## Matvärde
 
-Femstjärnig matsvamp. Har ofta en ännu starkare och kryddigare doft än vanlig Karljohan. Tyvärr angrips den mycket snabbt av larver eftersom den växer under den varma sommaren.
+En supergod matsvamp. Har ofta en ännu starkare och kryddigare doft än vanlig Karljohan. Tyvärr angrips den mycket snabbt av larver eftersom den växer under den varma sommaren.
 
 ## Förväxlingsrisker
 

@@ -33,7 +33,7 @@ När de gula kantarellerna börjar ta slut, då kommer trattkantarellen. Den vä
 
 ## Matvärde
 
-En femstjärnig matsvamp!
+En supergod matsvamp!
 
 - **Tillagning:** Passar utmärkt i soppor, såser och stuvningar.
 - **Torkning:** Den absolut bästa svampen att torka. Den går snabbt att torka och smaken blir ännu intensivare.

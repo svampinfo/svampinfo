@@ -31,7 +31,7 @@ Växer i mossig barrskog, främst med gran. Den dyker upp sent på hösten och �
 
 ## Matvärde
 
-En femstjärnig matsvamp! Den har en mild men fyllig smak och en härlig konsistens. Den är perfekt att steka för sig själv eller blanda i en finare stuvning.
+En supergod matsvamp! Den har en mild men fyllig smak och en härlig konsistens. Den är perfekt att steka för sig själv eller blanda i en finare stuvning.
 
 ## Förväxlingsrisker
 

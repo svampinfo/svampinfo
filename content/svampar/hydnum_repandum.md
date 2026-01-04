@@ -31,7 +31,7 @@ Trivs i både barr- och lövskog, ofta i mossa eller lövförna. Den bildar ofta
 
 ## Matvärde
 
-En femstjärnig matsvamp! Den har ett fast och fint kött som inte krymper bort i stekpannan. Smaken är mild, ibland med en svag pepprighet som försvinner vid tillagning.
+En supergod matsvamp! Den har ett fast och fint kött som inte krymper bort i stekpannan. Smaken är mild, ibland med en svag pepprighet som försvinner vid tillagning.
 Det är bra att skrapa bort taggarna redan i skogen, då de annars lossnar och skräpar ner bland de andra svamparna i korgen.
 
 ## Förväxlingsrisker

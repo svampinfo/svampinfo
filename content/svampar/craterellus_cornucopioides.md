@@ -28,7 +28,7 @@ Svart trumpetsvamp är svår att upptäcka eftersom den smälter in i de vissna 
 
 ## Matvärde
 
-Detta är en 5-stjärnig matsvamp! Den är otrolig att torka och smula ner i såser, soppor eller pasta. Smaken är djup, mustig och aromatisk.
+Detta är en supergod matsvamp! Den är otrolig att torka och smula ner i såser, soppor eller pasta. Smaken är djup, mustig och aromatisk.
 
 - **Tips:** Rensa noga. Eftersom den är trattformad samlas det ofta barr, grus och småkryp längst ner i röret. Riv gärna isär svampen för att få bort allt skräp.
 
