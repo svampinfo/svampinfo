@@ -8,10 +8,14 @@ edible: true
 poisonous: 0
 rating: 2
 summary: "Fårtickans dubbelgångare i tallskogen. Känns igen på att den får orangea fläckar vid skada."
-image: "/images/albatrellus_subrubescens_01.jpg"
+image: "/images/albatrellus_subrubescens_02.jpg"
 gallery:
-  - url: "/images/albatrellus_subrubescens_01.jpg"
-    credit: ""
+  - url: "/images/albatrellus_subrubescens_02.jpg"
+    credit: "Irene Andersson, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albatrellus_subrubescens.jpg)"
+  - url: "/images/albatrellus_subrubescens_03.jpg"
+    credit: "Edel Humstad, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albatrellus_subrubescens_in_Norway_2.jpg)"
+  - url: "https://assets.artdatabanken.se/image/_5/1932_1958_5.jpg"
+    credit: "© Michael Krikorev"
 ---
 
 > Fårtickans dubbelgångare i tallskogen. Känns igen på att den får orangea fläckar vid skada.
@@ -37,5 +41,4 @@ Där fårtickan väljer granen, väljer lammtickan **tallen**. Den hittas ofta p
 
 - **[Fårticka](/svampar/albatrellus_ovinus/):** Gulnar snarare än rodnar/blir orange, och växer med gran.
 - **[Brödticka](/svampar/albatrellus_confluens/):** Har mörkare, mer aprikosfärgad hatt och växer tuvatt.
-
-* **[Gul lammticka](/svampar/albatrellus_citrinus/):** Får citrongula fläckar och växer med gran.
+- **[Gul lammticka](/svampar/albatrellus_citrinus/):** Får citrongula fläckar och växer med gran.

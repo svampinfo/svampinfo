@@ -12,6 +12,16 @@ image: "/images/albatrellus_ovinus_01.jpg"
 gallery:
   - url: "/images/albatrellus_ovinus_01.jpg"
     credit: "[Bernypisa](https://commons.wikimedia.org/w/index.php?title=User:Bernypisa&amp;action=edit&amp;redlink=1), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
+  - url: "/images/albatrellus_ovinus_02.jpg"
+    credit: "Jerzy Opioła, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albatrellus_ovinusT65.1.jpg)"
+  - url: "https://www.artportalen.se/MediaLibrary/2014/12/df260b00-654a-442f-9aee-a888dfefaece_image.jpg"
+    credit: "© jens maarbjerg, Skanderborg Artportalen"
+  - url: "https://www.artportalen.se/MediaLibrary/2025/11/67809d1d-5d9f-4bff-9a51-01e234b1a89b_image.jpg"
+    credit: "© Björn Bråvander, Uppsala Artportalen"
+  - url: "https://www.artportalen.se/MediaLibrary/2025/11/66a27005-2aec-4f8a-bd9b-40313874843c_image.jpg"
+    credit: "© Björn Bråvander, Uppsala Artportalen"
+  - url: "/images/albatrellus_ovinus_03.jpg"
+    credit: "Emil Doerstling, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pilze_d._Heimat,_T._19_-_Polyporus_ovinus.jpg)"
 ---
 
 > En klassisk matsvamp i barrskogen. Känns igen på sitt vita porlager och att den blir gulgrön vid tillagning.
