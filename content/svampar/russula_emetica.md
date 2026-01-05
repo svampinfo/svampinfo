@@ -48,9 +48,11 @@ Giftkremlan är prototypen för en "röd kremla", men den ska undvikas.
 
 Växer ofta mycket fuktigt, direkt i vitmossa i barrskog eller i kanten av myrar.
 
-## Giftighet
+## Giftighet & Matvärde
 
-Namnet _emetica_ betyder "kräkframkallande". Den orsakar magsmärtor, illamående och kräkningar om den äts rå eller otillräckligt tillagad. Vissa anser att den går att äta efter avkokning, men det rekommenderas inte då det finns så många godare och milda kremlor.
+Namnet _emetica_ betyder "kräkframkallande".
+Den orsakar magsmärtor, illamående och kräkningar om den äts rå eller otillräckligt tillagad.
+Giftet kan kokas bort, och den går då att äta, men det rekommenderas inte då det finns så många godare och milda kremlor.
 
 ## Förväxlingsrisker
 
