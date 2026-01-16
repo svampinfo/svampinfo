@@ -109,6 +109,10 @@ body.dark {
 }
 
 .species-card img.species-card-image {
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
   width: 100% !important;
   height: 200px !important;
   object-fit: cover !important;
