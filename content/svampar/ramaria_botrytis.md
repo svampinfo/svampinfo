@@ -1,5 +1,4 @@
 ---
-
 title: "Druvfingersvamp"
 scientificName: "Ramaria botrytis"
 wikidata: "Q1568901"
@@ -21,6 +20,7 @@ gallery:
   - url: "/images/ramaria_botrytis_04.jpg"
     credit: "[Albin Schmalfuß](https://www.wikidata.org/wiki/Q2639623), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hahnenkamm-1.jpg)"
 ---
+
 > En vacker, koralliknande svamp med rosa grentoppar. En god matsvamp som ung.
 
 ## Kännetecken
@@ -28,21 +28,30 @@ gallery:
 Druvfingersvampen liknar en bit vit korall eller ett litet blomkålshuvud.
 
 - **Form:** Mycket kraftig och köttig stam som delar upp sig i täta grenar.
-- **Toppar:** Grentopparna är trubbiga och vackert **rosa, rödvioletta eller vinröda** (liknar små druvklasar). Med åldern bleknar färgen och blir mer ockragul.
+- **Toppar:** Grentopparna är trubbiga och vackert **rosa, rödvioletta eller vinröda** (liknar små druvklasar).
+  Med åldern bleknar färgen och blir mer ockragul.
 - **Kött:** Vitt och fast.
-- **Smak:** Mild, men grentopparna kan ha en svagt bitter eftersmak.
+- **Smak:** Mild, men grentopparna kan ha en svagt besk eftersmak.
 
 ## Utbredning och Ekologi
 
-Växer främst i äldre bokskogar i södra Sverige, men kan även hittas i mossig barrskog (gärna med inslag av ek). Den är ganska sällsynt.
+Växer främst i äldre bokskogar i södra Sverige, men kan även hittas i mossig barrskog (gärna med inslag av ek).
+Den är ganska sällsynt.
 
 ## Matvärde
 
-En mycket god matsvamp som passar perfekt att fritera eller steka i smör. Endast unga exemplar med fräscha rosa toppar bör plockas, då äldre svampar ofta blir beska och kan ha en laxerande effekt.
+En mycket god matsvamp som passar perfekt att fritera eller steka i smör.
+Endast unga exemplar med fräscha rosa toppar bör plockas,
+då äldre svampar ofta blir beska och kan ha en laxerande effekt.
 
 ## Förväxlingsrisker
 
-Fingersvampar är en svår grupp att artbestämma.
+Fingersvamparna i släktet _Ramaria_ är en utmanande grupp att artbestämma,
+då många arter är mycket lika varandra och deras färger ofta bleknar eller förändras när svampen åldras.
+Det är därför viktigt att titta på både färgen på grentopparna,
+grenarna och stammen, samt att smaka på en liten bit av svampen (spotta ut efteråt)
+för att kontrollera om den är besk.
 
 - **[Lömsk fingersvamp](/svampar/ramaria_formosa/):** **Giftig.** Denna har rosa grenar men **gula toppar** och en vit fot (tre färger). Smakar bittert.
 - **[Blek fingersvamp](/svampar/ramaria_pallida/):** **Giftig.** Är helt blekt grågul eller smutsvit utan de rosa topparna.
+- **[Kamfingersvamp](/svampar/clavulina_cristata/):** Mycket mindre (3–5 cm), vit och har kamliknande, taggiga toppar. Ätlig.

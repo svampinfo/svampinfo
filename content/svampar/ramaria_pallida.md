@@ -31,5 +31,9 @@ Giftig. Orsakar allvarliga mag- och tarmbesvär.
 
 ## Förväxlingsrisker
 
+Många fingersvampar kan vara svåra att skilja åt, särskilt när de börjar bli gamla och bleknar i färgen.
+
 - **[Druvfingersvamp](/svampar/ramaria_botrytis/):** Har rosa toppar.
+- **[Lömsk fingersvamp](/svampar/ramaria_formosa/):** **Giftig.** Har tre tydliga färger: vit fot, rosa grenar och gula toppar.
+- **[Kamfingersvamp](/svampar/clavulina_cristata/):** Betydligt mindre, vit och med taggiga toppar.
 - **[Blomkålssvamp](/svampar/sparassis_crispa/):** Har platta, krusiga blad, inte runda grenar.

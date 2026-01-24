@@ -32,5 +32,9 @@ Giftig. Orsakar kraftiga mag- och tarmbesvär med diarré och kräkningar.
 
 ## Förväxlingsrisker
 
+Det finns många fingersvampar som påminner om varandra, och det är viktigt att vara uppmärksam på de specifika färgkombinationerna för att skilja den giftiga lömska fingersvampen från ätliga arter.
+
 - **[Druvfingersvamp](/svampar/ramaria_botrytis/):** Har **rosa/violetta toppar** (inte gula). Ätlig.
+- **[Blek fingersvamp](/svampar/ramaria_pallida/):** **Giftig.** Saknar de klara färgerna, är mer enhetligt smutsvit eller blekt grågul.
+- **[Kamfingersvamp](/svampar/clavulina_cristata/):** Mycket mindre, vit och med taggiga toppar. Ätlig.
 - **Gula fingersvampar:** Det finns många helt gula eller ockrafärgade arter, undvik dessa om du inte är expert.

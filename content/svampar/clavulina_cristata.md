@@ -33,4 +33,8 @@ Växer ofta i stora eller små grupper direkt på marken. Den trivs i både löv
 
 ## Förväxlingssvampar
 
-Det finns flera små vita fingersvampar, men ingen har kamfingersvampens karaktäristiskt flikade grenspetsar.
+Det finns flera små vita fingersvampar, men ingen har kamfingersvampens karaktäristiskt flikade grenspetsar. Större fingersvampar i släktet _Ramaria_ kan ibland förväxlas av nybörjare, men dessa är betydligt kraftigare.
+
+- **[Blek fingersvamp](/svampar/ramaria_pallida/):** **Giftig.** Mycket större, köttigare och saknar de taggiga kam-topparna.
+- **[Lömsk fingersvamp](/svampar/ramaria_formosa/):** **Giftig.** Stor och trefärgad (vit/rosa/gul).
+- **[Druvfingersvamp](/svampar/ramaria_botrytis/):** Stor matsvamp med rosa toppar.
