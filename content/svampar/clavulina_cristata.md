@@ -1,7 +1,7 @@
 ---
 title: "Kamfingersvamp"
 scientificName: "Clavulina cristata"
-wikidata: "Q84826407"
+wikidata: "Q138027"
 artfakta: "3292"
 slug: "clavulina_cristata"
 edible: true
