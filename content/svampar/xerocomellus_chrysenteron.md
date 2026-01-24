@@ -1,4 +1,5 @@
 ---
+
 title: "Rutsopp"
 scientificName: "Xerocomellus chrysenteron"
 wikidata: "Q254161"
@@ -12,9 +13,24 @@ summary: "Påminner om sammetsopp, men har mer rött på foten och en hatt som o
 image: "/images/xerocomellus_chrysenteron_01.jpg"
 gallery:
   - url: "/images/xerocomellus_chrysenteron_01.jpg"
-    credit: "[DavidCiurea28](https://commons.wikimedia.org/w/index.php?title=User:DavidCiurea28&amp;action=edit&amp;redlink=1), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
+    credit: "[Xerocomus_chrysenteron_a1.jpg](https://commons.wikimedia.org/wiki/File:Xerocomus_chrysenteron_a1.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2012-07-10_Xerocomellus_chrysenteron_crop.jpg)"
+  - url: "/images/xerocomellus_chrysenteron_02.jpg"
+    credit: "Unknown, [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xerocomus_chrysenteron1.jpg)"
+  - url: "/images/xerocomellus_chrysenteron_03.jpg"
+    credit: "[User:Strobilomyces](https://commons.wikimedia.org/wiki/User:Strobilomyces), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xerocomus_chrysenteron_060805_011w.jpg)"
+  - url: "/images/xerocomellus_chrysenteron_04.jpg"
+    credit: "[Jerzy Opioła](https://commons.wikimedia.org/wiki/User:Selso), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xerocomellus_chrysenteron_G4.jpg)"
+  - url: "/images/xerocomellus_chrysenteron_05.jpg"
+    credit: "[Jerzy Opioła](https://commons.wikimedia.org/wiki/User:Selso), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xerocomellus_chrysenteron_a1.JPG)"
+  - url: "/images/xerocomellus_chrysenteron_06.jpg"
+    credit: "[Maja Dumat](https://www.flickr.com/photos/47439717@N05), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rotfußröhrling_(Xerocomellus_chrysenteron).jpg)"
+  - url: "/images/xerocomellus_chrysenteron_07.jpg"
+    credit: "[Internet Archive Book Images](https://www.flickr.com/people/126377022@N07), [No restrictions](https://www.flickr.com/commons/usage/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Annual_report_of_the_Regents_(1900)_(18429597012).jpg)"
+  - url: "/images/xerocomellus_chrysenteron_08.jpg"
+    credit: "Dufour, L., Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_vénéneux_(Planche_60)_(6358027753).jpg)"
+  - url: "/images/xerocomellus_chrysenteron_09.jpg"
+    credit: "[Albin Schmalfuß](https://www.wikidata.org/wiki/Q2639623), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rotfußröhrling-1.jpg)"
 ---
-
 > Påminner om sammetsopp, men har mer rött på foten och en hatt som ofta är uppsprucken och blottar hattköttet i sina rödaste färger.
 
 ## Kännetecken
@@ -36,7 +52,6 @@ Förekommer i södra och mellersta Sverige, där den växer i symbios med ädell
 
 ## Förväxlingssvampar
 
-- [Falsk rutsopp](/svampar/xerocomellus_porosporus/) - dystrare färger, sällan röd i hattsprickor, ätlig.
-- Rödsopp - med röd hattfärg, sällsynt.
-
-* **[Sammetssopp](/svampar/xerocomus_subtomentosus/):** Saknar den röda färgen under hatthuden.
+- **[Falsk rutsopp](/svampar/xerocomellus_porosporus/):** Dystrare färger, sällan röd i hattsprickor, ätlig.
+- **[Sammetssopp](/svampar/xerocomus_subtomentosus/):** Saknar den röda färgen under hatthuden.
+- **Rödsopp:** Har en röd hattfärg, sällsynt.
