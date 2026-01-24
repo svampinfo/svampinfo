@@ -43,4 +43,4 @@ Innehåller **orellanin**, ett cellgift som angriper njurarna. Giftet försvinne
 
 - **[Eldspindling](/svampar/cortinarius_limonius/):** Ljusare rödgul, växer fuktigare. Giftig.
 - **[Gulbandad spindling](/svampar/cortinarius_gentilis/):** Mindre och har gula band på foten. Giftig.
-- **[Rimskivling](/svampar/rozites_caperatus/):** Har en tydlig ring, "rimfrost" på hatten och är en god matsvamp.
+- **[Rimskivling](/svampar/cortinarius_caperatus/):** Har en tydlig ring, "rimfrost" på hatten och är en god matsvamp.

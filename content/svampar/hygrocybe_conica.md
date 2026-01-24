@@ -35,4 +35,4 @@ Svagt giftig. Kan orsaka mag- och tarmbesvär.
 Tack vare att den svartnar är den svår att förväxla med andra ätliga vaxskivlingar.
 
 - **[Scharlakansvaxskivling](/svampar/hygrocybe_punicea/):** Svartnar inte.
-- **[Ängsvaxskivling](/svampar/hygrocybe_pratensis/):** Svartnar inte och har en mer rundad hatt.
+- **[Ängsvaxskivling](/svampar/cuphophyllus_pratensis/):** Svartnar inte och har en mer rundad hatt.

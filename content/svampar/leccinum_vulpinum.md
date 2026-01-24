@@ -42,4 +42,4 @@ God och fast, men **kräver minst 15-20 minuters tillagning** för att inte orsa
 ## Förväxlingsrisker
 
 - **[Tegelsopp](/svampar/leccinum_versipelle/):** Växer med björk.
-- **[Aspsopp](/svampar/leccinum_rufum/):** Växer med asp och har ljusare tofsar på foten.
+- **[Aspsopp](/svampar/leccinum_aurantiacum_s.lat./):** Växer med asp och har ljusare tofsar på foten.

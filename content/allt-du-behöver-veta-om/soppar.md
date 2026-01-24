@@ -25,7 +25,7 @@ de vanligaste grupperna. Det hjälper dig att se släktskap och likheter.
 - **Strävsoppar (_Leccinum_):** En stor grupp (t.ex. björksopp och aspsopp)
   som känns igen på att foten är täckt av små mörka "tofsar" eller fjäll,
   vilket får den att se orakad ut. **Obs:** Strävsoppar måste tillagas
-  ordentligt (minst 15-20 minuter), annars kan de ge magknip.
+  ordentligt (minst en kvart), annars kan de ge magknip.
 - **Sammetssoppar (_Xerocomus_):** Hit hör många av våra vanligaste soppar
   som rutsopp och sammetssopp. De har ofta smalare fötter utan nät och en
   sammetsluden hatt.
@@ -35,9 +35,9 @@ de vanligaste grupperna. Det hjälper dig att se släktskap och likheter.
 Är du osäker? Följ denna enkla nyckel.
 Om svaret är **JA** på alla tre frågorna är svampen en säker matsvamp.
 
-1.  Har den ett rörlager -- som en "tvättsvamp" -- under hatten?
-2.  Är rörlagret och foten **inte** röd?
-3.  Smakar en liten bit av svampen milt (dvs. **inte** galla/beskt)?
+1. Har den ett rörlager -- som en "tvättsvamp" -- under hatten?
+2. Är rörlagret och foten **inte** röd?
+3. Smakar en liten bit av svampen milt (dvs. **inte** galla/beskt)?
 
 Om du följer detta riskerar du i princip bara att få med dig en och annan
 smaklös svamp hem, men inget farligt.
@@ -64,11 +64,11 @@ Här är några av skogens absoluta höjdare som du bör hålla utkik efter.
 {{< species-card path="svampar/boletus_edulis.md" >}}
 {{< species-card path="svampar/boletus_pinophilus.md" >}}
 {{< species-card path="svampar/boletus_reticulatus.md" >}}
-{{< species-card path="svampar/boletus_badius.md" >}}
+{{< species-card path="svampar/imleria_badia.md" >}}
 {{< species-card path="svampar/suillus_luteus.md" >}}
 {{< species-card path="svampar/suillus_granulatus.md" >}}
 {{< species-card path="svampar/leccinum_versipelle.md" >}}
-{{< species-card path="svampar/boletus_luridiformis.md" >}}
+{{< species-card path="svampar/neoboletus_luridiformis.md" >}}
 {{< /species-grid >}}
 
 ### Se upp för "förstöraren"
@@ -110,9 +110,9 @@ De fyller dock en funktion som utfyllnad i svampkorgen.
 
 {{< species-grid >}}
 {{< species-card path="svampar/suillus_bovinus.md" >}}
-{{< species-card path="svampar/boletus_chrysenteron.md" >}}
-{{< species-card path="svampar/boletus_porosporus.md" >}}
-{{< species-card path="svampar/boletus_subtomentosus.md" >}}
+{{< species-card path="svampar/xerocomellus_chrysenteron.md" >}}
+{{< species-card path="svampar/xerocomellus_porosporus.md" >}}
+{{< species-card path="svampar/xerocomus_subtomentosus_s.lat..md" >}}
 {{< species-card path="svampar/suillus_grevillei.md" >}}
 {{< species-card path="svampar/leccinum_pseudoscabrum.md" >}}
 {{< /species-grid >}}
@@ -139,7 +139,7 @@ det sannolikt en **Blodsopp**.
   Den skiljer sig genom att ha ett tydligt rött nätmönster på foten.
 
 {{< species-grid >}}
-{{< species-card path="svampar/boletus_luridiformis.md" >}}
+{{< species-card path="svampar/neoboletus_luridiformis.md" >}}
 {{< species-card path="svampar/suillellus_luridus.md" >}}
 {{< /species-grid >}}
 
@@ -155,7 +155,7 @@ Om svampen har röda rör men en **kalkvit** eller **blekgrå** hatt, då ska va
   extremt kraftigt och snabbt vid beröring. Känns igen på den purpurröda foten.
 
 {{< species-grid >}}
-{{< species-card path="svampar/boletus_satanas.md" >}}
+{{< species-card path="svampar/rubroboletus_satanas.md" >}}
 {{< species-card path="svampar/imperator_rhodopurpureus.md" >}}
 {{< /species-grid >}}
 

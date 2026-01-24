@@ -3,13 +3,13 @@ title: "Blodspindling"
 scientificName: "Cortinarius sanguineus s. lat."
 wikidata: "Q9387379"
 artfakta: "245726"
-slug: "cortinarius_sanguineus"
+slug: "cortinarius_sanguineus_s._lat."
 edible: false
 poisonous: 1
 summary: "En liten, helt blodröd svamp som är populär för svampfärgning men giftig att äta."
-image: "/images/cortinarius_sanguineus_01.jpg"
+image: "/images/cortinarius_sanguineus_s._lat._01.jpg"
 gallery:
-  - url: "/images/cortinarius_sanguineus_01.jpg"
+  - url: "/images/cortinarius_sanguineus_s._lat._01.jpg"
     credit: "Jerzy Opioła, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 ---
 

@@ -3,7 +3,7 @@ title: "Ringbitterskivling"
 scientificName: "Gymnopilus spectabilis"
 wikidata: "Q103817247"
 artfakta: "4246"
-slug: "gymnopilus_junonius"
+slug: "gymnopilus_spectabilis"
 edible: false
 poisonous: 1
 summary: "En stor och praktfull gulorange svamp som växer på stubbar. Smakar mycket bittert."
@@ -41,4 +41,4 @@ Oätlig på grund av den bittra smaken. I vissa delar av världen (utanför Euro
 ## Förväxlingsrisker
 
 - **Honungsskivling:** Kan likna den vid första anblick, men honungsskivlingen är mindre och har vitt sporpulver (ringbitterskivlingens är rostbrunt).
-- **[Föränderlig tofsskivling](/svampar/pholiota_mutabilis/):** Mindre, har fjällig fot och är en god matsvamp.
+- **[Föränderlig tofsskivling](/svampar/kuehneromyces_mutabilis/):** Mindre, har fjällig fot och är en god matsvamp.

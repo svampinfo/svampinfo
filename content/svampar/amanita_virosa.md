@@ -64,8 +64,8 @@ Innehåller amatoxiner som förstör levern. Symtomen kommer sent, ofta efter at
 - **[Granvaxskivling](/svampar/hygrophorus_piceae/):** Har nedlöpande skivor och saknar ring/strumpa.
 - **[Vit kungschampinjon](/svampar/agaricus_urinascens/):** Har färgade skivor som äldre och saknar strumpa.
 - **[Ängschampinjon](/svampar/agaricus_campestris/):** Rosa/bruna skivor, ingen strumpa.
-- **[Rättikmusseron](/svampar/tricholoma_album/):** Luktar starkt av rättika, ingen ring/strumpa.
-- **[Vitgul flugsvamp (var. alba)](/svampar/amanita_citrina_var._alba/):** Luktar potatis, har kantad knöl (ej sladdrig strumpa).
+- **[Rättikmusseron](/svampar/tricholoma_stiparophyllum/):** Luktar starkt av rättika, ingen ring/strumpa.
+- **[Vitgul flugsvamp (var. alba)](/svampar/amanita_citrina_f._alba/):** Luktar potatis, har kantad knöl (ej sladdrig strumpa).
 - **[Knölchampinjon](/svampar/agaricus_sylvicola/):** Färgade skivor, mandeldoft.
 - **[Stinksvamp](/svampar/phallus_impudicus/):** Unga flugsvampar i "äggstadiet" kan likna häxägg.
   Stinksvampens ägg har dock ett tjockt gelatinöst lager under huden och saknar tydliga anlag till skivor.

@@ -37,7 +37,7 @@ En bra matsvamp med mild smak. Den passar utmärkt att blanda med andra svampar.
 - **[Gul rottryffel](/svampar/scleroderma_citrinum/):** **Giftig.** Har ett mycket tjockare, hårt skal och är **svartlila** inuti även som ung.
 - **Flugsvamps-bebisar:** Unga flugsvampar i "äggstadiet" kan likna röksvampar, men om man skär dem mitt itu ser man anlaget till en skivsvamp inuti.
 
-- **[Jätteröksvamp](/svampar/calvatia_gigantea/):** Mycket större och slätare. Ätlig.
+- **[Jätteröksvamp](/svampar/langermannia_gigantea/):** Mycket större och slätare. Ätlig.
 - **[Potatisrottryffel](/svampar/scleroderma_bovista/):** Svart inuti och giftig.
 - **[Stinksvamp (häxägg)](/svampar/phallus_impudicus/):** Har ett gelatinöst lager inuti, till skillnad från röksvampens fasta vita kött.
 - **[Liten stinksvamp (häxägg)](/svampar/mutinus_caninus/):** Mycket mindre, men har också ett gelatinöst lager inuti.

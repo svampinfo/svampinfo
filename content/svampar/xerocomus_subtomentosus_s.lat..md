@@ -3,14 +3,14 @@ title: "Sammetssopp"
 scientificName: "Xerocomus subtomentosus s.lat."
 wikidata: "Q198817"
 artfakta: "263734"
-slug: "boletus_subtomentosus"
+slug: "xerocomus_subtomentosus_s.lat."
 edible: true
 poisonous: 0
 rating: 2
 summary: "Ätlig och hyfsat god i en blandsvampanrättning, men använd bara fasta ex. och rensa bort den något träiga foten innan användning."
-image: "/images/boletus_subtomentosus_01.jpg"
+image: "/images/xerocomus_subtomentosus_s.lat._01.jpg"
 gallery:
-  - url: "/images/boletus_subtomentosus_01.jpg"
+  - url: "/images/xerocomus_subtomentosus_s.lat._01.jpg"
     credit: ""
 ---
 
@@ -36,6 +36,6 @@ Den är ätlig och fungerar bra som blandsvamp. Fotens konsistens blir dock ofta
 ## Förväxlingssvampar
 
 - Rödsopp - med röd hatt, sällsynt, ätlig.
-- [Rutsopp](/svampar/boletus_chrysenteron/) - hatt ofta uppsprickande, med röda färger, ätlig.
-- [Falsk rutsopp](/svampar/boletus_porosporus/) - hatt uppsprickande, ätlig.
-- [Brunsopp](/svampar/boletus_badius/) - mörkbrun hatt, utan ådernät på foten, god matsvamp.
+- [Rutsopp](/svampar/xerocomellus_chrysenteron/) - hatt ofta uppsprickande, med röda färger, ätlig.
+- [Falsk rutsopp](/svampar/xerocomellus_porosporus/) - hatt uppsprickande, ätlig.
+- [Brunsopp](/svampar/imleria_badia/) - mörkbrun hatt, utan ådernät på foten, god matsvamp.

@@ -46,4 +46,4 @@ En god matsvamp som dock blir tråkigt mörk/grå vid tillagning. Smaken är det
 
 - **Gallkremla:** Gulaktig, men smakar brännande skarpt.
 - **Senapskremla:** Smutsgul, smakar skarpt.
-- **[Äggkremla](/svampar/russula_lutea/):** Liten, mörkare gul (äggula), grånar inte.
+- **[Äggkremla](/svampar/russula_vitellina/):** Liten, mörkare gul (äggula), grånar inte.

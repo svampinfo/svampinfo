@@ -46,7 +46,7 @@ En trygg och god matsvamp som ger bra skörd. Den svarta färgen vid tillagning 
 
 ## Förväxlingsrisker
 
-- **[Vinkremla](/svampar/russula_obscura/):** Liknar tegelkremlan och grånar också,
+- **[Vinkremla](/svampar/russula_vinosa/):** Liknar tegelkremlan och grånar också,
   men har en mörkare, vinröd hatt. Också god.
 - **[Mandelkremla](/svampar/russula_integra/):** Grånar inte i köttet. God matsvamp.
 - **Giftiga röda kremlor:** (T.ex. [Giftkremla](/svampar/russula_emetica/)) Har **vita** skivor (tegelkremlan har gula) och grånar inte. Smaka en liten bit – är det skarpt, spotta ut.

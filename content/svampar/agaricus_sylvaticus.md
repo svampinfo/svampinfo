@@ -3,7 +3,7 @@ title: "Skogschampinjon"
 scientificName: "Agaricus sylvaticus"
 wikidata: "Q1097213"
 artfakta: "2941"
-slug: "agaricus_silvaticus"
+slug: "agaricus_sylvaticus"
 edible: true
 poisonous: 0
 rating: 3

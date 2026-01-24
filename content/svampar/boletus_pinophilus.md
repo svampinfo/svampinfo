@@ -37,5 +37,5 @@ Delikatess! Används på exakt samma sätt som vanlig Karljohan.
 
 - **[Karljohan](/svampar/boletus_edulis/):** Ljusare brun hatt, växer oftare med gran/lövträd.
 - **[Finluden stensopp](/svampar/boletus_reticulatus/):** Ljusare brun hatt, växer med ek/bok.
-- **[Brunsopp](/svampar/boletus_badius/):** Saknar ådernät och blånar vid tryck.
+- **[Brunsopp](/svampar/imleria_badia/):** Saknar ådernät och blånar vid tryck.
 - **[Gallsopp](/svampar/tylopilus_felleus/):** Smakar beskt, har mörkt ådernät och rosa porer.

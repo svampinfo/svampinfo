@@ -32,4 +32,4 @@ En bra och köttig matsvamp.
 
 ## Förväxlingsrisker
 
-- **[Ängsvaxskivling](/svampar/hygrocybe_pratensis/):** Mycket lik men växer på öppna marker (ängar), inte i skogen. Båda är goda matsvampar.
+- **[Ängsvaxskivling](/svampar/cuphophyllus_pratensis/):** Mycket lik men växer på öppna marker (ängar), inte i skogen. Båda är goda matsvampar.

@@ -37,5 +37,5 @@ En supergod matsvamp. Har ofta en ännu starkare och kryddigare doft än vanlig 
 
 - **[Karljohan](/svampar/boletus_edulis/):** Har slät/klibbig hatt och växer oftare senare på hösten.
 - **[Rödbrun stensopp](/svampar/boletus_pinophilus/):** Har mörkare rödbrun hatt och växer med tall.
-- **[Brunsopp](/svampar/boletus_badius/):** Saknar ådernät, har sammetsluden hatt och blånar vid tryck.
+- **[Brunsopp](/svampar/imleria_badia/):** Saknar ådernät, har sammetsluden hatt och blånar vid tryck.
 - **[Gallsopp](/svampar/tylopilus_felleus/):** Smakar beskt, har mörkt ådernät och rosa porer.

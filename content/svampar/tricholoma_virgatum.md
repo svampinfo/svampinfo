@@ -34,4 +34,4 @@ Orsakar magbesvär. Den bittra smaken gör den dessutom omöjlig att äta.
 - **[Streckmusseron](/svampar/tricholoma_portentosum/):** Har en mörkare, mer rundad hatt (ingen vass spets), smakar milt och gott, och har ofta gula toner på skivor/fot.
 - **Jordmusseron:** Mindre, filtig/luden hatt, mild smak.
 
-* **[Fjällig gallmusseron](/svampar/tricholoma_bresadolianum/):** Fjälligare hatt och växer med ek.
+* **[Fjällig gallmusseron](/svampar/tricholoma_bresadolanum/):** Fjälligare hatt och växer med ek.

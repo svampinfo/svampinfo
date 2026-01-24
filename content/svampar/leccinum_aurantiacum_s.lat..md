@@ -3,7 +3,7 @@ title: "Aspsopp"
 scientificName: "Leccinum aurantiacum s.lat."
 wikidata: "Q728184"
 artfakta: "259546"
-slug: "leccinum_rufum"
+slug: "leccinum_aurantiacum_s.lat."
 edible: true
 poisonous: 0
 rating: 3

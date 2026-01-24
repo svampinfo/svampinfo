@@ -3,7 +3,7 @@ title: "Falsk djävulssopp"
 scientificName: "Rubroboletus legaliae"
 wikidata: "Q2656745"
 artfakta: "156"
-slug: "boletus_splendidus"
+slug: "rubroboletus_legaliae"
 edible: false
 poisonous: 1
 summary: "Kan påminna om eldsopp eller djävulssopp. Har dock en speciell kryddartad lukt som av lakrits eller buljongtärning, speciellt efter intorkning. Hatt blekt grå till gråbrun, med åldern ofta rosafläckad. Växer med ek i varma lägen på kalkrik mark."
@@ -17,6 +17,6 @@ gallery:
 
 ## Förväxlingssvampar
 
-- [Djävulssopp](/svampar/boletus_satanas/) - blånar inte kraftigt på hattöversida efter beröring, giftig.
+- [Djävulssopp](/svampar/rubroboletus_satanas/) - blånar inte kraftigt på hattöversida efter beröring, giftig.
 - [Purpursopp](/svampar/imperator_rhodopurpureus/) - också giftig, har hatt som blånar kraftigt vid beröring.
 - [Eldsopp](/svampar/suillellus_luridus/) - ätlig som tillagad, har olivbrun hatt och saknar den kryddiga lukten.

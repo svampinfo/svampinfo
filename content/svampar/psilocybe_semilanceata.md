@@ -49,4 +49,4 @@ Det finns många små bruna svampar i gräsmarker som kan vara svåra att skilja
 
 - **Slåtterbroksskivling:** Har en mer rundad hatt utan spets och en rakare fot. Oätlig.
 - **Hättingar:** Ofta runda eller klockformade utan den typiska "nippeln" på toppen.
-- **[Gifttrattskivling](/svampar/clitocybe_dealbata/):** Vitaktig och har nedlöpande skivor. Mycket giftig.
+- **[Gifttrattskivling](/svampar/clitocybe_rivulosa/):** Vitaktig och har nedlöpande skivor. Mycket giftig.

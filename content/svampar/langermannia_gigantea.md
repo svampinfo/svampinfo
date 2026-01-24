@@ -3,7 +3,7 @@ title: "Jätteröksvamp"
 scientificName: "Langermannia gigantea"
 wikidata: "Q49550411"
 artfakta: "3201"
-slug: "calvatia_gigantea"
+slug: "langermannia_gigantea"
 edible: true
 poisonous: 0
 rating: 2

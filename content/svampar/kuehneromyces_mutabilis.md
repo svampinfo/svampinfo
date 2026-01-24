@@ -3,7 +3,7 @@ title: "Föränderlig tofsskivling"
 scientificName: "Kuehneromyces mutabilis"
 wikidata: "Q732640"
 artfakta: "5499"
-slug: "pholiota_mutabilis"
+slug: "kuehneromyces_mutabilis"
 edible: true
 poisonous: 0
 rating: 3
@@ -42,5 +42,5 @@ Denna svamp får **endast plockas av experter** på grund av likheten med en av 
 
 **Regel:** Kontrollera foten på varenda svamp i klungan! Om du inte ser tydliga utstående fjäll på foten – kasta den.
 
-- **[Ringbitterskivling](/svampar/gymnopilus_junonius/):** Mycket större, har brunt sporpulver och smakar bittert.
+- **[Ringbitterskivling](/svampar/gymnopilus_spectabilis/):** Mycket större, har brunt sporpulver och smakar bittert.
 - **[Rökslöjskivling](/svampar/hypholoma_capnoides/):** Har grå skivor och växer på barrved. Ätlig.

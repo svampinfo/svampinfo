@@ -3,7 +3,7 @@ title: "Djävulssopp"
 scientificName: "Rubroboletus satanas"
 wikidata: "Q26203731"
 artfakta: "161"
-slug: "boletus_satanas"
+slug: "rubroboletus_satanas"
 edible: false
 poisonous: 1
 summary: "En stor, vacker men giftig sopp med vitgrå hatt och röd fot. Mycket sällsynt och fridlyst."
@@ -34,8 +34,8 @@ Orsakar kraftiga mag- och tarmbesvär med kräkningar och diarré.
 
 ## Förväxlingsrisker
 
-- **[Falsk djävulssopp](/svampar/boletus_splendidus/):** Också giftig och sällsynt. Har ofta rosa fläckar på hatten.
-- **[Blodsopp](/svampar/boletus_luridiformis/):** Ätlig. Har mörkbrun hatt (inte vitgrå) och saknar ådernät (har rödprickig fot).
+- **[Falsk djävulssopp](/svampar/rubroboletus_legaliae/):** Också giftig och sällsynt. Har ofta rosa fläckar på hatten.
+- **[Blodsopp](/svampar/neoboletus_luridiformis/):** Ätlig. Har mörkbrun hatt (inte vitgrå) och saknar ådernät (har rödprickig fot).
 - **[Eldsopp](/svampar/suillellus_luridus/):** Ätlig. Har också röd fot och röda rör, men hatten är brun/olivtonad, inte vitgrå.
 - **[Purpursopp](/svampar/imperator_rhodopurpureus/):** Giftig. Hatten blånar kraftigt vid beröring och är inte lika vitgrå.
 

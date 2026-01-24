@@ -38,6 +38,6 @@ Innehåller samma nervgifter (ibotensyra/muscimol) som röd flugsvamp och panter
 - **[Stolt fjällskivling](/svampar/macrolepiota_procera/):** Har mörka fjäll på ljus botten, inte ljusa prickar på mörk botten.
 - **[Blodchampinjon](/svampar/agaricus_langei/):** Kan ha en liknande brun färg på hatten, men rodnar vid snitt och har mörka skivor.
 
-* **[Skogschampinjon](/svampar/agaricus_silvaticus/):** Rodnar vid snitt och har mörka skivor.
+* **[Skogschampinjon](/svampar/agaricus_sylvaticus/):** Rodnar vid snitt och har mörka skivor.
 
 * **[Kungschampinjon](/svampar/agaricus_augustus/):** Gulnar vid tryck, doftar mandel och har mörka skivor.

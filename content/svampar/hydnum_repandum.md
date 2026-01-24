@@ -38,5 +38,5 @@ Det är bra att skrapa bort taggarna redan i skogen, då de annars lossnar och s
 
 Det finns inga giftiga svampar med taggar.
 
-- **[Rödgul taggsvamp](/svampar/hydnum_rufescens/):** Mindre, tunnare, mer aprikosfärgad och har taggar som inte löper ner på foten. Också god!
+- **[Rödgul taggsvamp](/svampar/hydnum_rufescens_s._lat./):** Mindre, tunnare, mer aprikosfärgad och har taggar som inte löper ner på foten. Också god!
 - **Motaggsvamp:** Mörkbrun med mörka taggar. Oätlig (men inte farlig).

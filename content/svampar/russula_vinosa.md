@@ -3,7 +3,7 @@ title: "Vinkremla"
 scientificName: "Russula vinosa"
 wikidata: "Q113988"
 artfakta: "5902"
-slug: "russula_obscura"
+slug: "russula_vinosa"
 edible: true
 poisonous: 0
 rating: 3

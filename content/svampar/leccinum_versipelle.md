@@ -41,6 +41,6 @@ Tegelsoppen är fastare i köttet än den vanliga björksoppen och därför en b
 
 ## Förväxlingsrisker
 
-- **[Aspsopp](/svampar/leccinum_rufum/):** Har vita/bruna tofsar på foten (inte svarta) och växer med asp.
+- **[Aspsopp](/svampar/leccinum_aurantiacum_s.lat./):** Har vita/bruna tofsar på foten (inte svarta) och växer med asp.
 - **[Tallsopp](/svampar/leccinum_vulpinum/):** Växer med tall.
 - **[Björksopp](/svampar/leccinum_scabrum/):** Brun hatt, köttet svartnar inte.

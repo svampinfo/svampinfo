@@ -29,4 +29,4 @@ Växer i barrskog, gärna fuktig sådan med mossa.
 
 ## Förväxlingsrisker
 
-Kan förväxlas med andra ljusa musseroner som **[silkesmusseron](/svampar/tricholoma_columbetta/)** eller **[rättikmusseron](/svampar/tricholoma_album/)**, men lukten är unik.
+Kan förväxlas med andra ljusa musseroner som **[silkesmusseron](/svampar/tricholoma_columbetta/)** eller **[rättikmusseron](/svampar/tricholoma_stiparophyllum/)**, men lukten är unik.

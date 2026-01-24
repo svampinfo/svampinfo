@@ -65,7 +65,7 @@ Efter en tillfällig förbättring kan leversvikt inträffa.
 
 Det är mycket viktigt att känna igen gifthättingen om man plockar andra svampar som växer på ved (stubbsvampar).
 
-- **[Föränderlig tofsskivling](/svampar/pholiota_mutabilis/):** Matsvamp. Mycket lik.
+- **[Föränderlig tofsskivling](/svampar/kuehneromyces_mutabilis/):** Matsvamp. Mycket lik.
   Tofsskivlingen har tydliga _utstående fjäll_ på foten (som "tofsar").
   Gifthättingen har bara vita, intryckta trådar på foten.
 - **[Vinterskivling](/svampar/flammulina_velutipes/):** Matsvamp som växer på vintern.

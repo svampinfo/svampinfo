@@ -37,7 +37,7 @@ En utmärkt matsvamp som ger en fin smak till stuvningar och såser. Eftersom k�
 
 Mjölskivlingen liknar flera farliga vita svampar.
 
-- **[Gifttrattskivling](/svampar/clitocybe_dealbata/):** Mycket giftig. Den har **vitt sporpulver** (mjölskivlingens är rosa) och saknar den tydliga mjöldoften. Den har dessutom segare kött.
+- **[Gifttrattskivling](/svampar/clitocybe_rivulosa/):** Mycket giftig. Den har **vitt sporpulver** (mjölskivlingens är rosa) och saknar den tydliga mjöldoften. Den har dessutom segare kött.
 - **[Lövtrattskivling](/svampar/clitocybe_phyllophila/):** Också giftig och växer ofta på lövförna.
 - **[Bolmörtsskivling](/svampar/entoloma_sinuatum/):** Mycket giftig. Den är kraftigare, har rosa skivor men dessa är **urnupna** (inte nedlöpande) vid foten.
 

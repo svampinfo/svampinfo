@@ -74,7 +74,7 @@ Som utvuxen är den svår att förväxla med något annat än andra stinksvampar
 
 - **[Vårtig röksvamp](/svampar/lycoperdon_perlatum/):** Häxägg kan likna röksvampar, men röksvampar är helvita och fasta inuti (som färskost).
 
-- **[Jätteröksvamp](/svampar/calvatia_gigantea/):** Mycket små exemplar kan likna häxägg.
+- **[Jätteröksvamp](/svampar/langermannia_gigantea/):** Mycket små exemplar kan likna häxägg.
 
 - **Vita flugsvampar som [Lömsk flugsvamp](/svampar/amanita_phalloides/) och [Vit flugsvamp](/svampar/amanita_virosa/)):** Även flugsvampar startar som "ägg". Vid genomskärning av ett flugsvampsägg syns dock anlagen till hatt och skivor tydligt, och det tjocka gelatinösa lagret saknas.
 - **[Stenmurkla](/svampar/gyromitra_esculenta/):** Har en veckad, hjärnlik hatt (inte nätmönstrad med klibbig gleba) och saknar den stinkande lukten.

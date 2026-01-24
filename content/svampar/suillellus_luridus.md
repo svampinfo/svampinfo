@@ -64,11 +64,11 @@ Försiktighet rekommenderas dock alltid.
 
 ## Förväxlingssvampar
 
-- **[Blodsopp](/svampar/boletus_luridiformis/):** Matsvamp av högre kvalitet.
+- **[Blodsopp](/svampar/neoboletus_luridiformis/):** Matsvamp av högre kvalitet.
   Har **röda prickar** på foten (saknar ådernät) och mörkbrun hatt.
-- **[Djävulssopp](/svampar/boletus_satanas/):** Giftig. Har en **vitgrå** hatt
+- **[Djävulssopp](/svampar/rubroboletus_satanas/):** Giftig. Har en **vitgrå** hatt
   och växer sällsynt på Öland/Gotland. Luktar illa.
 - **[Purpursopp](/svampar/imperator_rhodopurpureus/):** Giftig. Har en hatt som
   blånar extremt kraftigt vid beröring och är ofta gropig.
-- **[Falsk djävulssopp](/svampar/boletus_splendidus/):** Giftig. Har ofta rosa
+- **[Falsk djävulssopp](/svampar/rubroboletus_legaliae/):** Giftig. Har ofta rosa
   fläckar på hatten och luktar kryddartat.

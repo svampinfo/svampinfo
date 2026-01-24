@@ -52,6 +52,6 @@ En god matsvamp som dock bör tillagas ordentligt (förvällas eller stekas län
 
 ## Förväxlingsrisker
 
-- **[Höstmusseron](/svampar/lepista_personata/):** Har blekt brungrå hatt och violett fot. Lika god matsvamp.
+- **[Höstmusseron](/svampar/lepista_saeva/):** Har blekt brungrå hatt och violett fot. Lika god matsvamp.
 - **Violetta spindlingar:** (T.ex. bockspindling) Dessa har **brunt sporpulver** (blåmusseronen har vitt/ljust rosa) och en spindelvävslik hinna (cortina) mellan hatt och fot som unga. De doftar ofta illa (vidbränd potatis).
 - **Ametistskivling:** Mycket mindre och spensligare.

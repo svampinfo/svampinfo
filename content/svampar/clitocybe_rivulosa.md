@@ -3,7 +3,7 @@ title: "Gifttrattskivling"
 scientificName: "Clitocybe rivulosa"
 wikidata: "Q2720076"
 artfakta: "239284"
-slug: "clitocybe_dealbata"
+slug: "clitocybe_rivulosa"
 edible: false
 poisonous: 1
 summary: "En liten vit trattskivling som växer i gräsmattor. Mycket giftig."

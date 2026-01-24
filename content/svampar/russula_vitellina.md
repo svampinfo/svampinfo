@@ -3,7 +3,7 @@ title: "Äggkremla"
 scientificName: "Russula vitellina"
 wikidata: "Q108334785"
 artfakta: "5889"
-slug: "russula_lutea"
+slug: "russula_vitellina"
 edible: true
 poisonous: 0
 rating: 3

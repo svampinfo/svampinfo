@@ -64,6 +64,6 @@ En supergod matsvamp. Den går att använda till allt: stuvning, soppa, sås, pa
 
 * **[Finluden stensopp](/svampar/boletus_reticulatus/):** Lika god. Har finluden hatt och växer med ek/bok.
 
-* **[Brunsopp](/svampar/boletus_badius/):** Blånar vid tryck, saknar ådernät. Mycket god.
+* **[Brunsopp](/svampar/imleria_badia/):** Blånar vid tryck, saknar ådernät. Mycket god.
 
 - **[Rödbrun stensopp](/svampar/boletus_pinophilus/):** Mörkare rödbrun hatt, växer med tall. Lika god.

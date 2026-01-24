@@ -3,7 +3,7 @@ title: "Rutsopp"
 scientificName: "Xerocomellus chrysenteron"
 wikidata: "Q254161"
 artfakta: "3125"
-slug: "boletus_chrysenteron"
+slug: "xerocomellus_chrysenteron"
 edible: true
 poisonous: 0
 rating: 1
@@ -35,7 +35,7 @@ Förekommer i södra och mellersta Sverige, där den växer i symbios med ädell
 
 ## Förväxlingssvampar
 
-- [Falsk rutsopp](/svampar/boletus_porosporus/) - dystrare färger, sällan röd i hattsprickor, ätlig.
+- [Falsk rutsopp](/svampar/xerocomellus_porosporus/) - dystrare färger, sällan röd i hattsprickor, ätlig.
 - Rödsopp - med röd hattfärg, sällsynt.
 
-* **[Sammetssopp](/svampar/boletus_subtomentosus/):** Saknar den röda färgen under hatthuden.
+* **[Sammetssopp](/svampar/xerocomus_subtomentosus_s.lat./):** Saknar den röda färgen under hatthuden.

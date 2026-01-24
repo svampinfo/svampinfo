@@ -60,7 +60,7 @@ En utmärkt matsvamp som tyvärr ofta glöms bort. Den passar perfekt i stuvning
 
 - **[Svavelgul slöjskivling](/svampar/hypholoma_fasciculare/):** **Giftig.** Denna har **gulgröna** skivor och smakar brännande **bittert**. Den växer oftast på lövträ (men kan finnas på barrved).
 - **Tegelröd slöjskivling:** Har en tegelröd hatt och smakar också bittert.
-- **[Föränderlig tofsskivling](/svampar/pholiota_mutabilis/):** Växer också på stubbar men har bruna skivor och fjällig fot.
+- **[Föränderlig tofsskivling](/svampar/kuehneromyces_mutabilis/):** Växer också på stubbar men har bruna skivor och fjällig fot.
 - **[Gifthätting](/svampar/galerina_marginata/):** **Dödligt giftig.** Har bruna skivor, ring på foten och brunt sporpulver.
 - **[Vinterskivling](/svampar/flammulina_velutipes/):** Har sammetsluden fot och växer på vintern. God matsvamp.
 

@@ -35,5 +35,5 @@ En fantastisk matsvamp med mycket arom. Man använder bara hattarna då foten ä
 
 Eftersom den växer i gräsmattor finns en risk för förväxling med små, giftiga arter.
 
-- **[Gifttrattskivling](/svampar/clitocybe_dealbata/):** **Mycket giftig.** Denna har **tättsittande, nedlöpande skivor** (nejlikbroskingens är glesa och fria) och doftar mjöl, inte nejlika.
+- **[Gifttrattskivling](/svampar/clitocybe_rivulosa/):** **Mycket giftig.** Denna har **tättsittande, nedlöpande skivor** (nejlikbroskingens är glesa och fria) och doftar mjöl, inte nejlika.
 - **Slåtterhätting:** Mindre, har mörka skivor och doftar inte nejlika.

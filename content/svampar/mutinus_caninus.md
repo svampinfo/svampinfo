@@ -52,4 +52,4 @@ De saknar den rejäla, fasta kärna som gör stinksvampens ägg ätbara, och bet
   men rottryffeln är hård inuti och saknar det gelatinösa lagret.
 - **[Vårtig röksvamp](/svampar/lycoperdon_perlatum/) & andra röksvampar:** Häxägg kan likna unga röksvampar, men dessa är helt vita och fasta inuti (som färskost) och saknar det gelatinösa lagret.
 - **[Potatisrottryffel](/svampar/scleroderma_bovista/):** Liknar häxägget till form och storlek, men är svart inuti och giftig.
-- **[Jätteröksvamp](/svampar/calvatia_gigantea/):** Mycket små exemplar kan likna häxägg, men är helvita och fasta inuti.
+- **[Jätteröksvamp](/svampar/langermannia_gigantea/):** Mycket små exemplar kan likna häxägg, men är helvita och fasta inuti.

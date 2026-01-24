@@ -3,13 +3,13 @@ title: "Fjällig gallmusseron"
 scientificName: "Tricholoma bresadolanum"
 wikidata: "Q10496030"
 artfakta: "2071"
-slug: "tricholoma_bresadolianum"
+slug: "tricholoma_bresadolanum"
 edible: false
 poisonous: 1
 summary: "En sällsynt, grå och fjällig musseron som växer med ek. Smakar bittert."
-image: "/images/tricholoma_bresadolianum_01.jpg"
+image: "/images/tricholoma_bresadolanum_01.jpg"
 gallery:
-  - url: "/images/tricholoma_bresadolianum_01.jpg"
+  - url: "/images/tricholoma_bresadolanum_01.jpg"
     credit: "[James Baker (cepecity)](https://mushroomobserver.org/observer/show_user/354) at [Mushroom Observer](https://mushroomobserver.org), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 ---
 

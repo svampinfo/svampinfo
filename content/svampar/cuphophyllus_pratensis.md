@@ -3,7 +3,7 @@ title: "Ängsvaxskivling"
 scientificName: "Cuphophyllus pratensis"
 wikidata: "Q934772"
 artfakta: "239218"
-slug: "hygrocybe_pratensis"
+slug: "cuphophyllus_pratensis"
 edible: true
 poisonous: 0
 rating: 3

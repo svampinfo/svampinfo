@@ -3,7 +3,7 @@ title: "Grå bläcksvamp"
 scientificName: "Coprinopsis atramentaria"
 wikidata: "Q728673"
 artfakta: "3436"
-slug: "coprinus_atramentarius"
+slug: "coprinopsis_atramentaria"
 edible: false
 poisonous: 1
 summary: "En vanlig bläcksvamp som växer i täta tuvor. Mycket speciell då den blir giftig i kombination med alkohol."

@@ -3,7 +3,7 @@ title: "Vitgul flugsvamp (var. alba)"
 scientificName: "Amanita citrina f. alba"
 wikidata: "Q935729"
 artfakta: "236419"
-slug: "amanita_citrina_var._alba"
+slug: "amanita_citrina_f._alba"
 edible: false
 poisonous: 1
 summary: "En helvit form av vitgul flugsvamp. Mycket lik den dödliga vita flugsvampen men avslöjas av sin potatisdoft."

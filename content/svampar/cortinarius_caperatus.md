@@ -3,7 +3,7 @@ title: "Rimskivling"
 scientificName: "Cortinarius caperatus"
 wikidata: "Q669036"
 artfakta: "5821"
-slug: "rozites_caperatus"
+slug: "cortinarius_caperatus"
 edible: true
 poisonous: 0
 rating: 4

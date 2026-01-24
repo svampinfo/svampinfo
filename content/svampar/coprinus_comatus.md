@@ -34,4 +34,4 @@ En utmärkt matsvamp med mild och fin smak. **Viktigt:** Den måste plockas och 
 
 ## Förväxlingsrisker
 
-- **[Grå bläcksvamp](/svampar/coprinus_atramentarius/):** Gråare, saknar de stora fransiga fjällen och är giftig ihop med alkohol.
+- **[Grå bläcksvamp](/svampar/coprinopsis_atramentaria/):** Gråare, saknar de stora fransiga fjällen och är giftig ihop med alkohol.

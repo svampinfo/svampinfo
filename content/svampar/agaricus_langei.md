@@ -48,7 +48,7 @@ Detta är en förstklassig matsvamp med fyllig smak. Den behåller sin fasthet b
 
 ## Förväxlingsrisker
 
-- **[Skogschampinjon](/svampar/agaricus_silvaticus/):** Mycket lik och växer i samma miljö.
+- **[Skogschampinjon](/svampar/agaricus_sylvaticus/):** Mycket lik och växer i samma miljö.
   Skogschampinjonen rodnar också, men ofta något långsammare och inte lika intensivt mörkrött.
   Den är också ätlig, så förväxling är ofarlig.
 - **[Brun flugsvamp](/svampar/amanita_regalis/) & [Panterflugsvamp](/svampar/amanita_pantherina/):** Giftiga.

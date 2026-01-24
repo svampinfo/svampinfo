@@ -34,12 +34,12 @@ Växer i lövskog, gärna med ek, bok och hassel, men kan också hittas med bjö
 Det finns många vita svampar, och flera är giftiga.
 
 - **[Vit flugsvamp](/svampar/amanita_virosa/):** Dödligt giftig. Har **ring** och **strumpa**. Silkesmusseronen har ingendera.
-- **[Rättikmusseron](/svampar/tricholoma_album/):** Matt yta, luktar starkt av rättika/jordkällare och smakar skarpt.
+- **[Rättikmusseron](/svampar/tricholoma_stiparophyllum/):** Matt yta, luktar starkt av rättika/jordkällare och smakar skarpt.
 - **[Luktmusseron](/svampar/tricholoma_inamoenum/):** Luktar lysgas.
-- **[Gifttrattskivling](/svampar/clitocybe_dealbata/):** Mindre, med nedlöpande skivor.
+- **[Gifttrattskivling](/svampar/clitocybe_rivulosa/):** Mindre, med nedlöpande skivor.
 
 * **[Granvaxskivling](/svampar/hygrophorus_piceae/):** Mindre, har vaxartade skivor och växer med gran.
 
-* **[Vitgul flugsvamp (var. alba)](/svampar/amanita_citrina_var._alba/):** Har ring, knöl vid basen och luktar potatis. Giftig.
+* **[Vitgul flugsvamp (var. alba)](/svampar/amanita_citrina_f._alba/):** Har ring, knöl vid basen och luktar potatis. Giftig.
 
-* **[Ekmusseron](/svampar/tricholoma_lascivum/):** Matt yta, luktar obehagligt sött/syren.
+* **[Ekmusseron](/svampar/tricholoma_lascivum_s.lat/):** Matt yta, luktar obehagligt sött/syren.
