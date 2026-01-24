@@ -16,14 +16,22 @@ gallery:
 
 > Ser ut som en liten och dystert färgad sammetsopp med uppsprucken hatthud.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd till utbredd, sammetsluden, dystert gråbrun till brun. Hatthud med åldern uppsprickande.
-- Rör som unga gula, med åldern dystert gulgröna, med kantiga rörmynningar som blånar vid tumning.
-- Fot dystert gulbrun till gråbrun, ibland med svaga inslag av rött.
-- Kött blekgult, ibland svagt röd närmast hatthuden.
+En sopp som liknar rutsoppen men har dystrare färger.
 
-Växer med ek i södra och mellersta Sverige. Ätlig, men foten blir lätt träig varför den bör kaseras.
+- **Hatt:** Välvd till utbredd. Ytan är sammetsluden och färgen går i dystra gråbruna till bruna toner. Hatthuden spricker ofta upp när svampen åldras.
+- **Rör:** Gula hos unga exemplar, senare "dystert" gulgröna. Mynningarna är kantiga och blånar om man trycker på dem.
+- **Fot:** Färgen är gulbrun till gråbrun, ibland med en svag rödton.
+- **Kött:** Blekgult. Precis under hatthuden kan det finnas en svag röd nyans.
+
+## Utbredning och Ekologi
+
+Falsk rutsopp påträffas främst i södra och mellersta Sverige, där den växer tillsammans med ek.
+
+## Matvärde
+
+Ätlig, men liksom hos många släktingar kan foten bli träig och bör därför inte användas.
 
 ## Förväxlingssvampar
 

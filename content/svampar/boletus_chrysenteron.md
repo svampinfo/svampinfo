@@ -16,14 +16,22 @@ gallery:
 
 > Påminner om sammetsopp, men har mer rött på foten och en hatt som ofta är uppsprucken och blottar hattköttet i sina rödaste färger.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd till utbredd, sammetsluden, brun till olivbrun, hatthud som äldre ofta uppsprickande.
-- Rör först gula, sedan gulgröna, med kantiga rörmynningar som blånar svagt vid tumning.
-- Fot röd, ofta gul upptill.
-- Kött gulvitt, ofta svagt blånande vid snitt, närmast hatthuden rött, vilket tydligt syns då hatthuden spricker och blottar hattköttet.
+Rutsoppen har fått sitt namn av det rutmönster som ofta uppstår på hatten.
 
-Växer med bok och ek i södra och mellersta Sverige. Ätlig men kan få något träig fot som äldre.
+- **Hatt:** Välvd till utbredd med en sammetsluden yta. Färgen är brun till olivbrun. När svampen åldras spricker hatthuden ofta upp i ett rutmönster.
+- **Rör:** Gula som unga, övergår till gulgrönt. Mynningarna är kantiga och blånar svagt vid beröring.
+- **Fot:** Karakteristiskt röd, men ofta gulare mot toppen.
+- **Kött:** Gulvitt. Vid snitt kan det blåna något. Närmast under hatthuden är köttet rött, vilket syns tydligt i sprickorna på hatten.
+
+## Utbredning och Ekologi
+
+Förekommer i södra och mellersta Sverige, där den växer i symbios med ädellövträd som bok och ek.
+
+## Matvärde
+
+Ätlig och god, men foten kan bli träig på äldre exemplar och bör då rensas bort.
 
 ## Förväxlingssvampar
 

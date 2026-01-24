@@ -16,13 +16,21 @@ gallery:
 
 > Lite blekare i färgen, samt något större och kraftigare än vår vanliga kantarell. Dyker gärna upp redan i juni-juli och anses av många vara den godaste kantarellen.
 
-## Beskrivning
+## Kännetecken
 
-- Hattens översida är blekgul till nästan vit.
-- Hattens undersida har äggula grenade åsar som löper ner på foten.
-- Svampköttet är vitt, med något skarp smak och fruktig och god lukt (kantarelldoft).
+Blek kantarell påminner om den vanliga kantarellen men är kraftigare och ljusare på ovansidan.
 
-Trivs på näringsrik jord under hassel och ek, men växer även tillsammans med bl a björk, lind och bok.
+- **Hatt:** Hattens ovansida är mycket ljus, från blekt gul till nästan helt vit.
+- **Undersida:** Här finns de karakteristiska grenade åsarna som löper ner på foten. De har en tydlig äggul färg som kontrasterar mot den ljusa hatten.
+- **Kött:** Vitt och fast. Smaken är något skarp som rå, men doften är den typiska, fruktiga kantarelldoften.
+
+## Utbredning och Ekologi
+
+Trivs bäst på näringsrik mark och bildar mykorrhiza med lövträd. Den hittas ofta under hassel och ek, men kan även växa med björk, lind och bok.
+
+## Matvärde
+
+En delikatess, av många ansedd som överlägsen den vanliga kantarellen.
 
 ## Förväxlingssvampar
 

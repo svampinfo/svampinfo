@@ -16,14 +16,22 @@ gallery:
 
 > Ätlig och hyfsat god i en blandsvampanrättning, men använd bara fasta ex. och rensa bort den något träiga foten innan användning.
 
-## Beskrivning
+## Kännetecken
 
-- Hatt välvd till utbredd, sammetsluden, oftast gulbrun med inslag av olivgrönt men ibland mörkare brun.
-- Rör som unga gula, med åldern gulgröna, med kantiga rörmynningar, blånar ej eller endast svagt vid tumning.
-- Fot gulbrun till rödbrun, oftast med ett ådernät som syns tydligast på övre delen.
-- Kött gulvitt, med mild smak och lukt.
+Sammetssoppen känns igen på sin sammetsliknande hatt och gulbruna färger.
 
-Vanlig i löv- och barrskog över hela Norden. Foten är ofta träig i konsistensen varför den bör rensas bort innan anrättning.
+- **Hatt:** Välvd till utbredd form. Ytan är matt och sammetsluden (filtig). Färgen är oftast gulbrun, gärna med olivgröna toner, men kan variera mot mörkare brunt.
+- **Rör:** I början gula, men övergår med tiden till en gulgrön nyans. Rörmynningarna är kantiga. Vid beröring blånar de inte alls, eller mycket svagt.
+- **Fot:** Gulbrun till rödbrun i färgen. På den övre delen kan man ofta se ett ådernät.
+- **Kött:** Gulvitt till färgen. Doft och smak är mild.
+
+## Utbredning och Ekologi
+
+Sammetssoppen är en vanlig syn i våra skogar och förekommer i både löv- och barrskog över hela Norden.
+
+## Matvärde
+
+Den är ätlig och fungerar bra som blandsvamp. Fotens konsistens blir dock ofta träig, särskilt hos äldre exemplar, så den bör rensas bort före tillagning.
 
 ## Förväxlingssvampar
 
