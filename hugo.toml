@@ -62,5 +62,5 @@ weight = 3
 
 [[menu.main]]
 name = "Sök"
-url = "/search/"
+url = "/sök/"
 weight = 4
