@@ -3,6 +3,7 @@ title: "Sammetssopp"
 scientificName: "Xerocomus subtomentosus s.lat."
 wikidata: "Q198817"
 artfakta: "263734"
+svampguiden: "boletus_subtomentosus"
 slug: "xerocomus_subtomentosus_s.lat."
 edible: true
 poisonous: 0

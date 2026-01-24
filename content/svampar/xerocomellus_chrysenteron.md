@@ -3,6 +3,7 @@ title: "Rutsopp"
 scientificName: "Xerocomellus chrysenteron"
 wikidata: "Q254161"
 artfakta: "3125"
+svampguiden: "boletus_chrysenteron"
 slug: "xerocomellus_chrysenteron"
 edible: true
 poisonous: 0

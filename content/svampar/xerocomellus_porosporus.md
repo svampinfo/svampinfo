@@ -3,6 +3,7 @@ title: "Falsk rutsopp"
 scientificName: "Xerocomellus porosporus"
 wikidata: "Q2501490"
 artfakta: "3133"
+svampguiden: "boletus_porosporus"
 slug: "xerocomellus_porosporus"
 edible: true
 poisonous: 0
