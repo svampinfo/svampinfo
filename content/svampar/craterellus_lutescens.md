@@ -3,6 +3,7 @@ title: "Rödgul Trumpetsvamp"
 scientificName: "Craterellus lutescens"
 wikidata: "Q1478429"
 artfakta: "3215"
+svampguiden: "cantharellus_lutescens"
 slug: "craterellus_lutescens"
 edible: true
 poisonous: 0

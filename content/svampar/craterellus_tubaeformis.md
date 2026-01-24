@@ -3,6 +3,7 @@ title: "Trattkantarell"
 scientificName: "Craterellus tubaeformis"
 wikidata: "Q371126"
 artfakta: "3217"
+svampguiden: "cantharellus_tubaeformis"
 slug: "craterellus_tubaeformis"
 edible: true
 poisonous: 0
