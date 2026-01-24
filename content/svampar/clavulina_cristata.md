@@ -16,12 +16,20 @@ gallery:
 
 > En liten och tunnköttig fingersvamp som kan förekomma i stora mängder.
 
-## Beskrivning
+## Kännetecken
 
-- Fruktkropp rikligt förgrenad, som ung vit, med åldern ofta gråaktig.
-- Grentoppar spetsiga, kamlikt fördelade.
+En liten fingersvamp som känns igen på sina kamliknande spetsar.
 
-Växer i stora eller små grupper på marken i löv- och barrskog över hela Sverige. Fruktkropparna är ganska små, vanligen ca 3-5 och sällan över 10 cm höga. Kan vara besvärliga att rensa då barr och annan förna ofta fastnar mellan grenarna.
+- **Fruktkropp:** Rikligt förgrenad. Som ung är den vit, men kan få en gråaktig ton med åldern.
+- **Grenar:** Topparna är spetsiga och uppdelade på ett sätt som liknar en tuppkam eller små taggar.
+
+## Utbredning och Ekologi
+
+Växer ofta i stora eller små grupper direkt på marken. Den trivs i både löv- och barrskog över hela Sverige. Svampen är liten, oftast 3–5 cm hög.
+
+## Matvärde
+
+Ätlig, men anses ofta vara av ringa värde på grund av sin litenhet och att den kan vara svårrensad (barr fastnar lätt i grenarna).
 
 ## Förväxlingssvampar
 

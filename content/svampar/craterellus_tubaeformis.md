@@ -21,23 +21,25 @@ gallery:
 
 > Höstkantarellen nummer ett. En fantastisk matsvamp som är lätt att torka och lagra.
 
-## Beskrivning
+## Kännetecken
 
 När de gula kantarellerna börjar ta slut, då kommer trattkantarellen. Den växer ofta sent på hösten och tål till och med lite frost.
 
-- **Hatt:** Brun till gråbrun, trattformad med en grop i mitten som går rakt ner i foten.
-- **Undersida:** Har gråa eller grågula **åsar** som löper ner på foten.
-- **Fot:** Ihålig och gul (ibland grågul). Ser ofta ut som den blivit tillplattad.
-- **Doft:** Mild och god svampdoft.
+- **Hatt:** Trattformad, brun till gråbrun, med en fördjupning i mitten som går ner i den ihåliga foten.
+- **Undersida:** Har åsar (ej skivor) som är gråa eller grågula och löper ner på foten.
+- **Fot:** Ihålig, gul eller grågul, ofta något tillplattad.
+- **Doft:** Mild och behaglig svampdoft.
 
-**Växtplats:** Trivs i mossa i granskog. Hittar du en, titta noga – det finns nästan alltid hundra till i närheten. De är mästare på kamouflage.
+## Utbredning och Ekologi
+
+Trivs i mossa, främst i granskog men även i blandskog. De växer ofta i stora grupper, så hittar man en finns det ofta många fler i närheten. De är experter på att smälta in i omgivningen.
 
 ## Matvärde
 
-En supergod matsvamp!
+En utmärkt matsvamp som är mycket populär.
 
-- **Tillagning:** Passar utmärkt i soppor, såser och stuvningar.
-- **Torkning:** Den absolut bästa svampen att torka. Den går snabbt att torka och smaken blir ännu intensivare.
+- **Tillagning:** Passar perfekt i soppor, såser och stuvningar.
+- **Torkning:** Kanske den bästa svampen att torka. Den torkar snabbt och smaken koncentreras.
 
 ## Förväxlingssvampar
 

@@ -16,21 +16,24 @@ gallery:
 
 > En av de läckraste matsvamparna. Kallas ofta "fattigmans tryffel" för sin djupa smak.
 
-## Beskrivning
+## Kännetecken
 
 Svart trumpetsvamp är svår att upptäcka eftersom den smälter in i de vissna löven på marken. Men har du väl hittat en ser du snart att marken är täckt av dem.
 
-- **Form:** Som en djup tratt eller trumpet, ända ner till basen.
-- **Färg:** Insidan av trumpeten är svart eller mörkgrå (blir ljusare som torkad). Utsidan är gråaktig och lite rynkig.
-- **Konsistens:** Tunn och lite läderartad.
+- **Form:** Trattformad eller som en trumpet som är ihålig ända ner till basen.
+- **Utsida:** Gråaktig, ibland med en blåton, och något rynkig.
+- **Insida:** Svart till mörkgrå, men bleknar ofta när den torkar.
+- **Konsistens:** Köttet är tunt och lite läderartat.
 
-**Växtplats:** Trivs bäst i lövskog med ek och hassel, ofta på lite bättre mark.
+## Utbredning och Ekologi
+
+Trivs bäst i lövskog, gärna tillsammans med ek och hassel. Den föredrar ofta lite bättre, kalkrik mark.
 
 ## Matvärde
 
-Detta är en supergod matsvamp! Den är otrolig att torka och smula ner i såser, soppor eller pasta. Smaken är djup, mustig och aromatisk.
+En delikatess som kallas "fattigmans tryffel". Den är utmärkt att torka och smula ner i såser och soppor för en djup, mustig smak.
 
-- **Tips:** Rensa noga. Eftersom den är trattformad samlas det ofta barr, grus och småkryp längst ner i röret. Riv gärna isär svampen för att få bort allt skräp.
+- **Tips:** Eftersom den är trattformad samlas det ofta skräp i den. Riv gärna isär svampen vid rensning för att få bort barr och grus.
 
 ## Förväxlingssvampar
 

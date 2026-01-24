@@ -34,22 +34,22 @@ gallery:
 
 > En av vårens delikatesser. Denna kraftiga, köttiga musseron känns igen på sin tydliga mjöldoft och att den ofta växer i stora häxringar i kalkrika gräsmarker.
 
-## Beskrivning
+## Kännetecken
 
-- **Hatt:** 5–12 cm bred, köttig och kompakt. Matt yta, gräddvit till ljust lädergul. Kanten är länge inrullad.
-- **Skivor:** Vita, mycket täta och urnupna vid fästet mot foten.
-- **Fot:** Vit, kraftig, kompakt och ofta något utvidgad mot basen.
-- **Svampkött:** Vitt, fast och tjockt.
-- **Doft & Smak:** Mycket karaktäristisk och genomträngande doft av färskt mjöl eller gurka.
+- **Hatt:** Köttig och kompakt, 5–12 cm bred. Ytan är matt och färgen varierar från gräddvit till ljust lädergul. Hattkanten är ofta inrullad länge.
+- **Skivor:** Mycket täta och vita. De är urnupna vid fästet mot foten.
+- **Fot:** Vit, kraftig och kompakt. Ofta lite bredare nedtill.
+- **Kött:** Vitt, tjockt och fast.
+- **Doft & Smak:** Har en mycket tydlig doft av färskt mjöl (eller gurka).
 
-Växer främst i södra och mellersta Sverige på kalkrik mark. Den påträffas ofta i häxringar eller rader i gräsmarker som parker, beteshagar, kyrkogårdar och skogsbryn.
-Huvudsäsongen är maj–juni, men vid gynnsamt väder kan den sällsynt återkomma på hösten.
+## Utbredning och Ekologi
 
-## Som matsvamp
+Vårmusseronen växer, som namnet antyder, på våren och försommaren (maj–juni). Den trivs bäst på kalkrik mark i södra och mellersta Sverige. Ofta hittar man den i stora häxringar eller rader i gräsmarker som parker, hagar och skogsbryn.
 
-En utmärkt matsvamp med fast konsistens. Den starka mjöldoften dämpas vid tillagning, men svampen har fortfarande en mycket distinkt och fyllig smak som lätt dominerar en anrättning. Tyvärr är den ofta larvangripen, varför unga exemplar bör prioriteras.
+## Matvärde
 
-Passar utmärkt att steka, torka eller frysa in efter förvällning.
+En utmärkt matsvamp med fast och fin konsistens. Den starka mjöldoften försvinner vid tillagning, men svampen behåller en fyllig smak. Passar bra att steka eller stuva.
+*Obs: Var noga med rensningen då den ofta angrips av larver.*
 
 ## Förväxlingssvampar
 

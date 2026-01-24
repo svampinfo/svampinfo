@@ -24,23 +24,25 @@ gallery:
 
 > Trattkantarellens lyxiga kusin. Doftar starkt av frukt och är en delikatess.
 
-## Beskrivning
+## Kännetecken
 
-Rödgul trumpetsvamp (ibland kallad rödgul kantarell) växer ofta på lite fuktigare marker än trattkantarellen, gärna i kärrkanter eller bland vitmossa.
+Rödgul trumpetsvamp, ibland kallad rödgul kantarell, är en vacker och välsmakande svamp.
 
-- **Hatt:** Brun till rödbrun, trattformad.
-- **Undersida:** Detta är det bästa kännetecknet! Undersidan är ljust **gulorange** och nästan helt **slät** eller bara svagt rynkig. Den saknar tydliga åsar.
-- **Fot:** Ihålig och lysande gul-orange.
-- **Doft:** Har en mycket tydlig, söt fruktig doft som påminner om aprikos.
+- **Hatt:** Trattformad, färgen varierar från brun till rödbrun.
+- **Undersida:** Ljust gulorange. Den är nästan helt slät eller bara svagt rynkig, och saknar de tydliga åsar som trattkantarellen har.
+- **Fot:** Ihålig och har en lysande gul-orange färg.
+- **Doft:** Stark, söt och fruktig doft (aprikos).
 
-**Växtplats:** Kalkrik barrskog, fuktiga sänkor och mossiga marker.
+## Utbredning och Ekologi
+
+Trivs på lite fuktigare marker än sin släkting trattkantarellen. Den växer gärna i kärrkanter, bland vitmossa och i kalkrik barrskog.
 
 ## Matvärde
 
-Många anser att denna är snäppet godare än trattkantarellen.
+En delikatess som av många rankas högre än trattkantarellen.
 
-- **Tillagning:** Perfekt till sås, soppa och vilt.
-- **Torkning:** Fungerar utmärkt att torka, precis som trattkantarellen.
+- **Tillagning:** Utmärkt till såser, soppor och som tillbehör till vilt.
+- **Torkning:** Går utmärkt att torka.
 
 ## Förväxlingssvampar
 

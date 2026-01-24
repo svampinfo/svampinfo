@@ -43,20 +43,24 @@ gallery:
 ---
 > En underskattad delikatess! Låt inte den blå färgen eller de röda rören skrämma dig.
 
-## Beskrivning
+## Kännetecken
 
-Många nybörjare ryggar tillbaka för Blodsoppen eftersom den ser "farlig" ut. Men faktum är att det är en av skogens absolut bästa matsvampar, ofta fastare och finare än Karljohan.
+Många nybörjare ryggar tillbaka för Blodsoppen eftersom den ser "farlig" ut med sina starka färger. Men det är en av skogens bästa matsvampar.
 
-- **Hatt:** Mörkbrun och sammetslen (torr, inte slemmig).
-- **Rör:** Mörkröda eller orangeröda.
-- **Fot:** Gul i grunden, men täckt av **små röda prickar** (inte ådernät).
-- **Kött:** Gult, men **blånar snabbt och kraftigt** (blir mörkblått/blåsvart) när man skär i det eller trycker på det.
+- **Hatt:** Mörkbrun med en sammetslen, torr yta.
+- **Rör:** Mörkröda till orangeröda.
+- **Fot:** Gul i grundfärgen, men täckt av små **röda prickar**. (Obs: Inget ådernät).
+- **Kött:** Gult, men **blånar kraftigt** (blir mörkblått) direkt vid snitt eller tryck.
 
-**Växtplats:** Lövskog (gärna ek och bok) i södra och mellersta Sverige, men kan även hittas i barrskog.
+## Utbredning och Ekologi
 
-## Är den giftig?
+Växer i både löv- och barrskog, men trivs särskilt bra med ek och bok i södra och mellersta Sverige.
 
-Nej! Förr trodde man att soppar som blånade var giftiga, men det stämmer inte. Blodsopp är en utmärkt matsvamp. Den ska dock **alltid tillagas** (stekas eller kokas) ordentligt, ät den inte rå (precis som de flesta svampar).
+## Matvärde
+
+En utmärkt matsvamp som är fast och fin i köttet.
+**Viktigt:** Blodsopp ska alltid tillagas (stekas eller kokas) ordentligt. Den ska inte ätas rå.
+*Notera:* Förr trodde man att blånande soppar var giftiga, men det stämmer inte för blodsoppen. Den är helt ofarlig som tillagad.
 
 ## Förväxlingssvampar
 
