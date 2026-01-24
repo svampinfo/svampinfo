@@ -39,4 +39,4 @@ Förekommer i södra och mellersta Sverige, där den växer i symbios med ädell
 - [Falsk rutsopp](/svampar/xerocomellus_porosporus/) - dystrare färger, sällan röd i hattsprickor, ätlig.
 - Rödsopp - med röd hattfärg, sällsynt.
 
-* **[Sammetssopp](/svampar/xerocomus_subtomentosus_s.lat./):** Saknar den röda färgen under hatthuden.
+* **[Sammetssopp](/svampar/xerocomus_subtomentosus/):** Saknar den röda färgen under hatthuden.

@@ -59,5 +59,5 @@ En utmärkt matsvamp med fast kött och fin smak. Den är dessutom mindre angrip
 - **[Karljohan](/svampar/boletus_edulis/):** Har ljusare hattkant, ådernät på foten och blånar _inte_.
 - **[Rödbrun stensopp](/svampar/boletus_pinophilus/):** Har rödbrun hatt och ådernät.
 - **[Finluden stensopp](/svampar/boletus_reticulatus/):** Har ljusbrun hatt och ådernät.
-- **[Sammetssopp](/svampar/xerocomus_subtomentosus_s.lat./):** Har en ljusare, mer gulbrun och sammetsluden hatt och blånar sällan eller mycket svagt.
+- **[Sammetssopp](/svampar/xerocomus_subtomentosus/):** Har en ljusare, mer gulbrun och sammetsluden hatt och blånar sällan eller mycket svagt.
 - **[Gallsopp](/svampar/tylopilus_felleus/):** Har rosa porer, mörkt ådernät och smakar galla.

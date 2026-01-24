@@ -38,4 +38,4 @@ Falsk rutsopp påträffas främst i södra och mellersta Sverige, där den växe
 
 - [Rutsopp](/svampar/xerocomellus_chrysenteron/) - vackert röd i hattsprickor och på foten, ätlig.
 
-* **[Sammetssopp](/svampar/xerocomus_subtomentosus_s.lat./):** Mycket lik men saknar den gråbruna tonen och spricker sällan upp lika kraftigt i hatten.
+* **[Sammetssopp](/svampar/xerocomus_subtomentosus/):** Mycket lik men saknar den gråbruna tonen och spricker sällan upp lika kraftigt i hatten.

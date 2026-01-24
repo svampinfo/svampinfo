@@ -112,7 +112,7 @@ De fyller dock en funktion som utfyllnad i svampkorgen.
 {{< species-card path="svampar/suillus_bovinus.md" >}}
 {{< species-card path="svampar/xerocomellus_chrysenteron.md" >}}
 {{< species-card path="svampar/xerocomellus_porosporus.md" >}}
-{{< species-card path="svampar/xerocomus_subtomentosus_s.lat..md" >}}
+{{< species-card path="svampar/xerocomus_subtomentosus.md" >}}
 {{< species-card path="svampar/suillus_grevillei.md" >}}
 {{< species-card path="svampar/leccinum_pseudoscabrum.md" >}}
 {{< /species-grid >}}
