@@ -1,5 +1,4 @@
 ---
-
 title: "Örsopp"
 scientificName: "Suillus bovinus"
 wikidata: "Q1165762"
@@ -35,6 +34,7 @@ gallery:
   - url: "/images/suillus_bovinus_11.jpg"
     credit: "Dennert, E., Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hoffmann-Dennert_botanischer_Bilderatlas_(Taf._04)_(6424981407).jpg)"
 ---
+
 > En vanlig sopp som växer i klungor med tall. Känns igen på sina stora porer och sega konsistens.
 
 ## Kännetecken
@@ -48,11 +48,15 @@ gallery:
 
 ## Utbredning och Ekologi
 
-Växer med **tall**, ofta på mager och sandig mark eller hällmarker. Den hittas ofta tillsammans med rosenslemskivling, som parasiterar på örsoppens mycel.
+Växer med **tall**, ofta på mager och sandig mark eller hällmarker.
+Den hittas ofta tillsammans med [Rosenslemskivling](/svampar/gomphidius_roseus),
+som parasiterar på örsoppens mycel.
 
 ## Matvärde
 
-Ätlig, men ingen delikatess. Den sega, "svampiga" konsistensen gör att den inte passar så bra att steka. Däremot fungerar den bra att torka eller lägga in i ättika (den lila färgen vid kokning kan se festlig ut).
+Ätlig, men ingen delikatess.
+Den sega, "svampiga" konsistensen gör att den inte passar så bra att steka.
+Däremot fungerar den bra att torka eller lägga in i ättika (den lila färgen vid kokning kan se festlig ut).
 
 ## Förväxlingsrisker
 
