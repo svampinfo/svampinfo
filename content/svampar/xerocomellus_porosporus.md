@@ -9,10 +9,12 @@ edible: true
 poisonous: 0
 rating: 1
 summary: "Ser ut som en liten och dystert färgad sammetsopp med uppsprucken hatthud."
-image: "/images/xerocomellus_porosporus_01.jpg"
+image: "/images/xerocomellus_porosporus_02.jpg"
 gallery:
-  - url: "/images/xerocomellus_porosporus_01.jpg"
-    credit: "This image is the work of photographer Zonda Grattus, aka User:luridiformis.  The original uploader was [Luridiformis](https://en.wikipedia.org/wiki/User:Luridiformis) at [English Wikipedia](https://en.wikipedia.org/wiki/)., [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons"
+  - url: "/images/xerocomellus_porosporus_02.jpg"
+    credit: "[Luridiformis](https://en.wikipedia.org/wiki/User:Luridiformis), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bol.poro.jpg)"
+  - url: "/images/xerocomellus_porosporus_03.jpg"
+    credit: "[Jerzy Opioła](https://commons.wikimedia.org/wiki/User:Selso), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xerocomellus_porosporus_G3.jpg)"
 ---
 
 > Ser ut som en liten och dystert färgad sammetsopp med uppsprucken hatthud.
@@ -36,6 +38,5 @@ Falsk rutsopp påträffas främst i södra och mellersta Sverige, där den växe
 
 ## Förväxlingssvampar
 
-- [Rutsopp](/svampar/xerocomellus_chrysenteron/) - vackert röd i hattsprickor och på foten, ätlig.
-
-* **[Sammetssopp](/svampar/xerocomus_subtomentosus/):** Mycket lik men saknar den gråbruna tonen och spricker sällan upp lika kraftigt i hatten.
+- **[Rutsopp](/svampar/xerocomellus_chrysenteron/):** - vackert röd i hattsprickor och på foten, ätlig.
+- **[Sammetssopp](/svampar/xerocomus_subtomentosus/):** Mycket lik men saknar den gråbruna tonen och spricker sällan upp lika kraftigt i hatten.
