@@ -28,7 +28,11 @@ Vi har som ambition att vara den enklaste, snabbaste och självklaraste resurs f
 Sidan är inspirerad av _svampguiden.com_.
 Tack så hemskt mycket för din tid och ditt arbete!
 
-⚠️ **Varning**: Det finns många många svampar i naturen som är säkra, men också svmpar som ger dig en plågsam död.
+<img src="/icons/warning.svg"
+    alt="varning"
+    style="display: inline !important; height: 1.05em; vertical-align: middle;"
+/>
+**Varning**: Det finns många många svampar i naturen som är säkra, men också svmpar som ger dig en plågsam död.
 För din egen skull: ta alltid det säkra före det osäkra och låt bli att plocka en svamp som du inte är säker på.
 Med det sagt så har vi i Sverige oerhört många goda matsvampar, utöver enbart kantareller.
 
