@@ -18,7 +18,7 @@ De är fasta i köttet och passar perfekt att steka eller stuva.
 
 {{< species-grid >}}
 {{< species-card path="svampar/hydnum_repandum.md" >}}
-{{< species-card path="svampar/hydnum_rufescens.md" >}}
+{{< species-card path="svampar/hydnum_rufescens_s._lat..md" >}}
 {{< /species-grid >}}
 
 ### Något att tänka på
@@ -43,4 +43,3 @@ Det finns bruna taggsvampar, t.ex. **Fjällig taggsvamp** och **Motaggsvamp**. D
 **Sammanfattning:** Ser du taggar under hatten och svampen är
 <span style="color: #d6c68b;">ljus</span>/<span style="color: #eac100;">gul</span>/<span style="color: #ff905a;">aprikos</span>?
 Grattis! Du har hittat en av skogens säkraste och godaste svampar.
-
