@@ -12,6 +12,18 @@ image: "/images/gomphidius_roseus_01.jpg"
 gallery:
   - url: "/images/gomphidius_roseus_01.jpg"
     credit: "Unknown, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
+  - url: "/images/gomphidius_roseus_02.jpg"
+    credit: "[Jerzy Opioła](https://commons.wikimedia.org/wiki/User:Selso), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gomphidius_roseus_G2.jpg)"
+  - url: "/images/gomphidius_roseus_03.jpg"
+    credit: "[Jerzy Opioła](https://commons.wikimedia.org/wiki/User:Selso), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gomphidius_roseus_G3.jpg)"
+  - url: "/images/gomphidius_roseus_05.jpg"
+    credit: "[松岡明芳](https://commons.wikimedia.org/wiki/User:%E6%9D%BE%E5%B2%A1%E6%98%8E%E8%8A%B3), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Suillus_bovinus_&_Gomphidius_roseus_(アミタケとオウギタケ)篠山市盃ヶ岳_DSCF9456.JPG)"
+  - url: "/images/gomphidius_roseus_06.jpg"
+    credit: "[松岡明芳](https://commons.wikimedia.org/wiki/User:%E6%9D%BE%E5%B2%A1%E6%98%8E%E8%8A%B3), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Suillus_bovinus_&_Gomphidius_roseus_(アミタケとオウギタケ)篠山市盃ヶ岳_DSCF9457.JPG)"
+  - url: "/images/gomphidius_roseus_07.jpg"
+    credit: "[松岡明芳](https://commons.wikimedia.org/wiki/User:%E6%9D%BE%E5%B2%A1%E6%98%8E%E8%8A%B3), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Suillus_bovinus_&_Gomphidius_roseus_(アミタケとオウギタケ)篠山市盃ヶ岳_DSCF9459.JPG)"
+  - url: "/images/gomphidius_roseus_04.jpg"
+    credit: "[Jan Kops](https://en.wikipedia.org/wiki/en:Jan_Kops), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cordyceps_militaris_—_Flora_Batava_—_Volume_v18.jpg)"
 ---
 
 > En vacker rosa svamp som lever i ett märkligt sambruk med örsoppen. Ätlig och dekorativ.
