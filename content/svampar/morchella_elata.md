@@ -12,6 +12,16 @@ image: "/images/morchella_conica_01.jpg"
 gallery:
   - url: "/images/morchella_conica_01.jpg"
     credit: "[Beentree](https://commons.wikimedia.org/wiki/User:Beentree), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
+  - url: "/images/morchella_conica_02.jpg"
+    credit: "[Metju](https://commons.wikimedia.org/wiki/User:Metju~commonswiki), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Morchella_conica-42.jpg)"
+  - url: "/images/morchella_conica_03.jpg"
+    credit: "[Metju](https://commons.wikimedia.org/wiki/User:Metju~commonswiki), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Morchella_esculenta_2.jpg)"
+  - url: "/images/morchella_conica_04.jpg"
+    credit: "[Ejdzej](https://commons.wikimedia.org/wiki/User:Ejdzej), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smardz-Morchella-Ejdzej-2006-A1.jpg)"
+  - url: "/images/morchella_conica_05.jpg"
+    credit: "[Ejdzej](https://commons.wikimedia.org/wiki/User:Ejdzej), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smardz-Morchella-Ejdzej-2006-B.jpg)"
+  - url: "/images/morchella_conica_06.jpg"
+    credit: "[שומבלע](https://commons.wikimedia.org/wiki/User:%D7%A9%D7%95%D7%9E%D7%91%D7%9C%D7%A2), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Morchella91.JPG)"
 ---
 
 > En av de mest eftertraktade matsvamparna. Känns igen på sin toppiga, bikakemönstrade hatt och ihåliga inre.
