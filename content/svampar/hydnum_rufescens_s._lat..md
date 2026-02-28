@@ -1,7 +1,7 @@
 ---
 title: "Rödgul taggsvamp"
 scientificName: "Hydnum rufescens s. lat."
-wikidata: "Q1130154"
+wikidata: "Q2475470"
 artfakta: "6003332"
 slug: "hydnum_rufescens_s._lat."
 edible: true
