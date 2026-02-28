@@ -71,5 +71,7 @@ Röd flugsvamp innehåller ibotensyra och muscimol, ämnen som påverkar nervsys
 
 Tack vare sin färg är den svår att blanda ihop med matsvampar, förutsatt att prickarna sitter kvar.
 
-- **[Kejsarflugsvamp](/svampar/amanita_caesarea/):** En eftertraktad matsvamp som _inte_ finns i Sverige (men i Sydeuropa). Den har gul fot och gula skivor.
-- **Röda kremlor (t.ex. [Domherrekremla](/svampar/russula/)):** Har ingen ring, ingen strumpa och foten går av tvärt som en krita. Röd flugsvamp har trådig fot.
+- **Kejsarflugsvamp:** En eftertraktad matsvamp som _inte_ finns i Sverige (men i Sydeuropa).
+  Den har gul fot och gula skivor.
+- **Röda kremlor:** Har ingen ring, ingen strumpa och foten går av tvärt som en krita.
+  Röd flugsvamp har trådig fot.
