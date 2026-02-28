@@ -12,6 +12,12 @@ image: "/images/hydnum_rufescens_s._lat._s_lat_01.jpg"
 gallery:
   - url: "/images/hydnum_rufescens_s._lat._s_lat_01.jpg"
     credit: "[User:Strobilomyces](https://commons.wikimedia.org/wiki/User:Strobilomyces), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
+  - url: "https://www.artportalen.se/MediaLibrary/2025/12/c5af4ecd-67c5-4230-ab56-e103aadba45d_image.jpg"
+    credit: "© Patrick Fritzson, Uppsala Artportalen"
+  - url: "https://www.artportalen.se/MediaLibrary/2024/5/e4242ca9-7e3c-451c-a6fd-09f0c4adc20f_image.jpg"
+    credit: "© Tommy Knutsson, Mörbylånga Artportalen"
+  - url: "https://www.artportalen.se/MediaLibrary/2024/5/ccd4d53a-38dd-495f-b5be-b759a5926ae9_image.jpg"
+    credit: "© Tommy Knutsson, Mörbylånga Artportalen"
 ---
 
 > Den bleka taggsvampens mindre och färgstarkare släkting. God matsvamp.
