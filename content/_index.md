@@ -9,7 +9,8 @@ Bläddra bland alla svamparter, sorterade alfabetiskt för enkel navigering,
 eller dyk in och lär dig _allt du behöver veta om_ de vanligaste svampgrupperna.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="/svampar/"
+  <a
+    href="/svampar/"
     style="
       background: #587570;
       color: white;
@@ -19,10 +20,23 @@ eller dyk in och lär dig _allt du behöver veta om_ de vanligaste svampgruppern
       font-size: 1.1rem;
       margin-right: 1rem;
       margin-bottom: 1rem;
-    ">
+    "
+  >
     Se alla svampar
   </a>
-  <a href="/allt-du-behöver-veta-om/" style="background: #bed9a1; color: #333; padding: 1rem 2rem; text-decoration: none; display: inline-block; font-size: 1.1rem;">Allt du behöver veta om …</a>
+  <a
+    href="/allt-du-behöver-veta-om/"
+    style="
+      background: #bed9a1;
+      color: #333;
+      padding: 1rem 2rem;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 1.1rem;
+    "
+  >
+    Allt du behöver veta om …
+  </a>
 </div>
 
 ## Om webbplatsen
@@ -41,7 +55,8 @@ Sidan är inspirerad av _svampguiden.com_.
 Tack så mycket för allt arbete som lagts ner där!
 
 <img src="/icons/warning.svg"
-    alt="Varning"
+    alt=""
+    aria-hidden="true"
     style="display: inline !important; height: 1.05em; vertical-align: middle;"
 />
 **Varning:** Det finns många svampar i naturen som är säkra,
