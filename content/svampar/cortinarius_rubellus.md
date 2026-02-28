@@ -11,6 +11,14 @@ image: "/images/cortinarius_rubellus_01.jpg"
 gallery:
   - url: "/images/cortinarius_rubellus_01.jpg"
     credit: "Eric Steinert, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons"
+  - url: "/images/cortinarius_rubellus_02.jpg"
+    credit: "Eric Steinert, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cortinarius_rubellus_02.jpg)"
+  - url: "/images/cortinarius_rubellus_03.jpg"
+    credit: "[Danny Steven S.](https://commons.wikimedia.org/wiki/User:Bartiebert), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cortinarius-rubellus063.jpg)"
+  - url: "/images/cortinarius_rubellus_04.jpg"
+    credit: "[Danny Steven S.](https://commons.wikimedia.org/wiki/User:Bartiebert), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cortinarius-rubellus064.jpg)"
+  - url: "/images/cortinarius_rubellus_05.jpg"
+    credit: "[Michaelll](https://en.wikipedia.org/wiki/User:Michaelll), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crubellus2.jpg)"
 ---
 
 > En av Sveriges farligaste svampar. Växer i samma miljö som trattkantareller och kan orsaka dödliga njurskador.
@@ -38,9 +46,8 @@ Innehåller **orellanin**, ett cellgift som angriper njurarna. Giftet försvinne
   - **Trattkantarell:** Har **tratt** (hål i mitten), **gula/grå åsar** (inte skivor) och **ihålig fot**.
   - **Giftspindling:** Har **spets**, **rödbruna skivor** och **massiv fot**.
 - **[Rödgul trumpetsvamp](/svampar/craterellus_lutescens/):** Har slät/rynkig gul undersida och ihålig fot.
-
-**Rensa alltid trattkantareller en och en!** En "inkräktare" i korgen kan förgifta hela stuvningen.
-
 - **[Eldspindling](/svampar/cortinarius_limonius/):** Ljusare rödgul, växer fuktigare. Giftig.
 - **[Gulbandad spindling](/svampar/cortinarius_gentilis/):** Mindre och har gula band på foten. Giftig.
 - **[Rimskivling](/svampar/cortinarius_caperatus/):** Har en tydlig ring, "rimfrost" på hatten och är en god matsvamp.
+
+**Rensa alltid trattkantareller en och en!** En "inkräktare" i korgen kan förgifta hela stuvningen.
