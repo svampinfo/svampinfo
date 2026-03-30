@@ -69,6 +69,133 @@ body.dark.list .header {
   background: transparent !important;
 }
 
+.nav-toggle,
+.nav-toggle-label {
+  display: none;
+}
+
+@media screen and (max-width: 500px) {
+  .header .nav {
+    align-items: center;
+    position: relative;
+  }
+
+  .header .logo {
+    min-width: 0;
+  }
+
+  .nav-toggle-label {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 4px;
+    margin: auto var(--gap);
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    flex-shrink: 0;
+  }
+
+  .nav-toggle-label span {
+    display: block;
+    width: 22px;
+    height: 2px;
+    margin-left: auto;
+    background: var(--primary);
+    border-radius: 999px;
+    transition:
+      transform 0.2s ease,
+      opacity 0.2s ease;
+  }
+
+  .header #menu {
+    display: none;
+    position: absolute;
+    top: calc(100% + 10px);
+    right: var(--gap);
+    left: auto;
+    min-width: min(120px, calc(100vw - (var(--gap) * 2)));
+    max-width: calc(100vw - (var(--gap) * 2));
+    margin: 0;
+    padding: 0.9rem 1rem;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.65rem;
+    white-space: normal;
+    overflow: visible;
+    line-height: 1.4;
+    background: color-mix(in srgb, var(--theme) 96%, transparent);
+    -webkit-backdrop-filter: blur(24px) saturate(150%);
+    backdrop-filter: blur(24px) saturate(150%);
+    border: 1px solid color-mix(in srgb, var(--border) 92%, transparent);
+    border-radius: 18px;
+    box-shadow:
+      0 18px 44px rgba(0, 0, 0, 0.18),
+      0 2px 10px rgba(0, 0, 0, 0.08);
+    transform-origin: top right;
+  }
+
+  .header #menu::before {
+    content: "";
+    position: absolute;
+    top: -8px;
+    right: 4px;
+    width: 16px;
+    height: 16px;
+    background: inherit;
+    border-top: 1px solid color-mix(in srgb, var(--border) 92%, transparent);
+    border-left: 1px solid color-mix(in srgb, var(--border) 92%, transparent);
+    transform: rotate(45deg);
+    border-top-left-radius: 4px;
+  }
+
+  body.list .header #menu {
+    background: color-mix(in srgb, var(--code-bg) 96%, transparent);
+  }
+
+  body.dark.list .header #menu {
+    background: color-mix(in srgb, var(--theme) 94%, transparent);
+  }
+
+  .header #menu li {
+    width: 100%;
+  }
+
+  .header #menu li + li {
+    margin-inline-start: 0;
+  }
+
+  .header #menu a {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    width: 100%;
+    padding: 0.45rem 0.1rem;
+  }
+
+  .header #menu a span {
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .nav-toggle:checked ~ #menu {
+    display: flex;
+  }
+
+  .nav-toggle:checked + .nav-toggle-label span:nth-child(1) {
+    transform: translateY(6px) rotate(45deg);
+  }
+
+  .nav-toggle:checked + .nav-toggle-label span:nth-child(2) {
+    opacity: 0;
+  }
+
+  .nav-toggle:checked + .nav-toggle-label span:nth-child(3) {
+    transform: translateY(-6px) rotate(-45deg);
+  }
+}
+
 /* Ensure the logo link doesn't cover the switch */
 .logo a {
   z-index: 10;

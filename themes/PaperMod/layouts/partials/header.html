@@ -119,6 +119,12 @@
                 {{- end }}
             </div>
         </div>
+        <input id="nav-toggle" class="nav-toggle" type="checkbox" aria-label="Toggle navigation menu">
+        <label for="nav-toggle" class="nav-toggle-label" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
         {{- $currentPage := . }}
         <ul id="menu">
             {{- range site.Menus.main }}
