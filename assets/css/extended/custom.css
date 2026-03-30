@@ -47,6 +47,28 @@ body.dark {
   --blockquote-bg: rgba(255, 255, 255, 0.05);
 }
 
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: color-mix(in srgb, var(--theme) 72%, transparent);
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+  backdrop-filter: blur(14px) saturate(140%);
+  border-bottom: 1px solid color-mix(in srgb, var(--border) 82%, transparent);
+}
+
+body.list .header {
+  background: color-mix(in srgb, var(--code-bg) 72%, transparent);
+}
+
+body.dark.list .header {
+  background: color-mix(in srgb, var(--theme) 72%, transparent);
+}
+
+.header nav {
+  background: transparent !important;
+}
+
 /* Ensure the logo link doesn't cover the switch */
 .logo a {
   z-index: 10;
