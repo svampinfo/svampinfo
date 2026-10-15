@@ -61,6 +61,7 @@
         <span class="control-label">Sortera:</span>
         <button class="filter-btn" data-sort="name">Svenskt namn</button>
         <button class="filter-btn active" data-sort="scientific">Vetenskapligt namn</button>
+        <button class="filter-btn" data-sort="stars">Smakbetyg</button>
       </div>
 
       <div class="species-grid">
@@ -191,15 +192,48 @@
       const grid = document.querySelector(".species-grid");
       const STORAGE_KEY_SORT = "svampar_sort";
 
+      function getRating(card) {
+        // Cursed regex to get the rating from the cards outerText attribute
+        const match = card.outerText.match(/\(\s*(\d+(?:[.,]\d+)?)\s*\/\s*5\s*\)/);
+        return match ? Number(match[1].replace(",", ".")) : null;
+      }
+      
       function applySort(sortType) {
         const cards = Array.from(grid.children);
+      
+        switch (sortType) {
+          case "name":
+          case "scientific":
+            cards.sort((a, b) => {
 
-        cards.sort((a, b) => {
-          const valA = (a.dataset[sortType] || "").toLowerCase();
-          const valB = (b.dataset[sortType] || "").toLowerCase();
-          return valA.localeCompare(valB, "sv");
-        });
-
+              const valA = (a.dataset[sortType] || "").toLowerCase();
+              const valB = (b.dataset[sortType] || "").toLowerCase();
+              return valA.localeCompare(valB, "sv");
+            });
+            break;
+      
+          case "stars":
+            cards.sort((a, b) => {
+              const ratingA = getRating(a);
+              const ratingB = getRating(b);
+              // Sort by 
+              if (ratingA === null && ratingB === null) {
+                return (a.dataset.name || "").localeCompare(b.dataset.name || "", "sv");
+              }
+              if (ratingA === null) return 1
+              if (ratingB === null) return -1
+            
+              const ratingDifference = ratingB - ratingA;
+              if (ratingDifference !== 0) return ratingDifference;
+            
+              return (a.dataset.name || "").localeCompare(b.dataset.name || "", "sv");
+            });
+            break;
+      
+          default:
+            break;
+        }
+      
         // Append back in new order
         cards.forEach((card) => grid.appendChild(card));
 
